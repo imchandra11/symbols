@@ -33,18 +33,26 @@ class PIDSymbolExtractor:
         self.metadata = []
     
     def sanitize_filename(self, name: str) -> str:
-        """Sanitize label name for use as filename."""
+        """Sanitize label name for use as filename, preserving all characters except invalid filename chars.
+        
+        Preserves all special characters and numbers from the ground truth label.
+        Only replaces invalid filename characters and spaces (for file system compatibility).
+        """
         if not name:
             return "unnamed_symbol"
         
-        # Remove trailing numbers that are likely codes (e.g., "Gate 65" -> "Gate")
-        # But keep numbers that are part of the name (e.g., "3-Way", "4-way")
-        name = re.sub(r'\s+\d+$', '', name)  # Remove trailing space + number
+        # Keep all characters as-is, only replace invalid filename characters
+        # Windows/Unix invalid chars: < > : " / \ | ? *
+        invalid_chars = r'[<>:"/\\|?*]'
+        name = re.sub(invalid_chars, '_', name)
         
-        # Remove special characters, replace spaces with underscores
-        name = re.sub(r'[^\w\s-]', '', name)
-        name = re.sub(r'[-\s]+', '_', name)
-        name = name.strip('_')
+        # Replace spaces with underscores for file system compatibility
+        # (spaces in filenames can cause issues in scripts/command line)
+        name = re.sub(r'\s+', '_', name)
+        
+        # Replace leading/trailing dots and underscores (not allowed in filenames on Windows)
+        name = name.strip('. _')
+        
         return name if name else "unnamed_symbol"
     
     def extract_images_from_page(self, page_num: int) -> List[Dict]:
@@ -303,11 +311,15 @@ class PIDSymbolExtractor:
         img_text_y = int(text_y * scale_y)
         img_text_h = int(text_height * scale_y)
         
-        # Search region to the left of text
-        search_left = max(0, img_text_x - int(150 * scale_x))  # Search up to 150 points left
-        search_right = img_text_x - int(5 * scale_x)  # Leave small gap from text
-        search_top = max(0, img_text_y - int(20 * scale_y))
-        search_bottom = min(page_img.height, img_text_y + img_text_h + int(20 * scale_y))
+        # Search region to the left of text - narrower vertical range to focus on symbol
+        search_left = max(0, img_text_x - int(120 * scale_x))  # Search up to 120 points left
+        search_right = img_text_x - int(8 * scale_x)  # Leave gap from text (8 points)
+        
+        # Narrow vertical search to align with text center (symbols are typically centered with their labels)
+        text_center_y = img_text_y + img_text_h / 2
+        search_vertical_range = max(int(img_text_h * 1.5), int(30 * scale_y))  # 1.5x text height or 30pt
+        search_top = max(0, int(text_center_y - search_vertical_range / 2))
+        search_bottom = min(page_img.height, int(text_center_y + search_vertical_range / 2))
         
         if search_right <= search_left or search_bottom <= search_top:
             return None
@@ -317,9 +329,11 @@ class PIDSymbolExtractor:
         search_array = np.array(search_region.convert('RGB'))
         gray = cv2.cvtColor(search_array, cv2.COLOR_RGB2GRAY)
         
-        # Find non-white pixels (symbol content)
-        non_white = gray < 240
-        if np.sum(non_white) < 50:  # Not enough content
+        # Use more aggressive threshold to detect symbol lines (not just text)
+        # Symbols typically have darker lines than surrounding text
+        non_white = gray < 230  # Lower threshold for symbol lines
+        
+        if np.sum(non_white) < 100:  # Need sufficient content
             return None
         
         # Find bounding box of symbol content
@@ -330,15 +344,53 @@ class PIDSymbolExtractor:
         y_min, x_min = coords.min(axis=0)
         y_max, x_max = coords.max(axis=0)
         
-        # Add padding (10% of dimensions, min 5px)
-        h, w = search_array.shape[:2]
-        pad_x = max(5, int(w * 0.1))
-        pad_y = max(5, int(h * 0.1))
+        # Use morphological operations to detect continuous symbol regions
+        # This helps separate symbols from scattered text artifacts
+        binary = (gray < 230).astype(np.uint8) * 255
         
-        x_min = max(0, x_min - pad_x)
-        y_min = max(0, y_min - pad_y)
-        x_max = min(w, x_max + pad_x)
-        y_max = min(h, y_max + pad_y)
+        # Apply morphological opening to remove small noise and text artifacts
+        kernel = np.ones((3, 3), np.uint8)
+        binary_cleaned = cv2.morphologyEx(binary, cv2.MORPH_OPEN, kernel, iterations=1)
+        binary_cleaned = cv2.morphologyEx(binary_cleaned, cv2.MORPH_CLOSE, kernel, iterations=2)
+        
+        # Find connected components to identify symbol regions
+        num_labels, labels, stats, centroids = cv2.connectedComponentsWithStats(binary_cleaned, connectivity=8)
+        
+        if num_labels < 2:  # Only background
+            return None
+        
+        # Find the largest connected component (likely the symbol)
+        # Skip label 0 (background)
+        # stats format: [left, top, width, height, area] for each component
+        largest_component_idx = 1
+        largest_area = stats[1, 4]  # Area is at index 4
+        
+        for i in range(2, num_labels):
+            area = stats[i, 4]  # Area is at index 4
+            if area > largest_area:
+                largest_area = area
+                largest_component_idx = i
+        
+        # Get bounding box of largest component
+        # stats: [left, top, width, height, area]
+        x_min_comp = stats[largest_component_idx, 0]  # left
+        y_min_comp = stats[largest_component_idx, 1]  # top
+        x_max_comp = x_min_comp + stats[largest_component_idx, 2]  # left + width
+        y_max_comp = y_min_comp + stats[largest_component_idx, 3]  # top + height
+        
+        # Use the component-based bounds, but ensure we have a reasonable size
+        if largest_area < 200:  # Minimum symbol area
+            return None
+        
+        # Add small padding (5% of dimensions, min 3px)
+        h, w = search_array.shape[:2]
+        pad_x = max(3, int((x_max_comp - x_min_comp) * 0.05))
+        pad_y = max(3, int((y_max_comp - y_min_comp) * 0.05))
+        
+        x_min = max(0, x_min_comp - pad_x)
+        y_min = max(0, y_min_comp - pad_y)
+        x_max = min(w, x_max_comp + pad_x)
+        y_max = min(h, y_max_comp + pad_y)
         
         # Convert back to full page coordinates
         abs_x0 = search_left + x_min
@@ -450,21 +502,41 @@ class PIDSymbolExtractor:
                     # Verify it's a real symbol (has sufficient non-white content)
                     img_array = np.array(symbol_img.convert('RGB'))
                     gray = cv2.cvtColor(img_array, cv2.COLOR_RGB2GRAY)
-                    non_white_pixels = np.sum(gray < 240)
+                    
+                    # Use connected components to check if it's a coherent symbol
+                    binary = (gray < 230).astype(np.uint8) * 255
+                    kernel = np.ones((3, 3), np.uint8)
+                    binary_cleaned = cv2.morphologyEx(binary, cv2.MORPH_OPEN, kernel, iterations=1)
+                    
+                    num_labels, labels, stats, _ = cv2.connectedComponentsWithStats(binary_cleaned, connectivity=8)
+                    
+                    if num_labels < 2:  # Only background, no symbol
+                        continue
+                    
+                    # Find largest component
+                    # stats format: [left, top, width, height, area]
+                    largest_area = stats[1, 4]  # Area is at index 4
+                    for i in range(2, num_labels):
+                        area = stats[i, 4]  # Area is at index 4
+                        if area > largest_area:
+                            largest_area = area
+                    
+                    non_white_pixels = np.sum(gray < 230)
                     
                     # Check aspect ratio - symbols are usually roughly square or slightly rectangular
                     aspect_ratio = symbol_img.width / max(symbol_img.height, 1)
                     
-                    # Only add if there's significant content and reasonable aspect ratio
-                    if (non_white_pixels > 100 and  # Minimum content
-                        0.2 < aspect_ratio < 5.0 and  # Reasonable aspect ratio
-                        symbol_img.width > 15 and symbol_img.height > 15):  # Minimum size
+                    # More strict filtering: symbols should have significant coherent content
+                    if (largest_area > 150 and  # Minimum coherent symbol area
+                        non_white_pixels > 200 and  # Minimum total content
+                        0.15 < aspect_ratio < 6.0 and  # Reasonable aspect ratio
+                        symbol_img.width > 20 and symbol_img.height > 20):  # Minimum size
                         
                         # Clean the image (remove excess whitespace)
                         symbol_img = self.clean_image(symbol_img)
                         
                         # Final size check after cleaning
-                        if symbol_img.width > 10 and symbol_img.height > 10:
+                        if symbol_img.width > 15 and symbol_img.height > 15:
                             vector_symbols.append({
                                 'image': symbol_img,
                                 'label': label,
@@ -571,7 +643,8 @@ class PIDSymbolExtractor:
             label = symbol['label']
             sanitized_name = self.sanitize_filename(label)
             
-            # Handle duplicates
+            # Handle duplicates - since each ground truth is unique, use full label as key
+            # This ensures we track duplicates based on exact label match
             if sanitized_name in filename_count:
                 filename_count[sanitized_name] += 1
                 filename = f"{sanitized_name}_{filename_count[sanitized_name]}.png"
