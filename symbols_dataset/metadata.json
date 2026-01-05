@@ -1,266 +1,13 @@
 [
   {
-    "filename": "Filter.png",
-    "original_label": "Filter",
-    "page": 1,
-    "bbox": [
-      176.3652801513672,
-      2280.755126953125,
-      204.7152862548828,
-      2309.105224609375
-    ]
-  },
-  {
-    "filename": "Breakthrough_Separator.png",
-    "original_label": "Breakthrough Separator",
-    "page": 1,
-    "bbox": [
-      618.2151489257812,
-      5379.009765625,
-      628.1376342773438,
-      5390.349609375
-    ]
-  },
-  {
-    "filename": "Separator.png",
-    "original_label": "Separator",
-    "page": 1,
-    "bbox": [
-      618.2151489257812,
-      5399.43359375,
-      628.1376342773438,
-      5410.7734375
-    ]
-  },
-  {
-    "filename": "Breakthrough_Separator_1.png",
-    "original_label": "Breakthrough Separator",
-    "page": 1,
-    "bbox": [
-      618.2151489257812,
-      5379.009765625,
-      628.1376342773438,
-      5390.349609375
-    ]
-  },
-  {
-    "filename": "Separator_1.png",
-    "original_label": "Separator",
-    "page": 1,
-    "bbox": [
-      618.2151489257812,
-      5399.43359375,
-      628.1376342773438,
-      5410.7734375
-    ]
-  },
-  {
-    "filename": "Transport_Hydrocracking.png",
-    "original_label": "Transport Hydrocracking",
-    "page": 1,
-    "bbox": [
-      487.4316101074219,
-      3712.7294921875,
-      492.3928527832031,
-      3730.4482421875
-    ]
-  },
-  {
-    "filename": "Transport_Hydrocracking_1.png",
-    "original_label": "Transport Hydrocracking",
-    "page": 1,
-    "bbox": [
-      466.5474853515625,
-      3712.7294921875,
-      471.50872802734375,
-      3730.4482421875
-    ]
-  },
-  {
-    "filename": "Transport_Hydrocracking_2.png",
-    "original_label": "Transport Hydrocracking",
-    "page": 1,
-    "bbox": [
-      487.4316101074219,
-      3712.7294921875,
-      492.3928527832031,
-      3730.4482421875
-    ]
-  },
-  {
-    "filename": "Transport_Hydrocracking_3.png",
-    "original_label": "Transport Hydrocracking",
-    "page": 1,
-    "bbox": [
-      466.5474853515625,
-      3712.7294921875,
-      471.50872802734375,
-      3730.4482421875
-    ]
-  },
-  {
-    "filename": "Fluidized_Reactor_Fluid_Catalytic.png",
-    "original_label": "Fluidized Reactor Fluid Catalytic",
-    "page": 1,
-    "bbox": [
-      475.2226257324219,
-      3507.54833984375,
-      487.2713623046875,
-      3542.98583984375
-    ]
-  },
-  {
-    "filename": "Tray_Column.png",
-    "original_label": "Tray Column",
-    "page": 1,
-    "bbox": [
-      43.61774826049805,
-      1992.0792236328125,
-      54.95774841308594,
-      2016.1767578125
-    ]
-  },
-  {
-    "filename": "Fluidized_Bed_Column.png",
-    "original_label": "Fluidized Bed Column",
-    "page": 1,
-    "bbox": [
-      42.49756622314453,
-      2046.9578857421875,
-      56.67256546020508,
-      2073.181640625
-    ]
-  },
-  {
-    "filename": "Vessel.png",
-    "original_label": "Vessel",
-    "page": 1,
-    "bbox": [
-      632.4476928710938,
-      1830.390380859375,
-      634.5739135742188,
-      1851.65283203125
-    ]
-  },
-  {
-    "filename": "Vessel_1.png",
-    "original_label": "Vessel",
-    "page": 1,
-    "bbox": [
-      611.1414184570312,
-      1830.390380859375,
-      613.2676391601562,
-      1851.65283203125
-    ]
-  },
-  {
-    "filename": "Vessel_2.png",
-    "original_label": "Vessel",
-    "page": 1,
-    "bbox": [
-      632.4476928710938,
-      1830.390380859375,
-      634.5739135742188,
-      1851.65283203125
-    ]
-  },
-  {
-    "filename": "Vessel_3.png",
-    "original_label": "Vessel",
-    "page": 1,
-    "bbox": [
-      611.1414184570312,
-      1830.390380859375,
-      613.2676391601562,
-      1851.65283203125
-    ]
-  },
-  {
-    "filename": "and_PFD,.png",
-    "original_label": "and PFD,",
-    "page": 1,
-    "bbox": [
-      589.6245829829704,
-      89.32850960151809,
-      653.6200153926541,
-      101.32786163754291
-    ]
-  },
-  {
-    "filename": "Magnetic.png",
-    "original_label": "Magnetic",
-    "page": 1,
-    "bbox": [
-      471.6330044776163,
-      173.9906045223599,
-      493.631434368445,
-      195.65610125407136
-    ]
-  },
-  {
-    "filename": "Pitot_Tube_Type.png",
-    "original_label": "Pitot Tube Type",
-    "page": 1,
-    "bbox": [
-      466.3000517768093,
-      203.32235394375388,
-      498.964387069252,
-      227.98768868447155
-    ]
-  },
-  {
-    "filename": "Flow.png",
-    "original_label": "Flow",
-    "page": 1,
-    "bbox": [
-      466.3000517768093,
-      209.98866063043434,
-      498.964387069252,
-      227.98768868447155
-    ]
-  },
-  {
-    "filename": "Weir_Meter.png",
-    "original_label": "Weir Meter",
-    "page": 1,
-    "bbox": [
-      471.6330044776163,
-      344.6480557013795,
-      493.631434368445,
-      366.313552433091
-    ]
-  },
-  {
     "filename": "Pressure.png",
     "original_label": "Pressure",
     "page": 1,
     "bbox": [
-      326.3100433806264,
-      367.9801291047611,
-      344.9753778334508,
-      376.64632779744574
-    ]
-  },
-  {
-    "filename": "Ultrasonic_Meter.png",
-    "original_label": "Ultrasonic Meter",
-    "page": 1,
-    "bbox": [
-      471.6330044776163,
-      378.64621980344987,
-      493.631434368445,
-      400.64503186949537
-    ]
-  },
-  {
-    "filename": "V-cone_Meter.png",
-    "original_label": "V-cone Meter",
-    "page": 1,
-    "bbox": [
-      466.63336132060977,
-      409.97786123084796,
-      498.29776798165113,
-      439.642925986576
+      47.99657430726272,
+      556.9946401546031,
+      57.32924153367491,
+      566.3264751747076
     ]
   },
   {
@@ -269,75 +16,9 @@
     "page": 1,
     "bbox": [
       184.32017772164085,
-      431.97667329689347,
+      432.0147068496307,
       196.65263084225697,
-      440.3095566552441
-    ]
-  },
-  {
-    "filename": "Flow_Element.png",
-    "original_label": "Flow Element",
-    "page": 1,
-    "bbox": [
-      329.9764483624312,
-      443.30939466425025,
-      341.64228239544644,
-      451.6422780226008
-    ]
-  },
-  {
-    "filename": "Venturi_Meter.png",
-    "original_label": "Venturi Meter",
-    "page": 1,
-    "bbox": [
-      468.2999090396119,
-      446.97586334192454,
-      496.6312202626489,
-      468.641360073636
-    ]
-  },
-  {
-    "filename": "Coriolis_Flow.png",
-    "original_label": "Coriolis Flow",
-    "page": 1,
-    "bbox": [
-      608.9565365233957,
-      463.64163005862565,
-      636.9545382026323,
-      488.30696479934335
-    ]
-  },
-  {
-    "filename": "Flow_Nozzle.png",
-    "original_label": "Flow Nozzle",
-    "page": 1,
-    "bbox": [
-      603.9568933663892,
-      503.6394701787084,
-      641.9541813596388,
-      522.9717595700816
-    ]
-  },
-  {
-    "filename": "Pressure_1.png",
-    "original_label": "Pressure",
-    "page": 1,
-    "bbox": [
-      47.99657430726272,
-      556.969923672152,
-      57.32924153367491,
-      566.3027530335047
-    ]
-  },
-  {
-    "filename": "FR.png",
-    "original_label": "FR",
-    "page": 1,
-    "bbox": [
-      77.99443324930192,
-      564.9694916961686,
-      101.65941085913283,
-      575.3022670605233
+      440.3467024032955
     ]
   },
   {
@@ -346,42 +27,31 @@
     "page": 1,
     "bbox": [
       184.6534872654413,
-      574.9689517261893,
+      574.9917505505191,
       196.65263084225697,
-      583.3018350845398
+      583.323746104184
     ]
   },
   {
-    "filename": "Manhole.png",
-    "original_label": "Manhole",
+    "filename": "Pressure_1.png",
+    "original_label": "Pressure",
     "page": 1,
     "bbox": [
-      609.956465154797,
-      590.9680877742223,
-      631.6215855018254,
-      598.3010251295708
+      326.3100433806264,
+      368.0249809974848,
+      344.9753778334508,
+      376.6902563732963
     ]
   },
   {
-    "filename": "Double.png",
-    "original_label": "Double",
+    "filename": "Flow_Element.png",
+    "original_label": "Flow Element",
     "page": 1,
     "bbox": [
-      461.96702770740364,
-      587.301619096548,
-      502.29748250725635,
-      600.967547804243
-    ]
-  },
-  {
-    "filename": "Socket_FC_Flowmeter.png",
-    "original_label": "Socket FC Flowmeter",
-    "page": 1,
-    "bbox": [
-      21.66512034702831,
-      605.9672778192534,
-      44.996788413058795,
-      625.9661978792948
+      329.9764483624312,
+      443.3462208026149,
+      341.64228239544644,
+      451.6782163562797
     ]
   },
   {
@@ -390,20 +60,9 @@
     "page": 1,
     "bbox": [
       321.9770193112207,
-      626.2995132136288,
+      626.3168431610944,
       349.9750209904573,
-      656.2978933036908
-    ]
-  },
-  {
-    "filename": "Support_Bracket_Venturi.png",
-    "original_label": "Support Bracket Venturi",
-    "page": 1,
-    "bbox": [
-      462.96695633880495,
-      656.6312086380249,
-      502.29748250725635,
-      668.9638760083836
+      656.3120271542878
     ]
   },
   {
@@ -412,9 +71,20 @@
     "page": 1,
     "bbox": [
       317.64399524181505,
-      703.9619861134561,
+      703.9710417212507,
       355.97459277886514,
-      717.627914821151
+      717.635514429261
+    ]
+  },
+  {
+    "filename": "Meter.png",
+    "original_label": "Meter",
+    "page": 1,
+    "bbox": [
+      343.97544920204945,
+      727.6339090936588,
+      355.97459277886514,
+      746.9641387781611
     ]
   },
   {
@@ -423,31 +93,141 @@
     "page": 1,
     "bbox": [
       315.31082843521204,
-      754.2926015978935,
+      754.2962948653861,
       355.97459277886514,
-      775.9580983296049
+      775.9594833049148
     ]
   },
   {
-    "filename": "Minimum_Flow.png",
-    "original_label": "Minimum Flow",
+    "filename": "Magnetic.png",
+    "original_label": "Magnetic",
     "page": 1,
     "bbox": [
-      610.2897746985975,
-      864.286661928121,
-      635.6213000274306,
-      880.6191133104882
+      471.6330044776163,
+      174.0561245081677,
+      493.631434368445,
+      195.71931294769624
     ]
   },
   {
-    "filename": "Auto_Recirculation.png",
-    "original_label": "Auto Recirculation",
+    "filename": "Pitot_Tube_Type.png",
+    "original_label": "Pitot Tube Type",
+    "page": 1,
+    "bbox": [
+      466.3000517768093,
+      203.38474885706788,
+      498.964387069252,
+      228.04745569591577
+    ]
+  },
+  {
+    "filename": "Flow.png",
+    "original_label": "Flow",
+    "page": 1,
+    "bbox": [
+      466.3000517768093,
+      210.05034529999975,
+      498.964387069252,
+      228.04745569591577
+    ]
+  },
+  {
+    "filename": "Weir_Meter.png",
+    "original_label": "Weir Meter",
+    "page": 1,
+    "bbox": [
+      471.6330044776163,
+      344.6953934472233,
+      493.631434368445,
+      366.3585818867519
+    ]
+  },
+  {
+    "filename": "Ultrasonic_Meter.png",
+    "original_label": "Ultrasonic Meter",
+    "page": 1,
+    "bbox": [
+      471.6330044776163,
+      378.6899353061758,
+      493.631434368445,
+      400.68640356785096
+    ]
+  },
+  {
+    "filename": "V-cone_Meter.png",
+    "original_label": "V-cone Meter",
+    "page": 1,
+    "bbox": [
+      466.63336132060977,
+      410.0182385879556,
+      498.29776798165113,
+      439.68014275900236
+    ]
+  },
+  {
+    "filename": "Venturi_Meter.png",
+    "original_label": "Venturi Meter",
+    "page": 1,
+    "bbox": [
+      468.2999090396119,
+      447.0122988462274,
+      496.6312202626489,
+      468.67548728575593
+    ]
+  },
+  {
+    "filename": "Double.png",
+    "original_label": "Double",
+    "page": 1,
+    "bbox": [
+      461.96702770740364,
+      587.3231039699431,
+      502.29748250725635,
+      600.9875766779534
+    ]
+  },
+  {
+    "filename": "Flowmeter.png",
+    "original_label": "Flowmeter",
+    "page": 1,
+    "bbox": [
+      464.96681360160756,
+      684.6408120367482,
+      500.29762524445374,
+      708.636959231303
+    ]
+  },
+  {
+    "filename": "Coriolis_Flow.png",
+    "original_label": "Coriolis Flow",
+    "page": 1,
+    "bbox": [
+      608.9565365233957,
+      463.67628995355705,
+      636.9545382026323,
+      488.33899679240494
+    ]
+  },
+  {
+    "filename": "Flow_Nozzle.png",
+    "original_label": "Flow Nozzle",
+    "page": 1,
+    "bbox": [
+      603.9568933663892,
+      503.6698686111482,
+      641.9541813596388,
+      523.0000982956506
+    ]
+  },
+  {
+    "filename": "Manhole.png",
+    "original_label": "Manhole",
     "page": 1,
     "bbox": [
       609.956465154797,
-      888.2853660001706,
-      635.954609571231,
-      905.2844480512058
+      590.9891820135556,
+      631.6215855018254,
+      598.3213381007806
     ]
   },
   {
@@ -456,42 +236,9 @@
     "page": 1,
     "bbox": [
       37.66397844944922,
-      904.9511327168718,
+      905.0487067109523,
       61.32895605928014,
-      917.6171154215647
-    ]
-  },
-  {
-    "filename": "Valve.png",
-    "original_label": "Valve",
-    "page": 1,
-    "bbox": [
-      474.96609991562065,
-      909.2842320632141,
-      490.29833893044065,
-      927.2832601172513
-    ]
-  },
-  {
-    "filename": "Balanced_Diaphragm.png",
-    "original_label": "Balanced Diaphragm",
-    "page": 1,
-    "bbox": [
-      475.2994094594211,
-      938.9492968189421,
-      489.6317198428398,
-      957.9482708759814
-    ]
-  },
-  {
-    "filename": "Weight_Gate_Rotary_Valve.png",
-    "original_label": "Weight Gate Rotary Valve",
-    "page": 1,
-    "bbox": [
-      27.331382591635712,
-      991.6131196437177,
-      41.663692975054445,
-      1014.6118777127652
+      917.7024792780763
     ]
   },
   {
@@ -500,31 +247,31 @@
     "page": 1,
     "bbox": [
       42.99693115025618,
-      1080.9416292452358,
+      1080.869546590992,
       64.99536104108493,
-      1099.9406033022751
+      1099.850205441678
     ]
   },
   {
-    "filename": "Valve_1.png",
+    "filename": "Valve.png",
     "original_label": "Valve",
     "page": 1,
     "bbox": [
       42.99693115025618,
-      1088.6078819349184,
+      1088.5284089342513,
       64.99536104108493,
-      1099.9406033022751
+      1099.850205441678
     ]
   },
   {
-    "filename": "Quarter_Turn_Valve.png",
-    "original_label": "Quarter Turn Valve",
+    "filename": "Angle_Globe.png",
+    "original_label": "Angle Globe",
     "page": 1,
     "bbox": [
-      605.2901315415909,
-      1108.9401173292938,
-      640.6209431844371,
-      1126.939145383331
+      183.98686817784042,
+      1000.9509830091557,
+      192.3196067728513,
+      1009.2758333822637
     ]
   },
   {
@@ -533,31 +280,141 @@
     "page": 1,
     "bbox": [
       177.65398684563215,
-      1148.6046421150425,
+      1148.4673316206286,
       203.98544080586655,
-      1162.6038861570714
+      1162.4530802474499
     ]
   },
   {
-    "filename": "Reciprocating_Axial.png",
-    "original_label": "Reciprocating Axial",
+    "filename": "Valve_1.png",
+    "original_label": "Valve",
     "page": 1,
     "bbox": [
-      170.98779596962342,
-      1270.2647391469607,
-      211.984869857077,
-      1296.2633352250145
+      474.96609991562065,
+      909.0446348900441,
+      490.29833893044065,
+      927.3593057108815
     ]
   },
   {
-    "filename": "Sump_pump.png",
-    "original_label": "Sump pump",
+    "filename": "Balanced_Diaphragm.png",
+    "original_label": "Balanced Diaphragm",
     "page": 1,
     "bbox": [
-      323.3102574864225,
-      1278.2643071709772,
-      348.64178281525557,
-      1308.2626872610392
+      475.2994094594211,
+      939.0140962332326,
+      489.6317198428398,
+      957.9947550839188
+    ]
+  },
+  {
+    "filename": "Gate_Valve.png",
+    "original_label": "Gate Valve",
+    "page": 1,
+    "bbox": [
+      477.6325762660241,
+      945.0079885018704,
+      487.29855303623674,
+      957.9947550839188
+    ]
+  },
+  {
+    "filename": "Spring_Gate_Valve.png",
+    "original_label": "Spring Gate Valve",
+    "page": 1,
+    "bbox": [
+      478.299195353625,
+      968.6505635614969,
+      485.6320053172346,
+      984.9672702927885
+    ]
+  },
+  {
+    "filename": "Valve_Ram_Valve.png",
+    "original_label": "Valve Ram Valve",
+    "page": 1,
+    "bbox": [
+      474.6327903718202,
+      1000.2849949793072,
+      495.9646011750481,
+      1017.933677770296
+    ]
+  },
+  {
+    "filename": "Self_Draining_Valve.png",
+    "original_label": "Self Draining Valve",
+    "page": 1,
+    "bbox": [
+      477.6325762660241,
+      1182.0997271279846,
+      486.29862440483544,
+      1199.0824218891248
+    ]
+  },
+  {
+    "filename": "Diaphragm_Valve.png",
+    "original_label": "Diaphragm Valve",
+    "page": 1,
+    "bbox": [
+      468.9665281272128,
+      1203.0783500682167,
+      493.96474391224547,
+      1216.065116650265
+    ]
+  },
+  {
+    "filename": "Minimum_Flow.png",
+    "original_label": "Minimum Flow",
+    "page": 1,
+    "bbox": [
+      610.2897746985975,
+      864.4234368901855,
+      635.6213000274306,
+      880.740143621477
+    ]
+  },
+  {
+    "filename": "Auto_Recirculation.png",
+    "original_label": "Auto Recirculation",
+    "page": 1,
+    "bbox": [
+      609.956465154797,
+      888.3990059647364,
+      635.954609571231,
+      905.3817007258766
+    ]
+  },
+  {
+    "filename": "Integrated_Block.png",
+    "original_label": "Integrated Block",
+    "page": 1,
+    "bbox": [
+      618.2892037498079,
+      990.9611625614262,
+      627.9551805200206,
+      1008.9428393673394
+    ]
+  },
+  {
+    "filename": "Maual_Integrated.png",
+    "original_label": "Maual Integrated",
+    "page": 1,
+    "bbox": [
+      617.2892751184066,
+      1017.933677770296,
+      628.6217996076214,
+      1040.910264800074
+    ]
+  },
+  {
+    "filename": "Quarter_Turn_Valve.png",
+    "original_label": "Quarter Turn Valve",
+    "page": 1,
+    "bbox": [
+      605.2901315415909,
+      1108.8410438446347,
+      640.6209431844371,
+      1126.8227206505478
     ]
   },
   {
@@ -566,9 +423,9 @@
     "page": 1,
     "bbox": [
       17.998715365223518,
-      1314.2623632790517,
+      1314.3714125509262,
       70.66162328569233,
-      1335.9278600107632
+      1335.6966992548978
     ]
   },
   {
@@ -577,152 +434,9 @@
     "page": 1,
     "bbox": [
       29.331239854438326,
-      1347.927212046788,
+      1348.0253806306314,
       69.66169465429103,
-      1369.9260241128336
-    ]
-  },
-  {
-    "filename": "Rotary_pump_Compressor.png",
-    "original_label": "Rotary pump Compressor",
-    "page": 1,
-    "bbox": [
-      35.664121186646604,
-      1386.5917908295346,
-      65.6619801286858,
-      1404.590818883572
-    ]
-  },
-  {
-    "filename": "ISO_diaphragm_silencers.png",
-    "original_label": "ISO diaphragm silencers",
-    "page": 1,
-    "bbox": [
-      46.66333613206098,
-      1386.5917908295346,
-      63.662122865883184,
-      1404.924134217906
-    ]
-  },
-  {
-    "filename": "Peristaltic_pump.png",
-    "original_label": "Peristaltic pump",
-    "page": 1,
-    "bbox": [
-      320.31047159221856,
-      1456.2546957053455,
-      351.6415687094595,
-      1479.253453774393
-    ]
-  },
-  {
-    "filename": "Fan_blades.png",
-    "original_label": "Fan blades",
-    "page": 1,
-    "bbox": [
-      464.63350405780716,
-      1454.2548036993412,
-      497.6311488940502,
-      1483.9198684550693
-    ]
-  },
-  {
-    "filename": "ISO_Progressive_Rotary.png",
-    "original_label": "ISO Progressive Rotary",
-    "page": 1,
-    "bbox": [
-      41.99700251885488,
-      1458.9212183800175,
-      63.32881332208275,
-      1488.9195984700796
-    ]
-  },
-  {
-    "filename": "pump_Compressor.png",
-    "original_label": "pump Compressor",
-    "page": 1,
-    "bbox": [
-      35.664121186646604,
-      1469.5873090787063,
-      63.32881332208275,
-      1494.919274488092
-    ]
-  },
-  {
-    "filename": "Fan_blades_1.png",
-    "original_label": "Fan blades",
-    "page": 1,
-    "bbox": [
-      462.63364679500455,
-      1496.2525358254281,
-      500.29762524445374,
-      1508.585203195787
-    ]
-  },
-  {
-    "filename": "Gear_pump.png",
-    "original_label": "Gear pump",
-    "page": 1,
-    "bbox": [
-      320.64378113601896,
-      1492.919382482088,
-      328.9765197310299,
-      1522.91776257215
-    ]
-  },
-  {
-    "filename": "ISO_positive_Rotary.png",
-    "original_label": "ISO positive Rotary",
-    "page": 1,
-    "bbox": [
-      34.66419255524529,
-      1501.9188965091066,
-      64.6620514972845,
-      1527.5841772528263
-    ]
-  },
-  {
-    "filename": "displacement_pump_Compressor.png",
-    "original_label": "displacement pump Compressor",
-    "page": 1,
-    "bbox": [
-      34.66419255524529,
-      1508.251887861453,
-      64.6620514972845,
-      1533.9171686051727
-    ]
-  },
-  {
-    "filename": "Vertical_pump.png",
-    "original_label": "Vertical pump",
-    "page": 1,
-    "bbox": [
-      181.9870109150378,
-      1515.5848252168014,
-      199.65241673646088,
-      1536.917006614179
-    ]
-  },
-  {
-    "filename": "Proportioning_pump.png",
-    "original_label": "Proportioning pump",
-    "page": 1,
-    "bbox": [
-      311.6444234534072,
-      1535.9170606111768,
-      351.3082591656591,
-      1565.5821253669048
-    ]
-  },
-  {
-    "filename": "Axial_flow_fan.png",
-    "original_label": "Axial flow fan",
-    "page": 1,
-    "bbox": [
-      476.6326476346228,
-      1559.2491340145584,
-      486.29862440483544,
-      1588.9141987702865
+      1370.0170825441023
     ]
   },
   {
@@ -730,43 +444,10 @@
     "original_label": "Liquid ring",
     "page": 1,
     "bbox": [
-      175.3208200390291,
-      1564.5821793639027,
-      195.3193926670552,
-      1594.580559453965
-    ]
-  },
-  {
-    "filename": "Liquid_ring_1.png",
-    "original_label": "Liquid ring",
-    "page": 1,
-    "bbox": [
       29.997858942039198,
-      1572.2484320535852,
+      1572.274098627084,
       69.32838511049059,
-      1602.2468121436473
-    ]
-  },
-  {
-    "filename": "Turbine_driver.png",
-    "original_label": "Turbine driver",
-    "page": 1,
-    "bbox": [
-      461.96702770740364,
-      1598.580343465973,
-      500.9642443320546,
-      1625.578885547029
-    ]
-  },
-  {
-    "filename": "Compressor_Compressor.png",
-    "original_label": "Compressor Compressor",
-    "page": 1,
-    "bbox": [
-      25.664834872633538,
-      1620.9124708663526,
-      70.66162328569233,
-      1645.2444902727364
+      1602.2627830545441
     ]
   },
   {
@@ -775,42 +456,9 @@
     "page": 1,
     "bbox": [
       26.66476350403484,
-      1661.2436263207694,
+      1661.2405290952158,
       46.99664567586141,
-      1673.2429783567943
-    ]
-  },
-  {
-    "filename": "Positive_displacement_Centrifugal.png",
-    "original_label": "Positive displacement Centrifugal",
-    "page": 1,
-    "bbox": [
-      26.33145396023441,
-      1696.2417364258417,
-      70.66162328569233,
-      1715.240710482881
-    ]
-  },
-  {
-    "filename": "Horizontal_pump.png",
-    "original_label": "Horizontal pump",
-    "page": 1,
-    "bbox": [
-      178.98722502083388,
-      1693.9085290855037,
-      212.31817940087743,
-      1713.240818476877
-    ]
-  },
-  {
-    "filename": "Ejector.png",
-    "original_label": "Ejector",
-    "page": 1,
-    "bbox": [
-      462.3003372512041,
-      1708.2410884618666,
-      500.6309347882542,
-      1728.240008521908
+      1673.2360028662
     ]
   },
   {
@@ -819,20 +467,64 @@
     "page": 1,
     "bbox": [
       46.66333613206098,
-      1742.2392525639368,
+      1742.2099770493585,
       61.66226560308058,
-      1754.5719199342957
+      1754.8718660298416
     ]
   },
   {
-    "filename": "Motor.png",
-    "original_label": "Motor",
+    "filename": "Centrifugal_2.png",
+    "original_label": "Centrifugal",
     "page": 1,
     "bbox": [
-      616.2893464870053,
-      1726.2401165159038,
-      629.6217282390227,
-      1756.2384966059658
+      170.98779596962342,
+      1311.3725441081801,
+      191.98629722905088,
+      1323.7012254839137
+    ]
+  },
+  {
+    "filename": "pump_Centrifugal.png",
+    "original_label": "pump Centrifugal",
+    "page": 1,
+    "bbox": [
+      184.32017772164085,
+      1337.6959448833952,
+      207.65184578767133,
+      1358.0216087731183
+    ]
+  },
+  {
+    "filename": "Vertical_pump.png",
+    "original_label": "Vertical pump",
+    "page": 1,
+    "bbox": [
+      181.9870109150378,
+      1515.6288058196592,
+      199.65241673646088,
+      1536.9540925236308
+    ]
+  },
+  {
+    "filename": "Liquid_ring_1.png",
+    "original_label": "Liquid ring",
+    "page": 1,
+    "bbox": [
+      175.3208200390291,
+      1564.610323717844,
+      195.3193926670552,
+      1594.5990081453042
+    ]
+  },
+  {
+    "filename": "Horizontal_pump.png",
+    "original_label": "Horizontal pump",
+    "page": 1,
+    "bbox": [
+      178.98722502083388,
+      1693.8948743606725,
+      212.31817940087743,
+      1713.220915436147
     ]
   },
   {
@@ -841,20 +533,141 @@
     "page": 1,
     "bbox": [
       178.32060593323303,
-      1732.5731078682502,
+      1732.5469565116214,
       209.31839350667352,
-      1762.5714879583122
+      1762.5356409390815
     ]
   },
   {
-    "filename": "Reciprocating_blower.png",
-    "original_label": "Reciprocating blower",
+    "filename": "Sump_pump.png",
+    "original_label": "Sump pump",
     "page": 1,
     "bbox": [
-      46.66333613206098,
-      1742.2392525639368,
-      61.66226560308058,
-      1761.2382266209763
+      323.3102574864225,
+      1278.0517836332242,
+      348.64178281525557,
+      1308.0404680606846
+    ]
+  },
+  {
+    "filename": "Positive_displacement.png",
+    "original_label": "Positive displacement",
+    "page": 1,
+    "bbox": [
+      325.97673383682593,
+      1337.6959448833952,
+      345.64199692105166,
+      1345.0265121878854
+    ]
+  },
+  {
+    "filename": "Peristaltic_pump.png",
+    "original_label": "Peristaltic pump",
+    "page": 1,
+    "bbox": [
+      320.31047159221856,
+      1456.3178521742377,
+      351.6415687094595,
+      1479.3091769019572
+    ]
+  },
+  {
+    "filename": "Gear_pump.png",
+    "original_label": "Gear pump",
+    "page": 1,
+    "bbox": [
+      320.64378113601896,
+      1492.9706886966892,
+      328.9765197310299,
+      1522.9593731241494
+    ]
+  },
+  {
+    "filename": "Proportioning_pump.png",
+    "original_label": "Proportioning pump",
+    "page": 1,
+    "bbox": [
+      312.977661628609,
+      1535.954469709382,
+      351.3082591656591,
+      1565.6099465320926
+    ]
+  },
+  {
+    "filename": "pump.png",
+    "original_label": "pump",
+    "page": 1,
+    "bbox": [
+      320.31047159221856,
+      1677.2344941231947,
+      370.3069031622839,
+      1695.5609123844204
+    ]
+  },
+  {
+    "filename": "pump_1.png",
+    "original_label": "pump",
+    "page": 1,
+    "bbox": [
+      318.64392387321635,
+      1745.2088454921045,
+      353.3081164284617,
+      1775.1975299195647
+    ]
+  },
+  {
+    "filename": "Fan_blades.png",
+    "original_label": "Fan blades",
+    "page": 1,
+    "bbox": [
+      464.63350405780716,
+      1454.3186065457405,
+      497.6311488940502,
+      1483.9740833684511
+    ]
+  },
+  {
+    "filename": "Fan_blades_1.png",
+    "original_label": "Fan blades",
+    "page": 1,
+    "bbox": [
+      462.63364679500455,
+      1496.3027647441847,
+      500.29762524445374,
+      1508.6314461199183
+    ]
+  },
+  {
+    "filename": "Axial_flow_fan.png",
+    "original_label": "Axial flow fan",
+    "page": 1,
+    "bbox": [
+      476.6326476346228,
+      1559.279002041851,
+      486.29862440483544,
+      1588.9344788645617
+    ]
+  },
+  {
+    "filename": "Turbine_driver.png",
+    "original_label": "Turbine driver",
+    "page": 1,
+    "bbox": [
+      461.96702770740364,
+      1598.597499402299,
+      500.9642443320546,
+      1625.5873153870132
+    ]
+  },
+  {
+    "filename": "Ejector.png",
+    "original_label": "Ejector",
+    "page": 1,
+    "bbox": [
+      462.3003372512041,
+      1708.2228013649035,
+      500.6309347882542,
+      1728.215257649877
     ]
   },
   {
@@ -863,64 +676,31 @@
     "page": 1,
     "bbox": [
       463.96688497020625,
-      1738.2394685519287,
+      1738.2114857923639,
       493.96474391224547,
-      1768.2378486419907
+      1768.200170219824
     ]
   },
   {
-    "filename": "Covered_Tank.png",
-    "original_label": "Covered Tank",
+    "filename": "Pump.png",
+    "original_label": "Pump",
     "page": 1,
     "bbox": [
-      465.300123145408,
-      1823.9015094757724,
-      495.6312916312476,
-      1851.8999975598304
+      631.9548950456258,
+      1661.5737366999654,
+      642.6208004472397,
+      1679.9001549611912
     ]
   },
   {
-    "filename": "Packing_column.png",
-    "original_label": "Packing column",
+    "filename": "Motor.png",
+    "original_label": "Motor",
     "page": 1,
     "bbox": [
-      181.9870109150378,
-      1827.5679781534468,
-      199.65241673646088,
-      1857.5663582435088
-    ]
-  },
-  {
-    "filename": "Vessel_4.png",
-    "original_label": "Vessel",
-    "page": 1,
-    "bbox": [
-      609.6231556109966,
-      1834.5676001744612,
-      636.2879191150314,
-      1861.566142255517
-    ]
-  },
-  {
-    "filename": "Floating_Roof_Tank.png",
-    "original_label": "Floating Roof Tank",
-    "page": 1,
-    "bbox": [
-      486.6319339486359,
-      1870.5656562825357,
-      495.9646011750481,
-      1898.5641443665936
-    ]
-  },
-  {
-    "filename": "Brackets_Vessel.png",
-    "original_label": "Brackets Vessel",
-    "page": 1,
-    "bbox": [
-      611.2897033299988,
-      1920.896271766973,
-      634.6213713960293,
-      1950.8946518570351
+      616.2893464870053,
+      1726.2160120213798,
+      629.6217282390227,
+      1756.20469644884
     ]
   },
   {
@@ -929,31 +709,42 @@
     "page": 1,
     "bbox": [
       37.33066890564878,
-      1942.2284531643506,
+      1942.2985802983505,
       61.66226560308058,
-      1972.2268332544127
+      1972.2837219152925
     ]
   },
   {
-    "filename": "Tray_Column_1.png",
+    "filename": "Tray_Column.png",
     "original_label": "Tray Column",
     "page": 1,
     "bbox": [
       40.663764343653135,
-      1991.225807311452,
+      1991.2743116060224,
       58.32917016507622,
-      2021.224187401514
+      2021.2594532229643
     ]
   },
   {
-    "filename": "Tank_Tank.png",
-    "original_label": "Tank Tank",
+    "filename": "Packing_column.png",
+    "original_label": "Packing column",
     "page": 1,
     "bbox": [
-      317.31068569801465,
-      2015.2245113835015,
-      354.6413546036634,
-      2045.2228914735635
+      181.9870109150378,
+      1827.3555374334062,
+      199.65241673646088,
+      1857.3406790503482
+    ]
+  },
+  {
+    "filename": "Bag_(ISO).png",
+    "original_label": "Bag (ISO)",
+    "page": 1,
+    "bbox": [
+      177.65398684563215,
+      2019.593612022023,
+      203.98544080586655,
+      2048.9124171585886
     ]
   },
   {
@@ -962,42 +753,20 @@
     "page": 1,
     "bbox": [
       177.3206773018317,
-      2064.555180864937,
+      2064.5713244474364,
       204.31875034966697,
-      2094.553560954999
+      2094.556466064378
     ]
   },
   {
-    "filename": "Vessel_Roof_Tank.png",
-    "original_label": "Vessel Roof Tank",
+    "filename": "(ISO).png",
+    "original_label": "(ISO)",
     "page": 1,
     "bbox": [
-      462.96695633880495,
-      2067.8883342082772,
-      499.9643157006533,
-      2089.220515605655
-    ]
-  },
-  {
-    "filename": "Wastewater_Treatment_Tank.png",
-    "original_label": "Wastewater Treatment Tank",
-    "page": 1,
-    "bbox": [
-      317.31068569801465,
-      2110.552697003032,
-      354.6413546036634,
-      2140.551077093094
-    ]
-  },
-  {
-    "filename": "Bin_Packing_Column.png",
-    "original_label": "Bin Packing Column",
-    "page": 1,
-    "bbox": [
-      40.663764343653135,
-      2154.883636469457,
-      58.66247970887665,
-      2184.8820165595193
+      178.32060593323303,
+      2108.8827003924725,
+      203.31882171826567,
+      2138.8678420094147
     ]
   },
   {
@@ -1006,53 +775,75 @@
     "page": 1,
     "bbox": [
       315.31082843521204,
-      2162.883204493474,
+      2162.855955302968,
       355.97459277886514,
-      2190.8816925775313
+      2190.8420874787807
     ]
   },
   {
-    "filename": "Filter_1.png",
+    "filename": "Covered_Tank.png",
+    "original_label": "Covered Tank",
+    "page": 1,
+    "bbox": [
+      465.300123145408,
+      1824.0238550315237,
+      495.6312916312476,
+      1852.0099872073363
+    ]
+  },
+  {
+    "filename": "Floating_Roof_Tank.png",
+    "original_label": "Floating Roof Tank",
+    "page": 1,
+    "bbox": [
+      486.6319339486359,
+      1870.667408657878,
+      495.9646011750481,
+      1898.6535408336904
+    ]
+  },
+  {
+    "filename": "Vessel_Roof_Tank.png",
+    "original_label": "Vessel Roof Tank",
+    "page": 1,
+    "bbox": [
+      462.96695633880495,
+      2067.9030068493184,
+      499.9643157006533,
+      2089.225774221366
+    ]
+  },
+  {
+    "filename": "Vessel.png",
+    "original_label": "Vessel",
+    "page": 1,
+    "bbox": [
+      609.6231556109966,
+      1834.6852387175475,
+      636.2879191150314,
+      1861.6718661727953
+    ]
+  },
+  {
+    "filename": "Brackets_Vessel.png",
+    "original_label": "Brackets Vessel",
+    "page": 1,
+    "bbox": [
+      611.2897033299988,
+      1920.9758129263028,
+      634.6213713960293,
+      1950.960954543245
+    ]
+  },
+  {
+    "filename": "Filter.png",
     "original_label": "Filter",
     "page": 1,
     "bbox": [
       33.33095438004355,
-      2240.545677393301,
+      2240.6233467653533,
       65.99528967248624,
-      2269.5441114803607
-    ]
-  },
-  {
-    "filename": "Filter_2.png",
-    "original_label": "Filter",
-    "page": 1,
-    "bbox": [
-      186.32003498444345,
-      2242.545569399305,
-      195.3193926670552,
-      2270.544057483363
-    ]
-  },
-  {
-    "filename": "air_Filter.png",
-    "original_label": "air Filter",
-    "page": 1,
-    "bbox": [
-      323.9768765740233,
-      2244.8787767396434,
-      331.64299608143335,
-      2274.877156829705
-    ]
-  },
-  {
-    "filename": "Primary_Filter.png",
-    "original_label": "Primary Filter",
-    "page": 1,
-    "bbox": [
-      609.956465154797,
-      2269.877426814695,
-      635.954609571231,
-      2299.875806904757
+      2269.9218940124347
     ]
   },
   {
@@ -1061,53 +852,20 @@
     "page": 1,
     "bbox": [
       33.33095438004355,
-      2282.876724853722,
+      2283.239415488381,
       65.99528967248624,
-      2311.8751589407816
+      2311.872086661665
     ]
   },
   {
-    "filename": "Filter_3.png",
-    "original_label": "Filter",
-    "page": 1,
-    "bbox": [
-      363.9740218300756,
-      2304.208906251099,
-      388.3056185275074,
-      2312.54178960945
-    ]
-  },
-  {
-    "filename": "Oxygen-enriched_Filter.png",
-    "original_label": "Oxygen-enriched Filter",
-    "page": 1,
-    "bbox": [
-      608.2899174357949,
-      2316.208258287124,
-      637.6211572902332,
-      2341.5402236965097
-    ]
-  },
-  {
-    "filename": "Filter_4.png",
+    "filename": "Filter_1.png",
     "original_label": "Filter",
     "page": 1,
     "bbox": [
       33.33095438004355,
-      2325.874402982811,
+      2326.188422248307,
       65.99528967248624,
-      2354.2062064012025
-    ]
-  },
-  {
-    "filename": "Filter_5.png",
-    "original_label": "Filter",
-    "page": 1,
-    "bbox": [
-      603.6235838225888,
-      2352.5396297295324,
-      642.2874909034393,
-      2372.871865123908
+      2354.1552173477935
     ]
   },
   {
@@ -1116,20 +874,9 @@
     "page": 1,
     "bbox": [
       33.33095438004355,
-      2368.8720811118997,
+      2369.137429008233,
       65.99528967248624,
-      2398.2038305332935
-    ]
-  },
-  {
-    "filename": "Filter_Air_Filter.png",
-    "original_label": "Filter Air Filter",
-    "page": 1,
-    "bbox": [
-      467.2999804082106,
-      2380.8714331479246,
-      495.6312916312476,
-      2408.8699212319825
+      2398.435976255314
     ]
   },
   {
@@ -1138,20 +885,75 @@
     "page": 1,
     "bbox": [
       33.33095438004355,
-      2412.8697052439907,
+      2413.085249878855,
       65.99528967248624,
-      2441.201508662383
+      2441.3849830152403
     ]
   },
   {
-    "filename": "Filter_6.png",
+    "filename": "Filter_2.png",
+    "original_label": "Filter",
+    "page": 1,
+    "bbox": [
+      186.32003498444345,
+      2242.6209749867453,
+      195.3193926670552,
+      2270.587770086232
+    ]
+  },
+  {
+    "filename": "Filter_3.png",
     "original_label": "Filter",
     "page": 1,
     "bbox": [
       219.98429890828746,
-      2458.2005907134176,
+      2458.3648228970715,
       235.64984746690791,
-      2466.8667894061023
+      2467.0212118564364
+    ]
+  },
+  {
+    "filename": "Biological_Filter_Fixed_bed.png",
+    "original_label": "Biological Filter Fixed bed",
+    "page": 1,
+    "bbox": [
+      323.9768765740233,
+      2243.2868510605426,
+      331.64299608143335,
+      2273.2512743814214
+    ]
+  },
+  {
+    "filename": "air_Filter.png",
+    "original_label": "air Filter",
+    "page": 1,
+    "bbox": [
+      323.9768765740233,
+      2244.951541245036,
+      331.64299608143335,
+      2274.9159645659147
+    ]
+  },
+  {
+    "filename": "Filter_4.png",
+    "original_label": "Filter",
+    "page": 1,
+    "bbox": [
+      363.9740218300756,
+      2304.5474498498943,
+      388.3056185275074,
+      2312.870900772361
+    ]
+  },
+  {
+    "filename": "Filter_Air_Filter.png",
+    "original_label": "Filter Air Filter",
+    "page": 1,
+    "bbox": [
+      469.6331472148137,
+      2381.123198336584,
+      495.6312916312476,
+      2409.089993436071
     ]
   },
   {
@@ -1159,65 +961,43 @@
     "original_label": "The Filter",
     "page": 1,
     "bbox": [
-      468.2999090396119,
-      2455.5340680387458,
+      469.6331472148137,
+      2455.3683805649835,
       494.6313629998463,
-      2485.5324481288076
+      2485.332803885862
     ]
   },
   {
-    "filename": "Compressor.png",
-    "original_label": "Compressor",
+    "filename": "Primary_Filter.png",
+    "original_label": "Primary Filter",
     "page": 1,
     "bbox": [
-      463.63357542640586,
-      2546.1958389775996,
-      499.29769661305244,
-      2572.8610657243216
+      609.956465154797,
+      2269.9218940124347,
+      635.954609571231,
+      2299.8863173333134
     ]
   },
   {
-    "filename": "Centrifugal_2.png",
-    "original_label": "Centrifugal",
+    "filename": "Oxygen-enriched_Filter.png",
+    "original_label": "Oxygen-enriched Filter",
     "page": 1,
     "bbox": [
-      458.3006227255989,
-      2577.194165070664,
-      502.29748250725635,
-      2598.8596618023753
+      608.2899174357949,
+      2316.533219178246,
+      637.6211572902332,
+      2341.5035719456446
     ]
   },
   {
-    "filename": "Compressor_1.png",
-    "original_label": "Compressor",
+    "filename": "Filter_5.png",
+    "original_label": "Filter",
     "page": 1,
     "bbox": [
-      458.3006227255989,
-      2579.527372411002,
-      502.29748250725635,
-      2604.526022486054
-    ]
-  },
-  {
-    "filename": "Rotary_Compressor_Compressor,.png",
-    "original_label": "Rotary Compressor Compressor,",
-    "page": 1,
-    "bbox": [
-      40.663764343653135,
-      2609.19243716673,
-      62.66219423448188,
-      2618.858581862417
-    ]
-  },
-  {
-    "filename": "Compressor_2.png",
-    "original_label": "Compressor",
-    "page": 1,
-    "bbox": [
-      219.98429890828746,
-      2620.191843199753,
-      231.98344248510313,
-      2628.5247265581033
+      603.6235838225888,
+      2352.823465200199,
+      642.2874909034393,
+      2373.1326854510166
     ]
   },
   {
@@ -1226,42 +1006,20 @@
     "page": 1,
     "bbox": [
       41.99700251885488,
-      2629.5246725611055,
+      2629.7246617617056,
       62.66219423448188,
-      2639.1908172567923
+      2639.3639560554598
     ]
   },
   {
-    "filename": "Centrifugal_3.png",
-    "original_label": "Centrifugal",
-    "page": 1,
-    "bbox": [
-      459.96717044460104,
-      2650.190223289815,
-      502.29748250725635,
-      2669.5225126811883
-    ]
-  },
-  {
-    "filename": "Compressor_3.png",
+    "filename": "Compressor.png",
     "original_label": "Compressor",
     "page": 1,
     "bbox": [
       34.33088301144486,
-      2652.523430630153,
+      2652.6595343916724,
       64.99536104108493,
-      2674.1889273618644
-    ]
-  },
-  {
-    "filename": "Compressor_4.png",
-    "original_label": "Compressor",
-    "page": 1,
-    "bbox": [
-      459.96717044460104,
-      2652.523430630153,
-      502.29748250725635,
-      2669.5225126811883
+      2674.264849188018
     ]
   },
   {
@@ -1270,20 +1028,108 @@
     "page": 1,
     "bbox": [
       37.99728799324965,
-      2678.855342042541,
+      2678.9183016056927,
       62.66219423448188,
       2701.5207847772544
     ]
   },
   {
-    "filename": "Turbo_Compressor_Compressor.png",
-    "original_label": "Turbo Compressor Compressor",
+    "filename": "Compressor_1.png",
+    "original_label": "Compressor",
     "page": 1,
     "bbox": [
-      37.99728799324965,
-      2681.855180051547,
-      62.66219423448188,
-      2708.853722132603
+      219.98429890828746,
+      2620.417756926357,
+      231.98344248510313,
+      2628.7274933864896
+    ]
+  },
+  {
+    "filename": "Liquid_ring_Compressor_silencers.png",
+    "original_label": "Liquid ring Compressor silencers",
+    "page": 1,
+    "bbox": [
+      319.31054296081726,
+      2539.97950799227,
+      352.6414973408608,
+      2558.925707121373
+    ]
+  },
+  {
+    "filename": "Rotary_Compressor.png",
+    "original_label": "Rotary Compressor",
+    "page": 1,
+    "bbox": [
+      320.64378113601896,
+      2568.232611956722,
+      329.3098292748303,
+      2598.1476632132008
+    ]
+  },
+  {
+    "filename": "Compressor_2.png",
+    "original_label": "Compressor",
+    "page": 1,
+    "bbox": [
+      463.63357542640586,
+      2546.294907701971,
+      499.29769661305244,
+      2573.2184538328015
+    ]
+  },
+  {
+    "filename": "Centrifugal_3.png",
+    "original_label": "Centrifugal",
+    "page": 1,
+    "bbox": [
+      458.3006227255989,
+      2577.539516792071,
+      502.29748250725635,
+      2598.8124421300113
+    ]
+  },
+  {
+    "filename": "Compressor_3.png",
+    "original_label": "Compressor",
+    "page": 1,
+    "bbox": [
+      458.3006227255989,
+      2579.5338535425026,
+      502.29748250725635,
+      2604.795452381307
+    ]
+  },
+  {
+    "filename": "Centrifugal_4.png",
+    "original_label": "Centrifugal",
+    "page": 1,
+    "bbox": [
+      461.96702770740364,
+      2618.75580963433,
+      478.96581444122586,
+      2627.3979355528686
+    ]
+  },
+  {
+    "filename": "Centrifugal_5.png",
+    "original_label": "Centrifugal",
+    "page": 1,
+    "bbox": [
+      459.96717044460104,
+      2650.3328081828354,
+      502.29748250725635,
+      2669.611396770344
+    ]
+  },
+  {
+    "filename": "Compressor_4.png",
+    "original_label": "Compressor",
+    "page": 1,
+    "bbox": [
+      459.96717044460104,
+      2652.6595343916724,
+      502.29748250725635,
+      2669.611396770344
     ]
   },
   {
@@ -1292,20 +1138,9 @@
     "page": 1,
     "bbox": [
       28.99793031063789,
-      2774.1835276620714,
+      2774.508317775752,
       68.99507556669016,
-      2788.8494023727685
-    ]
-  },
-  {
-    "filename": "Spray_Cooler.png",
-    "original_label": "Spray Cooler",
-    "page": 1,
-    "bbox": [
-      174.32089140762778,
-      2777.8499963397458,
-      204.98536943726785,
-      2807.8483764298076
+      2789.1650434691624
     ]
   },
   {
@@ -1314,53 +1149,9 @@
     "page": 1,
     "bbox": [
       27.331382591635712,
-      2812.848106444818,
+      2813.148776422015,
       69.66169465429103,
-      2827.180665821181
-    ]
-  },
-  {
-    "filename": "Single_Pass_Heat.png",
-    "original_label": "Single Pass Heat",
-    "page": 1,
-    "bbox": [
-      456.6340750065967,
-      2816.8478904568265,
-      501.29755387585504,
-      2834.8469185108634
-    ]
-  },
-  {
-    "filename": "Exchanger_Cooler.png",
-    "original_label": "Exchanger Cooler",
-    "page": 1,
-    "bbox": [
-      337.6425678698412,
-      2822.8475664748385,
-      354.6413546036634,
-      2846.1796398782203
-    ]
-  },
-  {
-    "filename": "Fired_Heater_Forced-draft.png",
-    "original_label": "Fired Heater Forced-draft",
-    "page": 1,
-    "bbox": [
-      176.3207486704304,
-      2827.513981155515,
-      203.31882171826567,
-      2852.1793158962328
-    ]
-  },
-  {
-    "filename": "Cooling_Tower.png",
-    "original_label": "Cooling Tower",
-    "page": 1,
-    "bbox": [
-      173.98758186382736,
-      2833.846972507861,
-      205.3186789810683,
-      2858.845622582913
+      2827.4723947133025
     ]
   },
   {
@@ -1369,42 +1160,9 @@
     "page": 1,
     "bbox": [
       27.331382591635712,
-      2850.5127392245627,
+      2850.7899128619097,
       71.32824237329321,
-      2864.8452986009256
-    ]
-  },
-  {
-    "filename": "Exchanger.png",
-    "original_label": "Exchanger",
-    "page": 1,
-    "bbox": [
-      467.63328995201107,
-      2856.179099908241,
-      494.96467254364677,
-      2869.5117132816017
-    ]
-  },
-  {
-    "filename": "Air-blown_Cooler.png",
-    "original_label": "Air-blown Cooler",
-    "page": 1,
-    "bbox": [
-      319.9771620484181,
-      2864.1786679322577,
-      352.3081877970604,
-      2883.1776419892967
-    ]
-  },
-  {
-    "filename": "Induced-draft.png",
-    "original_label": "Induced-draft",
-    "page": 1,
-    "bbox": [
-      172.6543436886256,
-      2873.844812627944,
-      206.98522670007046,
-      2898.1768320343276
+      2865.113531153197
     ]
   },
   {
@@ -1413,53 +1171,20 @@
     "page": 1,
     "bbox": [
       27.331382591635712,
-      2888.844002672975,
+      2889.0972641060503,
       69.66169465429103,
-      2902.843246715004
+      2903.087774995214
     ]
   },
   {
-    "filename": "Double_Pipe_Heat.png",
-    "original_label": "Double Pipe Heat",
-    "page": 1,
-    "bbox": [
-      462.3003372512041,
-      2894.8436786909874,
-      496.6312202626489,
-      2915.509229419697
-    ]
-  },
-  {
-    "filename": "Induced_Flow_Air.png",
-    "original_label": "Induced Flow Air",
-    "page": 1,
-    "bbox": [
-      315.31082843521204,
-      2906.5097153926786,
-      357.3078309540669,
-      2924.1754281123817
-    ]
-  },
-  {
-    "filename": "Exchanger_1.png",
-    "original_label": "Exchanger",
-    "page": 1,
-    "bbox": [
-      462.3003372512041,
-      2898.510147368662,
-      496.6312202626489,
-      2915.509229419697
-    ]
-  },
-  {
-    "filename": "Heat_Exchanger_TEMA_TYPE.png",
-    "original_label": "Heat Exchanger TEMA TYPE",
+    "filename": "NEN.png",
+    "original_label": "NEN",
     "page": 1,
     "bbox": [
       27.331382591635712,
-      2927.508581455722,
-      69.66169465429103,
-      2941.841140832085
+      2927.7377227523134,
+      71.32824237329321,
+      2942.061341043601
     ]
   },
   {
@@ -1468,20 +1193,9 @@
     "page": 1,
     "bbox": [
       28.33131122303702,
-      2969.172998247475,
+      2969.3761480176836,
       68.99507556669016,
-      2983.8388729581716
-    ]
-  },
-  {
-    "filename": "Extractor_Hood_Exchanger.png",
-    "original_label": "Extractor Hood Exchanger",
-    "page": 1,
-    "bbox": [
-      486.6319339486359,
-      2980.8390349491656,
-      496.2979107188485,
-      3004.504423686881
+      2984.0328737110935
     ]
   },
   {
@@ -1490,31 +1204,9 @@
     "page": 1,
     "bbox": [
       48.32988385106315,
-      3013.170622379566,
+      3013.346325097914,
       58.66247970887665,
-      3042.1690564666255
-    ]
-  },
-  {
-    "filename": "Straight_Tubes.png",
-    "original_label": "Straight Tubes",
-    "page": 1,
-    "bbox": [
-      317.64399524181505,
-      3027.1698664215946,
-      354.6413546036634,
-      3043.502317803962
-    ]
-  },
-  {
-    "filename": "Spiral_Heat.png",
-    "original_label": "Spiral Heat",
-    "page": 1,
-    "bbox": [
-      477.2992667222237,
-      3033.169542439607,
-      498.964387069252,
-      3051.1685704936444
+      3042.3266690826117
     ]
   },
   {
@@ -1523,75 +1215,9 @@
     "page": 1,
     "bbox": [
       33.33095438004355,
-      3063.167922529669,
+      3063.312435416358,
       65.32867058488536,
-      3087.1666266017187
-    ]
-  },
-  {
-    "filename": "Exchanger_Heat_Exchanger.png",
-    "original_label": "Exchanger Heat Exchanger",
-    "page": 1,
-    "bbox": [
-      33.33095438004355,
-      3066.8343912073433,
-      65.32867058488536,
-      3096.8327712974055
-    ]
-  },
-  {
-    "filename": "Air_Cooled.png",
-    "original_label": "Air Cooled",
-    "page": 1,
-    "bbox": [
-      460.6337895322019,
-      3080.8336352493725,
-      501.29755387585504,
-      3103.499077984086
-    ]
-  },
-  {
-    "filename": "Light_Water_Station.png",
-    "original_label": "Light Water Station",
-    "page": 1,
-    "bbox": [
-      603.2902742787883,
-      3075.500589900028,
-      642.6208004472397,
-      3105.49896999009
-    ]
-  },
-  {
-    "filename": "Exchanger_2.png",
-    "original_label": "Exchanger",
-    "page": 1,
-    "bbox": [
-      460.6337895322019,
-      3084.1667885927127,
-      501.29755387585504,
-      3111.1653306737685
-    ]
-  },
-  {
-    "filename": "Finned_Tubes_Exchanger.png",
-    "original_label": "Finned Tubes Exchanger",
-    "page": 1,
-    "bbox": [
-      194.65277357945436,
-      3095.499509960069,
-      205.65198852486873,
-      3113.8318533484407
-    ]
-  },
-  {
-    "filename": "Heat_Exchanger.png",
-    "original_label": "Heat Exchanger",
-    "page": 1,
-    "bbox": [
-      315.64413797901244,
-      3108.4988079990962,
-      356.64121186646605,
-      3122.831367375459
+      3087.296168369211
     ]
   },
   {
@@ -1600,20 +1226,75 @@
     "page": 1,
     "bbox": [
       33.99757346764442,
-      3116.165060688779,
+      3116.2765123539084,
       64.6620514972845,
-      3142.1636567668324
+      3142.2588897194996
     ]
   },
   {
-    "filename": "Combustion_Briquetting.png",
-    "original_label": "Combustion Briquetting",
+    "filename": "Cooling_Tower.png",
+    "original_label": "Cooling Tower",
     "page": 1,
     "bbox": [
-      469.6331472148137,
-      3125.831205384465,
-      489.96502938664025,
-      3149.163278787847
+      32.99764483624312,
+      3159.913582032016,
+      65.6619801286858,
+      3189.227033418837
+    ]
+  },
+  {
+    "filename": "Cooling_Tower_1.png",
+    "original_label": "Cooling Tower",
+    "page": 1,
+    "bbox": [
+      37.99728799324965,
+      3207.5479405355995,
+      60.995646515479706,
+      3236.1951771181743
+    ]
+  },
+  {
+    "filename": "Cooling_Tower_2.png",
+    "original_label": "Cooling Tower",
+    "page": 1,
+    "bbox": [
+      36.330740274247475,
+      3253.183654626445,
+      62.32888469068145,
+      3281.4977838068967
+    ]
+  },
+  {
+    "filename": "Spray_Cooler.png",
+    "original_label": "Spray Cooler",
+    "page": 1,
+    "bbox": [
+      174.32089140762778,
+      2777.8393917969815,
+      204.98536943726785,
+      2807.819057988048
+    ]
+  },
+  {
+    "filename": "Cooling_Tower_3.png",
+    "original_label": "Cooling Tower",
+    "page": 1,
+    "bbox": [
+      173.98758186382736,
+      2833.8014353536387,
+      205.3186789810683,
+      2859.117597914984
+    ]
+  },
+  {
+    "filename": "Induced-draft.png",
+    "original_label": "Induced-draft",
+    "page": 1,
+    "bbox": [
+      172.6543436886256,
+      2874.107431010517,
+      206.98522670007046,
+      2898.424271365493
     ]
   },
   {
@@ -1622,97 +1303,20 @@
     "page": 1,
     "bbox": [
       169.98786733822212,
-      3151.8298014625193,
+      3151.9190043810654,
       185.6534158968426,
-      3162.495892161208
+      3162.578441249
     ]
   },
   {
-    "filename": "Heat_Exchanger_1.png",
-    "original_label": "Heat Exchanger",
-    "page": 1,
-    "bbox": [
-      315.64413797901244,
-      3147.1633867818427,
-      356.64121186646605,
-      3161.4959461582057
-    ]
-  },
-  {
-    "filename": "Cooling_Tower_1.png",
-    "original_label": "Cooling Tower",
-    "page": 1,
-    "bbox": [
-      32.99764483624312,
-      3159.8293694865356,
-      65.6619801286858,
-      3189.16111890793
-    ]
-  },
-  {
-    "filename": "U-Tube_Heat.png",
-    "original_label": "U-Tube Heat",
-    "page": 1,
-    "bbox": [
-      461.3004086198028,
-      3172.1620368568947,
-      499.29769661305244,
-      3192.160956916936
-    ]
-  },
-  {
-    "filename": "Silencer.png",
-    "original_label": "Silencer",
-    "page": 1,
-    "bbox": [
-      596.9573929465801,
-      3173.1619828598964,
-      642.6208004472397,
-      3186.4945962332577
-    ]
-  },
-  {
-    "filename": "Exchanger_Plate_Heat.png",
-    "original_label": "Exchanger Plate Heat",
-    "page": 1,
-    "bbox": [
-      315.64413797901244,
-      3186.8279115675914,
-      356.64121186646605,
-      3201.4937862782886
-    ]
-  },
-  {
-    "filename": "Heat.png",
-    "original_label": "Heat",
+    "filename": "Exchanger_Shell_and_Tube.png",
+    "original_label": "Exchanger Shell and Tube",
     "page": 1,
     "bbox": [
       195.9860117546561,
-      3204.160308952961,
+      3204.21686651437,
       211.65156031327658,
-      3216.1596609889857
-    ]
-  },
-  {
-    "filename": "Cooling_Tower_2.png",
-    "original_label": "Cooling Tower",
-    "page": 1,
-    "bbox": [
-      37.99728799324965,
-      3207.493462296301,
-      60.995646515479706,
-      3236.158581049027
-    ]
-  },
-  {
-    "filename": "Exchanger_3.png",
-    "original_label": "Exchanger",
-    "page": 1,
-    "bbox": [
-      315.9774475228129,
-      3227.8256976906764,
-      356.64121186646605,
-      3245.1580950760454
+      3216.2087329907968
     ]
   },
   {
@@ -1721,20 +1325,130 @@
     "page": 1,
     "bbox": [
       169.6545577944217,
-      3257.1574471120703,
+      3257.1809434519205,
       203.98544080586655,
-      3274.8231598317734
+      3274.8356357644375
     ]
   },
   {
-    "filename": "Cooling_Tower_3.png",
-    "original_label": "Cooling Tower",
+    "filename": "Shell_and_Tube_1.png",
+    "original_label": "Shell and Tube",
     "page": 1,
     "bbox": [
-      36.330740274247475,
-      3253.157663100062,
-      62.32888469068145,
-      3281.489466518454
+      328.9765197310299,
+      2771.5103511566454,
+      343.3088301144486,
+      2783.8353250351947
+    ]
+  },
+  {
+    "filename": "Heat.png",
+    "original_label": "Heat",
+    "page": 1,
+    "bbox": [
+      327.3099720120277,
+      2792.496117490392,
+      342.97552057064814,
+      2804.1548765646953
+    ]
+  },
+  {
+    "filename": "Exchanger_Cooler.png",
+    "original_label": "Exchanger Cooler",
+    "page": 1,
+    "bbox": [
+      337.6425678698412,
+      2823.141998485704,
+      354.6413546036634,
+      2846.459516634311
+    ]
+  },
+  {
+    "filename": "Air-blown_Cooler.png",
+    "original_label": "Air-blown Cooler",
+    "page": 1,
+    "bbox": [
+      319.9771620484181,
+      2864.447316348951,
+      352.3081877970604,
+      2883.4344382699596
+    ]
+  },
+  {
+    "filename": "Induced_Flow_Air.png",
+    "original_label": "Induced Flow Air",
+    "page": 1,
+    "bbox": [
+      315.31082843521204,
+      2906.751956418567,
+      357.3078309540669,
+      2924.406648731084
+    ]
+  },
+  {
+    "filename": "Spiral_Heat_Electric_Heater.png",
+    "original_label": "Spiral Heat Electric Heater",
+    "page": 1,
+    "bbox": [
+      318.9772334170168,
+      2978.3700478750034,
+      351.3082591656591,
+      3001.6875660236105
+    ]
+  },
+  {
+    "filename": "Straight_Tubes.png",
+    "original_label": "Straight Tubes",
+    "page": 1,
+    "bbox": [
+      317.64399524181505,
+      3027.3368359870783,
+      354.6413546036634,
+      3043.6590986911033
+    ]
+  },
+  {
+    "filename": "Heat_Exchanger.png",
+    "original_label": "Heat Exchanger",
+    "page": 1,
+    "bbox": [
+      315.64413797901244,
+      3108.6150421050806,
+      356.64121186646605,
+      3122.9386603963676
+    ]
+  },
+  {
+    "filename": "Heat_Exchanger_1.png",
+    "original_label": "Heat Exchanger",
+    "page": 1,
+    "bbox": [
+      315.64413797901244,
+      3147.255500751344,
+      356.64121186646605,
+      3161.579119042631
+    ]
+  },
+  {
+    "filename": "Exchanger_Plate_Heat.png",
+    "original_label": "Exchanger Plate Heat",
+    "page": 1,
+    "bbox": [
+      315.64413797901244,
+      3186.895281603976,
+      356.64121186646605,
+      3201.5520072973864
+    ]
+  },
+  {
+    "filename": "Exchanger.png",
+    "original_label": "Exchanger",
+    "page": 1,
+    "bbox": [
+      315.9774475228129,
+      3227.8674920651,
+      356.64121186646605,
+      3245.189076975494
     ]
   },
   {
@@ -1743,20 +1457,119 @@
     "page": 1,
     "bbox": [
       315.31082843521204,
-      3276.8230518377777,
+      3276.834280177175,
       354.6413546036634,
-      3287.8224578708005
+      3287.826824447233
     ]
   },
   {
-    "filename": "Dryer_1.png",
-    "original_label": "Dryer",
+    "filename": "Single_Pass_Heat.png",
+    "original_label": "Single Pass Heat",
     "page": 1,
     "bbox": [
-      175.65412958282954,
-      3359.1519394182815,
-      203.65213126206612,
-      3388.4836888396753
+      459.3005513570002,
+      2818.1453874538597,
+      501.29755387585504,
+      2834.4676501578847
+    ]
+  },
+  {
+    "filename": "Exchanger_1.png",
+    "original_label": "Exchanger",
+    "page": 1,
+    "bbox": [
+      467.63328995201107,
+      2856.452738698,
+      494.96467254364677,
+      2869.7770347829182
+    ]
+  },
+  {
+    "filename": "Double_Pipe_Heat.png",
+    "original_label": "Double Pipe Heat",
+    "page": 1,
+    "bbox": [
+      462.3003372512041,
+      2895.0931973442634,
+      496.6312202626489,
+      2915.745856275887
+    ]
+  },
+  {
+    "filename": "Exchanger_2.png",
+    "original_label": "Exchanger",
+    "page": 1,
+    "bbox": [
+      462.3003372512041,
+      2898.424271365493,
+      496.6312202626489,
+      2915.745856275887
+    ]
+  },
+  {
+    "filename": "Spiral_Heat.png",
+    "original_label": "Spiral Heat",
+    "page": 1,
+    "bbox": [
+      477.2992667222237,
+      3033.3327692252915,
+      498.964387069252,
+      3051.3205689399315
+    ]
+  },
+  {
+    "filename": "Air_Cooled.png",
+    "original_label": "Air Cooled",
+    "page": 1,
+    "bbox": [
+      460.6337895322019,
+      3080.967127728875,
+      501.29755387585504,
+      3103.618431073236
+    ]
+  },
+  {
+    "filename": "Exchanger_3.png",
+    "original_label": "Exchanger",
+    "page": 1,
+    "bbox": [
+      460.6337895322019,
+      3083.9650943479814,
+      501.29755387585504,
+      3111.2799013220642
+    ]
+  },
+  {
+    "filename": "U-Tube_Heat.png",
+    "original_label": "U-Tube Heat",
+    "page": 1,
+    "bbox": [
+      461.3004086198028,
+      3172.238555910566,
+      499.29769661305244,
+      3191.8918926358206
+    ]
+  },
+  {
+    "filename": "Light_Water_Station.png",
+    "original_label": "Light Water Station",
+    "page": 1,
+    "bbox": [
+      603.2902742787883,
+      3075.6374092949077,
+      642.6208004472397,
+      3105.617075485974
+    ]
+  },
+  {
+    "filename": "Silencer.png",
+    "original_label": "Silencer",
+    "page": 1,
+    "bbox": [
+      600.2904883845844,
+      3173.2378781169346,
+      642.6208004472397,
+      3186.562174201853
     ]
   },
   {
@@ -1765,9 +1578,20 @@
     "page": 1,
     "bbox": [
       34.33088301144486,
-      3394.483364857688,
+      3394.6854595199197,
       64.32874195348406,
-      3423.1484836104137
+      3422.966850476713
+    ]
+  },
+  {
+    "filename": "Heat_Consumer_Generator_Belt.png",
+    "original_label": "Heat Consumer Generator Belt",
+    "page": 1,
+    "bbox": [
+      177.3206773018317,
+      3358.0860123993634,
+      203.65213126206612,
+      3388.0310145889093
     ]
   },
   {
@@ -1776,20 +1600,9 @@
     "page": 1,
     "bbox": [
       321.9770193112207,
-      3406.8160322280464,
+      3406.9961826422887,
       350.3083305342577,
-      3422.1485376074115
-    ]
-  },
-  {
-    "filename": "Spray_Dryer_Dryer.png",
-    "original_label": "Spray Dryer Dryer",
-    "page": 1,
-    "bbox": [
-      34.33088301144486,
-      3403.1495635503725,
-      64.32874195348406,
-      3433.1479436404343
+      3422.301405983612
     ]
   },
   {
@@ -1798,31 +1611,9 @@
     "page": 1,
     "bbox": [
       28.664620766837455,
-      3495.4779111608964,
+      3495.7603980379167,
       69.66169465429103,
-      3516.810092558274
-    ]
-  },
-  {
-    "filename": "Plate_Tower.png",
-    "original_label": "Plate Tower",
-    "page": 1,
-    "bbox": [
-      180.65377273983606,
-      3500.810956510241,
-      202.65220263066482,
-      3530.809336600303
-    ]
-  },
-  {
-    "filename": "Cracking.png",
-    "original_label": "Cracking",
-    "page": 1,
-    "bbox": [
-      325.97673383682593,
-      3524.1430299136227,
-      343.64213965824905,
-      3554.1414100036845
+      3517.078939933122
     ]
   },
   {
@@ -1831,20 +1622,9 @@
     "page": 1,
     "bbox": [
       37.99728799324965,
-      3543.8086346393297,
+      3544.0602195192414,
       63.99543240968362,
-      3572.80706872639
-    ]
-  },
-  {
-    "filename": "Boom_Loader.png",
-    "original_label": "Boom Loader",
-    "page": 1,
-    "bbox": [
-      602.290345647387,
-      3546.1418419796682,
-      643.2874195348406,
-      3557.141248012691
+      3572.707010190923
     ]
   },
   {
@@ -1853,20 +1633,9 @@
     "page": 1,
     "bbox": [
       31.664406661041376,
-      3553.1414640006824,
+      3553.3870815983933,
       66.99521830388754,
-      3579.1400600787365
-    ]
-  },
-  {
-    "filename": "Automatic_Stoker.png",
-    "original_label": "Automatic Stoker",
-    "page": 1,
-    "bbox": [
-      611.9563224175996,
-      3606.1386021597923,
-      642.6208004472397,
-      3622.1377382078254
+      3579.3690545331747
     ]
   },
   {
@@ -1875,9 +1644,9 @@
     "page": 1,
     "bbox": [
       37.66397844944922,
-      3608.8051248344646,
+      3609.0151518561947,
       61.32895605928014,
-      3638.1368742558584
+      3638.3281469621015
     ]
   },
   {
@@ -1886,31 +1655,20 @@
     "page": 1,
     "bbox": [
       31.99771620484181,
-      3638.8035049245264,
+      3638.9943513963267,
       66.32859921628668,
-      3649.136280288881
+      3649.320520126817
     ]
   },
   {
-    "filename": "Furnace.png",
-    "original_label": "Furnace",
+    "filename": "Plate_Tower.png",
+    "original_label": "Plate Tower",
     "page": 1,
     "bbox": [
-      465.63343268920846,
-      3645.803126945541,
-      496.9645298064494,
-      3665.4687316712484
-    ]
-  },
-  {
-    "filename": "Electric_Motor.png",
-    "original_label": "Electric Motor",
-    "page": 1,
-    "bbox": [
-      606.6233697167927,
-      3653.1360643008893,
-      643.2874195348406,
-      3674.8015610326006
+      180.65377273983606,
+      3500.7569312946057,
+      202.65220263066482,
+      3530.736130834738
     ]
   },
   {
@@ -1919,20 +1677,75 @@
     "page": 1,
     "bbox": [
       182.32032045883824,
-      3691.467327749302,
+      3691.6245017001147,
       199.98572628026133,
-      3702.466733782325
+      3702.6168748648297
     ]
   },
   {
-    "filename": "Transport_Hydrocracking_4.png",
+    "filename": "Cracking.png",
+    "original_label": "Cracking",
+    "page": 1,
+    "bbox": [
+      325.97673383682593,
+      3524.407188709599,
+      343.64213965824905,
+      3554.386388249731
+    ]
+  },
+  {
+    "filename": "Furnace.png",
+    "original_label": "Furnace",
+    "page": 1,
+    "bbox": [
+      465.63343268920846,
+      3645.989497955691,
+      496.9645298064494,
+      3665.6425287653333
+    ]
+  },
+  {
+    "filename": "Transport_Hydrocracking.png",
     "original_label": "Transport Hydrocracking",
     "page": 1,
     "bbox": [
       464.63350405780716,
-      3711.1329324750095,
+      3711.277532509757,
       473.29955219661844,
-      3731.7984832037187
+      3731.929869970737
+    ]
+  },
+  {
+    "filename": "Boom_Loader.png",
+    "original_label": "Boom Loader",
+    "page": 1,
+    "bbox": [
+      602.290345647387,
+      3546.3919350390292,
+      643.2874195348406,
+      3557.3843082037442
+    ]
+  },
+  {
+    "filename": "Automatic_Stoker.png",
+    "original_label": "Automatic Stoker",
+    "page": 1,
+    "bbox": [
+      611.9563224175996,
+      3606.350334119294,
+      642.6208004472397,
+      3622.3392405406976
+    ]
+  },
+  {
+    "filename": "Electric_Motor.png",
+    "original_label": "Electric Motor",
+    "page": 1,
+    "bbox": [
+      606.6233697167927,
+      3653.317746732168,
+      643.2874195348406,
+      3674.9693908444856
     ]
   },
   {
@@ -1941,42 +1754,9 @@
     "page": 1,
     "bbox": [
       28.99793031063789,
-      3796.794973398853,
+      3797.1015471017795,
       69.66169465429103,
-      3811.7941634438844
-    ]
-  },
-  {
-    "filename": "Agitator,_Propeller.png",
-    "original_label": "Agitator, Propeller",
-    "page": 1,
-    "bbox": [
-      324.9768052054246,
-      3799.1281807391915,
-      348.975092359056,
-      3820.127046802235
-    ]
-  },
-  {
-    "filename": "Agitator,_Turbine.png",
-    "original_label": "Agitator, Turbine",
-    "page": 1,
-    "bbox": [
-      468.2999090396119,
-      3803.4612800855334,
-      491.29826756184195,
-      3829.1265608292533
-    ]
-  },
-  {
-    "filename": "Agitator,_Disc.png",
-    "original_label": "Agitator, Disc",
-    "page": 1,
-    "bbox": [
-      611.6230128737992,
-      3807.7943794318758,
-      634.9546809398297,
-      3837.792759521938
+      3812.0577595249047
     ]
   },
   {
@@ -1985,9 +1765,9 @@
     "page": 1,
     "bbox": [
       39.66383571225183,
-      3825.460092151579,
+      3825.6845308437523,
       58.99578925267709,
-      3851.792003563967
+      3851.9409926532394
     ]
   },
   {
@@ -1996,9 +1776,20 @@
     "page": 1,
     "bbox": [
       177.65398684563215,
-      3837.459444187604,
+      3837.6495007822527,
       201.65227399926349,
-      3864.124670934326
+      3863.90596259174
+    ]
+  },
+  {
+    "filename": "Agitator,_Propeller.png",
+    "original_label": "Agitator, Propeller",
+    "page": 1,
+    "bbox": [
+      324.9768052054246,
+      3799.4280690342657,
+      348.975092359056,
+      3820.3667664266413
     ]
   },
   {
@@ -2007,9 +1798,20 @@
     "page": 1,
     "bbox": [
       326.3100433806264,
-      3834.1262908442636,
+      3833.993537745489,
       347.64185418385426,
-      3862.1247789283216
+      3862.2441612113926
+    ]
+  },
+  {
+    "filename": "Agitator,_Turbine.png",
+    "original_label": "Agitator, Turbine",
+    "page": 1,
+    "bbox": [
+      468.2999090396119,
+      3803.416392347099,
+      491.29826756184195,
+      3829.3404938805165
     ]
   },
   {
@@ -2018,31 +1820,9 @@
     "page": 1,
     "bbox": [
       468.2999090396119,
-      3838.79270552494,
+      3838.9789418865307,
       490.6316484742411,
-      3867.124508943332
-    ]
-  },
-  {
-    "filename": "Agitator,.png",
-    "original_label": "Agitator,",
-    "page": 1,
-    "bbox": [
-      611.9563224175996,
-      3854.458526238639,
-      634.2880618522288,
-      3884.4569063287013
-    ]
-  },
-  {
-    "filename": "Cross-beam_Various_Mixers.png",
-    "original_label": "Cross-beam Various Mixers",
-    "page": 1,
-    "bbox": [
-      32.99764483624312,
-      3867.124508943332,
-      65.6619801286858,
-      3897.122889033394
+      3867.2295653524343
     ]
   },
   {
@@ -2051,9 +1831,20 @@
     "page": 1,
     "bbox": [
       468.2999090396119,
-      3877.1239689733525,
+      3877.200373634518,
       491.29826756184195,
-      3899.456096373732
+      3899.468512131172
+    ]
+  },
+  {
+    "filename": "Agitator,_Disc.png",
+    "original_label": "Agitator, Disc",
+    "page": 1,
+    "bbox": [
+      623.2888469068145,
+      3824.687450015544,
+      634.9546809398297,
+      3837.6495007822527
     ]
   },
   {
@@ -2062,9 +1853,9 @@
     "page": 1,
     "bbox": [
       173.6542723200269,
-      3954.78644187318,
+      3955.221637350764,
       205.65198852486873,
-      3984.4515066289077
+      3984.4463365917877
     ]
   },
   {
@@ -2072,21 +1863,10 @@
     "original_label": "Hammer Crusher",
     "page": 1,
     "bbox": [
-      313.3109711724094,
-      3984.118191294574,
+      314.64420934761114,
+      3984.4463365917877,
       358.3077595854682,
-      4007.7835800322896
-    ]
-  },
-  {
-    "filename": "Roller_Crusher.png",
-    "original_label": "Roller Crusher",
-    "page": 1,
-    "bbox": [
-      457.3006940941976,
-      3983.451560625906,
-      502.9641015948572,
-      4007.4502646979554
+      4008.0253552976137
     ]
   },
   {
@@ -2094,10 +1874,21 @@
     "original_label": "Impact Crusher",
     "page": 1,
     "bbox": [
-      313.9775902600103,
-      4014.44988671897,
+      314.64420934761114,
+      4014.6673323978466,
       358.3077595854682,
-      4037.4486447880176
+      4037.5821533936496
+    ]
+  },
+  {
+    "filename": "Roller_Crusher.png",
+    "original_label": "Roller Crusher",
+    "page": 1,
+    "bbox": [
+      459.96717044460104,
+      3984.7784354467994,
+      502.9641015948572,
+      4007.6932564426024
     ]
   },
   {
@@ -2106,9 +1897,20 @@
     "page": 1,
     "bbox": [
       466.96667086441016,
-      4015.116517387638,
+      4015.3315301078696,
       501.9641729634559,
-      4038.44859079102
+      4038.5784499586844
+    ]
+  },
+  {
+    "filename": "Centrifugal_6.png",
+    "original_label": "Centrifugal",
+    "page": 1,
+    "bbox": [
+      29.331239854438326,
+      4193.311161160501,
+      47.99657430726272,
+      4203.298171663592
     ]
   },
   {
@@ -2117,9 +1919,9 @@
     "page": 1,
     "bbox": [
       171.6544150572243,
-      4095.7788282964716,
+      4096.104258930417,
       205.3186789810683,
-      4125.110577717865
+      4125.399489739483
     ]
   },
   {
@@ -2128,20 +1930,9 @@
     "page": 1,
     "bbox": [
       176.98736775803127,
-      4137.776560422559,
+      4138.049703043398,
       204.31875034966697,
-      4159.44205715427
-    ]
-  },
-  {
-    "filename": "Centrifuge_Screw,_Centrifugal.png",
-    "original_label": "Centrifuge Screw, Centrifugal",
-    "page": 1,
-    "bbox": [
-      28.33131122303702,
-      4144.1095517749045,
-      70.66162328569233,
-      4164.44178716928
+      4159.355325449992
     ]
   },
   {
@@ -2150,53 +1941,9 @@
     "page": 1,
     "bbox": [
       176.98736775803127,
-      4140.109767762897,
+      4140.047105144016,
       204.31875034966697,
-      4169.774832518625
-    ]
-  },
-  {
-    "filename": "Centrifugal_Pump_Compressor.png",
-    "original_label": "Centrifugal Pump Compressor",
-    "page": 1,
-    "bbox": [
-      28.33131122303702,
-      4144.776182443573,
-      70.66162328569233,
-      4170.441463187292
-    ]
-  },
-  {
-    "filename": "Centrifuge,_Centrifuge,_High.png",
-    "original_label": "Centrifuge, Centrifuge, High",
-    "page": 1,
-    "bbox": [
-      176.98736775803127,
-      4180.774238551648,
-      204.31875034966697,
-      4203.772996620695
-    ]
-  },
-  {
-    "filename": "Centrifugal_4.png",
-    "original_label": "Centrifugal",
-    "page": 1,
-    "bbox": [
-      29.331239854438326,
-      4193.106905922006,
-      47.99657430726272,
-      4203.106365952027
-    ]
-  },
-  {
-    "filename": "Centrifugal_Fan_Speed.png",
-    "original_label": "Centrifugal Fan Speed",
-    "page": 1,
-    "bbox": [
-      176.98736775803127,
-      4184.774022563655,
-      204.31875034966697,
-      4212.105879979045
+      4170.0081366532895
     ]
   },
   {
@@ -2205,20 +1952,9 @@
     "page": 1,
     "bbox": [
       175.98743912662997,
-      4221.772024674732,
+      4221.940591269362,
       205.3186789810683,
-      4245.104098078114
-    ]
-  },
-  {
-    "filename": "Centrifuge,_Centrifugal.png",
-    "original_label": "Centrifuge, Centrifugal",
-    "page": 1,
-    "bbox": [
-      26.33145396023441,
-      4228.771646695746,
-      70.66162328569233,
-      4249.77051275879
+      4245.243615776574
     ]
   },
   {
@@ -2227,42 +1963,9 @@
     "page": 1,
     "bbox": [
       463.63357542640586,
-      4224.10523201507,
+      4224.270893720083,
       502.9641015948572,
-      4250.770458761792
-    ]
-  },
-  {
-    "filename": "Generator_Motor.png",
-    "original_label": "Generator Motor",
-    "page": 1,
-    "bbox": [
-      46.66333613206098,
-      4321.766624974939,
-      56.32931290227361,
-      4332.099400339293
-    ]
-  },
-  {
-    "filename": "Motor-operated_AC_Motor.png",
-    "original_label": "Motor-operated AC Motor",
-    "page": 1,
-    "bbox": [
-      185.6534158968426,
-      4320.433363637603,
-      198.98579764886003,
-      4333.765977010964
-    ]
-  },
-  {
-    "filename": "Diesel_Motor.png",
-    "original_label": "Diesel Motor",
-    "page": 1,
-    "bbox": [
-      601.2904170159857,
-      4313.100426282254,
-      643.620729078641,
-      4337.432445688638
+      4250.902921728325
     ]
   },
   {
@@ -2271,9 +1974,9 @@
     "page": 1,
     "bbox": [
       44.33016932545792,
-      4362.764411098024,
+      4363.094750402586,
       58.99578925267709,
-      4375.430393802717
+      4375.723036730182
     ]
   },
   {
@@ -2282,20 +1985,31 @@
     "page": 1,
     "bbox": [
       182.65363000263866,
-      4363.097726432357,
+      4363.427073726997,
       200.98565491166264,
-      4373.430501796713
+      4373.72909678372
     ]
   },
   {
-    "filename": "Motor-driven_AC_Generator.png",
-    "original_label": "Motor-driven AC Generator",
+    "filename": "Turbine.png",
+    "original_label": "Turbine",
     "page": 1,
     "bbox": [
-      331.9763056252338,
-      4363.431041766692,
-      346.3086160086525,
-      4376.430339805719
+      475.6327190032215,
+      4364.091720375818,
+      493.631434368445,
+      4377.716976676645
+    ]
+  },
+  {
+    "filename": "Diesel_Motor.png",
+    "original_label": "Diesel Motor",
+    "page": 1,
+    "bbox": [
+      601.2904170159857,
+      4313.246251741025,
+      643.620729078641,
+      4337.838177747395
     ]
   },
   {
@@ -2304,42 +2018,20 @@
     "page": 1,
     "bbox": [
       605.9567506291918,
-      4357.764681083014,
+      4358.10990053643,
       644.6206577100423,
-      4379.096862480391
+      4379.378593298697
     ]
   },
   {
-    "filename": "Motor_DC_Motor.png",
-    "original_label": "Motor DC Motor",
-    "page": 1,
-    "bbox": [
-      44.33016932545792,
-      4403.428881886774,
-      58.66247970887665,
-      4416.094864591468
-    ]
-  },
-  {
-    "filename": "DC_Generator_Gear.png",
-    "original_label": "DC Generator Gear",
-    "page": 1,
-    "bbox": [
-      178.98722502083388,
-      4398.762467206098,
-      205.98529806866915,
-      4425.761009287154
-    ]
-  },
-  {
-    "filename": "Turbine.png",
+    "filename": "Turbine_1.png",
     "original_label": "Turbine",
     "page": 1,
     "bbox": [
       627.6218709762201,
-      4399.429097874767,
+      4399.650316087732,
       635.954609571231,
-      4428.427531961826
+      4428.562445311438
     ]
   },
   {
@@ -2348,119 +2040,9 @@
     "page": 1,
     "bbox": [
       37.99728799324965,
-      4481.75798545527,
+      4482.212124855416,
       61.66226560308058,
-      4505.090058858652
-    ]
-  },
-  {
-    "filename": "Injector.png",
-    "original_label": "Injector",
-    "page": 1,
-    "bbox": [
-      174.32089140762778,
-      4486.091084801612,
-      207.3185362438709,
-      4503.756797521315
-    ]
-  },
-  {
-    "filename": "Machines.png",
-    "original_label": "Machines",
-    "page": 1,
-    "bbox": [
-      605.2901315415909,
-      4488.090976807616,
-      639.6210145530358,
-      4505.090058858652
-    ]
-  },
-  {
-    "filename": "Reducer.png",
-    "original_label": "Reducer",
-    "page": 1,
-    "bbox": [
-      175.3208200390291,
-      4522.755771578355,
-      206.65191715627003,
-      4542.754691638396
-    ]
-  },
-  {
-    "filename": "Z-form_Elevator.png",
-    "original_label": "Z-form Elevator",
-    "page": 1,
-    "bbox": [
-      318.31061432941596,
-      4525.755609587361,
-      355.97459277886514,
-      4547.754421653406
-    ]
-  },
-  {
-    "filename": "Lift.png",
-    "original_label": "Lift",
-    "page": 1,
-    "bbox": [
-      321.31040022361987,
-      4559.0871430207635,
-      352.97480688466123,
-      4589.085523110825
-    ]
-  },
-  {
-    "filename": "Conveyor.png",
-    "original_label": "Conveyor",
-    "page": 1,
-    "bbox": [
-      467.2999804082106,
-      4569.419918385118,
-      501.9641729634559,
-      4578.752747746471
-    ]
-  },
-  {
-    "filename": "Piston_Press.png",
-    "original_label": "Piston Press",
-    "page": 1,
-    "bbox": [
-      603.2902742787883,
-      4562.753611698437,
-      641.6208718158384,
-      4586.085685101819
-    ]
-  },
-  {
-    "filename": "Conveyor,.png",
-    "original_label": "Conveyor,",
-    "page": 1,
-    "bbox": [
-      461.6337181636032,
-      4603.418082487188,
-      503.6307206824581,
-      4619.083903200887
-    ]
-  },
-  {
-    "filename": "Conveyor,_1.png",
-    "original_label": "Conveyor,",
-    "page": 1,
-    "bbox": [
-      458.96724181319973,
-      4641.416030601266,
-      503.29741113865765,
-      4656.081905311964
-    ]
-  },
-  {
-    "filename": "Crane_Viewing_Glass.png",
-    "original_label": "Crane Viewing Glass",
-    "page": 1,
-    "bbox": [
-      172.6543436886256,
-      4654.748643974628,
-      208.3184648752722,
-      4676.414140706339
+      4505.528838105141
     ]
   },
   {
@@ -2469,86 +2051,9 @@
     "page": 1,
     "bbox": [
       36.66404981804791,
-      4657.748481983634,
+      4658.08676193906,
       62.99550377828232,
-      4683.413762727354
-    ]
-  },
-  {
-    "filename": "Roller_Conveyor.png",
-    "original_label": "Roller Conveyor",
-    "page": 1,
-    "bbox": [
-      456.6340750065967,
-      4680.080609384014,
-      503.6307206824581,
-      4691.41333075137
-    ]
-  },
-  {
-    "filename": "Back_Draft.png",
-    "original_label": "Back Draft",
-    "page": 1,
-    "bbox": [
-      171.98772460102472,
-      4706.745836130735,
-      207.65184578767133,
-      4727.744702193779
-    ]
-  },
-  {
-    "filename": "Bag_Filling.png",
-    "original_label": "Bag Filling",
-    "page": 1,
-    "bbox": [
-      321.6437097674203,
-      4698.746268106719,
-      352.6414973408608,
-      4720.41176483843
-    ]
-  },
-  {
-    "filename": "Conveyor_Damper.png",
-    "original_label": "Conveyor Damper",
-    "page": 1,
-    "bbox": [
-      171.98772460102472,
-      4708.74572813674,
-      207.65184578767133,
-      4727.744702193779
-    ]
-  },
-  {
-    "filename": "Machine_Solidifier.png",
-    "original_label": "Machine Solidifier",
-    "page": 1,
-    "bbox": [
-      43.99685978165749,
-      4709.745674139742,
-      51.99628883286795,
-      4738.7441082268015
-    ]
-  },
-  {
-    "filename": "Overhead_Box_Truck.png",
-    "original_label": "Overhead Box Truck",
-    "page": 1,
-    "bbox": [
-      169.98786733822212,
-      4749.076883591156,
-      210.9849412256757,
-      4775.408795003544
-    ]
-  },
-  {
-    "filename": "Belt_Skimmer_Permanent.png",
-    "original_label": "Belt Skimmer Permanent",
-    "page": 1,
-    "bbox": [
-      35.997430730447036,
-      4752.410036934496,
-      63.662122865883184,
-      4782.408417024559
+      4683.402050610191
     ]
   },
   {
@@ -2557,97 +2062,9 @@
     "page": 1,
     "bbox": [
       43.33024069405662,
-      4768.742488316863,
+      4769.007697827041,
       55.99600335847317,
-      4776.7420563408805
-    ]
-  },
-  {
-    "filename": "Firing_System.png",
-    "original_label": "Firing System",
-    "page": 1,
-    "bbox": [
-      608.6232269795953,
-      4783.408363027561,
-      638.287776377834,
-      4796.074345732253
-    ]
-  },
-  {
-    "filename": "Manual_Forklift.png",
-    "original_label": "Manual Forklift",
-    "page": 1,
-    "bbox": [
-      173.6542723200269,
-      4791.741246385911,
-      207.3185362438709,
-      4816.739896460963
-    ]
-  },
-  {
-    "filename": "Flame_Arrestor.png",
-    "original_label": "Flame Arrestor",
-    "page": 1,
-    "bbox": [
-      605.2901315415909,
-      4813.406743117623,
-      640.6209431844371,
-      4828.739248496988
-    ]
-  },
-  {
-    "filename": "Scraper_Rotary_Table.png",
-    "original_label": "Scraper Rotary Table",
-    "page": 1,
-    "bbox": [
-      32.99764483624312,
-      4831.072455837326,
-      66.6619087600871,
-      4854.404529240707
-    ]
-  },
-  {
-    "filename": "Conveyor_Feeder.png",
-    "original_label": "Conveyor Feeder",
-    "page": 1,
-    "bbox": [
-      37.66397844944922,
-      4835.072239849334,
-      63.662122865883184,
-      4864.7373046050625
-    ]
-  },
-  {
-    "filename": "Truck_Forklift.png",
-    "original_label": "Truck Forklift",
-    "page": 1,
-    "bbox": [
-      173.6542723200269,
-      4838.07207785834,
-      207.3185362438709,
-      4863.070727933392
-    ]
-  },
-  {
-    "filename": "Elevator.png",
-    "original_label": "Elevator",
-    "page": 1,
-    "bbox": [
-      250.3154673941271,
-      4919.401019435842,
-      263.6478491461445,
-      4927.7339027941925
-    ]
-  },
-  {
-    "filename": "Screw_Extruder.png",
-    "original_label": "Screw Extruder",
-    "page": 1,
-    "bbox": [
-      462.63364679500455,
-      4915.401235423834,
-      496.9645298064494,
-      4932.733632809202
+      4777.001999512661
     ]
   },
   {
@@ -2656,20 +2073,152 @@
     "page": 1,
     "bbox": [
       45.996717044460105,
-      4926.400641456857,
+      4926.562060214473,
       66.32859921628668,
-      4942.0664621705555
+      4941.884471778578
     ]
   },
   {
-    "filename": "Horizontal_Shaping_Metering.png",
-    "original_label": "Horizontal Shaping Metering",
+    "filename": "Injector.png",
+    "original_label": "Injector",
     "page": 1,
     "bbox": [
-      30.997787573440505,
-      4963.731958902267,
-      68.66176602288972,
-      4973.398103597953
+      174.32089140762778,
+      4486.542371601793,
+      207.3185362438709,
+      4504.1964544908715
+    ]
+  },
+  {
+    "filename": "Reducer.png",
+    "original_label": "Reducer",
+    "page": 1,
+    "bbox": [
+      175.3208200390291,
+      4522.849825090651,
+      206.65191715627003,
+      4543.16867520827
+    ]
+  },
+  {
+    "filename": "Viewing_Glass.png",
+    "original_label": "Viewing Glass",
+    "page": 1,
+    "bbox": [
+      172.6543436886256,
+      4613.118814957446,
+      208.3184648752722,
+      4632.438377364362
+    ]
+  },
+  {
+    "filename": "with_Lighting.png",
+    "original_label": "with Lighting",
+    "page": 1,
+    "bbox": [
+      172.6543436886256,
+      4658.08676193906,
+      208.3184648752722,
+      4684.734434224461
+    ]
+  },
+  {
+    "filename": "Back_Draft.png",
+    "original_label": "Back Draft",
+    "page": 1,
+    "bbox": [
+      171.98772460102472,
+      4707.051859763485,
+      207.65184578767133,
+      4728.036901688237
+    ]
+  },
+  {
+    "filename": "Manual_Forklift.png",
+    "original_label": "Manual Forklift",
+    "page": 1,
+    "bbox": [
+      173.6542723200269,
+      4791.991315173199,
+      207.3185362438709,
+      4816.973507940762
+    ]
+  },
+  {
+    "filename": "Truck_Forklift.png",
+    "original_label": "Truck Forklift",
+    "page": 1,
+    "bbox": [
+      173.6542723200269,
+      4838.291645769083,
+      207.3185362438709,
+      4863.273838536646
+    ]
+  },
+  {
+    "filename": "Industrial_Truck.png",
+    "original_label": "Industrial Truck",
+    "page": 1,
+    "bbox": [
+      170.654486425823,
+      4887.5898394970745,
+      209.9850125942744,
+      4896.250332989829
+    ]
+  },
+  {
+    "filename": "Z-form_Elevator.png",
+    "original_label": "Z-form Elevator",
+    "page": 1,
+    "bbox": [
+      318.31061432941596,
+      4526.180784126326,
+      355.97459277886514,
+      4548.165113761782
+    ]
+  },
+  {
+    "filename": "Lift.png",
+    "original_label": "Lift",
+    "page": 1,
+    "bbox": [
+      321.31040022361987,
+      4559.15727857951,
+      352.97480688466123,
+      4589.135909900586
+    ]
+  },
+  {
+    "filename": "Aerator_with.png",
+    "original_label": "Aerator with",
+    "page": 1,
+    "bbox": [
+      332.64292471283466,
+      4647.760788928467,
+      341.64228239544644,
+      4677.739420249543
+    ]
+  },
+  {
+    "filename": "Sparger.png",
+    "original_label": "Sparger",
+    "page": 1,
+    "bbox": [
+      332.64292471283466,
+      4658.08676193906,
+      341.64228239544644,
+      4688.065393260136
+    ]
+  },
+  {
+    "filename": "Bag_Filling.png",
+    "original_label": "Bag Filling",
+    "page": 1,
+    "bbox": [
+      321.6437097674203,
+      4699.057558077864,
+      352.6414973408608,
+      4720.708791809752
     ]
   },
   {
@@ -2678,86 +2227,152 @@
     "page": 1,
     "bbox": [
       328.64321018722944,
-      4946.732876851232,
+      4946.547814428523,
       345.64199692105166,
-      4972.398157594951
+      4972.529294906789
     ]
   },
   {
-    "filename": "Vibrating,_Closed_Ship.png",
-    "original_label": "Vibrating, Closed Ship",
+    "filename": "Skip_Hoist.png",
+    "original_label": "Skip Hoist",
     "page": 1,
     "bbox": [
-      172.98765323242606,
-      4948.399453522902,
-      209.9850125942744,
-      4970.398265588948
+      472.29962356521713,
+      4516.187907019302,
+      491.96488664944286,
+      4544.167962918972
     ]
   },
   {
-    "filename": "Top_to_Top.png",
-    "original_label": "Top to Top",
+    "filename": "Conveyor.png",
+    "original_label": "Conveyor",
     "page": 1,
     "bbox": [
-      175.65412958282954,
-      5036.394701787084,
-      207.3185362438709,
-      5056.060306512791
+      467.2999804082106,
+      4569.81634749367,
+      501.9641729634559,
+      4579.14303279356
     ]
   },
   {
-    "filename": "Separator_Major_Straight.png",
-    "original_label": "Separator Major Straight",
+    "filename": "Conveyor,.png",
+    "original_label": "Conveyor,",
+    "page": 1,
+    "bbox": [
+      461.6337181636032,
+      4603.792129657556,
+      503.6307206824581,
+      4619.447637125229
+    ]
+  },
+  {
+    "filename": "Conveyor,_1.png",
+    "original_label": "Conveyor,",
+    "page": 1,
+    "bbox": [
+      460.3004799884015,
+      4641.765062664253,
+      503.29741113865765,
+      4656.421282421223
+    ]
+  },
+  {
+    "filename": "Roller_Conveyor.png",
+    "original_label": "Roller Conveyor",
+    "page": 1,
+    "bbox": [
+      460.3004799884015,
+      4680.404187478083,
+      503.6307206824581,
+      4690.063968681541
+    ]
+  },
+  {
+    "filename": "Conveyor_1.png",
+    "original_label": "Conveyor",
+    "page": 1,
+    "bbox": [
+      460.3004799884015,
+      4757.6824371057455,
+      503.6307206824581,
+      4771.672465055581
+    ]
+  },
+  {
+    "filename": "Screw_Extruder.png",
+    "original_label": "Screw Extruder",
+    "page": 1,
+    "bbox": [
+      462.63364679500455,
+      4915.569895396745,
+      496.9645298064494,
+      4932.890882382256
+    ]
+  },
+  {
+    "filename": "Machines.png",
+    "original_label": "Machines",
+    "page": 1,
+    "bbox": [
+      605.2901315415909,
+      4488.2078511196305,
+      639.6210145530358,
+      4505.528838105141
+    ]
+  },
+  {
+    "filename": "Piston_Press.png",
+    "original_label": "Piston Press",
+    "page": 1,
+    "bbox": [
+      603.2902742787883,
+      4563.15442942232,
+      641.6208718158384,
+      4586.471142672046
+    ]
+  },
+  {
+    "filename": "Firing_System.png",
+    "original_label": "Firing System",
+    "page": 1,
+    "bbox": [
+      608.6232269795953,
+      4783.663917584011,
+      638.287776377834,
+      4796.321561919576
+    ]
+  },
+  {
+    "filename": "Flame_Arrestor.png",
+    "original_label": "Flame Arrestor",
+    "page": 1,
+    "bbox": [
+      605.2901315415909,
+      4813.642548905087,
+      640.6209431844371,
+      4828.964960469192
+    ]
+  },
+  {
+    "filename": "Conveyor,_2.png",
+    "original_label": "Conveyor,",
+    "page": 1,
+    "bbox": [
+      602.6236551911875,
+      4952.876636596306,
+      643.9540386224414,
+      4967.532856353277
+    ]
+  },
+  {
+    "filename": "Nuclear_Line_Pipe.png",
+    "original_label": "Nuclear Line Pipe",
     "page": 1,
     "bbox": [
       28.99793031063789,
-      5125.389896054267,
+      5125.866704588749,
       70.66162328569233,
-      5132.3895180752825
-    ]
-  },
-  {
-    "filename": "Breather.png",
-    "original_label": "Breather",
-    "page": 1,
-    "bbox": [
-      322.976947942622,
-      5211.385252312446,
-      351.3082591656591,
-      5238.717109727835
-    ]
-  },
-  {
-    "filename": "Drip_Pan_Elbow.png",
-    "original_label": "Drip Pan Elbow",
-    "page": 1,
-    "bbox": [
-      324.9768052054246,
-      5256.716137781873,
-      349.3084019028564,
-      5283.714679862928
-    ]
-  },
-  {
-    "filename": "Basket_Strainer.png",
-    "original_label": "Basket Strainer",
-    "page": 1,
-    "bbox": [
-      613.2895605928014,
-      5268.382174483563,
-      632.9548236770271,
-      5295.047401230286
-    ]
-  },
-  {
-    "filename": "Exhaust_Silencer.png",
-    "original_label": "Exhaust Silencer",
-    "page": 1,
-    "bbox": [
-      471.96631402141674,
-      5278.04831917925,
-      494.6313629998463,
-      5296.380662567622
+      5132.86466635786
     ]
   },
   {
@@ -2766,31 +2381,9 @@
     "page": 1,
     "bbox": [
       34.66419255524529,
-      5317.379528630665,
+      5317.477562552528,
       52.66290792046882,
-      5347.377908720727
-    ]
-  },
-  {
-    "filename": "Union.png",
-    "original_label": "Union",
-    "page": 1,
-    "bbox": [
-      252.3153246569297,
-      5346.711278052059,
-      277.6468499857628,
-      5355.377476744744
-    ]
-  },
-  {
-    "filename": "Exhaust_Head.png",
-    "original_label": "Exhaust Head",
-    "page": 1,
-    "bbox": [
-      474.2994808280198,
-      5344.378070711721,
-      491.96488664944286,
-      5369.710036121107
+      5347.468827277294
     ]
   },
   {
@@ -2799,9 +2392,9 @@
     "page": 1,
     "bbox": [
       29.664549398238762,
-      5375.376396804785,
+      5375.4606743537415,
       69.66169465429103,
-      5405.374776894847
+      5405.451939078507
     ]
   },
   {
@@ -2810,42 +2403,9 @@
     "page": 1,
     "bbox": [
       29.331239854438326,
-      5431.373372972901,
+      5431.777604781357,
       70.3283137418919,
-      5439.372940996917
-    ]
-  },
-  {
-    "filename": "Coupling.png",
-    "original_label": "Coupling",
-    "page": 1,
-    "bbox": [
-      615.9560369432048,
-      5478.370835113998,
-      630.9549664142245,
-      5501.369593183045
-    ]
-  },
-  {
-    "filename": "Open_Vent.png",
-    "original_label": "Open Vent",
-    "page": 1,
-    "bbox": [
-      400.97138119192397,
-      5495.369917165033,
-      431.96916876536443,
-      5503.702800523383
-    ]
-  },
-  {
-    "filename": "Welded.png",
-    "original_label": "Welded",
-    "page": 1,
-    "bbox": [
-      170.32117688202257,
-      5517.035413896745,
-      212.9847984884783,
-      5538.700910628456
+      5439.775275374628
     ]
   },
   {
@@ -2854,42 +2414,9 @@
     "page": 1,
     "bbox": [
       26.66476350403484,
-      5559.699776691499,
+      5560.073570548409,
       72.66148054849495,
-      5568.03266004985
-    ]
-  },
-  {
-    "filename": "Mechanical_Link.png",
-    "original_label": "Mechanical Link",
-    "page": 1,
-    "bbox": [
-      179.32053456463433,
-      5555.366677345157,
-      203.65213126206612,
-      5579.69869675154
-    ]
-  },
-  {
-    "filename": "Coupling_1.png",
-    "original_label": "Coupling",
-    "page": 1,
-    "bbox": [
-      616.6226560308057,
-      5554.033416007821,
-      630.2883473266236,
-      5583.365165429215
-    ]
-  },
-  {
-    "filename": "lly_Multi-Lines_Elbow.png",
-    "original_label": "lly Multi-Lines Elbow",
-    "page": 1,
-    "bbox": [
-      32.33102574864225,
-      5597.03109413691,
-      62.66219423448188,
-      5621.696428877628
+      5568.4044774163995
     ]
   },
   {
@@ -2898,42 +2425,9 @@
     "page": 1,
     "bbox": [
       33.33095438004355,
-      5651.69480896769,
+      5652.046782371023,
       59.329098796477524,
-      5668.360575684391
-    ]
-  },
-  {
-    "filename": "Flame_Arrestor_1.png",
-    "original_label": "Flame Arrestor",
-    "page": 1,
-    "bbox": [
-      469.2998376710132,
-      5678.360035714411,
-      497.29783935024983,
-      5693.359225759443
-    ]
-  },
-  {
-    "filename": "Explosion-Proof.png",
-    "original_label": "Explosion-Proof",
-    "page": 1,
-    "bbox": [
-      613.9561796804022,
-      5691.026018419105,
-      633.9547523084284,
-      5712.358199816482
-    ]
-  },
-  {
-    "filename": "Duplex_Strainer.png",
-    "original_label": "Duplex Strainer",
-    "page": 1,
-    "bbox": [
-      261.6479918833419,
-      5706.691839132804,
-      281.646564511368,
-      5715.358037825488
+      5668.708596107004
     ]
   },
   {
@@ -2942,119 +2436,9 @@
     "page": 1,
     "bbox": [
       33.33095438004355,
-      5706.691839132804,
+      5707.03076769976,
       61.66226560308058,
-      5720.024452506164
-    ]
-  },
-  {
-    "filename": "In-line_Silencer.png",
-    "original_label": "In-line Silencer",
-    "page": 1,
-    "bbox": [
-      469.96645675861413,
-      5714.024776488152,
-      496.6312202626489,
-      5728.024020530181
-    ]
-  },
-  {
-    "filename": "Detonation-Proof.png",
-    "original_label": "Detonation-Proof",
-    "page": 1,
-    "bbox": [
-      612.6229415052005,
-      5733.023750545191,
-      628.6217996076214,
-      5757.689085285909
-    ]
-  },
-  {
-    "filename": "Vent_Silencer.png",
-    "original_label": "Vent Silencer",
-    "page": 1,
-    "bbox": [
-      329.64313881863075,
-      5738.356795894536,
-      344.64206828965035,
-      5768.355175984598
-    ]
-  },
-  {
-    "filename": "Flame_Arrestor_2.png",
-    "original_label": "Flame Arrestor",
-    "page": 1,
-    "bbox": [
-      612.6229415052005,
-      5738.356795894536,
-      628.6217996076214,
-      5761.688869297917
-    ]
-  },
-  {
-    "filename": "Interchangeable_Y-type_Strainer.png",
-    "original_label": "Interchangeable Y-type Strainer",
-    "page": 1,
-    "bbox": [
-      35.330811642846164,
-      5750.689463264895,
-      60.329027427878835,
-      5762.355499966586
-    ]
-  },
-  {
-    "filename": "Steam_Trap.png",
-    "original_label": "Steam Trap",
-    "page": 1,
-    "bbox": [
-      472.29962356521713,
-      5753.022670605233,
-      494.2980534560459,
-      5774.688167336944
-    ]
-  },
-  {
-    "filename": "Blind.png",
-    "original_label": "Blind",
-    "page": 1,
-    "bbox": [
-      184.32017772164085,
-      5755.355877945571,
-      198.65248810505958,
-      5785.3542580356325
-    ]
-  },
-  {
-    "filename": "Fire-Resistant.png",
-    "original_label": "Fire-Resistant",
-    "page": 1,
-    "bbox": [
-      612.6229415052005,
-      5776.688059342949,
-      630.6216568704241,
-      5800.353448080664
-    ]
-  },
-  {
-    "filename": "Flame_Arrestor_3.png",
-    "original_label": "Flame Arrestor",
-    "page": 1,
-    "bbox": [
-      612.6229415052005,
-      5781.021158689291,
-      631.2882759580249,
-      5805.353178095675
-    ]
-  },
-  {
-    "filename": "Basket_Strainer_1.png",
-    "original_label": "Basket Strainer",
-    "page": 1,
-    "bbox": [
-      320.64378113601896,
-      5787.687465375971,
-      353.6414259722621,
-      5810.686223445018
+      5720.360218688545
     ]
   },
   {
@@ -3063,20 +2447,108 @@
     "page": 1,
     "bbox": [
       41.330383431254006,
-      5798.686871408994,
+      5799.003979522375,
       58.32917016507622,
-      5816.019268794363
+      5816.332265807794
     ]
   },
   {
-    "filename": "Fire-Resistant,_Explosion-.png",
-    "original_label": "Fire-Resistant, Explosion-",
+    "filename": "Top_to_Top.png",
+    "original_label": "Top to Top",
     "page": 1,
     "bbox": [
-      612.6229415052005,
-      5822.685575481043,
-      631.9548950456258,
-      5847.684225556095
+      175.65412958282954,
+      5036.892619238611,
+      207.3185362438709,
+      5056.553559447068
+    ]
+  },
+  {
+    "filename": "Welded.png",
+    "original_label": "Welded",
+    "page": 1,
+    "bbox": [
+      170.32117688202257,
+      5517.419327384298,
+      212.9847984884783,
+      5538.7464489663535
+    ]
+  },
+  {
+    "filename": "Mechanical_Link.png",
+    "original_label": "Mechanical Link",
+    "page": 1,
+    "bbox": [
+      179.32053456463433,
+      5555.741498977054,
+      203.65213126206612,
+      5580.067747031586
+    ]
+  },
+  {
+    "filename": "Blind.png",
+    "original_label": "Blind",
+    "page": 1,
+    "bbox": [
+      184.32017772164085,
+      5755.350027534105,
+      198.65248810505958,
+      5785.34129225887
+    ]
+  },
+  {
+    "filename": "Breather.png",
+    "original_label": "Breather",
+    "page": 1,
+    "bbox": [
+      322.976947942622,
+      5211.84166346641,
+      351.3082591656591,
+      5239.1670379934185
+    ]
+  },
+  {
+    "filename": "Drip_Pan_Elbow.png",
+    "original_label": "Drip Pan Elbow",
+    "page": 1,
+    "bbox": [
+      324.9768052054246,
+      5257.161796828278,
+      349.3084019028564,
+      5284.153935080567
+    ]
+  },
+  {
+    "filename": "Duplex_Strainer.png",
+    "original_label": "Duplex Strainer",
+    "page": 1,
+    "bbox": [
+      324.3101861178238,
+      5701.698987304247,
+      349.9750209904573,
+      5713.695493194153
+    ]
+  },
+  {
+    "filename": "Vent_Silencer.png",
+    "original_label": "Vent Silencer",
+    "page": 1,
+    "bbox": [
+      329.64313881863075,
+      5738.354977523404,
+      344.64206828965035,
+      5768.34624224817
+    ]
+  },
+  {
+    "filename": "Basket_Strainer.png",
+    "original_label": "Basket Strainer",
+    "page": 1,
+    "bbox": [
+      320.64378113601896,
+      5788.007182456628,
+      353.6414259722621,
+      5811.000485412281
     ]
   },
   {
@@ -3085,64 +2557,9 @@
     "page": 1,
     "bbox": [
       330.3097579062316,
-      5827.018674827385,
+      5826.9958265988225,
       343.97544920204945,
-      5855.017162911444
-    ]
-  },
-  {
-    "filename": "Ejector_or.png",
-    "original_label": "Ejector or",
-    "page": 1,
-    "bbox": [
-      464.3001945140067,
-      5840.684603535081,
-      502.29748250725635,
-      5852.683955571106
-    ]
-  },
-  {
-    "filename": "Proof_Flame_Arrestor.png",
-    "original_label": "Proof Flame Arrestor",
-    "page": 1,
-    "bbox": [
-      612.6229415052005,
-      5828.351936164722,
-      630.9549664142245,
-      5851.684009568104
-    ]
-  },
-  {
-    "filename": "Eductor_Expansion_Joint.png",
-    "original_label": "Eductor Expansion Joint",
-    "page": 1,
-    "bbox": [
-      40.663764343653135,
-      5844.351072212755,
-      62.66219423448188,
-      5857.683685586116
-    ]
-  },
-  {
-    "filename": "Exhaust_Head_1.png",
-    "original_label": "Exhaust Head",
-    "page": 1,
-    "bbox": [
-      469.2998376710132,
-      5873.016190965481,
-      497.6311488940502,
-      5891.348534353852
-    ]
-  },
-  {
-    "filename": "with_Bursting_Disc.png",
-    "original_label": "with Bursting Disc",
-    "page": 1,
-    "bbox": [
-      34.33088301144486,
-      5881.682389658165,
-      68.32845647908928,
-      5889.681957682182
+      5855.32090994999
     ]
   },
   {
@@ -3151,9 +2568,207 @@
     "page": 1,
     "bbox": [
       322.976947942622,
-      5881.682389658165,
+      5881.64657565284,
       356.3079023226656,
-      5898.014841040533
+      5898.308389388821
+    ]
+  },
+  {
+    "filename": "Exhaust_Silencer.png",
+    "original_label": "Exhaust Silencer",
+    "page": 1,
+    "bbox": [
+      471.96631402141674,
+      5278.488918410333,
+      494.6313629998463,
+      5296.816913519912
+    ]
+  },
+  {
+    "filename": "Exhaust_Head.png",
+    "original_label": "Exhaust Head",
+    "page": 1,
+    "bbox": [
+      474.2994808280198,
+      5344.802937079537,
+      491.96488664944286,
+      5370.128893958228
+    ]
+  },
+  {
+    "filename": "Flame_Arrestor_1.png",
+    "original_label": "Flame Arrestor",
+    "page": 1,
+    "bbox": [
+      469.2998376710132,
+      5678.7056843485925,
+      497.29783935024983,
+      5693.701316710975
+    ]
+  },
+  {
+    "filename": "In-line_Silencer.png",
+    "original_label": "In-line Silencer",
+    "page": 1,
+    "bbox": [
+      469.96645675861413,
+      5714.361965743592,
+      496.6312202626489,
+      5728.357889281816
+    ]
+  },
+  {
+    "filename": "Steam_Trap.png",
+    "original_label": "Steam Trap",
+    "page": 1,
+    "bbox": [
+      472.29962356521713,
+      5753.350609885787,
+      494.2980534560459,
+      5775.010967742563
+    ]
+  },
+  {
+    "filename": "Ejector_or.png",
+    "original_label": "Ejector or",
+    "page": 1,
+    "bbox": [
+      464.3001945140067,
+      5840.991750137046,
+      502.29748250725635,
+      5852.9882560269525
+    ]
+  },
+  {
+    "filename": "Exhaust_Head_1.png",
+    "original_label": "Exhaust Head",
+    "page": 1,
+    "bbox": [
+      469.2998376710132,
+      5873.315668784849,
+      497.6311488940502,
+      5891.643663894428
+    ]
+  },
+  {
+    "filename": "Basket_Strainer_1.png",
+    "original_label": "Basket Strainer",
+    "page": 1,
+    "bbox": [
+      613.2895605928014,
+      5268.8250664434645,
+      632.9548236770271,
+      5294.8174958715945
+    ]
+  },
+  {
+    "filename": "Coupling.png",
+    "original_label": "Coupling",
+    "page": 1,
+    "bbox": [
+      615.9560369432048,
+      5478.097446967384,
+      630.9549664142245,
+      5501.757222472476
+    ]
+  },
+  {
+    "filename": "Coupling_1.png",
+    "original_label": "Coupling",
+    "page": 1,
+    "bbox": [
+      616.6226560308057,
+      5554.408553878176,
+      630.2883473266236,
+      5583.733346053502
+    ]
+  },
+  {
+    "filename": "ri.png",
+    "original_label": "ri",
+    "page": 1,
+    "bbox": [
+      612.6229415052005,
+      5599.395450965324,
+      634.2880618522288,
+      5621.389045096819
+    ]
+  },
+  {
+    "filename": "Explosion-Proof.png",
+    "original_label": "Explosion-Proof",
+    "page": 1,
+    "bbox": [
+      613.9561796804022,
+      5691.368662787938,
+      633.9547523084284,
+      5712.362548095274
+    ]
+  },
+  {
+    "filename": "Detonation-Proof.png",
+    "original_label": "Detonation-Proof",
+    "page": 1,
+    "bbox": [
+      612.6229415052005,
+      5733.3564334026105,
+      627.6218709762201,
+      5757.682681457142
+    ]
+  },
+  {
+    "filename": "Flame_Arrestor_2.png",
+    "original_label": "Flame Arrestor",
+    "page": 1,
+    "bbox": [
+      612.6229415052005,
+      5738.354977523404,
+      628.6217996076214,
+      5762.014753028497
+    ]
+  },
+  {
+    "filename": "Fire-Resistant.png",
+    "original_label": "Fire-Resistant",
+    "page": 1,
+    "bbox": [
+      612.6229415052005,
+      5777.0103853908795,
+      630.6216568704241,
+      5800.336924621253
+    ]
+  },
+  {
+    "filename": "Flame_Arrestor_3.png",
+    "original_label": "Flame Arrestor",
+    "page": 1,
+    "bbox": [
+      612.6229415052005,
+      5781.009220687515,
+      631.2882759580249,
+      5805.668705016767
+    ]
+  },
+  {
+    "filename": "Fire-Resistant,_Explosion-.png",
+    "original_label": "Fire-Resistant, Explosion-",
+    "page": 1,
+    "bbox": [
+      612.6229415052005,
+      5822.996991302187,
+      631.9548950456258,
+      5847.656475631438
+    ]
+  },
+  {
+    "filename": "Proof_Flame_Arrestor.png",
+    "original_label": "Proof Flame Arrestor",
+    "page": 1,
+    "bbox": [
+      612.6229415052005,
+      5828.328771697701,
+      630.9549664142245,
+      5851.988547202794
     ]
   }
 ]
