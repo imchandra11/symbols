@@ -1,0 +1,3789 @@
+[
+  {
+    "filename": "Pane.png",
+    "original_label": "Pane",
+    "section_idx": 0,
+    "column_idx": 0,
+    "column_file": "section_01_01.pdf"
+  },
+  {
+    "filename": "Local.png",
+    "original_label": "Local",
+    "section_idx": 0,
+    "column_idx": 0,
+    "column_file": "section_01_01.pdf"
+  },
+  {
+    "filename": "Pressure.png",
+    "original_label": "Pressure",
+    "section_idx": 0,
+    "column_idx": 0,
+    "column_file": "section_01_01.pdf"
+  },
+  {
+    "filename": "Thermometer.png",
+    "original_label": "Thermometer",
+    "section_idx": 0,
+    "column_idx": 0,
+    "column_file": "section_01_01.pdf"
+  },
+  {
+    "filename": "Shared_Indicator.png",
+    "original_label": "Shared Indicator",
+    "section_idx": 0,
+    "column_idx": 0,
+    "column_file": "section_01_01.pdf"
+  },
+  {
+    "filename": "Displayed.png",
+    "original_label": "Displayed",
+    "section_idx": 0,
+    "column_idx": 0,
+    "column_file": "section_01_01.pdf"
+  },
+  {
+    "filename": "Shared_Indicator_1.png",
+    "original_label": "Shared Indicator",
+    "section_idx": 0,
+    "column_idx": 0,
+    "column_file": "section_01_01.pdf"
+  },
+  {
+    "filename": "Programmable.png",
+    "original_label": "Programmable",
+    "section_idx": 0,
+    "column_idx": 1,
+    "column_file": "section_01_02.pdf"
+  },
+  {
+    "filename": "Indicator.png",
+    "original_label": "Indicator",
+    "section_idx": 0,
+    "column_idx": 1,
+    "column_file": "section_01_02.pdf"
+  },
+  {
+    "filename": "Displayed_1.png",
+    "original_label": "Displayed",
+    "section_idx": 0,
+    "column_idx": 1,
+    "column_file": "section_01_02.pdf"
+  },
+  {
+    "filename": "Computer.png",
+    "original_label": "Computer",
+    "section_idx": 0,
+    "column_idx": 1,
+    "column_file": "section_01_02.pdf"
+  },
+  {
+    "filename": "Control_Unit.png",
+    "original_label": "Control Unit",
+    "section_idx": 0,
+    "column_idx": 1,
+    "column_file": "section_01_02.pdf"
+  },
+  {
+    "filename": "Panel.png",
+    "original_label": "Panel",
+    "section_idx": 0,
+    "column_idx": 1,
+    "column_file": "section_01_02.pdf"
+  },
+  {
+    "filename": "Temp.png",
+    "original_label": "Temp",
+    "section_idx": 0,
+    "column_idx": 1,
+    "column_file": "section_01_02.pdf"
+  },
+  {
+    "filename": "Temp_Recorder.png",
+    "original_label": "Temp Recorder",
+    "section_idx": 0,
+    "column_idx": 1,
+    "column_file": "section_01_02.pdf"
+  },
+  {
+    "filename": "Temp_1.png",
+    "original_label": "Temp",
+    "section_idx": 0,
+    "column_idx": 1,
+    "column_file": "section_01_02.pdf"
+  },
+  {
+    "filename": "Flow_Indicator.png",
+    "original_label": "Flow Indicator",
+    "section_idx": 0,
+    "column_idx": 1,
+    "column_file": "section_01_02.pdf"
+  },
+  {
+    "filename": "Flow_Recorder.png",
+    "original_label": "Flow Recorder",
+    "section_idx": 0,
+    "column_idx": 1,
+    "column_file": "section_01_02.pdf"
+  },
+  {
+    "filename": "Controller.png",
+    "original_label": "Controller",
+    "section_idx": 0,
+    "column_idx": 1,
+    "column_file": "section_01_02.pdf"
+  },
+  {
+    "filename": "Pressure_1.png",
+    "original_label": "Pressure",
+    "section_idx": 0,
+    "column_idx": 1,
+    "column_file": "section_01_02.pdf"
+  },
+  {
+    "filename": "Level_Recorder.png",
+    "original_label": "Level Recorder",
+    "section_idx": 0,
+    "column_idx": 1,
+    "column_file": "section_01_02.pdf"
+  },
+  {
+    "filename": "Level.png",
+    "original_label": "Level",
+    "section_idx": 0,
+    "column_idx": 2,
+    "column_file": "section_01_03.pdf"
+  },
+  {
+    "filename": "Pressure_2.png",
+    "original_label": "Pressure",
+    "section_idx": 0,
+    "column_idx": 2,
+    "column_file": "section_01_03.pdf"
+  },
+  {
+    "filename": "Pressure_3.png",
+    "original_label": "Pressure",
+    "section_idx": 0,
+    "column_idx": 2,
+    "column_file": "section_01_03.pdf"
+  },
+  {
+    "filename": "Pressure_4.png",
+    "original_label": "Pressure",
+    "section_idx": 0,
+    "column_idx": 2,
+    "column_file": "section_01_03.pdf"
+  },
+  {
+    "filename": "Pressure_5.png",
+    "original_label": "Pressure",
+    "section_idx": 0,
+    "column_idx": 2,
+    "column_file": "section_01_03.pdf"
+  },
+  {
+    "filename": "Pressure_6.png",
+    "original_label": "Pressure",
+    "section_idx": 0,
+    "column_idx": 2,
+    "column_file": "section_01_03.pdf"
+  },
+  {
+    "filename": "Recording.png",
+    "original_label": "Recording",
+    "section_idx": 0,
+    "column_idx": 2,
+    "column_file": "section_01_03.pdf"
+  },
+  {
+    "filename": "Level_Alarm.png",
+    "original_label": "Level Alarm",
+    "section_idx": 0,
+    "column_idx": 2,
+    "column_file": "section_01_03.pdf"
+  },
+  {
+    "filename": "Element.png",
+    "original_label": "Element",
+    "section_idx": 0,
+    "column_idx": 2,
+    "column_file": "section_01_03.pdf"
+  },
+  {
+    "filename": "Level_Gauge.png",
+    "original_label": "Level Gauge",
+    "section_idx": 0,
+    "column_idx": 2,
+    "column_file": "section_01_03.pdf"
+  },
+  {
+    "filename": "Specialty_Item.png",
+    "original_label": "Specialty Item",
+    "section_idx": 0,
+    "column_idx": 2,
+    "column_file": "section_01_03.pdf"
+  },
+  {
+    "filename": "Straightening.png",
+    "original_label": "Straightening",
+    "section_idx": 0,
+    "column_idx": 2,
+    "column_file": "section_01_03.pdf"
+  },
+  {
+    "filename": "Meter.png",
+    "original_label": "Meter",
+    "section_idx": 0,
+    "column_idx": 2,
+    "column_file": "section_01_03.pdf"
+  },
+  {
+    "filename": "Flow.png",
+    "original_label": "Flow",
+    "section_idx": 0,
+    "column_idx": 3,
+    "column_file": "section_01_04.pdf"
+  },
+  {
+    "filename": "Pitot_Tube.png",
+    "original_label": "Pitot Tube",
+    "section_idx": 0,
+    "column_idx": 3,
+    "column_file": "section_01_04.pdf"
+  },
+  {
+    "filename": "Target_Meter.png",
+    "original_label": "Target Meter",
+    "section_idx": 0,
+    "column_idx": 3,
+    "column_file": "section_01_04.pdf"
+  },
+  {
+    "filename": "Ultrasonic_Meter.png",
+    "original_label": "Ultrasonic Meter",
+    "section_idx": 0,
+    "column_idx": 3,
+    "column_file": "section_01_04.pdf"
+  },
+  {
+    "filename": "Quick_Change.png",
+    "original_label": "Quick Change",
+    "section_idx": 0,
+    "column_idx": 3,
+    "column_file": "section_01_04.pdf"
+  },
+  {
+    "filename": "Turbine_Meter.png",
+    "original_label": "Turbine Meter",
+    "section_idx": 0,
+    "column_idx": 3,
+    "column_file": "section_01_04.pdf"
+  },
+  {
+    "filename": "Rotometer.png",
+    "original_label": "Rotometer",
+    "section_idx": 0,
+    "column_idx": 3,
+    "column_file": "section_01_04.pdf"
+  },
+  {
+    "filename": "Venturi.png",
+    "original_label": "Venturi",
+    "section_idx": 0,
+    "column_idx": 3,
+    "column_file": "section_01_04.pdf"
+  },
+  {
+    "filename": "Flowmeter.png",
+    "original_label": "Flowmeter",
+    "section_idx": 0,
+    "column_idx": 3,
+    "column_file": "section_01_04.pdf"
+  },
+  {
+    "filename": "And_Gate.png",
+    "original_label": "And Gate",
+    "section_idx": 0,
+    "column_idx": 3,
+    "column_file": "section_01_04.pdf"
+  },
+  {
+    "filename": "Gate_Not.png",
+    "original_label": "Gate Not",
+    "section_idx": 0,
+    "column_idx": 4,
+    "column_file": "section_01_05.pdf"
+  },
+  {
+    "filename": "Correcting.png",
+    "original_label": "Correcting",
+    "section_idx": 0,
+    "column_idx": 4,
+    "column_file": "section_01_05.pdf"
+  },
+  {
+    "filename": "Element_1.png",
+    "original_label": "Element",
+    "section_idx": 0,
+    "column_idx": 4,
+    "column_file": "section_01_05.pdf"
+  },
+  {
+    "filename": "Diamond.png",
+    "original_label": "Diamond",
+    "section_idx": 0,
+    "column_idx": 4,
+    "column_file": "section_01_05.pdf"
+  },
+  {
+    "filename": "Pressure_7.png",
+    "original_label": "Pressure",
+    "section_idx": 0,
+    "column_idx": 4,
+    "column_file": "section_01_05.pdf"
+  },
+  {
+    "filename": "Gauges.png",
+    "original_label": "Gauges",
+    "section_idx": 0,
+    "column_idx": 4,
+    "column_file": "section_01_05.pdf"
+  },
+  {
+    "filename": "Thermometers.png",
+    "original_label": "Thermometers",
+    "section_idx": 0,
+    "column_idx": 4,
+    "column_file": "section_01_05.pdf"
+  },
+  {
+    "filename": "Averaging_Pitot.png",
+    "original_label": "Averaging Pitot",
+    "section_idx": 0,
+    "column_idx": 4,
+    "column_file": "section_01_05.pdf"
+  },
+  {
+    "filename": "Tube.png",
+    "original_label": "Tube",
+    "section_idx": 0,
+    "column_idx": 4,
+    "column_file": "section_01_05.pdf"
+  },
+  {
+    "filename": "Coriolis_Flow.png",
+    "original_label": "Coriolis Flow",
+    "section_idx": 0,
+    "column_idx": 4,
+    "column_file": "section_01_05.pdf"
+  },
+  {
+    "filename": "Sensor.png",
+    "original_label": "Sensor",
+    "section_idx": 0,
+    "column_idx": 4,
+    "column_file": "section_01_05.pdf"
+  },
+  {
+    "filename": "Flow_Nozzle.png",
+    "original_label": "Flow Nozzle",
+    "section_idx": 0,
+    "column_idx": 4,
+    "column_file": "section_01_05.pdf"
+  },
+  {
+    "filename": "Flume_Meter.png",
+    "original_label": "Flume Meter",
+    "section_idx": 0,
+    "column_idx": 4,
+    "column_file": "section_01_05.pdf"
+  },
+  {
+    "filename": "Manhole.png",
+    "original_label": "Manhole",
+    "section_idx": 0,
+    "column_idx": 4,
+    "column_file": "section_01_05.pdf"
+  },
+  {
+    "filename": "Socket.png",
+    "original_label": "Socket",
+    "section_idx": 0,
+    "column_idx": 4,
+    "column_file": "section_01_05.pdf"
+  },
+  {
+    "filename": "Connection.png",
+    "original_label": "Connection",
+    "section_idx": 0,
+    "column_idx": 4,
+    "column_file": "section_01_05.pdf"
+  },
+  {
+    "filename": "Support_Bracket.png",
+    "original_label": "Support Bracket",
+    "section_idx": 0,
+    "column_idx": 4,
+    "column_file": "section_01_05.pdf"
+  },
+  {
+    "filename": "Support_Leg.png",
+    "original_label": "Support Leg",
+    "section_idx": 0,
+    "column_idx": 4,
+    "column_file": "section_01_05.pdf"
+  },
+  {
+    "filename": "Valve.png",
+    "original_label": "Valve",
+    "section_idx": 1,
+    "column_idx": 0,
+    "column_file": "section_02_01.pdf"
+  },
+  {
+    "filename": "Hand-Operated.png",
+    "original_label": "Hand-Operated",
+    "section_idx": 1,
+    "column_idx": 0,
+    "column_file": "section_02_01.pdf"
+  },
+  {
+    "filename": "Rotary_Valve.png",
+    "original_label": "Rotary Valve",
+    "section_idx": 1,
+    "column_idx": 0,
+    "column_file": "section_02_01.pdf"
+  },
+  {
+    "filename": "Piston-Operated.png",
+    "original_label": "Piston-Operated",
+    "section_idx": 1,
+    "column_idx": 0,
+    "column_file": "section_02_01.pdf"
+  },
+  {
+    "filename": "Valve_1.png",
+    "original_label": "Valve",
+    "section_idx": 1,
+    "column_idx": 0,
+    "column_file": "section_02_01.pdf"
+  },
+  {
+    "filename": "Back_Pressure.png",
+    "original_label": "Back Pressure",
+    "section_idx": 1,
+    "column_idx": 0,
+    "column_file": "section_02_01.pdf"
+  },
+  {
+    "filename": "Cock_or.png",
+    "original_label": "Cock or",
+    "section_idx": 1,
+    "column_idx": 0,
+    "column_file": "section_02_01.pdf"
+  },
+  {
+    "filename": "Angle_Valve.png",
+    "original_label": "Angle Valve",
+    "section_idx": 1,
+    "column_idx": 1,
+    "column_file": "section_02_02.pdf"
+  },
+  {
+    "filename": "Globe_Angle.png",
+    "original_label": "Globe Angle",
+    "section_idx": 1,
+    "column_idx": 1,
+    "column_file": "section_02_02.pdf"
+  },
+  {
+    "filename": "Valve_2.png",
+    "original_label": "Valve",
+    "section_idx": 1,
+    "column_idx": 1,
+    "column_file": "section_02_02.pdf"
+  },
+  {
+    "filename": "Relief_Valve.png",
+    "original_label": "Relief Valve",
+    "section_idx": 1,
+    "column_idx": 1,
+    "column_file": "section_02_02.pdf"
+  },
+  {
+    "filename": "Valve_3.png",
+    "original_label": "Valve",
+    "section_idx": 1,
+    "column_idx": 1,
+    "column_file": "section_02_02.pdf"
+  },
+  {
+    "filename": "Normally_Closed.png",
+    "original_label": "Normally Closed",
+    "section_idx": 1,
+    "column_idx": 1,
+    "column_file": "section_02_02.pdf"
+  },
+  {
+    "filename": "Plug_Valve.png",
+    "original_label": "Plug Valve",
+    "section_idx": 1,
+    "column_idx": 1,
+    "column_file": "section_02_02.pdf"
+  },
+  {
+    "filename": "Solenoid_Valve.png",
+    "original_label": "Solenoid Valve",
+    "section_idx": 1,
+    "column_idx": 2,
+    "column_file": "section_02_03.pdf"
+  },
+  {
+    "filename": "ydraulic_Valve.png",
+    "original_label": "ydraulic Valve",
+    "section_idx": 1,
+    "column_idx": 2,
+    "column_file": "section_02_03.pdf"
+  },
+  {
+    "filename": "Motor-Operated.png",
+    "original_label": "Motor-Operated",
+    "section_idx": 1,
+    "column_idx": 2,
+    "column_file": "section_02_03.pdf"
+  },
+  {
+    "filename": "Gate_Weight.png",
+    "original_label": "Gate Weight",
+    "section_idx": 1,
+    "column_idx": 2,
+    "column_file": "section_02_03.pdf"
+  },
+  {
+    "filename": "Float-Operated.png",
+    "original_label": "Float-Operated",
+    "section_idx": 1,
+    "column_idx": 2,
+    "column_file": "section_02_03.pdf"
+  },
+  {
+    "filename": "4-way_Valve.png",
+    "original_label": "4-way Valve",
+    "section_idx": 1,
+    "column_idx": 3,
+    "column_file": "section_02_04.pdf"
+  },
+  {
+    "filename": "Electro-Hydraulic.png",
+    "original_label": "Electro-Hydraulic",
+    "section_idx": 1,
+    "column_idx": 3,
+    "column_file": "section_02_04.pdf"
+  },
+  {
+    "filename": "Valve_4.png",
+    "original_label": "Valve",
+    "section_idx": 1,
+    "column_idx": 3,
+    "column_file": "section_02_04.pdf"
+  },
+  {
+    "filename": "Gate_Valve.png",
+    "original_label": "Gate Valve",
+    "section_idx": 1,
+    "column_idx": 3,
+    "column_file": "section_02_04.pdf"
+  },
+  {
+    "filename": "Spring_Gate_Valve.png",
+    "original_label": "Spring Gate Valve",
+    "section_idx": 1,
+    "column_idx": 3,
+    "column_file": "section_02_04.pdf"
+  },
+  {
+    "filename": "Slide_Valve.png",
+    "original_label": "Slide Valve",
+    "section_idx": 1,
+    "column_idx": 3,
+    "column_file": "section_02_04.pdf"
+  },
+  {
+    "filename": "Knife_Valve.png",
+    "original_label": "Knife Valve",
+    "section_idx": 1,
+    "column_idx": 3,
+    "column_file": "section_02_04.pdf"
+  },
+  {
+    "filename": "——_Excess_Flow.png",
+    "original_label": "—— Excess Flow",
+    "section_idx": 1,
+    "column_idx": 3,
+    "column_file": "section_02_04.pdf"
+  },
+  {
+    "filename": "Post_Indicator.png",
+    "original_label": "Post Indicator",
+    "section_idx": 1,
+    "column_idx": 3,
+    "column_file": "section_02_04.pdf"
+  },
+  {
+    "filename": "Self_Draining_Valve.png",
+    "original_label": "Self Draining Valve",
+    "section_idx": 1,
+    "column_idx": 3,
+    "column_file": "section_02_04.pdf"
+  },
+  {
+    "filename": "Diaphragm_Valve.png",
+    "original_label": "Diaphragm Valve",
+    "section_idx": 1,
+    "column_idx": 3,
+    "column_file": "section_02_04.pdf"
+  },
+  {
+    "filename": "Pinch_Valve.png",
+    "original_label": "Pinch Valve",
+    "section_idx": 1,
+    "column_idx": 4,
+    "column_file": "section_02_05.pdf"
+  },
+  {
+    "filename": "Valve_5.png",
+    "original_label": "Valve",
+    "section_idx": 1,
+    "column_idx": 4,
+    "column_file": "section_02_05.pdf"
+  },
+  {
+    "filename": "Bleeder_Valve.png",
+    "original_label": "Bleeder Valve",
+    "section_idx": 1,
+    "column_idx": 4,
+    "column_file": "section_02_05.pdf"
+  },
+  {
+    "filename": "Integrated_Block.png",
+    "original_label": "Integrated Block",
+    "section_idx": 1,
+    "column_idx": 4,
+    "column_file": "section_02_05.pdf"
+  },
+  {
+    "filename": "Valve_6.png",
+    "original_label": "Valve",
+    "section_idx": 1,
+    "column_idx": 4,
+    "column_file": "section_02_05.pdf"
+  },
+  {
+    "filename": "Maual_Integrated.png",
+    "original_label": "Maual Integrated",
+    "section_idx": 1,
+    "column_idx": 4,
+    "column_file": "section_02_05.pdf"
+  },
+  {
+    "filename": "Valve_7.png",
+    "original_label": "Valve",
+    "section_idx": 1,
+    "column_idx": 4,
+    "column_file": "section_02_05.pdf"
+  },
+  {
+    "filename": "Orifice.png",
+    "original_label": "Orifice",
+    "section_idx": 1,
+    "column_idx": 4,
+    "column_file": "section_02_05.pdf"
+  },
+  {
+    "filename": "Rotameter.png",
+    "original_label": "Rotameter",
+    "section_idx": 1,
+    "column_idx": 4,
+    "column_file": "section_02_05.pdf"
+  },
+  {
+    "filename": "Quarter_Turn_Valve.png",
+    "original_label": "Quarter Turn Valve",
+    "section_idx": 1,
+    "column_idx": 4,
+    "column_file": "section_02_05.pdf"
+  },
+  {
+    "filename": "Double_Acting.png",
+    "original_label": "Double Acting",
+    "section_idx": 1,
+    "column_idx": 4,
+    "column_file": "section_02_05.pdf"
+  },
+  {
+    "filename": "Quarter_Turn_Valve_1.png",
+    "original_label": "Quarter Turn Valve",
+    "section_idx": 1,
+    "column_idx": 4,
+    "column_file": "section_02_05.pdf"
+  },
+  {
+    "filename": "Spring_Acting.png",
+    "original_label": "Spring Acting",
+    "section_idx": 1,
+    "column_idx": 4,
+    "column_file": "section_02_05.pdf"
+  },
+  {
+    "filename": "Water_Flow_Meter.png",
+    "original_label": "Water Flow Meter",
+    "section_idx": 1,
+    "column_idx": 4,
+    "column_file": "section_02_05.pdf"
+  },
+  {
+    "filename": "Self-Operating.png",
+    "original_label": "Self-Operating",
+    "section_idx": 1,
+    "column_idx": 4,
+    "column_file": "section_02_05.pdf"
+  },
+  {
+    "filename": "Reciprocating.png",
+    "original_label": "Reciprocating",
+    "section_idx": 2,
+    "column_idx": 0,
+    "column_file": "section_03_01.pdf"
+  },
+  {
+    "filename": "ompressor.png",
+    "original_label": "ompressor",
+    "section_idx": 2,
+    "column_idx": 0,
+    "column_file": "section_03_01.pdf"
+  },
+  {
+    "filename": "Compressor.png",
+    "original_label": "Compressor",
+    "section_idx": 2,
+    "column_idx": 0,
+    "column_file": "section_03_01.pdf"
+  },
+  {
+    "filename": "Compressor_1.png",
+    "original_label": "Compressor",
+    "section_idx": 2,
+    "column_idx": 0,
+    "column_file": "section_03_01.pdf"
+  },
+  {
+    "filename": "silencers.png",
+    "original_label": "silencers",
+    "section_idx": 2,
+    "column_idx": 0,
+    "column_file": "section_03_01.pdf"
+  },
+  {
+    "filename": "Centrifugal.png",
+    "original_label": "Centrifugal",
+    "section_idx": 2,
+    "column_idx": 0,
+    "column_file": "section_03_01.pdf"
+  },
+  {
+    "filename": "Rotary.png",
+    "original_label": "Rotary",
+    "section_idx": 2,
+    "column_idx": 0,
+    "column_file": "section_03_01.pdf"
+  },
+  {
+    "filename": "Compressor_2.png",
+    "original_label": "Compressor",
+    "section_idx": 2,
+    "column_idx": 0,
+    "column_file": "section_03_01.pdf"
+  },
+  {
+    "filename": "Rotary_1.png",
+    "original_label": "Rotary",
+    "section_idx": 2,
+    "column_idx": 0,
+    "column_file": "section_03_01.pdf"
+  },
+  {
+    "filename": "Compressor_3.png",
+    "original_label": "Compressor",
+    "section_idx": 2,
+    "column_idx": 0,
+    "column_file": "section_03_01.pdf"
+  },
+  {
+    "filename": "Rotory_Compressor.png",
+    "original_label": "Rotory Compressor",
+    "section_idx": 2,
+    "column_idx": 0,
+    "column_file": "section_03_01.pdf"
+  },
+  {
+    "filename": "and_silencers.png",
+    "original_label": "and silencers",
+    "section_idx": 2,
+    "column_idx": 0,
+    "column_file": "section_03_01.pdf"
+  },
+  {
+    "filename": "Liquid_ring.png",
+    "original_label": "Liquid ring",
+    "section_idx": 2,
+    "column_idx": 0,
+    "column_file": "section_03_01.pdf"
+  },
+  {
+    "filename": "Compressor_4.png",
+    "original_label": "Compressor",
+    "section_idx": 2,
+    "column_idx": 0,
+    "column_file": "section_03_01.pdf"
+  },
+  {
+    "filename": "Centrifugal_1.png",
+    "original_label": "Centrifugal",
+    "section_idx": 2,
+    "column_idx": 0,
+    "column_file": "section_03_01.pdf"
+  },
+  {
+    "filename": "Compressor_5.png",
+    "original_label": "Compressor",
+    "section_idx": 2,
+    "column_idx": 0,
+    "column_file": "section_03_01.pdf"
+  },
+  {
+    "filename": "Centrifugal_2.png",
+    "original_label": "Centrifugal",
+    "section_idx": 2,
+    "column_idx": 0,
+    "column_file": "section_03_01.pdf"
+  },
+  {
+    "filename": "Compressor_6.png",
+    "original_label": "Compressor",
+    "section_idx": 2,
+    "column_idx": 0,
+    "column_file": "section_03_01.pdf"
+  },
+  {
+    "filename": "Centrifugal_3.png",
+    "original_label": "Centrifugal",
+    "section_idx": 2,
+    "column_idx": 0,
+    "column_file": "section_03_01.pdf"
+  },
+  {
+    "filename": "Compressor_7.png",
+    "original_label": "Compressor",
+    "section_idx": 2,
+    "column_idx": 0,
+    "column_file": "section_03_01.pdf"
+  },
+  {
+    "filename": "Centrifugal_4.png",
+    "original_label": "Centrifugal",
+    "section_idx": 2,
+    "column_idx": 0,
+    "column_file": "section_03_01.pdf"
+  },
+  {
+    "filename": "blower.png",
+    "original_label": "blower",
+    "section_idx": 2,
+    "column_idx": 0,
+    "column_file": "section_03_01.pdf"
+  },
+  {
+    "filename": "Axial.png",
+    "original_label": "Axial",
+    "section_idx": 2,
+    "column_idx": 1,
+    "column_file": "section_03_02.pdf"
+  },
+  {
+    "filename": "Compressor_8.png",
+    "original_label": "Compressor",
+    "section_idx": 2,
+    "column_idx": 1,
+    "column_file": "section_03_02.pdf"
+  },
+  {
+    "filename": "Centrifugal_5.png",
+    "original_label": "Centrifugal",
+    "section_idx": 2,
+    "column_idx": 1,
+    "column_file": "section_03_02.pdf"
+  },
+  {
+    "filename": "pump.png",
+    "original_label": "pump",
+    "section_idx": 2,
+    "column_idx": 1,
+    "column_file": "section_03_02.pdf"
+  },
+  {
+    "filename": "Centrifugal_6.png",
+    "original_label": "Centrifugal",
+    "section_idx": 2,
+    "column_idx": 1,
+    "column_file": "section_03_02.pdf"
+  },
+  {
+    "filename": "pump_1.png",
+    "original_label": "pump",
+    "section_idx": 2,
+    "column_idx": 1,
+    "column_file": "section_03_02.pdf"
+  },
+  {
+    "filename": "Centrifugal_7.png",
+    "original_label": "Centrifugal",
+    "section_idx": 2,
+    "column_idx": 1,
+    "column_file": "section_03_02.pdf"
+  },
+  {
+    "filename": "pump_2.png",
+    "original_label": "pump",
+    "section_idx": 2,
+    "column_idx": 1,
+    "column_file": "section_03_02.pdf"
+  },
+  {
+    "filename": "Centrifugal_8.png",
+    "original_label": "Centrifugal",
+    "section_idx": 2,
+    "column_idx": 1,
+    "column_file": "section_03_02.pdf"
+  },
+  {
+    "filename": "pump_3.png",
+    "original_label": "pump",
+    "section_idx": 2,
+    "column_idx": 1,
+    "column_file": "section_03_02.pdf"
+  },
+  {
+    "filename": "Vertical_pump.png",
+    "original_label": "Vertical pump",
+    "section_idx": 2,
+    "column_idx": 1,
+    "column_file": "section_03_02.pdf"
+  },
+  {
+    "filename": "Liquid_ring_1.png",
+    "original_label": "Liquid ring",
+    "section_idx": 2,
+    "column_idx": 1,
+    "column_file": "section_03_02.pdf"
+  },
+  {
+    "filename": "vacuum_pump.png",
+    "original_label": "vacuum pump",
+    "section_idx": 2,
+    "column_idx": 1,
+    "column_file": "section_03_02.pdf"
+  },
+  {
+    "filename": "Positive_displacement.png",
+    "original_label": "Positive displacement",
+    "section_idx": 2,
+    "column_idx": 1,
+    "column_file": "section_03_02.pdf"
+  },
+  {
+    "filename": "pump_4.png",
+    "original_label": "pump",
+    "section_idx": 2,
+    "column_idx": 1,
+    "column_file": "section_03_02.pdf"
+  },
+  {
+    "filename": "Vertical_pump_1.png",
+    "original_label": "Vertical pump",
+    "section_idx": 2,
+    "column_idx": 1,
+    "column_file": "section_03_02.pdf"
+  },
+  {
+    "filename": "Positive_displacement_1.png",
+    "original_label": "Positive displacement",
+    "section_idx": 2,
+    "column_idx": 2,
+    "column_file": "section_03_03.pdf"
+  },
+  {
+    "filename": "pump_5.png",
+    "original_label": "pump",
+    "section_idx": 2,
+    "column_idx": 2,
+    "column_file": "section_03_03.pdf"
+  },
+  {
+    "filename": "Rotary_pump.png",
+    "original_label": "Rotary pump",
+    "section_idx": 2,
+    "column_idx": 2,
+    "column_file": "section_03_03.pdf"
+  },
+  {
+    "filename": "Rotary_gear.png",
+    "original_label": "Rotary gear",
+    "section_idx": 2,
+    "column_idx": 2,
+    "column_file": "section_03_03.pdf"
+  },
+  {
+    "filename": "pump_6.png",
+    "original_label": "pump",
+    "section_idx": 2,
+    "column_idx": 2,
+    "column_file": "section_03_03.pdf"
+  },
+  {
+    "filename": "Gear_pump.png",
+    "original_label": "Gear pump",
+    "section_idx": 2,
+    "column_idx": 2,
+    "column_file": "section_03_03.pdf"
+  },
+  {
+    "filename": "Proportioning_pump.png",
+    "original_label": "Proportioning pump",
+    "section_idx": 2,
+    "column_idx": 2,
+    "column_file": "section_03_03.pdf"
+  },
+  {
+    "filename": "Screw_pump.png",
+    "original_label": "Screw pump",
+    "section_idx": 2,
+    "column_idx": 2,
+    "column_file": "section_03_03.pdf"
+  },
+  {
+    "filename": "pump_7.png",
+    "original_label": "pump",
+    "section_idx": 2,
+    "column_idx": 2,
+    "column_file": "section_03_03.pdf"
+  },
+  {
+    "filename": "Reciprocating_1.png",
+    "original_label": "Reciprocating",
+    "section_idx": 2,
+    "column_idx": 2,
+    "column_file": "section_03_03.pdf"
+  },
+  {
+    "filename": "pump_8.png",
+    "original_label": "pump",
+    "section_idx": 2,
+    "column_idx": 2,
+    "column_file": "section_03_03.pdf"
+  },
+  {
+    "filename": "pump_9.png",
+    "original_label": "pump",
+    "section_idx": 2,
+    "column_idx": 3,
+    "column_file": "section_03_04.pdf"
+  },
+  {
+    "filename": "Turbine_pump.png",
+    "original_label": "Turbine pump",
+    "section_idx": 2,
+    "column_idx": 3,
+    "column_file": "section_03_04.pdf"
+  },
+  {
+    "filename": "Fan.png",
+    "original_label": "Fan",
+    "section_idx": 2,
+    "column_idx": 3,
+    "column_file": "section_03_04.pdf"
+  },
+  {
+    "filename": "Selectable_fan.png",
+    "original_label": "Selectable fan",
+    "section_idx": 2,
+    "column_idx": 3,
+    "column_file": "section_03_04.pdf"
+  },
+  {
+    "filename": "blades.png",
+    "original_label": "blades",
+    "section_idx": 2,
+    "column_idx": 3,
+    "column_file": "section_03_04.pdf"
+  },
+  {
+    "filename": "blades_1.png",
+    "original_label": "blades",
+    "section_idx": 2,
+    "column_idx": 3,
+    "column_file": "section_03_04.pdf"
+  },
+  {
+    "filename": "Axial_flow_fan.png",
+    "original_label": "Axial flow fan",
+    "section_idx": 2,
+    "column_idx": 3,
+    "column_file": "section_03_04.pdf"
+  },
+  {
+    "filename": "Ejector.png",
+    "original_label": "Ejector",
+    "section_idx": 2,
+    "column_idx": 3,
+    "column_file": "section_03_04.pdf"
+  },
+  {
+    "filename": "Spray.png",
+    "original_label": "Spray",
+    "section_idx": 2,
+    "column_idx": 3,
+    "column_file": "section_03_04.pdf"
+  },
+  {
+    "filename": "fl_Diesel_motor.png",
+    "original_label": "fl Diesel motor",
+    "section_idx": 2,
+    "column_idx": 4,
+    "column_file": "section_03_05.pdf"
+  },
+  {
+    "filename": "ISO_diaphragm.png",
+    "original_label": "ISO diaphragm",
+    "section_idx": 2,
+    "column_idx": 4,
+    "column_file": "section_03_05.pdf"
+  },
+  {
+    "filename": "pump_10.png",
+    "original_label": "pump",
+    "section_idx": 2,
+    "column_idx": 4,
+    "column_file": "section_03_05.pdf"
+  },
+  {
+    "filename": "ISO_gear_pump.png",
+    "original_label": "ISO gear pump",
+    "section_idx": 2,
+    "column_idx": 4,
+    "column_file": "section_03_05.pdf"
+  },
+  {
+    "filename": "ISO_Progressive.png",
+    "original_label": "ISO Progressive",
+    "section_idx": 2,
+    "column_idx": 4,
+    "column_file": "section_03_05.pdf"
+  },
+  {
+    "filename": "pump_11.png",
+    "original_label": "pump",
+    "section_idx": 2,
+    "column_idx": 4,
+    "column_file": "section_03_05.pdf"
+  },
+  {
+    "filename": "ISO_positive.png",
+    "original_label": "ISO positive",
+    "section_idx": 2,
+    "column_idx": 4,
+    "column_file": "section_03_05.pdf"
+  },
+  {
+    "filename": "displacement_pump.png",
+    "original_label": "displacement pump",
+    "section_idx": 2,
+    "column_idx": 4,
+    "column_file": "section_03_05.pdf"
+  },
+  {
+    "filename": "ISO_reciprocating.png",
+    "original_label": "ISO reciprocating",
+    "section_idx": 2,
+    "column_idx": 4,
+    "column_file": "section_03_05.pdf"
+  },
+  {
+    "filename": "piston_pump.png",
+    "original_label": "piston pump",
+    "section_idx": 2,
+    "column_idx": 4,
+    "column_file": "section_03_05.pdf"
+  },
+  {
+    "filename": "ISO_screw_pump.png",
+    "original_label": "ISO screw pump",
+    "section_idx": 2,
+    "column_idx": 4,
+    "column_file": "section_03_05.pdf"
+  },
+  {
+    "filename": "Selectable.png",
+    "original_label": "Selectable",
+    "section_idx": 2,
+    "column_idx": 4,
+    "column_file": "section_03_05.pdf"
+  },
+  {
+    "filename": "Compressor_9.png",
+    "original_label": "Compressor",
+    "section_idx": 2,
+    "column_idx": 4,
+    "column_file": "section_03_05.pdf"
+  },
+  {
+    "filename": "Positive_displacement_2.png",
+    "original_label": "Positive displacement",
+    "section_idx": 2,
+    "column_idx": 4,
+    "column_file": "section_03_05.pdf"
+  },
+  {
+    "filename": "Motor.png",
+    "original_label": "Motor",
+    "section_idx": 2,
+    "column_idx": 4,
+    "column_file": "section_03_05.pdf"
+  },
+  {
+    "filename": "Mixing_Vessel.png",
+    "original_label": "Mixing Vessel",
+    "section_idx": 3,
+    "column_idx": 0,
+    "column_file": "section_04_01.pdf"
+  },
+  {
+    "filename": "Column.png",
+    "original_label": "Column",
+    "section_idx": 3,
+    "column_idx": 0,
+    "column_file": "section_04_01.pdf"
+  },
+  {
+    "filename": "Tray_Column.png",
+    "original_label": "Tray Column",
+    "section_idx": 3,
+    "column_idx": 0,
+    "column_file": "section_04_01.pdf"
+  },
+  {
+    "filename": "Staggered_Baffle.png",
+    "original_label": "Staggered Baffle",
+    "section_idx": 3,
+    "column_idx": 0,
+    "column_file": "section_04_01.pdf"
+  },
+  {
+    "filename": "Column_Trays.png",
+    "original_label": "Column Trays",
+    "section_idx": 3,
+    "column_idx": 0,
+    "column_file": "section_04_01.pdf"
+  },
+  {
+    "filename": "Packing_Column.png",
+    "original_label": "Packing Column",
+    "section_idx": 3,
+    "column_idx": 0,
+    "column_file": "section_04_01.pdf"
+  },
+  {
+    "filename": "Knock-out_drum.png",
+    "original_label": "Knock-out drum",
+    "section_idx": 3,
+    "column_idx": 1,
+    "column_file": "section_04_02.pdf"
+  },
+  {
+    "filename": "Bag.png",
+    "original_label": "Bag",
+    "section_idx": 3,
+    "column_idx": 1,
+    "column_file": "section_04_02.pdf"
+  },
+  {
+    "filename": "Bag_(ISO).png",
+    "original_label": "Bag (ISO)",
+    "section_idx": 3,
+    "column_idx": 1,
+    "column_file": "section_04_02.pdf"
+  },
+  {
+    "filename": "Barrel.png",
+    "original_label": "Barrel",
+    "section_idx": 3,
+    "column_idx": 1,
+    "column_file": "section_04_02.pdf"
+  },
+  {
+    "filename": "(ISO)_Barrel.png",
+    "original_label": "(ISO) Barrel",
+    "section_idx": 3,
+    "column_idx": 1,
+    "column_file": "section_04_02.pdf"
+  },
+  {
+    "filename": "Gas_bottle.png",
+    "original_label": "Gas bottle",
+    "section_idx": 3,
+    "column_idx": 1,
+    "column_file": "section_04_02.pdf"
+  },
+  {
+    "filename": "Dome_Boiler.png",
+    "original_label": "Dome Boiler",
+    "section_idx": 3,
+    "column_idx": 2,
+    "column_file": "section_04_03.pdf"
+  },
+  {
+    "filename": "Hot_Liquid_Boiler.png",
+    "original_label": "Hot Liquid Boiler",
+    "section_idx": 3,
+    "column_idx": 2,
+    "column_file": "section_04_03.pdf"
+  },
+  {
+    "filename": "Tank.png",
+    "original_label": "Tank",
+    "section_idx": 3,
+    "column_idx": 2,
+    "column_file": "section_04_03.pdf"
+  },
+  {
+    "filename": "Tank_1.png",
+    "original_label": "Tank",
+    "section_idx": 3,
+    "column_idx": 2,
+    "column_file": "section_04_03.pdf"
+  },
+  {
+    "filename": "Tank_2.png",
+    "original_label": "Tank",
+    "section_idx": 3,
+    "column_idx": 2,
+    "column_file": "section_04_03.pdf"
+  },
+  {
+    "filename": "Covered_Tank.png",
+    "original_label": "Covered Tank",
+    "section_idx": 3,
+    "column_idx": 3,
+    "column_file": "section_04_04.pdf"
+  },
+  {
+    "filename": "Floating_Roof_Tank.png",
+    "original_label": "Floating Roof Tank",
+    "section_idx": 3,
+    "column_idx": 3,
+    "column_file": "section_04_04.pdf"
+  },
+  {
+    "filename": "Open.png",
+    "original_label": "Open",
+    "section_idx": 3,
+    "column_idx": 3,
+    "column_file": "section_04_04.pdf"
+  },
+  {
+    "filename": "Storage_Bulk.png",
+    "original_label": "Storage Bulk",
+    "section_idx": 3,
+    "column_idx": 3,
+    "column_file": "section_04_04.pdf"
+  },
+  {
+    "filename": "Dome_Roof_Tank.png",
+    "original_label": "Dome Roof Tank",
+    "section_idx": 3,
+    "column_idx": 3,
+    "column_file": "section_04_04.pdf"
+  },
+  {
+    "filename": "Cone_Roof_Tank.png",
+    "original_label": "Cone Roof Tank",
+    "section_idx": 3,
+    "column_idx": 3,
+    "column_file": "section_04_04.pdf"
+  },
+  {
+    "filename": "Floating_Internal.png",
+    "original_label": "Floating Internal",
+    "section_idx": 3,
+    "column_idx": 3,
+    "column_file": "section_04_04.pdf"
+  },
+  {
+    "filename": "Roof_Tank.png",
+    "original_label": "Roof Tank",
+    "section_idx": 3,
+    "column_idx": 3,
+    "column_file": "section_04_04.pdf"
+  },
+  {
+    "filename": "Double.png",
+    "original_label": "Double",
+    "section_idx": 3,
+    "column_idx": 3,
+    "column_file": "section_04_04.pdf"
+  },
+  {
+    "filename": "Thermal_Insulation.png",
+    "original_label": "Thermal Insulation",
+    "section_idx": 3,
+    "column_idx": 4,
+    "column_file": "section_04_05.pdf"
+  },
+  {
+    "filename": "Vessel.png",
+    "original_label": "Vessel",
+    "section_idx": 3,
+    "column_idx": 4,
+    "column_file": "section_04_05.pdf"
+  },
+  {
+    "filename": "Jacket_Vessel.png",
+    "original_label": "Jacket Vessel",
+    "section_idx": 3,
+    "column_idx": 4,
+    "column_file": "section_04_05.pdf"
+  },
+  {
+    "filename": "Brackets_Vessel.png",
+    "original_label": "Brackets Vessel",
+    "section_idx": 3,
+    "column_idx": 4,
+    "column_file": "section_04_05.pdf"
+  },
+  {
+    "filename": "Dished_Ends_Vessel.png",
+    "original_label": "Dished Ends Vessel",
+    "section_idx": 3,
+    "column_idx": 4,
+    "column_file": "section_04_05.pdf"
+  },
+  {
+    "filename": "Pit_Vessel.png",
+    "original_label": "Pit Vessel",
+    "section_idx": 3,
+    "column_idx": 4,
+    "column_file": "section_04_05.pdf"
+  },
+  {
+    "filename": "Electrical_Heating.png",
+    "original_label": "Electrical Heating",
+    "section_idx": 3,
+    "column_idx": 4,
+    "column_file": "section_04_05.pdf"
+  },
+  {
+    "filename": "Vessel_1.png",
+    "original_label": "Vessel",
+    "section_idx": 3,
+    "column_idx": 4,
+    "column_file": "section_04_05.pdf"
+  },
+  {
+    "filename": "Wastewater_Treatment.png",
+    "original_label": "Wastewater Treatment",
+    "section_idx": 3,
+    "column_idx": 4,
+    "column_file": "section_04_05.pdf"
+  },
+  {
+    "filename": "Mode_Filter_indication.png",
+    "original_label": "Mode Filter indication",
+    "section_idx": 4,
+    "column_idx": 0,
+    "column_file": "section_05_01.pdf"
+  },
+  {
+    "filename": "Filter.png",
+    "original_label": "Filter",
+    "section_idx": 4,
+    "column_idx": 0,
+    "column_file": "section_05_01.pdf"
+  },
+  {
+    "filename": "Highpass_Filter.png",
+    "original_label": "Highpass Filter",
+    "section_idx": 4,
+    "column_idx": 0,
+    "column_file": "section_05_01.pdf"
+  },
+  {
+    "filename": "Filter_Lowpass.png",
+    "original_label": "Filter Lowpass",
+    "section_idx": 4,
+    "column_idx": 0,
+    "column_file": "section_05_01.pdf"
+  },
+  {
+    "filename": "Bandpass_Filter.png",
+    "original_label": "Bandpass Filter",
+    "section_idx": 4,
+    "column_idx": 0,
+    "column_file": "section_05_01.pdf"
+  },
+  {
+    "filename": "Filter_1.png",
+    "original_label": "Filter",
+    "section_idx": 4,
+    "column_idx": 1,
+    "column_file": "section_05_02.pdf"
+  },
+  {
+    "filename": "Filter_2.png",
+    "original_label": "Filter",
+    "section_idx": 4,
+    "column_idx": 1,
+    "column_file": "section_05_02.pdf"
+  },
+  {
+    "filename": "Gas_Filter.png",
+    "original_label": "Gas Filter",
+    "section_idx": 4,
+    "column_idx": 1,
+    "column_file": "section_05_02.pdf"
+  },
+  {
+    "filename": "Cartridge.png",
+    "original_label": "Cartridge",
+    "section_idx": 4,
+    "column_idx": 1,
+    "column_file": "section_05_02.pdf"
+  },
+  {
+    "filename": "Roll_air_Filter.png",
+    "original_label": "Roll air Filter",
+    "section_idx": 4,
+    "column_idx": 1,
+    "column_file": "section_05_02.pdf"
+  },
+  {
+    "filename": "Fixed_bed_air_Filter.png",
+    "original_label": "Fixed bed air Filter",
+    "section_idx": 4,
+    "column_idx": 2,
+    "column_file": "section_05_03.pdf"
+  },
+  {
+    "filename": "HEPA.png",
+    "original_label": "HEPA",
+    "section_idx": 4,
+    "column_idx": 2,
+    "column_file": "section_05_03.pdf"
+  },
+  {
+    "filename": "Fitter_gas.png",
+    "original_label": "Fitter gas",
+    "section_idx": 4,
+    "column_idx": 2,
+    "column_file": "section_05_03.pdf"
+  },
+  {
+    "filename": "Liquid_Filter.png",
+    "original_label": "Liquid Filter",
+    "section_idx": 4,
+    "column_idx": 2,
+    "column_file": "section_05_03.pdf"
+  },
+  {
+    "filename": "Fixed_bed_liquid.png",
+    "original_label": "Fixed bed liquid",
+    "section_idx": 4,
+    "column_idx": 2,
+    "column_file": "section_05_03.pdf"
+  },
+  {
+    "filename": "Filter_3.png",
+    "original_label": "Filter",
+    "section_idx": 4,
+    "column_idx": 2,
+    "column_file": "section_05_03.pdf"
+  },
+  {
+    "filename": "Rotary_liquid.png",
+    "original_label": "Rotary liquid",
+    "section_idx": 4,
+    "column_idx": 2,
+    "column_file": "section_05_03.pdf"
+  },
+  {
+    "filename": "Filter_4.png",
+    "original_label": "Filter",
+    "section_idx": 4,
+    "column_idx": 2,
+    "column_file": "section_05_03.pdf"
+  },
+  {
+    "filename": "lonexchanger_Filter.png",
+    "original_label": "lonexchanger Filter",
+    "section_idx": 4,
+    "column_idx": 3,
+    "column_file": "section_05_04.pdf"
+  },
+  {
+    "filename": "Press_Filter.png",
+    "original_label": "Press Filter",
+    "section_idx": 4,
+    "column_idx": 3,
+    "column_file": "section_05_04.pdf"
+  },
+  {
+    "filename": "Air_Filter.png",
+    "original_label": "Air Filter",
+    "section_idx": 4,
+    "column_idx": 3,
+    "column_file": "section_05_04.pdf"
+  },
+  {
+    "filename": "The_Filter.png",
+    "original_label": "The Filter",
+    "section_idx": 4,
+    "column_idx": 3,
+    "column_file": "section_05_04.pdf"
+  },
+  {
+    "filename": "efficiency_High.png",
+    "original_label": "efficiency High",
+    "section_idx": 4,
+    "column_idx": 4,
+    "column_file": "section_05_05.pdf"
+  },
+  {
+    "filename": "Primary_Filter.png",
+    "original_label": "Primary Filter",
+    "section_idx": 4,
+    "column_idx": 4,
+    "column_file": "section_05_05.pdf"
+  },
+  {
+    "filename": "Mid-effect_Filter.png",
+    "original_label": "Mid-effect Filter",
+    "section_idx": 4,
+    "column_idx": 4,
+    "column_file": "section_05_05.pdf"
+  },
+  {
+    "filename": "Filter_5.png",
+    "original_label": "Filter",
+    "section_idx": 4,
+    "column_idx": 4,
+    "column_file": "section_05_05.pdf"
+  },
+  {
+    "filename": "Suction_Filter.png",
+    "original_label": "Suction Filter",
+    "section_idx": 4,
+    "column_idx": 4,
+    "column_file": "section_05_05.pdf"
+  },
+  {
+    "filename": "Compressor,.png",
+    "original_label": "Compressor,",
+    "section_idx": 5,
+    "column_idx": 0,
+    "column_file": "section_06_01.pdf"
+  },
+  {
+    "filename": "Vacuum_pump.png",
+    "original_label": "Vacuum pump",
+    "section_idx": 5,
+    "column_idx": 0,
+    "column_file": "section_06_01.pdf"
+  },
+  {
+    "filename": "Centrifugal_9.png",
+    "original_label": "Centrifugal",
+    "section_idx": 5,
+    "column_idx": 0,
+    "column_file": "section_06_01.pdf"
+  },
+  {
+    "filename": "Compressor_10.png",
+    "original_label": "Compressor",
+    "section_idx": 5,
+    "column_idx": 0,
+    "column_file": "section_06_01.pdf"
+  },
+  {
+    "filename": "Diaphragm.png",
+    "original_label": "Diaphragm",
+    "section_idx": 5,
+    "column_idx": 0,
+    "column_file": "section_06_01.pdf"
+  },
+  {
+    "filename": "Compressor_11.png",
+    "original_label": "Compressor",
+    "section_idx": 5,
+    "column_idx": 0,
+    "column_file": "section_06_01.pdf"
+  },
+  {
+    "filename": "Compressor_Ejector.png",
+    "original_label": "Compressor Ejector",
+    "section_idx": 5,
+    "column_idx": 1,
+    "column_file": "section_06_02.pdf"
+  },
+  {
+    "filename": "Compressor_Piston.png",
+    "original_label": "Compressor Piston",
+    "section_idx": 5,
+    "column_idx": 1,
+    "column_file": "section_06_02.pdf"
+  },
+  {
+    "filename": "Roller_vane.png",
+    "original_label": "Roller vane",
+    "section_idx": 5,
+    "column_idx": 1,
+    "column_file": "section_06_02.pdf"
+  },
+  {
+    "filename": "Compressor_12.png",
+    "original_label": "Compressor",
+    "section_idx": 5,
+    "column_idx": 1,
+    "column_file": "section_06_02.pdf"
+  },
+  {
+    "filename": "Reciprocating_2.png",
+    "original_label": "Reciprocating",
+    "section_idx": 5,
+    "column_idx": 1,
+    "column_file": "section_06_02.pdf"
+  },
+  {
+    "filename": "Compressor_13.png",
+    "original_label": "Compressor",
+    "section_idx": 5,
+    "column_idx": 1,
+    "column_file": "section_06_02.pdf"
+  },
+  {
+    "filename": "Rotary_Compressor.png",
+    "original_label": "Rotary Compressor",
+    "section_idx": 5,
+    "column_idx": 2,
+    "column_file": "section_06_03.pdf"
+  },
+  {
+    "filename": "Rotary_Compressor_1.png",
+    "original_label": "Rotary Compressor",
+    "section_idx": 5,
+    "column_idx": 2,
+    "column_file": "section_06_03.pdf"
+  },
+  {
+    "filename": "Rotory.png",
+    "original_label": "Rotory",
+    "section_idx": 5,
+    "column_idx": 2,
+    "column_file": "section_06_03.pdf"
+  },
+  {
+    "filename": "Compressor_14.png",
+    "original_label": "Compressor",
+    "section_idx": 5,
+    "column_idx": 2,
+    "column_file": "section_06_03.pdf"
+  },
+  {
+    "filename": "Rotory_Compressor_1.png",
+    "original_label": "Rotory Compressor",
+    "section_idx": 5,
+    "column_idx": 2,
+    "column_file": "section_06_03.pdf"
+  },
+  {
+    "filename": "and_silencers_1.png",
+    "original_label": "and silencers",
+    "section_idx": 5,
+    "column_idx": 2,
+    "column_file": "section_06_03.pdf"
+  },
+  {
+    "filename": "Liquid_ring_2.png",
+    "original_label": "Liquid ring",
+    "section_idx": 5,
+    "column_idx": 3,
+    "column_file": "section_06_04.pdf"
+  },
+  {
+    "filename": "Compressor_15.png",
+    "original_label": "Compressor",
+    "section_idx": 5,
+    "column_idx": 3,
+    "column_file": "section_06_04.pdf"
+  },
+  {
+    "filename": "Centrifugal_10.png",
+    "original_label": "Centrifugal",
+    "section_idx": 5,
+    "column_idx": 3,
+    "column_file": "section_06_04.pdf"
+  },
+  {
+    "filename": "Compressor_16.png",
+    "original_label": "Compressor",
+    "section_idx": 5,
+    "column_idx": 3,
+    "column_file": "section_06_04.pdf"
+  },
+  {
+    "filename": "Centrifugal_11.png",
+    "original_label": "Centrifugal",
+    "section_idx": 5,
+    "column_idx": 3,
+    "column_file": "section_06_04.pdf"
+  },
+  {
+    "filename": "Compressor_17.png",
+    "original_label": "Compressor",
+    "section_idx": 5,
+    "column_idx": 3,
+    "column_file": "section_06_04.pdf"
+  },
+  {
+    "filename": "Centrifugal_12.png",
+    "original_label": "Centrifugal",
+    "section_idx": 5,
+    "column_idx": 3,
+    "column_file": "section_06_04.pdf"
+  },
+  {
+    "filename": "Compressor_18.png",
+    "original_label": "Compressor",
+    "section_idx": 5,
+    "column_idx": 3,
+    "column_file": "section_06_04.pdf"
+  },
+  {
+    "filename": "Selectable_1.png",
+    "original_label": "Selectable",
+    "section_idx": 5,
+    "column_idx": 3,
+    "column_file": "section_06_04.pdf"
+  },
+  {
+    "filename": "Compressor_19.png",
+    "original_label": "Compressor",
+    "section_idx": 5,
+    "column_idx": 3,
+    "column_file": "section_06_04.pdf"
+  },
+  {
+    "filename": "Air_Compressor.png",
+    "original_label": "Air Compressor",
+    "section_idx": 5,
+    "column_idx": 4,
+    "column_file": "section_06_05.pdf"
+  },
+  {
+    "filename": "Turbo_Compressor.png",
+    "original_label": "Turbo Compressor",
+    "section_idx": 5,
+    "column_idx": 4,
+    "column_file": "section_06_05.pdf"
+  },
+  {
+    "filename": "Tema_TyPe_BEM.png",
+    "original_label": "Tema TyPe BEM",
+    "section_idx": 6,
+    "column_idx": 0,
+    "column_file": "section_07_01.pdf"
+  },
+  {
+    "filename": "tema_tyre_Beu.png",
+    "original_label": "tema tyre Beu",
+    "section_idx": 6,
+    "column_idx": 0,
+    "column_file": "section_07_01.pdf"
+  },
+  {
+    "filename": "tema_tyre_AEM.png",
+    "original_label": "tema tyre AEM",
+    "section_idx": 6,
+    "column_idx": 0,
+    "column_file": "section_07_01.pdf"
+  },
+  {
+    "filename": "Tema.png",
+    "original_label": "Tema",
+    "section_idx": 6,
+    "column_idx": 0,
+    "column_file": "section_07_01.pdf"
+  },
+  {
+    "filename": "AEL.png",
+    "original_label": "AEL",
+    "section_idx": 6,
+    "column_idx": 0,
+    "column_file": "section_07_01.pdf"
+  },
+  {
+    "filename": "NEN.png",
+    "original_label": "NEN",
+    "section_idx": 6,
+    "column_idx": 0,
+    "column_file": "section_07_01.pdf"
+  },
+  {
+    "filename": "TEMA_TYPE_BkU.png",
+    "original_label": "TEMA TYPE BkU",
+    "section_idx": 6,
+    "column_idx": 0,
+    "column_file": "section_07_01.pdf"
+  },
+  {
+    "filename": "Plate_Exchanger.png",
+    "original_label": "Plate Exchanger",
+    "section_idx": 6,
+    "column_idx": 0,
+    "column_file": "section_07_01.pdf"
+  },
+  {
+    "filename": "Plate_and_Frame.png",
+    "original_label": "Plate and Frame",
+    "section_idx": 6,
+    "column_idx": 0,
+    "column_file": "section_07_01.pdf"
+  },
+  {
+    "filename": "Heat_Exchanger.png",
+    "original_label": "Heat Exchanger",
+    "section_idx": 6,
+    "column_idx": 0,
+    "column_file": "section_07_01.pdf"
+  },
+  {
+    "filename": "over.png",
+    "original_label": "over",
+    "section_idx": 6,
+    "column_idx": 0,
+    "column_file": "section_07_01.pdf"
+  },
+  {
+    "filename": "Spray_Cooler.png",
+    "original_label": "Spray Cooler",
+    "section_idx": 6,
+    "column_idx": 1,
+    "column_file": "section_07_02.pdf"
+  },
+  {
+    "filename": "Forced-draft.png",
+    "original_label": "Forced-draft",
+    "section_idx": 6,
+    "column_idx": 1,
+    "column_file": "section_07_02.pdf"
+  },
+  {
+    "filename": "Cooling_Tower.png",
+    "original_label": "Cooling Tower",
+    "section_idx": 6,
+    "column_idx": 1,
+    "column_file": "section_07_02.pdf"
+  },
+  {
+    "filename": "Cooling_Tower_1.png",
+    "original_label": "Cooling Tower",
+    "section_idx": 6,
+    "column_idx": 1,
+    "column_file": "section_07_02.pdf"
+  },
+  {
+    "filename": "Heater.png",
+    "original_label": "Heater",
+    "section_idx": 6,
+    "column_idx": 1,
+    "column_file": "section_07_02.pdf"
+  },
+  {
+    "filename": "Condenser.png",
+    "original_label": "Condenser",
+    "section_idx": 6,
+    "column_idx": 1,
+    "column_file": "section_07_02.pdf"
+  },
+  {
+    "filename": "Shell_and_Tube.png",
+    "original_label": "Shell and Tube",
+    "section_idx": 6,
+    "column_idx": 1,
+    "column_file": "section_07_02.pdf"
+  },
+  {
+    "filename": "Heat.png",
+    "original_label": "Heat",
+    "section_idx": 6,
+    "column_idx": 1,
+    "column_file": "section_07_02.pdf"
+  },
+  {
+    "filename": "Shell_and_Tube_1.png",
+    "original_label": "Shell and Tube",
+    "section_idx": 6,
+    "column_idx": 1,
+    "column_file": "section_07_02.pdf"
+  },
+  {
+    "filename": "Heat_1.png",
+    "original_label": "Heat",
+    "section_idx": 6,
+    "column_idx": 1,
+    "column_file": "section_07_02.pdf"
+  },
+  {
+    "filename": "Shell_and_Tube_2.png",
+    "original_label": "Shell and Tube",
+    "section_idx": 6,
+    "column_idx": 2,
+    "column_file": "section_07_03.pdf"
+  },
+  {
+    "filename": "Heat_2.png",
+    "original_label": "Heat",
+    "section_idx": 6,
+    "column_idx": 2,
+    "column_file": "section_07_03.pdf"
+  },
+  {
+    "filename": "Cooler.png",
+    "original_label": "Cooler",
+    "section_idx": 6,
+    "column_idx": 2,
+    "column_file": "section_07_03.pdf"
+  },
+  {
+    "filename": "Induced_Flow_Air.png",
+    "original_label": "Induced Flow Air",
+    "section_idx": 6,
+    "column_idx": 2,
+    "column_file": "section_07_03.pdf"
+  },
+  {
+    "filename": "Fin-fan_Cooler.png",
+    "original_label": "Fin-fan Cooler",
+    "section_idx": 6,
+    "column_idx": 2,
+    "column_file": "section_07_03.pdf"
+  },
+  {
+    "filename": "Electric_Heater.png",
+    "original_label": "Electric Heater",
+    "section_idx": 6,
+    "column_idx": 2,
+    "column_file": "section_07_03.pdf"
+  },
+  {
+    "filename": "Heat_Exchanger_1.png",
+    "original_label": "Heat Exchanger",
+    "section_idx": 6,
+    "column_idx": 2,
+    "column_file": "section_07_03.pdf"
+  },
+  {
+    "filename": "Exchanger.png",
+    "original_label": "Exchanger",
+    "section_idx": 6,
+    "column_idx": 2,
+    "column_file": "section_07_03.pdf"
+  },
+  {
+    "filename": "Finned_Tubes.png",
+    "original_label": "Finned Tubes",
+    "section_idx": 6,
+    "column_idx": 2,
+    "column_file": "section_07_03.pdf"
+  },
+  {
+    "filename": "Floating_Head.png",
+    "original_label": "Floating Head",
+    "section_idx": 6,
+    "column_idx": 2,
+    "column_file": "section_07_03.pdf"
+  },
+  {
+    "filename": "Plate_Heat.png",
+    "original_label": "Plate Heat",
+    "section_idx": 6,
+    "column_idx": 2,
+    "column_file": "section_07_03.pdf"
+  },
+  {
+    "filename": "Kettle_Heat.png",
+    "original_label": "Kettle Heat",
+    "section_idx": 6,
+    "column_idx": 2,
+    "column_file": "section_07_03.pdf"
+  },
+  {
+    "filename": "Reboiler_Heat.png",
+    "original_label": "Reboiler Heat",
+    "section_idx": 6,
+    "column_idx": 2,
+    "column_file": "section_07_03.pdf"
+  },
+  {
+    "filename": "Single_Pass_Heat.png",
+    "original_label": "Single Pass Heat",
+    "section_idx": 6,
+    "column_idx": 3,
+    "column_file": "section_07_04.pdf"
+  },
+  {
+    "filename": "Exchanger_1.png",
+    "original_label": "Exchanger",
+    "section_idx": 6,
+    "column_idx": 3,
+    "column_file": "section_07_04.pdf"
+  },
+  {
+    "filename": "Single_Pass_Heat_1.png",
+    "original_label": "Single Pass Heat",
+    "section_idx": 6,
+    "column_idx": 3,
+    "column_file": "section_07_04.pdf"
+  },
+  {
+    "filename": "Exchanger_2.png",
+    "original_label": "Exchanger",
+    "section_idx": 6,
+    "column_idx": 3,
+    "column_file": "section_07_04.pdf"
+  },
+  {
+    "filename": "Exchanger_3.png",
+    "original_label": "Exchanger",
+    "section_idx": 6,
+    "column_idx": 3,
+    "column_file": "section_07_04.pdf"
+  },
+  {
+    "filename": "Exchanger_4.png",
+    "original_label": "Exchanger",
+    "section_idx": 6,
+    "column_idx": 3,
+    "column_file": "section_07_04.pdf"
+  },
+  {
+    "filename": "Cooled_Air.png",
+    "original_label": "Cooled Air",
+    "section_idx": 6,
+    "column_idx": 3,
+    "column_file": "section_07_04.pdf"
+  },
+  {
+    "filename": "Exchanger_5.png",
+    "original_label": "Exchanger",
+    "section_idx": 6,
+    "column_idx": 3,
+    "column_file": "section_07_04.pdf"
+  },
+  {
+    "filename": "Briquetting.png",
+    "original_label": "Briquetting",
+    "section_idx": 6,
+    "column_idx": 3,
+    "column_file": "section_07_04.pdf"
+  },
+  {
+    "filename": "Machine.png",
+    "original_label": "Machine",
+    "section_idx": 6,
+    "column_idx": 3,
+    "column_file": "section_07_04.pdf"
+  },
+  {
+    "filename": "U-Tube_Heat.png",
+    "original_label": "U-Tube Heat",
+    "section_idx": 6,
+    "column_idx": 3,
+    "column_file": "section_07_04.pdf"
+  },
+  {
+    "filename": "Exchanger_6.png",
+    "original_label": "Exchanger",
+    "section_idx": 6,
+    "column_idx": 3,
+    "column_file": "section_07_04.pdf"
+  },
+  {
+    "filename": "Boiler.png",
+    "original_label": "Boiler",
+    "section_idx": 6,
+    "column_idx": 3,
+    "column_file": "section_07_04.pdf"
+  },
+  {
+    "filename": "Vertical_Turbine.png",
+    "original_label": "Vertical Turbine",
+    "section_idx": 6,
+    "column_idx": 4,
+    "column_file": "section_07_05.pdf"
+  },
+  {
+    "filename": "Extractor_Hood.png",
+    "original_label": "Extractor Hood",
+    "section_idx": 6,
+    "column_idx": 4,
+    "column_file": "section_07_05.pdf"
+  },
+  {
+    "filename": "Hose_reel.png",
+    "original_label": "Hose reel",
+    "section_idx": 6,
+    "column_idx": 4,
+    "column_file": "section_07_05.pdf"
+  },
+  {
+    "filename": "Station_Light_Water.png",
+    "original_label": "Station Light Water",
+    "section_idx": 6,
+    "column_idx": 4,
+    "column_file": "section_07_05.pdf"
+  },
+  {
+    "filename": "Combustion.png",
+    "original_label": "Combustion",
+    "section_idx": 6,
+    "column_idx": 4,
+    "column_file": "section_07_05.pdf"
+  },
+  {
+    "filename": "Chamber.png",
+    "original_label": "Chamber",
+    "section_idx": 6,
+    "column_idx": 4,
+    "column_file": "section_07_05.pdf"
+  },
+  {
+    "filename": "Thin-Film.png",
+    "original_label": "Thin-Film",
+    "section_idx": 6,
+    "column_idx": 4,
+    "column_file": "section_07_05.pdf"
+  },
+  {
+    "filename": "Evaporator.png",
+    "original_label": "Evaporator",
+    "section_idx": 6,
+    "column_idx": 4,
+    "column_file": "section_07_05.pdf"
+  },
+  {
+    "filename": "Vent.png",
+    "original_label": "Vent",
+    "section_idx": 6,
+    "column_idx": 4,
+    "column_file": "section_07_05.pdf"
+  },
+  {
+    "filename": "mer.png",
+    "original_label": "mer",
+    "section_idx": 7,
+    "column_idx": 0,
+    "column_file": "section_08_01.pdf"
+  },
+  {
+    "filename": "Fluidized_Bed.png",
+    "original_label": "Fluidized Bed",
+    "section_idx": 7,
+    "column_idx": 0,
+    "column_file": "section_08_01.pdf"
+  },
+  {
+    "filename": "Roller_Conveyor.png",
+    "original_label": "Roller Conveyor",
+    "section_idx": 7,
+    "column_idx": 1,
+    "column_file": "section_08_02.pdf"
+  },
+  {
+    "filename": "Belt_Dryer.png",
+    "original_label": "Belt Dryer",
+    "section_idx": 7,
+    "column_idx": 1,
+    "column_file": "section_08_02.pdf"
+  },
+  {
+    "filename": "Generator.png",
+    "original_label": "Generator",
+    "section_idx": 7,
+    "column_idx": 2,
+    "column_file": "section_08_03.pdf"
+  },
+  {
+    "filename": "Drying_Oven.png",
+    "original_label": "Drying Oven",
+    "section_idx": 7,
+    "column_idx": 2,
+    "column_file": "section_08_03.pdf"
+  },
+  {
+    "filename": "Shelf_Moving.png",
+    "original_label": "Shelf Moving",
+    "section_idx": 7,
+    "column_idx": 4,
+    "column_file": "section_08_05.pdf"
+  },
+  {
+    "filename": "Crossflow.png",
+    "original_label": "Crossflow",
+    "section_idx": 8,
+    "column_idx": 0,
+    "column_file": "section_09_01.pdf"
+  },
+  {
+    "filename": "Draft_Inducted.png",
+    "original_label": "Draft Inducted",
+    "section_idx": 8,
+    "column_idx": 0,
+    "column_file": "section_09_01.pdf"
+  },
+  {
+    "filename": "Counterflow.png",
+    "original_label": "Counterflow",
+    "section_idx": 8,
+    "column_idx": 0,
+    "column_file": "section_09_01.pdf"
+  },
+  {
+    "filename": "Draft_Forced.png",
+    "original_label": "Draft Forced",
+    "section_idx": 8,
+    "column_idx": 0,
+    "column_file": "section_09_01.pdf"
+  },
+  {
+    "filename": "Chimney_Tower.png",
+    "original_label": "Chimney Tower",
+    "section_idx": 8,
+    "column_idx": 0,
+    "column_file": "section_09_01.pdf"
+  },
+  {
+    "filename": "Hyperbolic.png",
+    "original_label": "Hyperbolic",
+    "section_idx": 8,
+    "column_idx": 0,
+    "column_file": "section_09_01.pdf"
+  },
+  {
+    "filename": "Furnace.png",
+    "original_label": "Furnace",
+    "section_idx": 8,
+    "column_idx": 0,
+    "column_file": "section_09_01.pdf"
+  },
+  {
+    "filename": "Plate_Tower.png",
+    "original_label": "Plate Tower",
+    "section_idx": 8,
+    "column_idx": 1,
+    "column_file": "section_09_02.pdf"
+  },
+  {
+    "filename": "Hydrodesulfurization.png",
+    "original_label": "Hydrodesulfurization",
+    "section_idx": 8,
+    "column_idx": 1,
+    "column_file": "section_09_02.pdf"
+  },
+  {
+    "filename": "Cracking.png",
+    "original_label": "Cracking",
+    "section_idx": 8,
+    "column_idx": 2,
+    "column_file": "section_09_03.pdf"
+  },
+  {
+    "filename": "Tubular.png",
+    "original_label": "Tubular",
+    "section_idx": 8,
+    "column_idx": 2,
+    "column_file": "section_09_03.pdf"
+  },
+  {
+    "filename": "Fluidized_Reactor.png",
+    "original_label": "Fluidized Reactor",
+    "section_idx": 8,
+    "column_idx": 3,
+    "column_file": "section_09_04.pdf"
+  },
+  {
+    "filename": "al.png",
+    "original_label": "al",
+    "section_idx": 8,
+    "column_idx": 3,
+    "column_file": "section_09_04.pdf"
+  },
+  {
+    "filename": "Hydrocracking.png",
+    "original_label": "Hydrocracking",
+    "section_idx": 8,
+    "column_idx": 3,
+    "column_file": "section_09_04.pdf"
+  },
+  {
+    "filename": "Screen.png",
+    "original_label": "Screen",
+    "section_idx": 8,
+    "column_idx": 4,
+    "column_file": "section_09_05.pdf"
+  },
+  {
+    "filename": "Boom_Loader.png",
+    "original_label": "Boom Loader",
+    "section_idx": 8,
+    "column_idx": 4,
+    "column_file": "section_09_05.pdf"
+  },
+  {
+    "filename": "Stoker_Automatic.png",
+    "original_label": "Stoker Automatic",
+    "section_idx": 8,
+    "column_idx": 4,
+    "column_file": "section_09_05.pdf"
+  },
+  {
+    "filename": "Transport.png",
+    "original_label": "Transport",
+    "section_idx": 8,
+    "column_idx": 4,
+    "column_file": "section_09_05.pdf"
+  },
+  {
+    "filename": "In-line_Mixer.png",
+    "original_label": "In-line Mixer",
+    "section_idx": 9,
+    "column_idx": 0,
+    "column_file": "section_10_01.pdf"
+  },
+  {
+    "filename": "Various_Mixers.png",
+    "original_label": "Various Mixers",
+    "section_idx": 9,
+    "column_idx": 1,
+    "column_file": "section_10_02.pdf"
+  },
+  {
+    "filename": "Stirrer_Agitator,.png",
+    "original_label": "Stirrer Agitator,",
+    "section_idx": 9,
+    "column_idx": 1,
+    "column_file": "section_10_02.pdf"
+  },
+  {
+    "filename": "Agitator,_Propeller.png",
+    "original_label": "Agitator, Propeller",
+    "section_idx": 9,
+    "column_idx": 2,
+    "column_file": "section_10_03.pdf"
+  },
+  {
+    "filename": "Agitator,_Anchor.png",
+    "original_label": "Agitator, Anchor",
+    "section_idx": 9,
+    "column_idx": 2,
+    "column_file": "section_10_03.pdf"
+  },
+  {
+    "filename": "Agitator,_Turbine.png",
+    "original_label": "Agitator, Turbine",
+    "section_idx": 9,
+    "column_idx": 3,
+    "column_file": "section_10_04.pdf"
+  },
+  {
+    "filename": "Agitator,_Helical.png",
+    "original_label": "Agitator, Helical",
+    "section_idx": 9,
+    "column_idx": 3,
+    "column_file": "section_10_04.pdf"
+  },
+  {
+    "filename": "Paddle__Agitator,_Gat.png",
+    "original_label": "Paddle: Agitator, Gat",
+    "section_idx": 9,
+    "column_idx": 3,
+    "column_file": "section_10_04.pdf"
+  },
+  {
+    "filename": "Agitator,_Disc.png",
+    "original_label": "Agitator, Disc",
+    "section_idx": 9,
+    "column_idx": 4,
+    "column_file": "section_10_05.pdf"
+  },
+  {
+    "filename": "Agitator,.png",
+    "original_label": "Agitator,",
+    "section_idx": 9,
+    "column_idx": 4,
+    "column_file": "section_10_05.pdf"
+  },
+  {
+    "filename": "Cross-beam.png",
+    "original_label": "Cross-beam",
+    "section_idx": 9,
+    "column_idx": 4,
+    "column_file": "section_10_05.pdf"
+  },
+  {
+    "filename": "Crusher.png",
+    "original_label": "Crusher",
+    "section_idx": 10,
+    "column_idx": 0,
+    "column_file": "section_11_01.pdf"
+  },
+  {
+    "filename": "Medium_Crushers.png",
+    "original_label": "Medium Crushers",
+    "section_idx": 10,
+    "column_idx": 1,
+    "column_file": "section_11_02.pdf"
+  },
+  {
+    "filename": "Fine_Crushers.png",
+    "original_label": "Fine Crushers",
+    "section_idx": 10,
+    "column_idx": 1,
+    "column_file": "section_11_02.pdf"
+  },
+  {
+    "filename": "Crusher_Impact.png",
+    "original_label": "Crusher Impact",
+    "section_idx": 10,
+    "column_idx": 2,
+    "column_file": "section_11_03.pdf"
+  },
+  {
+    "filename": "Jaw_Crusher.png",
+    "original_label": "Jaw Crusher",
+    "section_idx": 10,
+    "column_idx": 3,
+    "column_file": "section_11_04.pdf"
+  },
+  {
+    "filename": "VY.png",
+    "original_label": "VY",
+    "section_idx": 10,
+    "column_idx": 4,
+    "column_file": "section_11_05.pdf"
+  },
+  {
+    "filename": "Vibration_Crusher.png",
+    "original_label": "Vibration Crusher",
+    "section_idx": 10,
+    "column_idx": 4,
+    "column_file": "section_11_05.pdf"
+  },
+  {
+    "filename": "Crusher_Hammer.png",
+    "original_label": "Crusher Hammer",
+    "section_idx": 10,
+    "column_idx": 4,
+    "column_file": "section_11_05.pdf"
+  },
+  {
+    "filename": "Centrifugal_Pump.png",
+    "original_label": "Centrifugal Pump",
+    "section_idx": 11,
+    "column_idx": 0,
+    "column_file": "section_12_01.pdf"
+  },
+  {
+    "filename": "Centrifugal_13.png",
+    "original_label": "Centrifugal",
+    "section_idx": 11,
+    "column_idx": 0,
+    "column_file": "section_12_01.pdf"
+  },
+  {
+    "filename": "Compressor_20.png",
+    "original_label": "Compressor",
+    "section_idx": 11,
+    "column_idx": 0,
+    "column_file": "section_12_01.pdf"
+  },
+  {
+    "filename": "Centrifugal_14.png",
+    "original_label": "Centrifugal",
+    "section_idx": 11,
+    "column_idx": 0,
+    "column_file": "section_12_01.pdf"
+  },
+  {
+    "filename": "Compressor_21.png",
+    "original_label": "Compressor",
+    "section_idx": 11,
+    "column_idx": 0,
+    "column_file": "section_12_01.pdf"
+  },
+  {
+    "filename": "Compressor_22.png",
+    "original_label": "Compressor",
+    "section_idx": 11,
+    "column_idx": 0,
+    "column_file": "section_12_01.pdf"
+  },
+  {
+    "filename": "Centrifuge,.png",
+    "original_label": "Centrifuge,",
+    "section_idx": 11,
+    "column_idx": 1,
+    "column_file": "section_12_02.pdf"
+  },
+  {
+    "filename": "Solid_Shell.png",
+    "original_label": "Solid Shell",
+    "section_idx": 11,
+    "column_idx": 1,
+    "column_file": "section_12_02.pdf"
+  },
+  {
+    "filename": "Centrifuge,_High.png",
+    "original_label": "Centrifuge, High",
+    "section_idx": 11,
+    "column_idx": 1,
+    "column_file": "section_12_02.pdf"
+  },
+  {
+    "filename": "Speed.png",
+    "original_label": "Speed",
+    "section_idx": 11,
+    "column_idx": 1,
+    "column_file": "section_12_02.pdf"
+  },
+  {
+    "filename": "Centrifuge,_1.png",
+    "original_label": "Centrifuge,",
+    "section_idx": 11,
+    "column_idx": 1,
+    "column_file": "section_12_02.pdf"
+  },
+  {
+    "filename": "Perforated_Shell.png",
+    "original_label": "Perforated Shell",
+    "section_idx": 11,
+    "column_idx": 1,
+    "column_file": "section_12_02.pdf"
+  },
+  {
+    "filename": "Centrifuge,_Pusher.png",
+    "original_label": "Centrifuge, Pusher",
+    "section_idx": 11,
+    "column_idx": 2,
+    "column_file": "section_12_03.pdf"
+  },
+  {
+    "filename": "Centrifuge_Screw,.png",
+    "original_label": "Centrifuge Screw,",
+    "section_idx": 11,
+    "column_idx": 2,
+    "column_file": "section_12_03.pdf"
+  },
+  {
+    "filename": "Perforated_Shell_1.png",
+    "original_label": "Perforated Shell",
+    "section_idx": 11,
+    "column_idx": 2,
+    "column_file": "section_12_03.pdf"
+  },
+  {
+    "filename": "Centrifuge,_2.png",
+    "original_label": "Centrifuge,",
+    "section_idx": 11,
+    "column_idx": 2,
+    "column_file": "section_12_03.pdf"
+  },
+  {
+    "filename": "Separator_disc.png",
+    "original_label": "Separator disc",
+    "section_idx": 11,
+    "column_idx": 2,
+    "column_file": "section_12_03.pdf"
+  },
+  {
+    "filename": "Centrifuge,_3.png",
+    "original_label": "Centrifuge,",
+    "section_idx": 11,
+    "column_idx": 2,
+    "column_file": "section_12_03.pdf"
+  },
+  {
+    "filename": "Skimmer.png",
+    "original_label": "Skimmer",
+    "section_idx": 11,
+    "column_idx": 2,
+    "column_file": "section_12_03.pdf"
+  },
+  {
+    "filename": "Centrifugal_Blower.png",
+    "original_label": "Centrifugal Blower",
+    "section_idx": 11,
+    "column_idx": 3,
+    "column_file": "section_12_04.pdf"
+  },
+  {
+    "filename": "Centrifugal_Pump_1.png",
+    "original_label": "Centrifugal Pump",
+    "section_idx": 11,
+    "column_idx": 3,
+    "column_file": "section_12_04.pdf"
+  },
+  {
+    "filename": "Centrifugal_Pump_2.png",
+    "original_label": "Centrifugal Pump",
+    "section_idx": 11,
+    "column_idx": 3,
+    "column_file": "section_12_04.pdf"
+  },
+  {
+    "filename": "Centrifuge.png",
+    "original_label": "Centrifuge",
+    "section_idx": 11,
+    "column_idx": 3,
+    "column_file": "section_12_04.pdf"
+  },
+  {
+    "filename": "Centrifugal_Pump_3.png",
+    "original_label": "Centrifugal Pump",
+    "section_idx": 11,
+    "column_idx": 4,
+    "column_file": "section_12_05.pdf"
+  },
+  {
+    "filename": "Motor_1.png",
+    "original_label": "Motor",
+    "section_idx": 12,
+    "column_idx": 0,
+    "column_file": "section_13_01.pdf"
+  },
+  {
+    "filename": "AC_Motor.png",
+    "original_label": "AC Motor",
+    "section_idx": 12,
+    "column_idx": 1,
+    "column_file": "section_13_02.pdf"
+  },
+  {
+    "filename": "Motor_Generator.png",
+    "original_label": "Motor Generator",
+    "section_idx": 12,
+    "column_idx": 1,
+    "column_file": "section_13_02.pdf"
+  },
+  {
+    "filename": "Gear.png",
+    "original_label": "Gear",
+    "section_idx": 12,
+    "column_idx": 1,
+    "column_file": "section_13_02.pdf"
+  },
+  {
+    "filename": "Motor-operated.png",
+    "original_label": "Motor-operated",
+    "section_idx": 12,
+    "column_idx": 3,
+    "column_file": "section_13_04.pdf"
+  },
+  {
+    "filename": "Motor-driven.png",
+    "original_label": "Motor-driven",
+    "section_idx": 12,
+    "column_idx": 3,
+    "column_file": "section_13_04.pdf"
+  },
+  {
+    "filename": "Turbine.png",
+    "original_label": "Turbine",
+    "section_idx": 12,
+    "column_idx": 3,
+    "column_file": "section_13_04.pdf"
+  },
+  {
+    "filename": "Motor_2.png",
+    "original_label": "Motor",
+    "section_idx": 12,
+    "column_idx": 3,
+    "column_file": "section_13_04.pdf"
+  },
+  {
+    "filename": "ll_Diesel_Motor.png",
+    "original_label": "ll Diesel Motor",
+    "section_idx": 12,
+    "column_idx": 4,
+    "column_file": "section_13_05.pdf"
+  },
+  {
+    "filename": "Electric_Motor.png",
+    "original_label": "Electric Motor",
+    "section_idx": 12,
+    "column_idx": 4,
+    "column_file": "section_13_05.pdf"
+  },
+  {
+    "filename": "Turbine_1.png",
+    "original_label": "Turbine",
+    "section_idx": 12,
+    "column_idx": 4,
+    "column_file": "section_13_05.pdf"
+  },
+  {
+    "filename": "Separator_Impact.png",
+    "original_label": "Separator Impact",
+    "section_idx": 13,
+    "column_idx": 0,
+    "column_file": "section_14_01.pdf"
+  },
+  {
+    "filename": "Gravity_Separator.png",
+    "original_label": "Gravity Separator",
+    "section_idx": 13,
+    "column_idx": 0,
+    "column_file": "section_14_01.pdf"
+  },
+  {
+    "filename": "Cyclone_Separator.png",
+    "original_label": "Cyclone Separator",
+    "section_idx": 13,
+    "column_idx": 0,
+    "column_file": "section_14_01.pdf"
+  },
+  {
+    "filename": "Electromagnetic.png",
+    "original_label": "Electromagnetic",
+    "section_idx": 13,
+    "column_idx": 0,
+    "column_file": "section_14_01.pdf"
+  },
+  {
+    "filename": "Separator.png",
+    "original_label": "Separator",
+    "section_idx": 13,
+    "column_idx": 0,
+    "column_file": "section_14_01.pdf"
+  },
+  {
+    "filename": "Electrostatic.png",
+    "original_label": "Electrostatic",
+    "section_idx": 13,
+    "column_idx": 0,
+    "column_file": "section_14_01.pdf"
+  },
+  {
+    "filename": "Precipitator_Separator.png",
+    "original_label": "Precipitator Separator",
+    "section_idx": 13,
+    "column_idx": 0,
+    "column_file": "section_14_01.pdf"
+  },
+  {
+    "filename": "Solidifier.png",
+    "original_label": "Solidifier",
+    "section_idx": 13,
+    "column_idx": 0,
+    "column_file": "section_14_01.pdf"
+  },
+  {
+    "filename": "Permanent.png",
+    "original_label": "Permanent",
+    "section_idx": 13,
+    "column_idx": 0,
+    "column_file": "section_14_01.pdf"
+  },
+  {
+    "filename": "Magnet.png",
+    "original_label": "Magnet",
+    "section_idx": 13,
+    "column_idx": 0,
+    "column_file": "section_14_01.pdf"
+  },
+  {
+    "filename": "Rotary_Table.png",
+    "original_label": "Rotary Table",
+    "section_idx": 13,
+    "column_idx": 0,
+    "column_file": "section_14_01.pdf"
+  },
+  {
+    "filename": "Feeder.png",
+    "original_label": "Feeder",
+    "section_idx": 13,
+    "column_idx": 0,
+    "column_file": "section_14_01.pdf"
+  },
+  {
+    "filename": "Proportional.png",
+    "original_label": "Proportional",
+    "section_idx": 13,
+    "column_idx": 0,
+    "column_file": "section_14_01.pdf"
+  },
+  {
+    "filename": "Feeder_1.png",
+    "original_label": "Feeder",
+    "section_idx": 13,
+    "column_idx": 0,
+    "column_file": "section_14_01.pdf"
+  },
+  {
+    "filename": "Rotary_Valve_1.png",
+    "original_label": "Rotary Valve",
+    "section_idx": 13,
+    "column_idx": 0,
+    "column_file": "section_14_01.pdf"
+  },
+  {
+    "filename": "Feeder_2.png",
+    "original_label": "Feeder",
+    "section_idx": 13,
+    "column_idx": 0,
+    "column_file": "section_14_01.pdf"
+  },
+  {
+    "filename": "Metering.png",
+    "original_label": "Metering",
+    "section_idx": 13,
+    "column_idx": 0,
+    "column_file": "section_14_01.pdf"
+  },
+  {
+    "filename": "Reducer.png",
+    "original_label": "Reducer",
+    "section_idx": 13,
+    "column_idx": 1,
+    "column_file": "section_14_02.pdf"
+  },
+  {
+    "filename": "Rupture_Disc.png",
+    "original_label": "Rupture Disc",
+    "section_idx": 13,
+    "column_idx": 1,
+    "column_file": "section_14_02.pdf"
+  },
+  {
+    "filename": "Glass_Viewing.png",
+    "original_label": "Glass Viewing",
+    "section_idx": 13,
+    "column_idx": 1,
+    "column_file": "section_14_02.pdf"
+  },
+  {
+    "filename": "Glass_Viewing_1.png",
+    "original_label": "Glass Viewing",
+    "section_idx": 13,
+    "column_idx": 1,
+    "column_file": "section_14_02.pdf"
+  },
+  {
+    "filename": "with_Lighting.png",
+    "original_label": "with Lighting",
+    "section_idx": 13,
+    "column_idx": 1,
+    "column_file": "section_14_02.pdf"
+  },
+  {
+    "filename": "Draft_Back.png",
+    "original_label": "Draft Back",
+    "section_idx": 13,
+    "column_idx": 1,
+    "column_file": "section_14_02.pdf"
+  },
+  {
+    "filename": "Damper.png",
+    "original_label": "Damper",
+    "section_idx": 13,
+    "column_idx": 1,
+    "column_file": "section_14_02.pdf"
+  },
+  {
+    "filename": "Manual_Forklift.png",
+    "original_label": "Manual Forklift",
+    "section_idx": 13,
+    "column_idx": 1,
+    "column_file": "section_14_02.pdf"
+  },
+  {
+    "filename": "Forklift_Truck.png",
+    "original_label": "Forklift Truck",
+    "section_idx": 13,
+    "column_idx": 1,
+    "column_file": "section_14_02.pdf"
+  },
+  {
+    "filename": "Truck.png",
+    "original_label": "Truck",
+    "section_idx": 13,
+    "column_idx": 1,
+    "column_file": "section_14_02.pdf"
+  },
+  {
+    "filename": "Rolling_Bin_Truck.png",
+    "original_label": "Rolling Bin Truck",
+    "section_idx": 13,
+    "column_idx": 1,
+    "column_file": "section_14_02.pdf"
+  },
+  {
+    "filename": "Ship.png",
+    "original_label": "Ship",
+    "section_idx": 13,
+    "column_idx": 1,
+    "column_file": "section_14_02.pdf"
+  },
+  {
+    "filename": "Elevator.png",
+    "original_label": "Elevator",
+    "section_idx": 13,
+    "column_idx": 2,
+    "column_file": "section_14_03.pdf"
+  },
+  {
+    "filename": "Z-form_Elevator.png",
+    "original_label": "Z-form Elevator",
+    "section_idx": 13,
+    "column_idx": 2,
+    "column_file": "section_14_03.pdf"
+  },
+  {
+    "filename": "Hoists.png",
+    "original_label": "Hoists",
+    "section_idx": 13,
+    "column_idx": 2,
+    "column_file": "section_14_03.pdf"
+  },
+  {
+    "filename": "Aerator_with.png",
+    "original_label": "Aerator with",
+    "section_idx": 13,
+    "column_idx": 2,
+    "column_file": "section_14_03.pdf"
+  },
+  {
+    "filename": "Sparger.png",
+    "original_label": "Sparger",
+    "section_idx": 13,
+    "column_idx": 2,
+    "column_file": "section_14_03.pdf"
+  },
+  {
+    "filename": "‘a.png",
+    "original_label": "‘a",
+    "section_idx": 13,
+    "column_idx": 2,
+    "column_file": "section_14_03.pdf"
+  },
+  {
+    "filename": "Bag_Filling.png",
+    "original_label": "Bag Filling",
+    "section_idx": 13,
+    "column_idx": 2,
+    "column_file": "section_14_03.pdf"
+  },
+  {
+    "filename": "Machine_1.png",
+    "original_label": "Machine",
+    "section_idx": 13,
+    "column_idx": 2,
+    "column_file": "section_14_03.pdf"
+  },
+  {
+    "filename": "Skimmer_Belt.png",
+    "original_label": "Skimmer Belt",
+    "section_idx": 13,
+    "column_idx": 2,
+    "column_file": "section_14_03.pdf"
+  },
+  {
+    "filename": "Screening.png",
+    "original_label": "Screening",
+    "section_idx": 13,
+    "column_idx": 2,
+    "column_file": "section_14_03.pdf"
+  },
+  {
+    "filename": "Gas_Flare.png",
+    "original_label": "Gas Flare",
+    "section_idx": 13,
+    "column_idx": 2,
+    "column_file": "section_14_03.pdf"
+  },
+  {
+    "filename": "Elevator_1.png",
+    "original_label": "Elevator",
+    "section_idx": 13,
+    "column_idx": 3,
+    "column_file": "section_14_04.pdf"
+  },
+  {
+    "filename": "Skip_Hoist.png",
+    "original_label": "Skip Hoist",
+    "section_idx": 13,
+    "column_idx": 3,
+    "column_file": "section_14_04.pdf"
+  },
+  {
+    "filename": "Conveyor,.png",
+    "original_label": "Conveyor,",
+    "section_idx": 13,
+    "column_idx": 3,
+    "column_file": "section_14_04.pdf"
+  },
+  {
+    "filename": "Conveyor,_1.png",
+    "original_label": "Conveyor,",
+    "section_idx": 13,
+    "column_idx": 3,
+    "column_file": "section_14_04.pdf"
+  },
+  {
+    "filename": "Roller_Conveyor_1.png",
+    "original_label": "Roller Conveyor",
+    "section_idx": 13,
+    "column_idx": 3,
+    "column_file": "section_14_04.pdf"
+  },
+  {
+    "filename": "Conveyor.png",
+    "original_label": "Conveyor",
+    "section_idx": 13,
+    "column_idx": 3,
+    "column_file": "section_14_04.pdf"
+  },
+  {
+    "filename": "Conveyor_1.png",
+    "original_label": "Conveyor",
+    "section_idx": 13,
+    "column_idx": 3,
+    "column_file": "section_14_04.pdf"
+  },
+  {
+    "filename": "Scraper.png",
+    "original_label": "Scraper",
+    "section_idx": 13,
+    "column_idx": 3,
+    "column_file": "section_14_04.pdf"
+  },
+  {
+    "filename": "Piston_Extruder.png",
+    "original_label": "Piston Extruder",
+    "section_idx": 13,
+    "column_idx": 3,
+    "column_file": "section_14_04.pdf"
+  },
+  {
+    "filename": "Shaping_Machines.png",
+    "original_label": "Shaping Machines",
+    "section_idx": 13,
+    "column_idx": 3,
+    "column_file": "section_14_04.pdf"
+  },
+  {
+    "filename": "Shaping_Machines_1.png",
+    "original_label": "Shaping Machines",
+    "section_idx": 13,
+    "column_idx": 3,
+    "column_file": "section_14_04.pdf"
+  },
+  {
+    "filename": "Horizontal_Shaping.png",
+    "original_label": "Horizontal Shaping",
+    "section_idx": 13,
+    "column_idx": 3,
+    "column_file": "section_14_04.pdf"
+  },
+  {
+    "filename": "Shaping_Vertical.png",
+    "original_label": "Shaping Vertical",
+    "section_idx": 13,
+    "column_idx": 4,
+    "column_file": "section_14_05.pdf"
+  },
+  {
+    "filename": "Machines.png",
+    "original_label": "Machines",
+    "section_idx": 13,
+    "column_idx": 4,
+    "column_file": "section_14_05.pdf"
+  },
+  {
+    "filename": "Pelletizing_Disc.png",
+    "original_label": "Pelletizing Disc",
+    "section_idx": 13,
+    "column_idx": 4,
+    "column_file": "section_14_05.pdf"
+  },
+  {
+    "filename": "Piston_Press.png",
+    "original_label": "Piston Press",
+    "section_idx": 13,
+    "column_idx": 4,
+    "column_file": "section_14_05.pdf"
+  },
+  {
+    "filename": "Roller_Press.png",
+    "original_label": "Roller Press",
+    "section_idx": 13,
+    "column_idx": 4,
+    "column_file": "section_14_05.pdf"
+  },
+  {
+    "filename": "Crane.png",
+    "original_label": "Crane",
+    "section_idx": 13,
+    "column_idx": 4,
+    "column_file": "section_14_05.pdf"
+  },
+  {
+    "filename": "Cyclone.png",
+    "original_label": "Cyclone",
+    "section_idx": 13,
+    "column_idx": 4,
+    "column_file": "section_14_05.pdf"
+  },
+  {
+    "filename": "Curved_Gas_Vent.png",
+    "original_label": "Curved Gas Vent",
+    "section_idx": 13,
+    "column_idx": 4,
+    "column_file": "section_14_05.pdf"
+  },
+  {
+    "filename": "paltetizer.png",
+    "original_label": "paltetizer",
+    "section_idx": 13,
+    "column_idx": 4,
+    "column_file": "section_14_05.pdf"
+  },
+  {
+    "filename": "Conveyor,_2.png",
+    "original_label": "Conveyor,",
+    "section_idx": 13,
+    "column_idx": 4,
+    "column_file": "section_14_05.pdf"
+  },
+  {
+    "filename": "Major_Straight.png",
+    "original_label": "Major Straight",
+    "section_idx": 14,
+    "column_idx": 0,
+    "column_file": "section_15_01.pdf"
+  },
+  {
+    "filename": "Electronic_Serial.png",
+    "original_label": "Electronic Serial",
+    "section_idx": 14,
+    "column_idx": 0,
+    "column_file": "section_15_01.pdf"
+  },
+  {
+    "filename": "Heat_Trace.png",
+    "original_label": "Heat Trace",
+    "section_idx": 14,
+    "column_idx": 0,
+    "column_file": "section_15_01.pdf"
+  },
+  {
+    "filename": "Side_by_Side.png",
+    "original_label": "Side by Side",
+    "section_idx": 14,
+    "column_idx": 0,
+    "column_file": "section_15_01.pdf"
+  },
+  {
+    "filename": "Top-Bottom.png",
+    "original_label": "Top-Bottom",
+    "section_idx": 14,
+    "column_idx": 0,
+    "column_file": "section_15_01.pdf"
+  },
+  {
+    "filename": "One-to-Many.png",
+    "original_label": "One-to-Many",
+    "section_idx": 14,
+    "column_idx": 0,
+    "column_file": "section_15_01.pdf"
+  },
+  {
+    "filename": "Multi-Lines.png",
+    "original_label": "Multi-Lines",
+    "section_idx": 14,
+    "column_idx": 0,
+    "column_file": "section_15_01.pdf"
+  },
+  {
+    "filename": "Multi-Lines_Elbow.png",
+    "original_label": "Multi-Lines Elbow",
+    "section_idx": 14,
+    "column_idx": 0,
+    "column_file": "section_15_01.pdf"
+  },
+  {
+    "filename": "Y-type_Strainer.png",
+    "original_label": "Y-type Strainer",
+    "section_idx": 14,
+    "column_idx": 0,
+    "column_file": "section_15_01.pdf"
+  },
+  {
+    "filename": "Rotary_Valve_2.png",
+    "original_label": "Rotary Valve",
+    "section_idx": 14,
+    "column_idx": 0,
+    "column_file": "section_15_01.pdf"
+  },
+  {
+    "filename": "Bursting_Disc.png",
+    "original_label": "Bursting Disc",
+    "section_idx": 14,
+    "column_idx": 0,
+    "column_file": "section_15_01.pdf"
+  },
+  {
+    "filename": "Top.png",
+    "original_label": "Top",
+    "section_idx": 14,
+    "column_idx": 1,
+    "column_file": "section_15_02.pdf"
+  },
+  {
+    "filename": "Sonic_Signal.png",
+    "original_label": "Sonic Signal",
+    "section_idx": 14,
+    "column_idx": 1,
+    "column_file": "section_15_02.pdf"
+  },
+  {
+    "filename": "Nuclear.png",
+    "original_label": "Nuclear",
+    "section_idx": 14,
+    "column_idx": 1,
+    "column_file": "section_15_02.pdf"
+  },
+  {
+    "filename": "Welded.png",
+    "original_label": "Welded",
+    "section_idx": 14,
+    "column_idx": 1,
+    "column_file": "section_15_02.pdf"
+  },
+  {
+    "filename": "Connection_1.png",
+    "original_label": "Connection",
+    "section_idx": 14,
+    "column_idx": 1,
+    "column_file": "section_15_02.pdf"
+  },
+  {
+    "filename": "Mechanical_Link.png",
+    "original_label": "Mechanical Link",
+    "section_idx": 14,
+    "column_idx": 1,
+    "column_file": "section_15_02.pdf"
+  },
+  {
+    "filename": "Blind_Disc.png",
+    "original_label": "Blind Disc",
+    "section_idx": 14,
+    "column_idx": 1,
+    "column_file": "section_15_02.pdf"
+  },
+  {
+    "filename": "Spectacle_Blind.png",
+    "original_label": "Spectacle Blind",
+    "section_idx": 14,
+    "column_idx": 1,
+    "column_file": "section_15_02.pdf"
+  },
+  {
+    "filename": "Interchangeable.png",
+    "original_label": "Interchangeable",
+    "section_idx": 14,
+    "column_idx": 1,
+    "column_file": "section_15_02.pdf"
+  },
+  {
+    "filename": "Blind.png",
+    "original_label": "Blind",
+    "section_idx": 14,
+    "column_idx": 1,
+    "column_file": "section_15_02.pdf"
+  },
+  {
+    "filename": "Open_Disc.png",
+    "original_label": "Open Disc",
+    "section_idx": 14,
+    "column_idx": 1,
+    "column_file": "section_15_02.pdf"
+  },
+  {
+    "filename": "Orifice_Plate.png",
+    "original_label": "Orifice Plate",
+    "section_idx": 14,
+    "column_idx": 1,
+    "column_file": "section_15_02.pdf"
+  },
+  {
+    "filename": "Double_1.png",
+    "original_label": "Double",
+    "section_idx": 14,
+    "column_idx": 2,
+    "column_file": "section_15_03.pdf"
+  },
+  {
+    "filename": "Breather.png",
+    "original_label": "Breather",
+    "section_idx": 14,
+    "column_idx": 2,
+    "column_file": "section_15_03.pdf"
+  },
+  {
+    "filename": "Drip_Pan_Elbow.png",
+    "original_label": "Drip Pan Elbow",
+    "section_idx": 14,
+    "column_idx": 2,
+    "column_file": "section_15_03.pdf"
+  },
+  {
+    "filename": "Union.png",
+    "original_label": "Union",
+    "section_idx": 14,
+    "column_idx": 2,
+    "column_file": "section_15_03.pdf"
+  },
+  {
+    "filename": "Socket_Weld.png",
+    "original_label": "Socket Weld",
+    "section_idx": 14,
+    "column_idx": 2,
+    "column_file": "section_15_03.pdf"
+  },
+  {
+    "filename": "Screwed.png",
+    "original_label": "Screwed",
+    "section_idx": 14,
+    "column_idx": 2,
+    "column_file": "section_15_03.pdf"
+  },
+  {
+    "filename": "Electrical_Bounded.png",
+    "original_label": "Electrical Bounded",
+    "section_idx": 14,
+    "column_idx": 2,
+    "column_file": "section_15_03.pdf"
+  },
+  {
+    "filename": "Pulsation.png",
+    "original_label": "Pulsation",
+    "section_idx": 14,
+    "column_idx": 2,
+    "column_file": "section_15_03.pdf"
+  },
+  {
+    "filename": "Dampener.png",
+    "original_label": "Dampener",
+    "section_idx": 14,
+    "column_idx": 2,
+    "column_file": "section_15_03.pdf"
+  },
+  {
+    "filename": "Duplex_Strainer.png",
+    "original_label": "Duplex Strainer",
+    "section_idx": 14,
+    "column_idx": 2,
+    "column_file": "section_15_03.pdf"
+  },
+  {
+    "filename": "Silencer_Vent.png",
+    "original_label": "Silencer Vent",
+    "section_idx": 14,
+    "column_idx": 2,
+    "column_file": "section_15_03.pdf"
+  },
+  {
+    "filename": "Basket_Strainer.png",
+    "original_label": "Basket Strainer",
+    "section_idx": 14,
+    "column_idx": 2,
+    "column_file": "section_15_03.pdf"
+  },
+  {
+    "filename": "Cone_Strainer.png",
+    "original_label": "Cone Strainer",
+    "section_idx": 14,
+    "column_idx": 2,
+    "column_file": "section_15_03.pdf"
+  },
+  {
+    "filename": "Pilot_Operated.png",
+    "original_label": "Pilot Operated",
+    "section_idx": 14,
+    "column_idx": 2,
+    "column_file": "section_15_03.pdf"
+  },
+  {
+    "filename": "Relief_Valve_with.png",
+    "original_label": "Relief Valve with",
+    "section_idx": 14,
+    "column_idx": 2,
+    "column_file": "section_15_03.pdf"
+  },
+  {
+    "filename": "Sensor_Renote.png",
+    "original_label": "Sensor Renote",
+    "section_idx": 14,
+    "column_idx": 2,
+    "column_file": "section_15_03.pdf"
+  },
+  {
+    "filename": "In-line_Mixer_1.png",
+    "original_label": "In-line Mixer",
+    "section_idx": 14,
+    "column_idx": 3,
+    "column_file": "section_15_04.pdf"
+  },
+  {
+    "filename": "Separator_1.png",
+    "original_label": "Separator",
+    "section_idx": 14,
+    "column_idx": 3,
+    "column_file": "section_15_04.pdf"
+  },
+  {
+    "filename": "Flame_Arrester.png",
+    "original_label": "Flame Arrester",
+    "section_idx": 14,
+    "column_idx": 3,
+    "column_file": "section_15_04.pdf"
+  },
+  {
+    "filename": "Silencer_Drain.png",
+    "original_label": "Silencer Drain",
+    "section_idx": 14,
+    "column_idx": 3,
+    "column_file": "section_15_04.pdf"
+  },
+  {
+    "filename": "Exhaust_Head.png",
+    "original_label": "Exhaust Head",
+    "section_idx": 14,
+    "column_idx": 3,
+    "column_file": "section_15_04.pdf"
+  },
+  {
+    "filename": "Swivel_Joint.png",
+    "original_label": "Swivel Joint",
+    "section_idx": 14,
+    "column_idx": 3,
+    "column_file": "section_15_04.pdf"
+  },
+  {
+    "filename": "Flame_Arrestor.png",
+    "original_label": "Flame Arrestor",
+    "section_idx": 14,
+    "column_idx": 3,
+    "column_file": "section_15_04.pdf"
+  },
+  {
+    "filename": "Steam_Trap.png",
+    "original_label": "Steam Trap",
+    "section_idx": 14,
+    "column_idx": 3,
+    "column_file": "section_15_04.pdf"
+  },
+  {
+    "filename": "Desuperheater.png",
+    "original_label": "Desuperheater",
+    "section_idx": 14,
+    "column_idx": 3,
+    "column_file": "section_15_04.pdf"
+  },
+  {
+    "filename": "Exhaust_Head_1.png",
+    "original_label": "Exhaust Head",
+    "section_idx": 14,
+    "column_idx": 3,
+    "column_file": "section_15_04.pdf"
+  },
+  {
+    "filename": "Flow_Indicator_1.png",
+    "original_label": "Flow Indicator",
+    "section_idx": 14,
+    "column_idx": 4,
+    "column_file": "section_15_05.pdf"
+  },
+  {
+    "filename": "Spool.png",
+    "original_label": "Spool",
+    "section_idx": 14,
+    "column_idx": 4,
+    "column_file": "section_15_05.pdf"
+  },
+  {
+    "filename": "Strainer_Basket.png",
+    "original_label": "Strainer Basket",
+    "section_idx": 14,
+    "column_idx": 4,
+    "column_file": "section_15_05.pdf"
+  },
+  {
+    "filename": "Breather_1.png",
+    "original_label": "Breather",
+    "section_idx": 14,
+    "column_idx": 4,
+    "column_file": "section_15_05.pdf"
+  },
+  {
+    "filename": "Damper_1.png",
+    "original_label": "Damper",
+    "section_idx": 14,
+    "column_idx": 4,
+    "column_file": "section_15_05.pdf"
+  },
+  {
+    "filename": "Breakthrough.png",
+    "original_label": "Breakthrough",
+    "section_idx": 14,
+    "column_idx": 4,
+    "column_file": "section_15_05.pdf"
+  },
+  {
+    "filename": "Orifice_1.png",
+    "original_label": "Orifice",
+    "section_idx": 14,
+    "column_idx": 4,
+    "column_file": "section_15_05.pdf"
+  },
+  {
+    "filename": "Clamped_Flange.png",
+    "original_label": "Clamped Flange",
+    "section_idx": 14,
+    "column_idx": 4,
+    "column_file": "section_15_05.pdf"
+  },
+  {
+    "filename": "Coupling.png",
+    "original_label": "Coupling",
+    "section_idx": 14,
+    "column_idx": 4,
+    "column_file": "section_15_05.pdf"
+  },
+  {
+    "filename": "Compensate.png",
+    "original_label": "Compensate",
+    "section_idx": 14,
+    "column_idx": 4,
+    "column_file": "section_15_05.pdf"
+  },
+  {
+    "filename": "Coupling_1.png",
+    "original_label": "Coupling",
+    "section_idx": 14,
+    "column_idx": 4,
+    "column_file": "section_15_05.pdf"
+  },
+  {
+    "filename": "Electrically.png",
+    "original_label": "Electrically",
+    "section_idx": 14,
+    "column_idx": 4,
+    "column_file": "section_15_05.pdf"
+  },
+  {
+    "filename": "Insulated.png",
+    "original_label": "Insulated",
+    "section_idx": 14,
+    "column_idx": 4,
+    "column_file": "section_15_05.pdf"
+  },
+  {
+    "filename": "Flame_Arrestor_1.png",
+    "original_label": "Flame Arrestor",
+    "section_idx": 14,
+    "column_idx": 4,
+    "column_file": "section_15_05.pdf"
+  },
+  {
+    "filename": "Explosion-Proof.png",
+    "original_label": "Explosion-Proof",
+    "section_idx": 14,
+    "column_idx": 4,
+    "column_file": "section_15_05.pdf"
+  },
+  {
+    "filename": "Flame_Arrestor_2.png",
+    "original_label": "Flame Arrestor",
+    "section_idx": 14,
+    "column_idx": 4,
+    "column_file": "section_15_05.pdf"
+  },
+  {
+    "filename": "Detonation-Proof.png",
+    "original_label": "Detonation-Proof",
+    "section_idx": 14,
+    "column_idx": 4,
+    "column_file": "section_15_05.pdf"
+  },
+  {
+    "filename": "Flame_Arrestor_3.png",
+    "original_label": "Flame Arrestor",
+    "section_idx": 14,
+    "column_idx": 4,
+    "column_file": "section_15_05.pdf"
+  },
+  {
+    "filename": "Fire-Resistant.png",
+    "original_label": "Fire-Resistant",
+    "section_idx": 14,
+    "column_idx": 4,
+    "column_file": "section_15_05.pdf"
+  },
+  {
+    "filename": "Flame_Arrestor_4.png",
+    "original_label": "Flame Arrestor",
+    "section_idx": 14,
+    "column_idx": 4,
+    "column_file": "section_15_05.pdf"
+  },
+  {
+    "filename": "Fire-Resistant,_Explosion-.png",
+    "original_label": "Fire-Resistant, Explosion-",
+    "section_idx": 14,
+    "column_idx": 4,
+    "column_file": "section_15_05.pdf"
+  },
+  {
+    "filename": "Proof_Flame_Arrestor.png",
+    "original_label": "Proof Flame Arrestor",
+    "section_idx": 14,
+    "column_idx": 4,
+    "column_file": "section_15_05.pdf"
+  },
+  {
+    "filename": "Manifold_Valve.png",
+    "original_label": "Manifold Valve",
+    "section_idx": 14,
+    "column_idx": 4,
+    "column_file": "section_15_05.pdf"
+  }
+]

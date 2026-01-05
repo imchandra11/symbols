@@ -1,0 +1,127 @@
+[2026-01-05 23:13:15] ============================================================
+[2026-01-05 23:13:15] STEP 2: Column Splitting
+[2026-01-05 23:13:15] ============================================================
+[2026-01-05 23:13:15] Found 15 section PDFs to process
+[2026-01-05 23:13:15]   Processing section 1/15: section_01.pdf
+[2026-01-05 23:13:15]     Detecting column boundaries...
+[2026-01-05 23:13:16]     Found 5 columns
+[2026-01-05 23:13:16]       Column 1/5: Saved section_01_01.pdf
+[2026-01-05 23:13:16]       Column 2/5: Saved section_01_02.pdf
+[2026-01-05 23:13:16]       Column 3/5: Saved section_01_03.pdf
+[2026-01-05 23:13:16]       Column 4/5: Saved section_01_04.pdf
+[2026-01-05 23:13:16]       Column 5/5: Saved section_01_05.pdf
+[2026-01-05 23:13:16]   Processing section 2/15: section_02.pdf
+[2026-01-05 23:13:16]     Detecting column boundaries...
+[2026-01-05 23:13:16]     Found 5 columns
+[2026-01-05 23:13:16]       Column 1/5: Saved section_02_01.pdf
+[2026-01-05 23:13:16]       Column 2/5: Saved section_02_02.pdf
+[2026-01-05 23:13:16]       Column 3/5: Saved section_02_03.pdf
+[2026-01-05 23:13:16]       Column 4/5: Saved section_02_04.pdf
+[2026-01-05 23:13:16]       Column 5/5: Saved section_02_05.pdf
+[2026-01-05 23:13:16]   Processing section 3/15: section_03.pdf
+[2026-01-05 23:13:16]     Detecting column boundaries...
+[2026-01-05 23:13:16]     Found 5 columns
+[2026-01-05 23:13:16]       Column 1/5: Saved section_03_01.pdf
+[2026-01-05 23:13:16]       Column 2/5: Saved section_03_02.pdf
+[2026-01-05 23:13:16]       Column 3/5: Saved section_03_03.pdf
+[2026-01-05 23:13:16]       Column 4/5: Saved section_03_04.pdf
+[2026-01-05 23:13:16]       Column 5/5: Saved section_03_05.pdf
+[2026-01-05 23:13:16]   Processing section 4/15: section_04.pdf
+[2026-01-05 23:13:17]     Detecting column boundaries...
+[2026-01-05 23:13:17]     Found 5 columns
+[2026-01-05 23:13:17]       Column 1/5: Saved section_04_01.pdf
+[2026-01-05 23:13:17]       Column 2/5: Saved section_04_02.pdf
+[2026-01-05 23:13:17]       Column 3/5: Saved section_04_03.pdf
+[2026-01-05 23:13:17]       Column 4/5: Saved section_04_04.pdf
+[2026-01-05 23:13:17]       Column 5/5: Saved section_04_05.pdf
+[2026-01-05 23:13:17]   Processing section 5/15: section_05.pdf
+[2026-01-05 23:13:17]     Detecting column boundaries...
+[2026-01-05 23:13:17]     Found 5 columns
+[2026-01-05 23:13:17]       Column 1/5: Saved section_05_01.pdf
+[2026-01-05 23:13:17]       Column 2/5: Saved section_05_02.pdf
+[2026-01-05 23:13:17]       Column 3/5: Saved section_05_03.pdf
+[2026-01-05 23:13:17]       Column 4/5: Saved section_05_04.pdf
+[2026-01-05 23:13:17]       Column 5/5: Saved section_05_05.pdf
+[2026-01-05 23:13:17]   Processing section 6/15: section_06.pdf
+[2026-01-05 23:13:17]     Detecting column boundaries...
+[2026-01-05 23:13:17]     Found 5 columns
+[2026-01-05 23:13:17]       Column 1/5: Saved section_06_01.pdf
+[2026-01-05 23:13:17]       Column 2/5: Saved section_06_02.pdf
+[2026-01-05 23:13:17]       Column 3/5: Saved section_06_03.pdf
+[2026-01-05 23:13:17]       Column 4/5: Saved section_06_04.pdf
+[2026-01-05 23:13:17]       Column 5/5: Saved section_06_05.pdf
+[2026-01-05 23:13:17]   Processing section 7/15: section_07.pdf
+[2026-01-05 23:13:17]     Detecting column boundaries...
+[2026-01-05 23:13:18]     Found 5 columns
+[2026-01-05 23:13:18]       Column 1/5: Saved section_07_01.pdf
+[2026-01-05 23:13:18]       Column 2/5: Saved section_07_02.pdf
+[2026-01-05 23:13:18]       Column 3/5: Saved section_07_03.pdf
+[2026-01-05 23:13:18]       Column 4/5: Saved section_07_04.pdf
+[2026-01-05 23:13:18]       Column 5/5: Saved section_07_05.pdf
+[2026-01-05 23:13:18]   Processing section 8/15: section_08.pdf
+[2026-01-05 23:13:18]     Detecting column boundaries...
+[2026-01-05 23:13:18]     Found 5 columns
+[2026-01-05 23:13:18]       Column 1/5: Saved section_08_01.pdf
+[2026-01-05 23:13:18]       Column 2/5: Saved section_08_02.pdf
+[2026-01-05 23:13:18]       Column 3/5: Saved section_08_03.pdf
+[2026-01-05 23:13:18]       Column 4/5: Saved section_08_04.pdf
+[2026-01-05 23:13:18]       Column 5/5: Saved section_08_05.pdf
+[2026-01-05 23:13:18]   Processing section 9/15: section_09.pdf
+[2026-01-05 23:13:18]     Detecting column boundaries...
+[2026-01-05 23:13:18]     Found 5 columns
+[2026-01-05 23:13:18]       Column 1/5: Saved section_09_01.pdf
+[2026-01-05 23:13:18]       Column 2/5: Saved section_09_02.pdf
+[2026-01-05 23:13:18]       Column 3/5: Saved section_09_03.pdf
+[2026-01-05 23:13:18]       Column 4/5: Saved section_09_04.pdf
+[2026-01-05 23:13:18]       Column 5/5: Saved section_09_05.pdf
+[2026-01-05 23:13:18]   Processing section 10/15: section_10.pdf
+[2026-01-05 23:13:18]     Detecting column boundaries...
+[2026-01-05 23:13:18]     Found 5 columns
+[2026-01-05 23:13:18]       Column 1/5: Saved section_10_01.pdf
+[2026-01-05 23:13:18]       Column 2/5: Saved section_10_02.pdf
+[2026-01-05 23:13:18]       Column 3/5: Saved section_10_03.pdf
+[2026-01-05 23:13:18]       Column 4/5: Saved section_10_04.pdf
+[2026-01-05 23:13:18]       Column 5/5: Saved section_10_05.pdf
+[2026-01-05 23:13:18]   Processing section 11/15: section_11.pdf
+[2026-01-05 23:13:19]     Detecting column boundaries...
+[2026-01-05 23:13:19]     Found 5 columns
+[2026-01-05 23:13:19]       Column 1/5: Saved section_11_01.pdf
+[2026-01-05 23:13:19]       Column 2/5: Saved section_11_02.pdf
+[2026-01-05 23:13:19]       Column 3/5: Saved section_11_03.pdf
+[2026-01-05 23:13:19]       Column 4/5: Saved section_11_04.pdf
+[2026-01-05 23:13:19]       Column 5/5: Saved section_11_05.pdf
+[2026-01-05 23:13:19]   Processing section 12/15: section_12.pdf
+[2026-01-05 23:13:19]     Detecting column boundaries...
+[2026-01-05 23:13:19]     Found 5 columns
+[2026-01-05 23:13:19]       Column 1/5: Saved section_12_01.pdf
+[2026-01-05 23:13:19]       Column 2/5: Saved section_12_02.pdf
+[2026-01-05 23:13:19]       Column 3/5: Saved section_12_03.pdf
+[2026-01-05 23:13:19]       Column 4/5: Saved section_12_04.pdf
+[2026-01-05 23:13:19]       Column 5/5: Saved section_12_05.pdf
+[2026-01-05 23:13:19]   Processing section 13/15: section_13.pdf
+[2026-01-05 23:13:19]     Detecting column boundaries...
+[2026-01-05 23:13:19]     Found 5 columns
+[2026-01-05 23:13:19]       Column 1/5: Saved section_13_01.pdf
+[2026-01-05 23:13:19]       Column 2/5: Saved section_13_02.pdf
+[2026-01-05 23:13:19]       Column 3/5: Saved section_13_03.pdf
+[2026-01-05 23:13:19]       Column 4/5: Saved section_13_04.pdf
+[2026-01-05 23:13:19]       Column 5/5: Saved section_13_05.pdf
+[2026-01-05 23:13:19]   Processing section 14/15: section_14.pdf
+[2026-01-05 23:13:19]     Detecting column boundaries...
+[2026-01-05 23:13:19]     Found 5 columns
+[2026-01-05 23:13:19]       Column 1/5: Saved section_14_01.pdf
+[2026-01-05 23:13:19]       Column 2/5: Saved section_14_02.pdf
+[2026-01-05 23:13:19]       Column 3/5: Saved section_14_03.pdf
+[2026-01-05 23:13:19]       Column 4/5: Saved section_14_04.pdf
+[2026-01-05 23:13:19]       Column 5/5: Saved section_14_05.pdf
+[2026-01-05 23:13:19]   Processing section 15/15: section_15.pdf
+[2026-01-05 23:13:19]     Detecting column boundaries...
+[2026-01-05 23:13:20]     Found 5 columns
+[2026-01-05 23:13:20]       Column 1/5: Saved section_15_01.pdf
+[2026-01-05 23:13:20]       Column 2/5: Saved section_15_02.pdf
+[2026-01-05 23:13:20]       Column 3/5: Saved section_15_03.pdf
+[2026-01-05 23:13:20]       Column 4/5: Saved section_15_04.pdf
+[2026-01-05 23:13:20]       Column 5/5: Saved section_15_05.pdf
+[2026-01-05 23:13:20] 
+Successfully created 75 column PDFs!
+[2026-01-05 23:13:20] Output directory: C:\Users\91838\Desktop\Symbols\data\columns
