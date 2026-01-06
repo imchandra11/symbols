@@ -478,35 +478,59 @@ class SymbolExtractor:
         return all_symbols
     
     def save_symbols(self):
-        """Save extracted symbols with ground truth labels as filenames."""
+        """Save extracted symbols with ground truth labels as filenames, organized by section."""
         self.log(f"\nSaving {len(self.extracted_symbols)} symbols...")
         
-        filename_count = {}
+        # Group symbols by section index for organization
+        symbols_by_section = {}
+        for symbol in self.extracted_symbols:
+            section_idx = symbol.get('section_idx', -1)
+            if section_idx not in symbols_by_section:
+                symbols_by_section[section_idx] = []
+            symbols_by_section[section_idx].append(symbol)
         
-        for idx, symbol in enumerate(self.extracted_symbols):
-            label = symbol['label']
-            sanitized_name = self.sanitize_filename(label)
+        # Create section folders and save symbols
+        for section_idx, symbols in symbols_by_section.items():
+            # Create section-specific folder: section_01_symbols, section_02_symbols, etc.
+            section_folder_name = f"section_{section_idx + 1:02d}_symbols"
+            section_dir = self.symbols_dir / section_folder_name
+            section_dir.mkdir(parents=True, exist_ok=True)
             
-            # Handle duplicates
-            if sanitized_name in filename_count:
-                filename_count[sanitized_name] += 1
-                filename = f"{sanitized_name}_{filename_count[sanitized_name]}.png"
-            else:
-                filename_count[sanitized_name] = 0
-                filename = f"{sanitized_name}.png"
+            # Track filename counts per section to handle duplicates
+            filename_count = {}
             
-            filepath = self.symbols_dir / filename
-            symbol['image'].save(filepath, 'PNG')
+            for symbol in symbols:
+                label = symbol['label']
+                sanitized_name = self.sanitize_filename(label)
+                
+                # Handle duplicates within the same section
+                key = f"{section_idx}_{sanitized_name}"
+                if key in filename_count:
+                    filename_count[key] += 1
+                    filename = f"{sanitized_name}_{filename_count[key]}.png"
+                else:
+                    filename_count[key] = 0
+                    filename = f"{sanitized_name}.png"
+                
+                filepath = section_dir / filename
+                symbol['image'].save(filepath, 'PNG')
+                
+                # Save relative path from symbols_dir for metadata
+                relative_path = f"{section_folder_name}/{filename}"
+                
+                self.metadata.append({
+                    'filename': filename,
+                    'section_folder': section_folder_name,
+                    'relative_path': relative_path,
+                    'original_label': symbol['label'],
+                    'section_idx': section_idx,
+                    'column_idx': symbol.get('column_idx', -1),
+                    'column_file': symbol.get('column_file', 'Unknown')
+                })
+                
+                self.log(f"  Saved: {relative_path} (from label: {label})")
             
-            self.metadata.append({
-                'filename': filename,
-                'original_label': symbol['label'],
-                'section_idx': symbol.get('section_idx', -1),
-                'column_idx': symbol.get('column_idx', -1),
-                'column_file': symbol.get('column_file', 'Unknown')
-            })
-            
-            self.log(f"  Saved: {filename} (from label: {label})")
+            self.log(f"  Section {section_idx + 1}: Saved {len(symbols)} symbols to {section_folder_name}/")
         
         # Save metadata file
         metadata_path = self.output_dir / "metadata.json"

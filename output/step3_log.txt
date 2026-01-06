@@ -1,851 +1,866 @@
-[2026-01-05 23:46:01] ============================================================
-[2026-01-05 23:46:01] STEP 3: Symbol Extraction
-[2026-01-05 23:46:01] ============================================================
-[2026-01-05 23:46:01] Found 75 column PDFs to process
-[2026-01-05 23:46:02]     Found 20 text objects in section_01_01.pdf
-[2026-01-05 23:46:02]       Text 1: 'Indicator' at (79.3, 18.0)
-[2026-01-05 23:46:02]       Text 2: 'Behind Control' at (79.0, 50.3)
-[2026-01-05 23:46:02]       Text 3: '‘\' at (58.0, 79.6)
-[2026-01-05 23:46:02]     Column section_01_01.pdf: 20 texts, 0 filtered, 12 no symbol found, 7 extracted
-[2026-01-05 23:46:02]     Extracted 7 symbols from section_01_01.pdf
-[2026-01-05 23:46:03]     Found 30 text objects in section_01_02.pdf
-[2026-01-05 23:46:03]       Text 1: 'Computer Indicator' at (53.7, 17.7)
-[2026-01-05 23:46:03]       Text 2: 'WA' at (9.7, 44.7)
-[2026-01-05 23:46:03]       Text 3: 'Programmable' at (54.0, 46.7)
-[2026-01-05 23:46:03]     Column section_01_02.pdf: 30 texts, 0 filtered, 9 no symbol found, 14 extracted
-[2026-01-05 23:46:03]     Extracted 14 symbols from section_01_02.pdf
-[2026-01-05 23:46:03]     Found 36 text objects in section_01_03.pdf
-[2026-01-05 23:46:03]       Text 1: 'Ces' at (9.0, 15.0)
-[2026-01-05 23:46:03]       Text 2: 'Level' at (51.7, 15.0)
-[2026-01-05 23:46:03]       Text 3: '=“ Controller' at (11.7, 27.0)
-[2026-01-05 23:46:03]     Column section_01_03.pdf: 36 texts, 0 filtered, 16 no symbol found, 13 extracted
-[2026-01-05 23:46:03]     Extracted 13 symbols from section_01_03.pdf
-[2026-01-05 23:46:04]     Extracted 10 symbols from section_01_04.pdf
-[2026-01-05 23:46:04]     Extracted 18 symbols from section_01_05.pdf
-[2026-01-05 23:46:05]     Found 25 text objects in section_02_01.pdf
-[2026-01-05 23:46:05]       Text 1: 'Hand-Operated' at (79.3, 11.7)
-[2026-01-05 23:46:05]       Text 2: 'Gate Valve' at (79.0, 22.3)
-[2026-01-05 23:46:05]       Text 3: '<]' at (48.3, 44.0)
-[2026-01-05 23:46:05]     Column section_02_01.pdf: 25 texts, 0 filtered, 16 no symbol found, 7 extracted
-[2026-01-05 23:46:05]     Extracted 7 symbols from section_02_01.pdf
-[2026-01-05 23:46:06]     Found 23 text objects in section_02_02.pdf
-[2026-01-05 23:46:06]       Text 1: 'KY Check Valve' at (9.0, 9.3)
-[2026-01-05 23:46:06]       Text 2: 'Lo Butterfly Valve' at (10.0, 39.7)
-[2026-01-05 23:46:06]       Text 3: 'I' at (10.7, 71.7)
-[2026-01-05 23:46:06]     Column section_02_02.pdf: 23 texts, 1 filtered, 13 no symbol found, 7 extracted
-[2026-01-05 23:46:06]     Extracted 7 symbols from section_02_02.pdf
-[2026-01-05 23:46:06]     Found 19 text objects in section_02_03.pdf
-[2026-01-05 23:46:06]       Text 1: 'Solenoid Valve' at (51.3, 18.3)
-[2026-01-05 23:46:06]       Text 2: 'Let' at (30.7, 27.0)
-[2026-01-05 23:46:06]       Text 3: 'ydraulic Valve' at (57.7, 54.0)
-[2026-01-05 23:46:06]     Column section_02_03.pdf: 19 texts, 0 filtered, 13 no symbol found, 5 extracted
-[2026-01-05 23:46:06]     Extracted 5 symbols from section_02_03.pdf
-[2026-01-05 23:46:07]     Extracted 11 symbols from section_02_04.pdf
-[2026-01-05 23:46:07]   Processing column 10/75: section_02_05.pdf
-[2026-01-05 23:46:07]     Extracted 15 symbols from section_02_05.pdf
-[2026-01-05 23:46:08]     Found 25 text objects in section_03_01.pdf
-[2026-01-05 23:46:08]       Text 1: 'C) Compressor' at (34.7, 6.0)
-[2026-01-05 23:46:08]       Text 2: 'Reciprocating' at (79.3, 51.0)
-[2026-01-05 23:46:08]       Text 3: 'ompressor' at (85.0, 65.0)
-[2026-01-05 23:46:08]     Column section_03_01.pdf: 25 texts, 0 filtered, 3 no symbol found, 22 extracted
-[2026-01-05 23:46:08]     Extracted 22 symbols from section_03_01.pdf
-[2026-01-05 23:46:08]     Found 21 text objects in section_03_02.pdf
-[2026-01-05 23:46:08]       Text 1: 'Axial' at (51.7, 11.7)
-[2026-01-05 23:46:08]       Text 2: 'Compressor' at (53.3, 23.3)
-[2026-01-05 23:46:08]       Text 3: 'Centrifugal' at (53.3, 42.3)
-[2026-01-05 23:46:08]     Column section_03_02.pdf: 21 texts, 0 filtered, 4 no symbol found, 16 extracted
-[2026-01-05 23:46:08]     Extracted 16 symbols from section_03_02.pdf
-[2026-01-05 23:46:09]     Found 16 text objects in section_03_03.pdf
-[2026-01-05 23:46:09]       Text 1: 'Fi Sump pump' at (10.0, 3.3)
-[2026-01-05 23:46:09]       Text 2: 'Positive displacement' at (52.0, 68.3)
-[2026-01-05 23:46:09]       Text 3: 'pump' at (51.7, 80.3)
-[2026-01-05 23:46:09]     Column section_03_03.pdf: 16 texts, 0 filtered, 4 no symbol found, 11 extracted
-[2026-01-05 23:46:09]     Extracted 11 symbols from section_03_03.pdf
-[2026-01-05 23:46:09]     Extracted 9 symbols from section_03_04.pdf
-[2026-01-05 23:46:10]     Extracted 15 symbols from section_03_05.pdf
-[2026-01-05 23:46:10]     Found 7 text objects in section_04_01.pdf
-[2026-01-05 23:46:10]       Text 1: 'Mixing Vessel' at (79.0, 80.0)
-[2026-01-05 23:46:10]       Text 2: 'Column' at (79.0, 135.6)
-[2026-01-05 23:46:10]       Text 3: 'Tray Column' at (78.7, 184.9)
-[2026-01-05 23:46:10]     Column section_04_01.pdf: 7 texts, 0 filtered, 0 no symbol found, 6 extracted
-[2026-01-05 23:46:10]     Extracted 6 symbols from section_04_01.pdf
-[2026-01-05 23:46:11]     Found 7 text objects in section_04_02.pdf
-[2026-01-05 23:46:11]       Text 1: 'Knock-out drum' at (55.3, 113.9)
-[2026-01-05 23:46:11]       Text 2: 'Bag' at (55.3, 162.9)
-[2026-01-05 23:46:11]       Text 3: 'Bag (ISO)' at (55.3, 213.2)
-[2026-01-05 23:46:11]     Column section_04_02.pdf: 7 texts, 0 filtered, 1 no symbol found, 6 extracted
-[2026-01-05 23:46:11]     Extracted 6 symbols from section_04_02.pdf
-[2026-01-05 23:46:11]     Found 7 text objects in section_04_03.pdf
-[2026-01-05 23:46:11]       Text 1: 'Dome Boiler' at (53.3, 66.3)
-[2026-01-05 23:46:11]       Text 2: 'Hot Liquid Boiler' at (53.3, 112.9)
-[2026-01-05 23:46:11]       Text 3: 'Tank' at (53.0, 162.9)
-[2026-01-05 23:46:11]     Column section_04_03.pdf: 7 texts, 0 filtered, 2 no symbol found, 5 extracted
-[2026-01-05 23:46:11]     Extracted 5 symbols from section_04_03.pdf
-[2026-01-05 23:46:11]     Extracted 9 symbols from section_04_04.pdf
-[2026-01-05 23:46:11]   Processing column 20/75: section_04_05.pdf
-[2026-01-05 23:46:12]     Extracted 9 symbols from section_04_05.pdf
-[2026-01-05 23:46:12]     Found 5 text objects in section_05_01.pdf
-[2026-01-05 23:46:12]       Text 1: 'Mode Filter indication' at (79.0, 57.9)
-[2026-01-05 23:46:12]       Text 2: 'Filter' at (79.3, 100.2)
-[2026-01-05 23:46:12]       Text 3: 'Highpass Filter' at (79.3, 145.2)
-[2026-01-05 23:46:12]     Column section_05_01.pdf: 5 texts, 0 filtered, 0 no symbol found, 5 extracted
-[2026-01-05 23:46:12]     Extracted 5 symbols from section_05_01.pdf
-[2026-01-05 23:46:12]     Found 6 text objects in section_05_02.pdf
-[2026-01-05 23:46:12]       Text 1: 'Filter' at (55.3, 17.0)
-[2026-01-05 23:46:12]       Text 2: 'Filter' at (55.3, 57.3)
-[2026-01-05 23:46:12]       Text 3: 'Gas Filter' at (55.3, 109.5)
-[2026-01-05 23:46:12]     Column section_05_02.pdf: 6 texts, 0 filtered, 0 no symbol found, 5 extracted
-[2026-01-05 23:46:12]     Extracted 5 symbols from section_05_02.pdf
-[2026-01-05 23:46:13]     Found 8 text objects in section_05_03.pdf
-[2026-01-05 23:46:13]       Text 1: 'Fixed bed air Filter' at (53.0, 21.3)
-[2026-01-05 23:46:13]       Text 2: 'HEPA' at (53.0, 69.9)
-[2026-01-05 23:46:13]       Text 3: 'Fitter gas' at (78.0, 69.9)
-[2026-01-05 23:46:13]     Column section_05_03.pdf: 8 texts, 0 filtered, 0 no symbol found, 8 extracted
-[2026-01-05 23:46:13]     Extracted 8 symbols from section_05_03.pdf
-[2026-01-05 23:46:13]     Extracted 4 symbols from section_05_04.pdf
-[2026-01-05 23:46:14]     Extracted 5 symbols from section_05_05.pdf
-[2026-01-05 23:46:14]     Found 8 text objects in section_06_01.pdf
-[2026-01-05 23:46:14]       Text 1: '() Compressor' at (34.0, 3.0)
-[2026-01-05 23:46:14]       Text 2: 'C) Compressor' at (34.3, 38.0)
-[2026-01-05 23:46:14]       Text 3: 'Compressor,' at (79.0, 80.6)
-[2026-01-05 23:46:14]     Column section_06_01.pdf: 8 texts, 0 filtered, 2 no symbol found, 6 extracted
-[2026-01-05 23:46:14]     Extracted 6 symbols from section_06_01.pdf
-[2026-01-05 23:46:14]     Found 8 text objects in section_06_02.pdf
-[2026-01-05 23:46:14]       Text 1: 'Compressor Ejector' at (55.3, 15.7)
-[2026-01-05 23:46:14]       Text 2: 'A)' at (11.3, 38.0)
-[2026-01-05 23:46:14]       Text 3: 'Compressor Piston' at (55.3, 49.6)
-[2026-01-05 23:46:14]     Column section_06_02.pdf: 8 texts, 0 filtered, 1 no symbol found, 6 extracted
-[2026-01-05 23:46:14]     Extracted 6 symbols from section_06_02.pdf
-[2026-01-05 23:46:14]     Found 7 text objects in section_06_03.pdf
-[2026-01-05 23:46:14]       Text 1: 'Oot) Compressor silencers' at (5.7, 3.0)
-[2026-01-05 23:46:14]       Text 2: 'Rotary Compressor' at (53.0, 43.3)
-[2026-01-05 23:46:14]       Text 3: 'Rotary Compressor' at (53.0, 79.3)
-[2026-01-05 23:46:14]     Column section_06_03.pdf: 7 texts, 0 filtered, 1 no symbol found, 6 extracted
-[2026-01-05 23:46:14]     Extracted 6 symbols from section_06_03.pdf
-[2026-01-05 23:46:15]     Extracted 10 symbols from section_06_04.pdf
-[2026-01-05 23:46:15]   Processing column 30/75: section_06_05.pdf
-[2026-01-05 23:46:15]     Extracted 2 symbols from section_06_05.pdf
-[2026-01-05 23:46:16]     Found 15 text objects in section_07_01.pdf
-[2026-01-05 23:46:16]       Text 1: 'Tema TyPe BEM' at (78.0, 18.0)
-[2026-01-05 23:46:16]       Text 2: 'tema tyre Beu' at (78.0, 57.3)
-[2026-01-05 23:46:16]       Text 3: 'tema tyre AEM' at (78.0, 95.0)
-[2026-01-05 23:46:16]     Column section_07_01.pdf: 15 texts, 0 filtered, 4 no symbol found, 11 extracted
-[2026-01-05 23:46:16]     Extracted 11 symbols from section_07_01.pdf
-[2026-01-05 23:46:16]     Found 17 text objects in section_07_02.pdf
-[2026-01-05 23:46:16]       Text 1: 'Spray Cooler' at (53.7, 29.3)
-[2026-01-05 23:46:16]       Text 2: 'Forced-draft' at (54.0, 73.0)
-[2026-01-05 23:46:16]       Text 3: 'Cooling Tower' at (53.7, 85.3)
-[2026-01-05 23:46:16]     Column section_07_02.pdf: 17 texts, 0 filtered, 6 no symbol found, 10 extracted
-[2026-01-05 23:46:16]     Extracted 10 symbols from section_07_02.pdf
-[2026-01-05 23:46:17]     Found 23 text objects in section_07_03.pdf
-[2026-01-05 23:46:17]       Text 1: 'Shell and Tube' at (53.0, 20.7)
-[2026-01-05 23:46:17]       Text 2: 'Heat' at (53.3, 31.3)
-[2026-01-05 23:46:17]       Text 3: 'Cooler' at (53.0, 69.0)
-[2026-01-05 23:46:17]     Column section_07_03.pdf: 23 texts, 0 filtered, 5 no symbol found, 13 extracted
-[2026-01-05 23:46:17]     Extracted 13 symbols from section_07_03.pdf
-[2026-01-05 23:46:17]     Extracted 13 symbols from section_07_04.pdf
-[2026-01-05 23:46:18]     Extracted 9 symbols from section_07_05.pdf
-[2026-01-05 23:46:18]     Found 3 text objects in section_08_01.pdf
-[2026-01-05 23:46:18]       Text 1: 'mer' at (79.0, 19.0)
-[2026-01-05 23:46:18]       Text 2: 'Fluidized Bed' at (79.3, 60.9)
-[2026-01-05 23:46:18]       Text 3: '|} oe' at (36.7, 70.9)
-[2026-01-05 23:46:18]     Column section_08_01.pdf: 3 texts, 0 filtered, 1 no symbol found, 2 extracted
-[2026-01-05 23:46:18]     Extracted 2 symbols from section_08_01.pdf
-[2026-01-05 23:46:18]     Found 3 text objects in section_08_02.pdf
-[2026-01-05 23:46:18]       Text 1: 'Roller Conveyor' at (55.0, 16.3)
-[2026-01-05 23:46:18]       Text 2: 'Belt Dryer' at (55.0, 27.0)
-[2026-01-05 23:46:18]       Text 3: '=| Motor Generator' at (10.0, 51.9)
-[2026-01-05 23:46:18]     Column section_08_02.pdf: 3 texts, 0 filtered, 1 no symbol found, 2 extracted
-[2026-01-05 23:46:18]     Extracted 2 symbols from section_08_02.pdf
-[2026-01-05 23:46:18]     Found 2 text objects in section_08_03.pdf
-[2026-01-05 23:46:18]       Text 1: 'Generator' at (54.3, 24.0)
-[2026-01-05 23:46:18]       Text 2: 'Drying Oven' at (54.7, 69.2)
-[2026-01-05 23:46:18]     Column section_08_03.pdf: 2 texts, 0 filtered, 0 no symbol found, 2 extracted
-[2026-01-05 23:46:18]     Extracted 2 symbols from section_08_03.pdf
-[2026-01-05 23:46:19]   Processing column 40/75: section_08_05.pdf
-[2026-01-05 23:46:19]     Extracted 1 symbols from section_08_05.pdf
-[2026-01-05 23:46:19]     Found 8 text objects in section_09_01.pdf
-[2026-01-05 23:46:19]       Text 1: 'Crossflow' at (79.0, 18.3)
-[2026-01-05 23:46:19]       Text 2: 'Ws' at (31.3, 19.3)
-[2026-01-05 23:46:19]       Text 3: 'Draft Inducted' at (79.3, 28.6)
-[2026-01-05 23:46:19]     Column section_09_01.pdf: 8 texts, 0 filtered, 1 no symbol found, 7 extracted
-[2026-01-05 23:46:19]     Extracted 7 symbols from section_09_01.pdf
-[2026-01-05 23:46:19]     Found 6 text objects in section_09_02.pdf
-[2026-01-05 23:46:19]       Text 1: 'Plate Tower' at (55.0, 31.3)
-[2026-01-05 23:46:19]       Text 2: 'ie' at (18.0, 87.6)
-[2026-01-05 23:46:19]       Text 3: 'Packed Tower' at (55.0, 102.3)
-[2026-01-05 23:46:19]     Column section_09_02.pdf: 6 texts, 0 filtered, 2 no symbol found, 2 extracted
-[2026-01-05 23:46:19]     Extracted 2 symbols from section_09_02.pdf
-[2026-01-05 23:46:20]     Found 4 text objects in section_09_03.pdf
-[2026-01-05 23:46:20]       Text 1: 'Fluid Catalytic' at (54.7, 44.3)
-[2026-01-05 23:46:20]       Text 2: 'Cracking' at (54.3, 52.6)
-[2026-01-05 23:46:20]       Text 3: 'Coking Fluid' at (54.7, 133.6)
-[2026-01-05 23:46:20]     Column section_09_03.pdf: 4 texts, 0 filtered, 0 no symbol found, 2 extracted
-[2026-01-05 23:46:20]     Extracted 2 symbols from section_09_03.pdf
-[2026-01-05 23:46:20]     Extracted 3 symbols from section_09_04.pdf
-[2026-01-05 23:46:20]     Extracted 4 symbols from section_09_05.pdf
-[2026-01-05 23:46:20]     Found 3 text objects in section_10_01.pdf
-[2026-01-05 23:46:20]       Text 1: 'In-line Mixer' at (79.3, 15.0)
-[2026-01-05 23:46:20]       Text 2: 'an Mixer' at (38.0, 28.0)
-[2026-01-05 23:46:20]       Text 3: 'ie) Various Mixers' at (33.0, 78.7)
-[2026-01-05 23:46:20]     Column section_10_01.pdf: 3 texts, 0 filtered, 2 no symbol found, 1 extracted
-[2026-01-05 23:46:20]     Extracted 1 symbols from section_10_01.pdf
-[2026-01-05 23:46:21]     Found 4 text objects in section_10_02.pdf
-[2026-01-05 23:46:21]       Text 1: 'Various Mixers' at (53.0, 21.0)
-[2026-01-05 23:46:21]       Text 2: 'Various Mixers' at (53.0, 58.3)
-[2026-01-05 23:46:21]       Text 3: 'ny' at (11.0, 85.0)
-[2026-01-05 23:46:21]     Column section_10_02.pdf: 4 texts, 0 filtered, 1 no symbol found, 2 extracted
-[2026-01-05 23:46:21]     Extracted 2 symbols from section_10_02.pdf
-[2026-01-05 23:46:21]     Found 4 text objects in section_10_03.pdf
-[2026-01-05 23:46:21]       Text 1: 'ob' at (10.3, 10.0)
-[2026-01-05 23:46:21]       Text 2: 'Agitator, Propeller' at (50.3, 23.3)
-[2026-01-05 23:46:21]       Text 3: 'Agitator, Anchor' at (50.3, 58.3)
-[2026-01-05 23:46:21]     Column section_10_03.pdf: 4 texts, 0 filtered, 2 no symbol found, 2 extracted
-[2026-01-05 23:46:21]     Extracted 2 symbols from section_10_03.pdf
-[2026-01-05 23:46:22]     Extracted 3 symbols from section_10_04.pdf
-[2026-01-05 23:46:22]   Processing column 50/75: section_10_05.pdf
-[2026-01-05 23:46:22]     Extracted 3 symbols from section_10_05.pdf
-[2026-01-05 23:46:22]     Found 2 text objects in section_11_01.pdf
-[2026-01-05 23:46:22]       Text 1: 'Crusher' at (79.0, 15.7)
-[2026-01-05 23:46:22]       Text 2: '\/ Coarse Crusher' at (34.7, 44.0)
-[2026-01-05 23:46:22]     Column section_11_01.pdf: 2 texts, 0 filtered, 1 no symbol found, 1 extracted
-[2026-01-05 23:46:22]     Extracted 1 symbols from section_11_01.pdf
-[2026-01-05 23:46:23]     Found 2 text objects in section_11_02.pdf
-[2026-01-05 23:46:23]       Text 1: 'Medium Crushers' at (53.3, 17.7)
-[2026-01-05 23:46:23]       Text 2: 'Fine Crushers' at (53.3, 65.3)
-[2026-01-05 23:46:23]     Column section_11_02.pdf: 2 texts, 0 filtered, 0 no symbol found, 2 extracted
-[2026-01-05 23:46:23]     Extracted 2 symbols from section_11_02.pdf
-[2026-01-05 23:46:23]     Found 3 text objects in section_11_03.pdf
-[2026-01-05 23:46:23]       Text 1: '\X</ Various Crushers' at (0.0, 7.7)
-[2026-01-05 23:46:23]       Text 2: 'NES Hammer Crusher' at (0.0, 37.7)
-[2026-01-05 23:46:23]       Text 3: 'Crusher Impact' at (52.7, 75.7)
-[2026-01-05 23:46:23]     Column section_11_03.pdf: 3 texts, 0 filtered, 2 no symbol found, 1 extracted
-[2026-01-05 23:46:23]     Extracted 1 symbols from section_11_03.pdf
-[2026-01-05 23:46:23]     Extracted 1 symbols from section_11_04.pdf
-[2026-01-05 23:46:24]     Extracted 3 symbols from section_11_05.pdf
-[2026-01-05 23:46:24]     Found 7 text objects in section_12_01.pdf
-[2026-01-05 23:46:24]       Text 1: 'Centrifugal Pump' at (79.0, 17.6)
-[2026-01-05 23:46:24]       Text 2: 'Centrifugal' at (79.0, 58.6)
-[2026-01-05 23:46:24]       Text 3: 'Compressor' at (79.0, 69.2)
-[2026-01-05 23:46:24]     Column section_12_01.pdf: 7 texts, 0 filtered, 1 no symbol found, 6 extracted
-[2026-01-05 23:46:24]     Extracted 6 symbols from section_12_01.pdf
-[2026-01-05 23:46:24]     Found 7 text objects in section_12_02.pdf
-[2026-01-05 23:46:24]       Text 1: '{A Centrifuge Screw' at (4.0, 6.7)
-[2026-01-05 23:46:24]       Text 2: 'Centrifuge,' at (54.0, 51.6)
-[2026-01-05 23:46:24]       Text 3: 'Solid Shell' at (54.0, 62.3)
-[2026-01-05 23:46:24]     Column section_12_02.pdf: 7 texts, 0 filtered, 1 no symbol found, 6 extracted
-[2026-01-05 23:46:24]     Extracted 6 symbols from section_12_02.pdf
-[2026-01-05 23:46:25]     Found 7 text objects in section_12_03.pdf
-[2026-01-05 23:46:25]       Text 1: 'Centrifuge, Pusher' at (53.3, 16.3)
-[2026-01-05 23:46:25]       Text 2: 'Centrifuge Screw,' at (53.3, 53.6)
-[2026-01-05 23:46:25]       Text 3: 'Perforated Shell' at (53.7, 64.2)
-[2026-01-05 23:46:25]     Column section_12_03.pdf: 7 texts, 0 filtered, 0 no symbol found, 7 extracted
-[2026-01-05 23:46:25]     Extracted 7 symbols from section_12_03.pdf
-[2026-01-05 23:46:25]     Extracted 4 symbols from section_12_04.pdf
-[2026-01-05 23:46:25]   Processing column 60/75: section_12_05.pdf
-[2026-01-05 23:46:25]     Extracted 1 symbols from section_12_05.pdf
-[2026-01-05 23:46:26]     Found 3 text objects in section_13_01.pdf
-[2026-01-05 23:46:26]       Text 1: 'Motor' at (80.7, 16.0)
-[2026-01-05 23:46:26]       Text 2: '() Step Motor' at (37.7, 48.3)
-[2026-01-05 23:46:26]       Text 3: '(™) DC Motor' at (37.7, 89.0)
-[2026-01-05 23:46:26]     Column section_13_01.pdf: 3 texts, 0 filtered, 2 no symbol found, 1 extracted
-[2026-01-05 23:46:26]     Extracted 1 symbols from section_13_01.pdf
-[2026-01-05 23:46:27]     Found 4 text objects in section_13_02.pdf
-[2026-01-05 23:46:27]       Text 1: 'AC Motor' at (55.0, 17.3)
-[2026-01-05 23:46:27]       Text 2: 'Motor Generator' at (55.3, 59.3)
-[2026-01-05 23:46:27]       Text 3: 'le' at (11.0, 92.6)
-[2026-01-05 23:46:27]     Column section_13_02.pdf: 4 texts, 0 filtered, 1 no symbol found, 3 extracted
-[2026-01-05 23:46:27]     Extracted 3 symbols from section_13_02.pdf
-[2026-01-05 23:46:27]     Found 3 text objects in section_13_03.pdf
-[2026-01-05 23:46:27]       Text 1: '(s) Generator' at (11.7, 7.7)
-[2026-01-05 23:46:27]       Text 2: '(s) AC Generator' at (11.7, 49.0)
-[2026-01-05 23:46:27]       Text 3: '(s) DC Generator' at (11.7, 92.6)
-[2026-01-05 23:46:27]     Column section_13_03.pdf: 3 texts, 0 filtered, 3 no symbol found, 0 extracted
-[2026-01-05 23:46:27]     Extracted 4 symbols from section_13_04.pdf
-[2026-01-05 23:46:28]     Extracted 3 symbols from section_13_05.pdf
-[2026-01-05 23:46:28]     Found 19 text objects in section_14_01.pdf
-[2026-01-05 23:46:28]       Text 1: 'Separator Impact' at (81.0, 17.7)
-[2026-01-05 23:46:28]       Text 2: 'Gravity Separator' at (80.3, 57.7)
-[2026-01-05 23:46:28]       Text 3: 'Cyclone Separator' at (80.3, 105.3)
-[2026-01-05 23:46:28]     Column section_14_01.pdf: 19 texts, 0 filtered, 1 no symbol found, 17 extracted
-[2026-01-05 23:46:28]     Extracted 17 symbols from section_14_01.pdf
-[2026-01-05 23:46:29]     Found 15 text objects in section_14_02.pdf
-[2026-01-05 23:46:29]       Text 1: 'Reducer' at (55.3, 59.0)
-[2026-01-05 23:46:29]       Text 2: 'D)' at (14.3, 83.0)
-[2026-01-05 23:46:29]       Text 3: 'Rupture Disc' at (55.3, 103.0)
-[2026-01-05 23:46:29]     Column section_14_02.pdf: 15 texts, 0 filtered, 3 no symbol found, 12 extracted
-[2026-01-05 23:46:29]     Extracted 12 symbols from section_14_02.pdf
-[2026-01-05 23:46:29]     Found 14 text objects in section_14_03.pdf
-[2026-01-05 23:46:29]       Text 1: 'Elevator' at (55.0, 16.3)
-[2026-01-05 23:46:29]       Text 2: 'Z-form Elevator' at (54.7, 59.7)
-[2026-01-05 23:46:29]       Text 3: 'Hoists' at (55.0, 140.7)
-[2026-01-05 23:46:29]     Column section_14_03.pdf: 14 texts, 0 filtered, 2 no symbol found, 11 extracted
-[2026-01-05 23:46:29]     Extracted 11 symbols from section_14_03.pdf
-[2026-01-05 23:46:30]     Extracted 12 symbols from section_14_04.pdf
-[2026-01-05 23:46:30]   Processing column 70/75: section_14_05.pdf
-[2026-01-05 23:46:30]     Extracted 10 symbols from section_14_05.pdf
-[2026-01-05 23:46:31]     Found 22 text objects in section_15_01.pdf
-[2026-01-05 23:46:31]       Text 1: 'Major Pipeline' at (81.3, 18.0)
-[2026-01-05 23:46:31]       Text 2: 'Connect Pipeline' at (81.0, 57.6)
-[2026-01-05 23:46:31]       Text 3: 'Major Straight' at (81.3, 94.3)
-[2026-01-05 23:46:31]     Column section_15_01.pdf: 22 texts, 0 filtered, 6 no symbol found, 11 extracted
-[2026-01-05 23:46:31]     Extracted 11 symbols from section_15_01.pdf
-[2026-01-05 23:46:32]     Found 29 text objects in section_15_02.pdf
-[2026-01-05 23:46:32]       Text 1: 'Top' at (55.3, 18.0)
-[2026-01-05 23:46:32]       Text 2: 'Top to' at (72.3, 18.0)
-[2026-01-05 23:46:32]       Text 3: 'Sonic Signal' at (55.3, 59.3)
-[2026-01-05 23:46:32]     Column section_15_02.pdf: 29 texts, 0 filtered, 16 no symbol found, 12 extracted
-[2026-01-05 23:46:32]     Extracted 12 symbols from section_15_02.pdf
-[2026-01-05 23:46:32]     Found 30 text objects in section_15_03.pdf
-[2026-01-05 23:46:32]       Text 1: 'Double' at (54.7, 11.3)
-[2026-01-05 23:46:32]       Text 2: 'Containment' at (54.3, 20.3)
-[2026-01-05 23:46:32]       Text 3: 'Flange' at (54.7, 54.0)
-[2026-01-05 23:46:32]     Column section_15_03.pdf: 30 texts, 0 filtered, 7 no symbol found, 16 extracted
-[2026-01-05 23:46:32]     Extracted 16 symbols from section_15_03.pdf
-[2026-01-05 23:46:33]     Extracted 10 symbols from section_15_04.pdf
-[2026-01-05 23:46:34]     Extracted 23 symbols from section_15_05.pdf
-[2026-01-05 23:46:34] 
+[2026-01-06 09:09:27] ============================================================
+[2026-01-06 09:09:27] STEP 3: Symbol Extraction
+[2026-01-06 09:09:27] ============================================================
+[2026-01-06 09:09:27] Found 75 column PDFs to process
+[2026-01-06 09:09:29]     Found 20 text objects in section_01_01.pdf
+[2026-01-06 09:09:29]       Text 1: 'Indicator' at (79.3, 18.0)
+[2026-01-06 09:09:29]       Text 2: 'Behind Control' at (79.0, 50.3)
+[2026-01-06 09:09:29]       Text 3: '‘\' at (58.0, 79.6)
+[2026-01-06 09:09:29]     Column section_01_01.pdf: 20 texts, 0 filtered, 12 no symbol found, 7 extracted
+[2026-01-06 09:09:29]     Extracted 7 symbols from section_01_01.pdf
+[2026-01-06 09:09:30]     Found 30 text objects in section_01_02.pdf
+[2026-01-06 09:09:30]       Text 1: 'Computer Indicator' at (53.7, 17.7)
+[2026-01-06 09:09:30]       Text 2: 'WA' at (9.7, 44.7)
+[2026-01-06 09:09:30]       Text 3: 'Programmable' at (54.0, 46.7)
+[2026-01-06 09:09:30]     Column section_01_02.pdf: 30 texts, 0 filtered, 9 no symbol found, 14 extracted
+[2026-01-06 09:09:30]     Extracted 14 symbols from section_01_02.pdf
+[2026-01-06 09:09:30]     Found 36 text objects in section_01_03.pdf
+[2026-01-06 09:09:30]       Text 1: 'Ces' at (9.0, 15.0)
+[2026-01-06 09:09:30]       Text 2: 'Level' at (51.7, 15.0)
+[2026-01-06 09:09:30]       Text 3: '=“ Controller' at (11.7, 27.0)
+[2026-01-06 09:09:30]     Column section_01_03.pdf: 36 texts, 0 filtered, 16 no symbol found, 13 extracted
+[2026-01-06 09:09:30]     Extracted 13 symbols from section_01_03.pdf
+[2026-01-06 09:09:31]     Extracted 10 symbols from section_01_04.pdf
+[2026-01-06 09:09:31]     Extracted 18 symbols from section_01_05.pdf
+[2026-01-06 09:09:31]     Found 25 text objects in section_02_01.pdf
+[2026-01-06 09:09:31]       Text 1: 'Hand-Operated' at (79.3, 11.7)
+[2026-01-06 09:09:31]       Text 2: 'Gate Valve' at (79.0, 22.3)
+[2026-01-06 09:09:31]       Text 3: '<]' at (48.3, 44.0)
+[2026-01-06 09:09:31]     Column section_02_01.pdf: 25 texts, 0 filtered, 16 no symbol found, 7 extracted
+[2026-01-06 09:09:31]     Extracted 7 symbols from section_02_01.pdf
+[2026-01-06 09:09:32]     Found 23 text objects in section_02_02.pdf
+[2026-01-06 09:09:32]       Text 1: 'KY Check Valve' at (9.0, 9.3)
+[2026-01-06 09:09:32]       Text 2: 'Lo Butterfly Valve' at (10.0, 39.7)
+[2026-01-06 09:09:32]       Text 3: 'I' at (10.7, 71.7)
+[2026-01-06 09:09:32]     Column section_02_02.pdf: 23 texts, 1 filtered, 13 no symbol found, 7 extracted
+[2026-01-06 09:09:32]     Extracted 7 symbols from section_02_02.pdf
+[2026-01-06 09:09:32]     Found 19 text objects in section_02_03.pdf
+[2026-01-06 09:09:32]       Text 1: 'Solenoid Valve' at (51.3, 18.3)
+[2026-01-06 09:09:32]       Text 2: 'Let' at (30.7, 27.0)
+[2026-01-06 09:09:32]       Text 3: 'ydraulic Valve' at (57.7, 54.0)
+[2026-01-06 09:09:32]     Column section_02_03.pdf: 19 texts, 0 filtered, 13 no symbol found, 5 extracted
+[2026-01-06 09:09:32]     Extracted 5 symbols from section_02_03.pdf
+[2026-01-06 09:09:33]     Extracted 11 symbols from section_02_04.pdf
+[2026-01-06 09:09:33]   Processing column 10/75: section_02_05.pdf
+[2026-01-06 09:09:33]     Extracted 15 symbols from section_02_05.pdf
+[2026-01-06 09:09:34]     Found 25 text objects in section_03_01.pdf
+[2026-01-06 09:09:34]       Text 1: 'C) Compressor' at (34.7, 6.0)
+[2026-01-06 09:09:34]       Text 2: 'Reciprocating' at (79.3, 51.0)
+[2026-01-06 09:09:34]       Text 3: 'ompressor' at (85.0, 65.0)
+[2026-01-06 09:09:34]     Column section_03_01.pdf: 25 texts, 0 filtered, 3 no symbol found, 22 extracted
+[2026-01-06 09:09:34]     Extracted 22 symbols from section_03_01.pdf
+[2026-01-06 09:09:34]     Found 21 text objects in section_03_02.pdf
+[2026-01-06 09:09:34]       Text 1: 'Axial' at (51.7, 11.7)
+[2026-01-06 09:09:34]       Text 2: 'Compressor' at (53.3, 23.3)
+[2026-01-06 09:09:34]       Text 3: 'Centrifugal' at (53.3, 42.3)
+[2026-01-06 09:09:34]     Column section_03_02.pdf: 21 texts, 0 filtered, 4 no symbol found, 16 extracted
+[2026-01-06 09:09:34]     Extracted 16 symbols from section_03_02.pdf
+[2026-01-06 09:09:35]     Found 16 text objects in section_03_03.pdf
+[2026-01-06 09:09:35]       Text 1: 'Fi Sump pump' at (10.0, 3.3)
+[2026-01-06 09:09:35]       Text 2: 'Positive displacement' at (52.0, 68.3)
+[2026-01-06 09:09:35]       Text 3: 'pump' at (51.7, 80.3)
+[2026-01-06 09:09:35]     Column section_03_03.pdf: 16 texts, 0 filtered, 4 no symbol found, 11 extracted
+[2026-01-06 09:09:35]     Extracted 11 symbols from section_03_03.pdf
+[2026-01-06 09:09:35]     Extracted 9 symbols from section_03_04.pdf
+[2026-01-06 09:09:36]     Extracted 15 symbols from section_03_05.pdf
+[2026-01-06 09:09:36]     Found 7 text objects in section_04_01.pdf
+[2026-01-06 09:09:36]       Text 1: 'Mixing Vessel' at (79.0, 80.0)
+[2026-01-06 09:09:36]       Text 2: 'Column' at (79.0, 135.6)
+[2026-01-06 09:09:36]       Text 3: 'Tray Column' at (78.7, 184.9)
+[2026-01-06 09:09:36]     Column section_04_01.pdf: 7 texts, 0 filtered, 0 no symbol found, 6 extracted
+[2026-01-06 09:09:36]     Extracted 6 symbols from section_04_01.pdf
+[2026-01-06 09:09:36]     Found 7 text objects in section_04_02.pdf
+[2026-01-06 09:09:36]       Text 1: 'Knock-out drum' at (55.3, 113.9)
+[2026-01-06 09:09:36]       Text 2: 'Bag' at (55.3, 162.9)
+[2026-01-06 09:09:36]       Text 3: 'Bag (ISO)' at (55.3, 213.2)
+[2026-01-06 09:09:36]     Column section_04_02.pdf: 7 texts, 0 filtered, 1 no symbol found, 6 extracted
+[2026-01-06 09:09:36]     Extracted 6 symbols from section_04_02.pdf
+[2026-01-06 09:09:37]     Found 7 text objects in section_04_03.pdf
+[2026-01-06 09:09:37]       Text 1: 'Dome Boiler' at (53.3, 66.3)
+[2026-01-06 09:09:37]       Text 2: 'Hot Liquid Boiler' at (53.3, 112.9)
+[2026-01-06 09:09:37]       Text 3: 'Tank' at (53.0, 162.9)
+[2026-01-06 09:09:37]     Column section_04_03.pdf: 7 texts, 0 filtered, 2 no symbol found, 5 extracted
+[2026-01-06 09:09:37]     Extracted 5 symbols from section_04_03.pdf
+[2026-01-06 09:09:37]     Extracted 9 symbols from section_04_04.pdf
+[2026-01-06 09:09:37]   Processing column 20/75: section_04_05.pdf
+[2026-01-06 09:09:37]     Extracted 9 symbols from section_04_05.pdf
+[2026-01-06 09:09:38]     Found 5 text objects in section_05_01.pdf
+[2026-01-06 09:09:38]       Text 1: 'Mode Filter indication' at (79.0, 57.9)
+[2026-01-06 09:09:38]       Text 2: 'Filter' at (79.3, 100.2)
+[2026-01-06 09:09:38]       Text 3: 'Highpass Filter' at (79.3, 145.2)
+[2026-01-06 09:09:38]     Column section_05_01.pdf: 5 texts, 0 filtered, 0 no symbol found, 5 extracted
+[2026-01-06 09:09:38]     Extracted 5 symbols from section_05_01.pdf
+[2026-01-06 09:09:38]     Found 6 text objects in section_05_02.pdf
+[2026-01-06 09:09:38]       Text 1: 'Filter' at (55.3, 17.0)
+[2026-01-06 09:09:38]       Text 2: 'Filter' at (55.3, 57.3)
+[2026-01-06 09:09:38]       Text 3: 'Gas Filter' at (55.3, 109.5)
+[2026-01-06 09:09:38]     Column section_05_02.pdf: 6 texts, 0 filtered, 0 no symbol found, 5 extracted
+[2026-01-06 09:09:38]     Extracted 5 symbols from section_05_02.pdf
+[2026-01-06 09:09:38]     Found 8 text objects in section_05_03.pdf
+[2026-01-06 09:09:38]       Text 1: 'Fixed bed air Filter' at (53.0, 21.3)
+[2026-01-06 09:09:38]       Text 2: 'HEPA' at (53.0, 69.9)
+[2026-01-06 09:09:38]       Text 3: 'Fitter gas' at (78.0, 69.9)
+[2026-01-06 09:09:38]     Column section_05_03.pdf: 8 texts, 0 filtered, 0 no symbol found, 8 extracted
+[2026-01-06 09:09:38]     Extracted 8 symbols from section_05_03.pdf
+[2026-01-06 09:09:39]     Extracted 4 symbols from section_05_04.pdf
+[2026-01-06 09:09:39]     Extracted 5 symbols from section_05_05.pdf
+[2026-01-06 09:09:39]     Found 8 text objects in section_06_01.pdf
+[2026-01-06 09:09:39]       Text 1: '() Compressor' at (34.0, 3.0)
+[2026-01-06 09:09:39]       Text 2: 'C) Compressor' at (34.3, 38.0)
+[2026-01-06 09:09:39]       Text 3: 'Compressor,' at (79.0, 80.6)
+[2026-01-06 09:09:39]     Column section_06_01.pdf: 8 texts, 0 filtered, 2 no symbol found, 6 extracted
+[2026-01-06 09:09:39]     Extracted 6 symbols from section_06_01.pdf
+[2026-01-06 09:09:40]     Found 8 text objects in section_06_02.pdf
+[2026-01-06 09:09:40]       Text 1: 'Compressor Ejector' at (55.3, 15.7)
+[2026-01-06 09:09:40]       Text 2: 'A)' at (11.3, 38.0)
+[2026-01-06 09:09:40]       Text 3: 'Compressor Piston' at (55.3, 49.6)
+[2026-01-06 09:09:40]     Column section_06_02.pdf: 8 texts, 0 filtered, 1 no symbol found, 6 extracted
+[2026-01-06 09:09:40]     Extracted 6 symbols from section_06_02.pdf
+[2026-01-06 09:09:40]     Found 7 text objects in section_06_03.pdf
+[2026-01-06 09:09:40]       Text 1: 'Oot) Compressor silencers' at (5.7, 3.0)
+[2026-01-06 09:09:40]       Text 2: 'Rotary Compressor' at (53.0, 43.3)
+[2026-01-06 09:09:40]       Text 3: 'Rotary Compressor' at (53.0, 79.3)
+[2026-01-06 09:09:40]     Column section_06_03.pdf: 7 texts, 0 filtered, 1 no symbol found, 6 extracted
+[2026-01-06 09:09:40]     Extracted 6 symbols from section_06_03.pdf
+[2026-01-06 09:09:40]     Extracted 10 symbols from section_06_04.pdf
+[2026-01-06 09:09:40]   Processing column 30/75: section_06_05.pdf
+[2026-01-06 09:09:41]     Extracted 2 symbols from section_06_05.pdf
+[2026-01-06 09:09:41]     Found 15 text objects in section_07_01.pdf
+[2026-01-06 09:09:41]       Text 1: 'Tema TyPe BEM' at (78.0, 18.0)
+[2026-01-06 09:09:41]       Text 2: 'tema tyre Beu' at (78.0, 57.3)
+[2026-01-06 09:09:41]       Text 3: 'tema tyre AEM' at (78.0, 95.0)
+[2026-01-06 09:09:41]     Column section_07_01.pdf: 15 texts, 0 filtered, 4 no symbol found, 11 extracted
+[2026-01-06 09:09:41]     Extracted 11 symbols from section_07_01.pdf
+[2026-01-06 09:09:42]     Found 17 text objects in section_07_02.pdf
+[2026-01-06 09:09:42]       Text 1: 'Spray Cooler' at (53.7, 29.3)
+[2026-01-06 09:09:42]       Text 2: 'Forced-draft' at (54.0, 73.0)
+[2026-01-06 09:09:42]       Text 3: 'Cooling Tower' at (53.7, 85.3)
+[2026-01-06 09:09:42]     Column section_07_02.pdf: 17 texts, 0 filtered, 6 no symbol found, 10 extracted
+[2026-01-06 09:09:42]     Extracted 10 symbols from section_07_02.pdf
+[2026-01-06 09:09:42]     Found 23 text objects in section_07_03.pdf
+[2026-01-06 09:09:42]       Text 1: 'Shell and Tube' at (53.0, 20.7)
+[2026-01-06 09:09:42]       Text 2: 'Heat' at (53.3, 31.3)
+[2026-01-06 09:09:42]       Text 3: 'Cooler' at (53.0, 69.0)
+[2026-01-06 09:09:42]     Column section_07_03.pdf: 23 texts, 0 filtered, 5 no symbol found, 13 extracted
+[2026-01-06 09:09:42]     Extracted 13 symbols from section_07_03.pdf
+[2026-01-06 09:09:43]     Extracted 13 symbols from section_07_04.pdf
+[2026-01-06 09:09:43]     Extracted 9 symbols from section_07_05.pdf
+[2026-01-06 09:09:43]     Found 3 text objects in section_08_01.pdf
+[2026-01-06 09:09:43]       Text 1: 'mer' at (79.0, 19.0)
+[2026-01-06 09:09:43]       Text 2: 'Fluidized Bed' at (79.3, 60.9)
+[2026-01-06 09:09:43]       Text 3: '|} oe' at (36.7, 70.9)
+[2026-01-06 09:09:43]     Column section_08_01.pdf: 3 texts, 0 filtered, 1 no symbol found, 2 extracted
+[2026-01-06 09:09:43]     Extracted 2 symbols from section_08_01.pdf
+[2026-01-06 09:09:43]     Found 3 text objects in section_08_02.pdf
+[2026-01-06 09:09:43]       Text 1: 'Roller Conveyor' at (55.0, 16.3)
+[2026-01-06 09:09:43]       Text 2: 'Belt Dryer' at (55.0, 27.0)
+[2026-01-06 09:09:43]       Text 3: '=| Motor Generator' at (10.0, 51.9)
+[2026-01-06 09:09:43]     Column section_08_02.pdf: 3 texts, 0 filtered, 1 no symbol found, 2 extracted
+[2026-01-06 09:09:43]     Extracted 2 symbols from section_08_02.pdf
+[2026-01-06 09:09:44]     Found 2 text objects in section_08_03.pdf
+[2026-01-06 09:09:44]       Text 1: 'Generator' at (54.3, 24.0)
+[2026-01-06 09:09:44]       Text 2: 'Drying Oven' at (54.7, 69.2)
+[2026-01-06 09:09:44]     Column section_08_03.pdf: 2 texts, 0 filtered, 0 no symbol found, 2 extracted
+[2026-01-06 09:09:44]     Extracted 2 symbols from section_08_03.pdf
+[2026-01-06 09:09:44]   Processing column 40/75: section_08_05.pdf
+[2026-01-06 09:09:44]     Extracted 1 symbols from section_08_05.pdf
+[2026-01-06 09:09:45]     Found 8 text objects in section_09_01.pdf
+[2026-01-06 09:09:45]       Text 1: 'Crossflow' at (79.0, 18.3)
+[2026-01-06 09:09:45]       Text 2: 'Ws' at (31.3, 19.3)
+[2026-01-06 09:09:45]       Text 3: 'Draft Inducted' at (79.3, 28.6)
+[2026-01-06 09:09:45]     Column section_09_01.pdf: 8 texts, 0 filtered, 1 no symbol found, 7 extracted
+[2026-01-06 09:09:45]     Extracted 7 symbols from section_09_01.pdf
+[2026-01-06 09:09:45]     Found 6 text objects in section_09_02.pdf
+[2026-01-06 09:09:45]       Text 1: 'Plate Tower' at (55.0, 31.3)
+[2026-01-06 09:09:45]       Text 2: 'ie' at (18.0, 87.6)
+[2026-01-06 09:09:45]       Text 3: 'Packed Tower' at (55.0, 102.3)
+[2026-01-06 09:09:45]     Column section_09_02.pdf: 6 texts, 0 filtered, 2 no symbol found, 2 extracted
+[2026-01-06 09:09:45]     Extracted 2 symbols from section_09_02.pdf
+[2026-01-06 09:09:45]     Found 4 text objects in section_09_03.pdf
+[2026-01-06 09:09:45]       Text 1: 'Fluid Catalytic' at (54.7, 44.3)
+[2026-01-06 09:09:45]       Text 2: 'Cracking' at (54.3, 52.6)
+[2026-01-06 09:09:45]       Text 3: 'Coking Fluid' at (54.7, 133.6)
+[2026-01-06 09:09:45]     Column section_09_03.pdf: 4 texts, 0 filtered, 0 no symbol found, 2 extracted
+[2026-01-06 09:09:45]     Extracted 2 symbols from section_09_03.pdf
+[2026-01-06 09:09:45]     Extracted 3 symbols from section_09_04.pdf
+[2026-01-06 09:09:46]     Extracted 4 symbols from section_09_05.pdf
+[2026-01-06 09:09:46]     Found 3 text objects in section_10_01.pdf
+[2026-01-06 09:09:46]       Text 1: 'In-line Mixer' at (79.3, 15.0)
+[2026-01-06 09:09:46]       Text 2: 'an Mixer' at (38.0, 28.0)
+[2026-01-06 09:09:46]       Text 3: 'ie) Various Mixers' at (33.0, 78.7)
+[2026-01-06 09:09:46]     Column section_10_01.pdf: 3 texts, 0 filtered, 2 no symbol found, 1 extracted
+[2026-01-06 09:09:46]     Extracted 1 symbols from section_10_01.pdf
+[2026-01-06 09:09:46]     Found 4 text objects in section_10_02.pdf
+[2026-01-06 09:09:46]       Text 1: 'Various Mixers' at (53.0, 21.0)
+[2026-01-06 09:09:46]       Text 2: 'Various Mixers' at (53.0, 58.3)
+[2026-01-06 09:09:46]       Text 3: 'ny' at (11.0, 85.0)
+[2026-01-06 09:09:46]     Column section_10_02.pdf: 4 texts, 0 filtered, 1 no symbol found, 2 extracted
+[2026-01-06 09:09:46]     Extracted 2 symbols from section_10_02.pdf
+[2026-01-06 09:09:47]     Found 4 text objects in section_10_03.pdf
+[2026-01-06 09:09:47]       Text 1: 'ob' at (10.3, 10.0)
+[2026-01-06 09:09:47]       Text 2: 'Agitator, Propeller' at (50.3, 23.3)
+[2026-01-06 09:09:47]       Text 3: 'Agitator, Anchor' at (50.3, 58.3)
+[2026-01-06 09:09:47]     Column section_10_03.pdf: 4 texts, 0 filtered, 2 no symbol found, 2 extracted
+[2026-01-06 09:09:47]     Extracted 2 symbols from section_10_03.pdf
+[2026-01-06 09:09:47]     Extracted 3 symbols from section_10_04.pdf
+[2026-01-06 09:09:47]   Processing column 50/75: section_10_05.pdf
+[2026-01-06 09:09:47]     Extracted 3 symbols from section_10_05.pdf
+[2026-01-06 09:09:47]     Found 2 text objects in section_11_01.pdf
+[2026-01-06 09:09:47]       Text 1: 'Crusher' at (79.0, 15.7)
+[2026-01-06 09:09:47]       Text 2: '\/ Coarse Crusher' at (34.7, 44.0)
+[2026-01-06 09:09:47]     Column section_11_01.pdf: 2 texts, 0 filtered, 1 no symbol found, 1 extracted
+[2026-01-06 09:09:47]     Extracted 1 symbols from section_11_01.pdf
+[2026-01-06 09:09:48]     Found 2 text objects in section_11_02.pdf
+[2026-01-06 09:09:48]       Text 1: 'Medium Crushers' at (53.3, 17.7)
+[2026-01-06 09:09:48]       Text 2: 'Fine Crushers' at (53.3, 65.3)
+[2026-01-06 09:09:48]     Column section_11_02.pdf: 2 texts, 0 filtered, 0 no symbol found, 2 extracted
+[2026-01-06 09:09:48]     Extracted 2 symbols from section_11_02.pdf
+[2026-01-06 09:09:48]     Found 3 text objects in section_11_03.pdf
+[2026-01-06 09:09:48]       Text 1: '\X</ Various Crushers' at (0.0, 7.7)
+[2026-01-06 09:09:48]       Text 2: 'NES Hammer Crusher' at (0.0, 37.7)
+[2026-01-06 09:09:48]       Text 3: 'Crusher Impact' at (52.7, 75.7)
+[2026-01-06 09:09:48]     Column section_11_03.pdf: 3 texts, 0 filtered, 2 no symbol found, 1 extracted
+[2026-01-06 09:09:48]     Extracted 1 symbols from section_11_03.pdf
+[2026-01-06 09:09:48]     Extracted 1 symbols from section_11_04.pdf
+[2026-01-06 09:09:49]     Extracted 3 symbols from section_11_05.pdf
+[2026-01-06 09:09:49]     Found 7 text objects in section_12_01.pdf
+[2026-01-06 09:09:49]       Text 1: 'Centrifugal Pump' at (79.0, 17.6)
+[2026-01-06 09:09:49]       Text 2: 'Centrifugal' at (79.0, 58.6)
+[2026-01-06 09:09:49]       Text 3: 'Compressor' at (79.0, 69.2)
+[2026-01-06 09:09:49]     Column section_12_01.pdf: 7 texts, 0 filtered, 1 no symbol found, 6 extracted
+[2026-01-06 09:09:49]     Extracted 6 symbols from section_12_01.pdf
+[2026-01-06 09:09:49]     Found 7 text objects in section_12_02.pdf
+[2026-01-06 09:09:49]       Text 1: '{A Centrifuge Screw' at (4.0, 6.7)
+[2026-01-06 09:09:49]       Text 2: 'Centrifuge,' at (54.0, 51.6)
+[2026-01-06 09:09:49]       Text 3: 'Solid Shell' at (54.0, 62.3)
+[2026-01-06 09:09:49]     Column section_12_02.pdf: 7 texts, 0 filtered, 1 no symbol found, 6 extracted
+[2026-01-06 09:09:49]     Extracted 6 symbols from section_12_02.pdf
+[2026-01-06 09:09:49]     Found 7 text objects in section_12_03.pdf
+[2026-01-06 09:09:49]       Text 1: 'Centrifuge, Pusher' at (53.3, 16.3)
+[2026-01-06 09:09:49]       Text 2: 'Centrifuge Screw,' at (53.3, 53.6)
+[2026-01-06 09:09:49]       Text 3: 'Perforated Shell' at (53.7, 64.2)
+[2026-01-06 09:09:49]     Column section_12_03.pdf: 7 texts, 0 filtered, 0 no symbol found, 7 extracted
+[2026-01-06 09:09:49]     Extracted 7 symbols from section_12_03.pdf
+[2026-01-06 09:09:50]     Extracted 4 symbols from section_12_04.pdf
+[2026-01-06 09:09:50]   Processing column 60/75: section_12_05.pdf
+[2026-01-06 09:09:50]     Extracted 1 symbols from section_12_05.pdf
+[2026-01-06 09:09:50]     Found 3 text objects in section_13_01.pdf
+[2026-01-06 09:09:50]       Text 1: 'Motor' at (80.7, 16.0)
+[2026-01-06 09:09:50]       Text 2: '() Step Motor' at (37.7, 48.3)
+[2026-01-06 09:09:50]       Text 3: '(™) DC Motor' at (37.7, 89.0)
+[2026-01-06 09:09:50]     Column section_13_01.pdf: 3 texts, 0 filtered, 2 no symbol found, 1 extracted
+[2026-01-06 09:09:50]     Extracted 1 symbols from section_13_01.pdf
+[2026-01-06 09:09:51]     Found 4 text objects in section_13_02.pdf
+[2026-01-06 09:09:51]       Text 1: 'AC Motor' at (55.0, 17.3)
+[2026-01-06 09:09:51]       Text 2: 'Motor Generator' at (55.3, 59.3)
+[2026-01-06 09:09:51]       Text 3: 'le' at (11.0, 92.6)
+[2026-01-06 09:09:51]     Column section_13_02.pdf: 4 texts, 0 filtered, 1 no symbol found, 3 extracted
+[2026-01-06 09:09:51]     Extracted 3 symbols from section_13_02.pdf
+[2026-01-06 09:09:51]     Found 3 text objects in section_13_03.pdf
+[2026-01-06 09:09:51]       Text 1: '(s) Generator' at (11.7, 7.7)
+[2026-01-06 09:09:51]       Text 2: '(s) AC Generator' at (11.7, 49.0)
+[2026-01-06 09:09:51]       Text 3: '(s) DC Generator' at (11.7, 92.6)
+[2026-01-06 09:09:51]     Column section_13_03.pdf: 3 texts, 0 filtered, 3 no symbol found, 0 extracted
+[2026-01-06 09:09:51]     Extracted 4 symbols from section_13_04.pdf
+[2026-01-06 09:09:52]     Extracted 3 symbols from section_13_05.pdf
+[2026-01-06 09:09:53]     Found 19 text objects in section_14_01.pdf
+[2026-01-06 09:09:53]       Text 1: 'Separator Impact' at (81.0, 17.7)
+[2026-01-06 09:09:53]       Text 2: 'Gravity Separator' at (80.3, 57.7)
+[2026-01-06 09:09:53]       Text 3: 'Cyclone Separator' at (80.3, 105.3)
+[2026-01-06 09:09:53]     Column section_14_01.pdf: 19 texts, 0 filtered, 1 no symbol found, 17 extracted
+[2026-01-06 09:09:53]     Extracted 17 symbols from section_14_01.pdf
+[2026-01-06 09:09:53]     Found 15 text objects in section_14_02.pdf
+[2026-01-06 09:09:53]       Text 1: 'Reducer' at (55.3, 59.0)
+[2026-01-06 09:09:53]       Text 2: 'D)' at (14.3, 83.0)
+[2026-01-06 09:09:53]       Text 3: 'Rupture Disc' at (55.3, 103.0)
+[2026-01-06 09:09:53]     Column section_14_02.pdf: 15 texts, 0 filtered, 3 no symbol found, 12 extracted
+[2026-01-06 09:09:53]     Extracted 12 symbols from section_14_02.pdf
+[2026-01-06 09:09:54]     Found 14 text objects in section_14_03.pdf
+[2026-01-06 09:09:54]       Text 1: 'Elevator' at (55.0, 16.3)
+[2026-01-06 09:09:54]       Text 2: 'Z-form Elevator' at (54.7, 59.7)
+[2026-01-06 09:09:54]       Text 3: 'Hoists' at (55.0, 140.7)
+[2026-01-06 09:09:54]     Column section_14_03.pdf: 14 texts, 0 filtered, 2 no symbol found, 11 extracted
+[2026-01-06 09:09:54]     Extracted 11 symbols from section_14_03.pdf
+[2026-01-06 09:09:54]     Extracted 12 symbols from section_14_04.pdf
+[2026-01-06 09:09:54]   Processing column 70/75: section_14_05.pdf
+[2026-01-06 09:09:55]     Extracted 10 symbols from section_14_05.pdf
+[2026-01-06 09:09:56]     Found 22 text objects in section_15_01.pdf
+[2026-01-06 09:09:56]       Text 1: 'Major Pipeline' at (81.3, 18.0)
+[2026-01-06 09:09:56]       Text 2: 'Connect Pipeline' at (81.0, 57.6)
+[2026-01-06 09:09:56]       Text 3: 'Major Straight' at (81.3, 94.3)
+[2026-01-06 09:09:56]     Column section_15_01.pdf: 22 texts, 0 filtered, 6 no symbol found, 11 extracted
+[2026-01-06 09:09:56]     Extracted 11 symbols from section_15_01.pdf
+[2026-01-06 09:09:56]     Found 29 text objects in section_15_02.pdf
+[2026-01-06 09:09:56]       Text 1: 'Top' at (55.3, 18.0)
+[2026-01-06 09:09:56]       Text 2: 'Top to' at (72.3, 18.0)
+[2026-01-06 09:09:56]       Text 3: 'Sonic Signal' at (55.3, 59.3)
+[2026-01-06 09:09:56]     Column section_15_02.pdf: 29 texts, 0 filtered, 16 no symbol found, 12 extracted
+[2026-01-06 09:09:56]     Extracted 12 symbols from section_15_02.pdf
+[2026-01-06 09:09:57]     Found 30 text objects in section_15_03.pdf
+[2026-01-06 09:09:57]       Text 1: 'Double' at (54.7, 11.3)
+[2026-01-06 09:09:57]       Text 2: 'Containment' at (54.3, 20.3)
+[2026-01-06 09:09:57]       Text 3: 'Flange' at (54.7, 54.0)
+[2026-01-06 09:09:57]     Column section_15_03.pdf: 30 texts, 0 filtered, 7 no symbol found, 16 extracted
+[2026-01-06 09:09:57]     Extracted 16 symbols from section_15_03.pdf
+[2026-01-06 09:09:58]     Extracted 10 symbols from section_15_04.pdf
+[2026-01-06 09:09:58]     Extracted 23 symbols from section_15_05.pdf
+[2026-01-06 09:09:58] 
 Saving 541 symbols...
-[2026-01-05 23:46:34]   Saved: Pane.png (from label: Pane)
-[2026-01-05 23:46:34]   Saved: Local.png (from label: Local)
-[2026-01-05 23:46:34]   Saved: Pressure.png (from label: Pressure)
-[2026-01-05 23:46:34]   Saved: Thermometer.png (from label: Thermometer)
-[2026-01-05 23:46:34]   Saved: Shared_Indicator.png (from label: Shared Indicator)
-[2026-01-05 23:46:34]   Saved: Displayed.png (from label: Displayed)
-[2026-01-05 23:46:34]   Saved: Shared_Indicator_1.png (from label: Shared Indicator)
-[2026-01-05 23:46:34]   Saved: Programmable.png (from label: Programmable)
-[2026-01-05 23:46:34]   Saved: Indicator.png (from label: Indicator)
-[2026-01-05 23:46:34]   Saved: Displayed_1.png (from label: Displayed)
-[2026-01-05 23:46:34]   Saved: Computer.png (from label: Computer)
-[2026-01-05 23:46:34]   Saved: Control_Unit.png (from label: Control Unit)
-[2026-01-05 23:46:34]   Saved: Panel.png (from label: Panel)
-[2026-01-05 23:46:34]   Saved: Temp.png (from label: Temp)
-[2026-01-05 23:46:34]   Saved: Temp_Recorder.png (from label: Temp Recorder)
-[2026-01-05 23:46:34]   Saved: Temp_1.png (from label: Temp)
-[2026-01-05 23:46:34]   Saved: Flow_Indicator.png (from label: Flow Indicator)
-[2026-01-05 23:46:34]   Saved: Flow_Recorder.png (from label: Flow Recorder)
-[2026-01-05 23:46:34]   Saved: Controller.png (from label: Controller)
-[2026-01-05 23:46:34]   Saved: Pressure_1.png (from label: Pressure)
-[2026-01-05 23:46:34]   Saved: Level_Recorder.png (from label: Level Recorder)
-[2026-01-05 23:46:34]   Saved: Level.png (from label: Level)
-[2026-01-05 23:46:34]   Saved: Pressure_2.png (from label: Pressure)
-[2026-01-05 23:46:34]   Saved: Pressure_3.png (from label: Pressure)
-[2026-01-05 23:46:34]   Saved: Pressure_4.png (from label: Pressure)
-[2026-01-05 23:46:34]   Saved: Pressure_5.png (from label: Pressure)
-[2026-01-05 23:46:34]   Saved: Pressure_6.png (from label: Pressure)
-[2026-01-05 23:46:34]   Saved: Recording.png (from label: Recording)
-[2026-01-05 23:46:34]   Saved: Level_Alarm.png (from label: Level Alarm)
-[2026-01-05 23:46:34]   Saved: Element.png (from label: Element)
-[2026-01-05 23:46:34]   Saved: Level_Gauge.png (from label: Level Gauge)
-[2026-01-05 23:46:34]   Saved: Specialty_Item.png (from label: Specialty Item)
-[2026-01-05 23:46:34]   Saved: Straightening.png (from label: Straightening)
-[2026-01-05 23:46:34]   Saved: Meter.png (from label: Meter)
-[2026-01-05 23:46:34]   Saved: Flow.png (from label: Flow)
-[2026-01-05 23:46:34]   Saved: Pitot_Tube.png (from label: Pitot Tube)
-[2026-01-05 23:46:34]   Saved: Target_Meter.png (from label: Target Meter)
-[2026-01-05 23:46:34]   Saved: Ultrasonic_Meter.png (from label: Ultrasonic Meter)
-[2026-01-05 23:46:34]   Saved: Quick_Change.png (from label: Quick Change)
-[2026-01-05 23:46:34]   Saved: Turbine_Meter.png (from label: Turbine Meter)
-[2026-01-05 23:46:34]   Saved: Rotometer.png (from label: Rotometer)
-[2026-01-05 23:46:34]   Saved: Venturi.png (from label: Venturi)
-[2026-01-05 23:46:34]   Saved: Flowmeter.png (from label: Flowmeter)
-[2026-01-05 23:46:34]   Saved: And_Gate.png (from label: And Gate)
-[2026-01-05 23:46:34]   Saved: Gate_Not.png (from label: Gate Not)
-[2026-01-05 23:46:34]   Saved: Correcting.png (from label: Correcting)
-[2026-01-05 23:46:34]   Saved: Element_1.png (from label: Element)
-[2026-01-05 23:46:34]   Saved: Diamond.png (from label: Diamond)
-[2026-01-05 23:46:34]   Saved: Pressure_7.png (from label: Pressure)
-[2026-01-05 23:46:34]   Saved: Gauges.png (from label: Gauges)
-[2026-01-05 23:46:34]   Saved: Thermometers.png (from label: Thermometers)
-[2026-01-05 23:46:34]   Saved: Averaging_Pitot.png (from label: Averaging Pitot)
-[2026-01-05 23:46:34]   Saved: Tube.png (from label: Tube)
-[2026-01-05 23:46:34]   Saved: Coriolis_Flow.png (from label: Coriolis Flow)
-[2026-01-05 23:46:34]   Saved: Sensor.png (from label: Sensor)
-[2026-01-05 23:46:34]   Saved: Flow_Nozzle.png (from label: Flow Nozzle)
-[2026-01-05 23:46:34]   Saved: Flume_Meter.png (from label: Flume Meter)
-[2026-01-05 23:46:34]   Saved: Manhole.png (from label: Manhole)
-[2026-01-05 23:46:34]   Saved: Socket.png (from label: Socket)
-[2026-01-05 23:46:34]   Saved: Connection.png (from label: Connection)
-[2026-01-05 23:46:34]   Saved: Support_Bracket.png (from label: Support Bracket)
-[2026-01-05 23:46:34]   Saved: Support_Leg.png (from label: Support Leg)
-[2026-01-05 23:46:34]   Saved: Valve.png (from label: Valve)
-[2026-01-05 23:46:34]   Saved: Hand-Operated.png (from label: Hand-Operated)
-[2026-01-05 23:46:34]   Saved: Rotary_Valve.png (from label: Rotary Valve)
-[2026-01-05 23:46:34]   Saved: Piston-Operated.png (from label: Piston-Operated)
-[2026-01-05 23:46:34]   Saved: Valve_1.png (from label: Valve)
-[2026-01-05 23:46:34]   Saved: Back_Pressure.png (from label: Back Pressure)
-[2026-01-05 23:46:34]   Saved: Cock_or.png (from label: Cock or)
-[2026-01-05 23:46:34]   Saved: Angle_Valve.png (from label: Angle Valve)
-[2026-01-05 23:46:34]   Saved: Globe_Angle.png (from label: Globe Angle)
-[2026-01-05 23:46:34]   Saved: Valve_2.png (from label: Valve)
-[2026-01-05 23:46:34]   Saved: Relief_Valve.png (from label: Relief Valve)
-[2026-01-05 23:46:34]   Saved: Valve_3.png (from label: Valve)
-[2026-01-05 23:46:34]   Saved: Normally_Closed.png (from label: Normally Closed)
-[2026-01-05 23:46:34]   Saved: Plug_Valve.png (from label: Plug Valve)
-[2026-01-05 23:46:34]   Saved: Solenoid_Valve.png (from label: Solenoid Valve)
-[2026-01-05 23:46:34]   Saved: ydraulic_Valve.png (from label: ydraulic Valve)
-[2026-01-05 23:46:34]   Saved: Motor-Operated.png (from label: Motor-Operated)
-[2026-01-05 23:46:34]   Saved: Gate_Weight.png (from label: Gate Weight)
-[2026-01-05 23:46:34]   Saved: Float-Operated.png (from label: Float-Operated)
-[2026-01-05 23:46:34]   Saved: 4-way_Valve.png (from label: 4-way Valve)
-[2026-01-05 23:46:34]   Saved: Electro-Hydraulic.png (from label: Electro-Hydraulic)
-[2026-01-05 23:46:34]   Saved: Valve_4.png (from label: Valve)
-[2026-01-05 23:46:34]   Saved: Gate_Valve.png (from label: Gate Valve)
-[2026-01-05 23:46:34]   Saved: Spring_Gate_Valve.png (from label: Spring Gate Valve)
-[2026-01-05 23:46:34]   Saved: Slide_Valve.png (from label: Slide Valve)
-[2026-01-05 23:46:34]   Saved: Knife_Valve.png (from label: Knife Valve)
-[2026-01-05 23:46:34]   Saved: ——_Excess_Flow.png (from label: —— Excess Flow)
-[2026-01-05 23:46:34]   Saved: Post_Indicator.png (from label: Post Indicator)
-[2026-01-05 23:46:34]   Saved: Self_Draining_Valve.png (from label: Self Draining Valve)
-[2026-01-05 23:46:34]   Saved: Diaphragm_Valve.png (from label: Diaphragm Valve)
-[2026-01-05 23:46:34]   Saved: Pinch_Valve.png (from label: Pinch Valve)
-[2026-01-05 23:46:34]   Saved: Valve_5.png (from label: Valve)
-[2026-01-05 23:46:34]   Saved: Bleeder_Valve.png (from label: Bleeder Valve)
-[2026-01-05 23:46:34]   Saved: Integrated_Block.png (from label: Integrated Block)
-[2026-01-05 23:46:34]   Saved: Valve_6.png (from label: Valve)
-[2026-01-05 23:46:34]   Saved: Maual_Integrated.png (from label: Maual Integrated)
-[2026-01-05 23:46:34]   Saved: Valve_7.png (from label: Valve)
-[2026-01-05 23:46:34]   Saved: Orifice.png (from label: Orifice)
-[2026-01-05 23:46:34]   Saved: Rotameter.png (from label: Rotameter)
-[2026-01-05 23:46:34]   Saved: Quarter_Turn_Valve.png (from label: Quarter Turn Valve)
-[2026-01-05 23:46:34]   Saved: Double_Acting.png (from label: Double Acting)
-[2026-01-05 23:46:34]   Saved: Quarter_Turn_Valve_1.png (from label: Quarter Turn Valve)
-[2026-01-05 23:46:34]   Saved: Spring_Acting.png (from label: Spring Acting)
-[2026-01-05 23:46:34]   Saved: Water_Flow_Meter.png (from label: Water Flow Meter)
-[2026-01-05 23:46:34]   Saved: Self-Operating.png (from label: Self-Operating)
-[2026-01-05 23:46:34]   Saved: Reciprocating.png (from label: Reciprocating)
-[2026-01-05 23:46:34]   Saved: ompressor.png (from label: ompressor)
-[2026-01-05 23:46:34]   Saved: Compressor.png (from label: Compressor)
-[2026-01-05 23:46:34]   Saved: Compressor_1.png (from label: Compressor)
-[2026-01-05 23:46:34]   Saved: silencers.png (from label: silencers)
-[2026-01-05 23:46:34]   Saved: Centrifugal.png (from label: Centrifugal)
-[2026-01-05 23:46:34]   Saved: Rotary.png (from label: Rotary)
-[2026-01-05 23:46:34]   Saved: Compressor_2.png (from label: Compressor)
-[2026-01-05 23:46:34]   Saved: Rotary_1.png (from label: Rotary)
-[2026-01-05 23:46:34]   Saved: Compressor_3.png (from label: Compressor)
-[2026-01-05 23:46:34]   Saved: Rotory_Compressor.png (from label: Rotory Compressor)
-[2026-01-05 23:46:34]   Saved: and_silencers.png (from label: and silencers)
-[2026-01-05 23:46:34]   Saved: Liquid_ring.png (from label: Liquid ring)
-[2026-01-05 23:46:34]   Saved: Compressor_4.png (from label: Compressor)
-[2026-01-05 23:46:34]   Saved: Centrifugal_1.png (from label: Centrifugal)
-[2026-01-05 23:46:34]   Saved: Compressor_5.png (from label: Compressor)
-[2026-01-05 23:46:34]   Saved: Centrifugal_2.png (from label: Centrifugal)
-[2026-01-05 23:46:34]   Saved: Compressor_6.png (from label: Compressor)
-[2026-01-05 23:46:34]   Saved: Centrifugal_3.png (from label: Centrifugal)
-[2026-01-05 23:46:34]   Saved: Compressor_7.png (from label: Compressor)
-[2026-01-05 23:46:34]   Saved: Centrifugal_4.png (from label: Centrifugal)
-[2026-01-05 23:46:34]   Saved: blower.png (from label: blower)
-[2026-01-05 23:46:34]   Saved: Axial.png (from label: Axial)
-[2026-01-05 23:46:34]   Saved: Compressor_8.png (from label: Compressor)
-[2026-01-05 23:46:34]   Saved: Centrifugal_5.png (from label: Centrifugal)
-[2026-01-05 23:46:34]   Saved: pump.png (from label: pump)
-[2026-01-05 23:46:34]   Saved: Centrifugal_6.png (from label: Centrifugal)
-[2026-01-05 23:46:34]   Saved: pump_1.png (from label: pump)
-[2026-01-05 23:46:34]   Saved: Centrifugal_7.png (from label: Centrifugal)
-[2026-01-05 23:46:34]   Saved: pump_2.png (from label: pump)
-[2026-01-05 23:46:34]   Saved: Centrifugal_8.png (from label: Centrifugal)
-[2026-01-05 23:46:34]   Saved: pump_3.png (from label: pump)
-[2026-01-05 23:46:34]   Saved: Vertical_pump.png (from label: Vertical pump)
-[2026-01-05 23:46:34]   Saved: Liquid_ring_1.png (from label: Liquid ring)
-[2026-01-05 23:46:34]   Saved: vacuum_pump.png (from label: vacuum pump)
-[2026-01-05 23:46:34]   Saved: Positive_displacement.png (from label: Positive displacement)
-[2026-01-05 23:46:34]   Saved: pump_4.png (from label: pump)
-[2026-01-05 23:46:34]   Saved: Vertical_pump_1.png (from label: Vertical pump)
-[2026-01-05 23:46:34]   Saved: Positive_displacement_1.png (from label: Positive displacement)
-[2026-01-05 23:46:34]   Saved: pump_5.png (from label: pump)
-[2026-01-05 23:46:34]   Saved: Rotary_pump.png (from label: Rotary pump)
-[2026-01-05 23:46:34]   Saved: Rotary_gear.png (from label: Rotary gear)
-[2026-01-05 23:46:34]   Saved: pump_6.png (from label: pump)
-[2026-01-05 23:46:34]   Saved: Gear_pump.png (from label: Gear pump)
-[2026-01-05 23:46:34]   Saved: Proportioning_pump.png (from label: Proportioning pump)
-[2026-01-05 23:46:34]   Saved: Screw_pump.png (from label: Screw pump)
-[2026-01-05 23:46:34]   Saved: pump_7.png (from label: pump)
-[2026-01-05 23:46:34]   Saved: Reciprocating_1.png (from label: Reciprocating)
-[2026-01-05 23:46:34]   Saved: pump_8.png (from label: pump)
-[2026-01-05 23:46:34]   Saved: pump_9.png (from label: pump)
-[2026-01-05 23:46:34]   Saved: Turbine_pump.png (from label: Turbine pump)
-[2026-01-05 23:46:34]   Saved: Fan.png (from label: Fan)
-[2026-01-05 23:46:34]   Saved: Selectable_fan.png (from label: Selectable fan)
-[2026-01-05 23:46:34]   Saved: blades.png (from label: blades)
-[2026-01-05 23:46:34]   Saved: blades_1.png (from label: blades)
-[2026-01-05 23:46:34]   Saved: Axial_flow_fan.png (from label: Axial flow fan)
-[2026-01-05 23:46:34]   Saved: Ejector.png (from label: Ejector)
-[2026-01-05 23:46:34]   Saved: Spray.png (from label: Spray)
-[2026-01-05 23:46:34]   Saved: fl_Diesel_motor.png (from label: fl Diesel motor)
-[2026-01-05 23:46:34]   Saved: ISO_diaphragm.png (from label: ISO diaphragm)
-[2026-01-05 23:46:34]   Saved: pump_10.png (from label: pump)
-[2026-01-05 23:46:34]   Saved: ISO_gear_pump.png (from label: ISO gear pump)
-[2026-01-05 23:46:34]   Saved: ISO_Progressive.png (from label: ISO Progressive)
-[2026-01-05 23:46:34]   Saved: pump_11.png (from label: pump)
-[2026-01-05 23:46:34]   Saved: ISO_positive.png (from label: ISO positive)
-[2026-01-05 23:46:34]   Saved: displacement_pump.png (from label: displacement pump)
-[2026-01-05 23:46:34]   Saved: ISO_reciprocating.png (from label: ISO reciprocating)
-[2026-01-05 23:46:34]   Saved: piston_pump.png (from label: piston pump)
-[2026-01-05 23:46:34]   Saved: ISO_screw_pump.png (from label: ISO screw pump)
-[2026-01-05 23:46:34]   Saved: Selectable.png (from label: Selectable)
-[2026-01-05 23:46:34]   Saved: Compressor_9.png (from label: Compressor)
-[2026-01-05 23:46:34]   Saved: Positive_displacement_2.png (from label: Positive displacement)
-[2026-01-05 23:46:34]   Saved: Motor.png (from label: Motor)
-[2026-01-05 23:46:34]   Saved: Mixing_Vessel.png (from label: Mixing Vessel)
-[2026-01-05 23:46:34]   Saved: Column.png (from label: Column)
-[2026-01-05 23:46:34]   Saved: Tray_Column.png (from label: Tray Column)
-[2026-01-05 23:46:34]   Saved: Staggered_Baffle.png (from label: Staggered Baffle)
-[2026-01-05 23:46:34]   Saved: Column_Trays.png (from label: Column Trays)
-[2026-01-05 23:46:34]   Saved: Packing_Column.png (from label: Packing Column)
-[2026-01-05 23:46:34]   Saved: Knock-out_drum.png (from label: Knock-out drum)
-[2026-01-05 23:46:34]   Saved: Bag.png (from label: Bag)
-[2026-01-05 23:46:34]   Saved: Bag_(ISO).png (from label: Bag (ISO))
-[2026-01-05 23:46:34]   Saved: Barrel.png (from label: Barrel)
-[2026-01-05 23:46:34]   Saved: (ISO)_Barrel.png (from label: (ISO) Barrel)
-[2026-01-05 23:46:34]   Saved: Gas_bottle.png (from label: Gas bottle)
-[2026-01-05 23:46:34]   Saved: Dome_Boiler.png (from label: Dome Boiler)
-[2026-01-05 23:46:34]   Saved: Hot_Liquid_Boiler.png (from label: Hot Liquid Boiler)
-[2026-01-05 23:46:34]   Saved: Tank.png (from label: Tank)
-[2026-01-05 23:46:34]   Saved: Tank_1.png (from label: Tank)
-[2026-01-05 23:46:34]   Saved: Tank_2.png (from label: Tank)
-[2026-01-05 23:46:34]   Saved: Covered_Tank.png (from label: Covered Tank)
-[2026-01-05 23:46:34]   Saved: Floating_Roof_Tank.png (from label: Floating Roof Tank)
-[2026-01-05 23:46:34]   Saved: Open.png (from label: Open)
-[2026-01-05 23:46:34]   Saved: Storage_Bulk.png (from label: Storage Bulk)
-[2026-01-05 23:46:34]   Saved: Dome_Roof_Tank.png (from label: Dome Roof Tank)
-[2026-01-05 23:46:34]   Saved: Cone_Roof_Tank.png (from label: Cone Roof Tank)
-[2026-01-05 23:46:34]   Saved: Floating_Internal.png (from label: Floating Internal)
-[2026-01-05 23:46:34]   Saved: Roof_Tank.png (from label: Roof Tank)
-[2026-01-05 23:46:34]   Saved: Double.png (from label: Double)
-[2026-01-05 23:46:34]   Saved: Thermal_Insulation.png (from label: Thermal Insulation)
-[2026-01-05 23:46:34]   Saved: Vessel.png (from label: Vessel)
-[2026-01-05 23:46:34]   Saved: Jacket_Vessel.png (from label: Jacket Vessel)
-[2026-01-05 23:46:34]   Saved: Brackets_Vessel.png (from label: Brackets Vessel)
-[2026-01-05 23:46:34]   Saved: Dished_Ends_Vessel.png (from label: Dished Ends Vessel)
-[2026-01-05 23:46:34]   Saved: Pit_Vessel.png (from label: Pit Vessel)
-[2026-01-05 23:46:34]   Saved: Electrical_Heating.png (from label: Electrical Heating)
-[2026-01-05 23:46:34]   Saved: Vessel_1.png (from label: Vessel)
-[2026-01-05 23:46:34]   Saved: Wastewater_Treatment.png (from label: Wastewater Treatment)
-[2026-01-05 23:46:34]   Saved: Mode_Filter_indication.png (from label: Mode Filter indication)
-[2026-01-05 23:46:34]   Saved: Filter.png (from label: Filter)
-[2026-01-05 23:46:34]   Saved: Highpass_Filter.png (from label: Highpass Filter)
-[2026-01-05 23:46:34]   Saved: Filter_Lowpass.png (from label: Filter Lowpass)
-[2026-01-05 23:46:34]   Saved: Bandpass_Filter.png (from label: Bandpass Filter)
-[2026-01-05 23:46:34]   Saved: Filter_1.png (from label: Filter)
-[2026-01-05 23:46:34]   Saved: Filter_2.png (from label: Filter)
-[2026-01-05 23:46:34]   Saved: Gas_Filter.png (from label: Gas Filter)
-[2026-01-05 23:46:34]   Saved: Cartridge.png (from label: Cartridge)
-[2026-01-05 23:46:34]   Saved: Roll_air_Filter.png (from label: Roll air Filter)
-[2026-01-05 23:46:34]   Saved: Fixed_bed_air_Filter.png (from label: Fixed bed air Filter)
-[2026-01-05 23:46:34]   Saved: HEPA.png (from label: HEPA)
-[2026-01-05 23:46:34]   Saved: Fitter_gas.png (from label: Fitter gas)
-[2026-01-05 23:46:34]   Saved: Liquid_Filter.png (from label: Liquid Filter)
-[2026-01-05 23:46:34]   Saved: Fixed_bed_liquid.png (from label: Fixed bed liquid)
-[2026-01-05 23:46:34]   Saved: Filter_3.png (from label: Filter)
-[2026-01-05 23:46:34]   Saved: Rotary_liquid.png (from label: Rotary liquid)
-[2026-01-05 23:46:34]   Saved: Filter_4.png (from label: Filter)
-[2026-01-05 23:46:34]   Saved: lonexchanger_Filter.png (from label: lonexchanger Filter)
-[2026-01-05 23:46:34]   Saved: Press_Filter.png (from label: Press Filter)
-[2026-01-05 23:46:34]   Saved: Air_Filter.png (from label: Air Filter)
-[2026-01-05 23:46:34]   Saved: The_Filter.png (from label: The Filter)
-[2026-01-05 23:46:34]   Saved: efficiency_High.png (from label: efficiency High)
-[2026-01-05 23:46:34]   Saved: Primary_Filter.png (from label: Primary Filter)
-[2026-01-05 23:46:34]   Saved: Mid-effect_Filter.png (from label: Mid-effect Filter)
-[2026-01-05 23:46:34]   Saved: Filter_5.png (from label: Filter)
-[2026-01-05 23:46:34]   Saved: Suction_Filter.png (from label: Suction Filter)
-[2026-01-05 23:46:34]   Saved: Compressor,.png (from label: Compressor,)
-[2026-01-05 23:46:34]   Saved: Vacuum_pump.png (from label: Vacuum pump)
-[2026-01-05 23:46:34]   Saved: Centrifugal_9.png (from label: Centrifugal)
-[2026-01-05 23:46:34]   Saved: Compressor_10.png (from label: Compressor)
-[2026-01-05 23:46:34]   Saved: Diaphragm.png (from label: Diaphragm)
-[2026-01-05 23:46:34]   Saved: Compressor_11.png (from label: Compressor)
-[2026-01-05 23:46:34]   Saved: Compressor_Ejector.png (from label: Compressor Ejector)
-[2026-01-05 23:46:34]   Saved: Compressor_Piston.png (from label: Compressor Piston)
-[2026-01-05 23:46:34]   Saved: Roller_vane.png (from label: Roller vane)
-[2026-01-05 23:46:34]   Saved: Compressor_12.png (from label: Compressor)
-[2026-01-05 23:46:34]   Saved: Reciprocating_2.png (from label: Reciprocating)
-[2026-01-05 23:46:34]   Saved: Compressor_13.png (from label: Compressor)
-[2026-01-05 23:46:34]   Saved: Rotary_Compressor.png (from label: Rotary Compressor)
-[2026-01-05 23:46:34]   Saved: Rotary_Compressor_1.png (from label: Rotary Compressor)
-[2026-01-05 23:46:34]   Saved: Rotory.png (from label: Rotory)
-[2026-01-05 23:46:34]   Saved: Compressor_14.png (from label: Compressor)
-[2026-01-05 23:46:34]   Saved: Rotory_Compressor_1.png (from label: Rotory Compressor)
-[2026-01-05 23:46:34]   Saved: and_silencers_1.png (from label: and silencers)
-[2026-01-05 23:46:34]   Saved: Liquid_ring_2.png (from label: Liquid ring)
-[2026-01-05 23:46:34]   Saved: Compressor_15.png (from label: Compressor)
-[2026-01-05 23:46:34]   Saved: Centrifugal_10.png (from label: Centrifugal)
-[2026-01-05 23:46:34]   Saved: Compressor_16.png (from label: Compressor)
-[2026-01-05 23:46:34]   Saved: Centrifugal_11.png (from label: Centrifugal)
-[2026-01-05 23:46:34]   Saved: Compressor_17.png (from label: Compressor)
-[2026-01-05 23:46:34]   Saved: Centrifugal_12.png (from label: Centrifugal)
-[2026-01-05 23:46:34]   Saved: Compressor_18.png (from label: Compressor)
-[2026-01-05 23:46:34]   Saved: Selectable_1.png (from label: Selectable)
-[2026-01-05 23:46:34]   Saved: Compressor_19.png (from label: Compressor)
-[2026-01-05 23:46:34]   Saved: Air_Compressor.png (from label: Air Compressor)
-[2026-01-05 23:46:34]   Saved: Turbo_Compressor.png (from label: Turbo Compressor)
-[2026-01-05 23:46:34]   Saved: Tema_TyPe_BEM.png (from label: Tema TyPe BEM)
-[2026-01-05 23:46:34]   Saved: tema_tyre_Beu.png (from label: tema tyre Beu)
-[2026-01-05 23:46:34]   Saved: tema_tyre_AEM.png (from label: tema tyre AEM)
-[2026-01-05 23:46:34]   Saved: Tema.png (from label: Tema)
-[2026-01-05 23:46:34]   Saved: AEL.png (from label: AEL)
-[2026-01-05 23:46:34]   Saved: NEN.png (from label: NEN)
-[2026-01-05 23:46:34]   Saved: TEMA_TYPE_BkU.png (from label: TEMA TYPE BkU)
-[2026-01-05 23:46:34]   Saved: Plate_Exchanger.png (from label: Plate Exchanger)
-[2026-01-05 23:46:34]   Saved: Plate_and_Frame.png (from label: Plate and Frame)
-[2026-01-05 23:46:34]   Saved: Heat_Exchanger.png (from label: Heat Exchanger)
-[2026-01-05 23:46:34]   Saved: over.png (from label: over)
-[2026-01-05 23:46:34]   Saved: Spray_Cooler.png (from label: Spray Cooler)
-[2026-01-05 23:46:34]   Saved: Forced-draft.png (from label: Forced-draft)
-[2026-01-05 23:46:34]   Saved: Cooling_Tower.png (from label: Cooling Tower)
-[2026-01-05 23:46:34]   Saved: Cooling_Tower_1.png (from label: Cooling Tower)
-[2026-01-05 23:46:34]   Saved: Heater.png (from label: Heater)
-[2026-01-05 23:46:34]   Saved: Condenser.png (from label: Condenser)
-[2026-01-05 23:46:34]   Saved: Shell_and_Tube.png (from label: Shell and Tube)
-[2026-01-05 23:46:34]   Saved: Heat.png (from label: Heat)
-[2026-01-05 23:46:34]   Saved: Shell_and_Tube_1.png (from label: Shell and Tube)
-[2026-01-05 23:46:34]   Saved: Heat_1.png (from label: Heat)
-[2026-01-05 23:46:34]   Saved: Shell_and_Tube_2.png (from label: Shell and Tube)
-[2026-01-05 23:46:34]   Saved: Heat_2.png (from label: Heat)
-[2026-01-05 23:46:34]   Saved: Cooler.png (from label: Cooler)
-[2026-01-05 23:46:34]   Saved: Induced_Flow_Air.png (from label: Induced Flow Air)
-[2026-01-05 23:46:34]   Saved: Fin-fan_Cooler.png (from label: Fin-fan Cooler)
-[2026-01-05 23:46:34]   Saved: Electric_Heater.png (from label: Electric Heater)
-[2026-01-05 23:46:34]   Saved: Heat_Exchanger_1.png (from label: Heat Exchanger)
-[2026-01-05 23:46:34]   Saved: Exchanger.png (from label: Exchanger)
-[2026-01-05 23:46:34]   Saved: Finned_Tubes.png (from label: Finned Tubes)
-[2026-01-05 23:46:34]   Saved: Floating_Head.png (from label: Floating Head)
-[2026-01-05 23:46:34]   Saved: Plate_Heat.png (from label: Plate Heat)
-[2026-01-05 23:46:34]   Saved: Kettle_Heat.png (from label: Kettle Heat)
-[2026-01-05 23:46:34]   Saved: Reboiler_Heat.png (from label: Reboiler Heat)
-[2026-01-05 23:46:34]   Saved: Single_Pass_Heat.png (from label: Single Pass Heat)
-[2026-01-05 23:46:34]   Saved: Exchanger_1.png (from label: Exchanger)
-[2026-01-05 23:46:34]   Saved: Single_Pass_Heat_1.png (from label: Single Pass Heat)
-[2026-01-05 23:46:34]   Saved: Exchanger_2.png (from label: Exchanger)
-[2026-01-05 23:46:34]   Saved: Exchanger_3.png (from label: Exchanger)
-[2026-01-05 23:46:34]   Saved: Exchanger_4.png (from label: Exchanger)
-[2026-01-05 23:46:34]   Saved: Cooled_Air.png (from label: Cooled Air)
-[2026-01-05 23:46:34]   Saved: Exchanger_5.png (from label: Exchanger)
-[2026-01-05 23:46:34]   Saved: Briquetting.png (from label: Briquetting)
-[2026-01-05 23:46:34]   Saved: Machine.png (from label: Machine)
-[2026-01-05 23:46:34]   Saved: U-Tube_Heat.png (from label: U-Tube Heat)
-[2026-01-05 23:46:34]   Saved: Exchanger_6.png (from label: Exchanger)
-[2026-01-05 23:46:34]   Saved: Boiler.png (from label: Boiler)
-[2026-01-05 23:46:34]   Saved: Vertical_Turbine.png (from label: Vertical Turbine)
-[2026-01-05 23:46:34]   Saved: Extractor_Hood.png (from label: Extractor Hood)
-[2026-01-05 23:46:34]   Saved: Hose_reel.png (from label: Hose reel)
-[2026-01-05 23:46:34]   Saved: Station_Light_Water.png (from label: Station Light Water)
-[2026-01-05 23:46:34]   Saved: Combustion.png (from label: Combustion)
-[2026-01-05 23:46:34]   Saved: Chamber.png (from label: Chamber)
-[2026-01-05 23:46:34]   Saved: Thin-Film.png (from label: Thin-Film)
-[2026-01-05 23:46:34]   Saved: Evaporator.png (from label: Evaporator)
-[2026-01-05 23:46:34]   Saved: Vent.png (from label: Vent)
-[2026-01-05 23:46:34]   Saved: mer.png (from label: mer)
-[2026-01-05 23:46:34]   Saved: Fluidized_Bed.png (from label: Fluidized Bed)
-[2026-01-05 23:46:34]   Saved: Roller_Conveyor.png (from label: Roller Conveyor)
-[2026-01-05 23:46:34]   Saved: Belt_Dryer.png (from label: Belt Dryer)
-[2026-01-05 23:46:34]   Saved: Generator.png (from label: Generator)
-[2026-01-05 23:46:34]   Saved: Drying_Oven.png (from label: Drying Oven)
-[2026-01-05 23:46:34]   Saved: Shelf_Moving.png (from label: Shelf Moving)
-[2026-01-05 23:46:34]   Saved: Crossflow.png (from label: Crossflow)
-[2026-01-05 23:46:34]   Saved: Draft_Inducted.png (from label: Draft Inducted)
-[2026-01-05 23:46:34]   Saved: Counterflow.png (from label: Counterflow)
-[2026-01-05 23:46:34]   Saved: Draft_Forced.png (from label: Draft Forced)
-[2026-01-05 23:46:34]   Saved: Chimney_Tower.png (from label: Chimney Tower)
-[2026-01-05 23:46:34]   Saved: Hyperbolic.png (from label: Hyperbolic)
-[2026-01-05 23:46:34]   Saved: Furnace.png (from label: Furnace)
-[2026-01-05 23:46:34]   Saved: Plate_Tower.png (from label: Plate Tower)
-[2026-01-05 23:46:34]   Saved: Hydrodesulfurization.png (from label: Hydrodesulfurization)
-[2026-01-05 23:46:34]   Saved: Cracking.png (from label: Cracking)
-[2026-01-05 23:46:34]   Saved: Tubular.png (from label: Tubular)
-[2026-01-05 23:46:34]   Saved: Fluidized_Reactor.png (from label: Fluidized Reactor)
-[2026-01-05 23:46:34]   Saved: al.png (from label: al)
-[2026-01-05 23:46:34]   Saved: Hydrocracking.png (from label: Hydrocracking)
-[2026-01-05 23:46:34]   Saved: Screen.png (from label: Screen)
-[2026-01-05 23:46:34]   Saved: Boom_Loader.png (from label: Boom Loader)
-[2026-01-05 23:46:34]   Saved: Stoker_Automatic.png (from label: Stoker Automatic)
-[2026-01-05 23:46:34]   Saved: Transport.png (from label: Transport)
-[2026-01-05 23:46:34]   Saved: In-line_Mixer.png (from label: In-line Mixer)
-[2026-01-05 23:46:34]   Saved: Various_Mixers.png (from label: Various Mixers)
-[2026-01-05 23:46:34]   Saved: Stirrer_Agitator,.png (from label: Stirrer Agitator,)
-[2026-01-05 23:46:34]   Saved: Agitator,_Propeller.png (from label: Agitator, Propeller)
-[2026-01-05 23:46:34]   Saved: Agitator,_Anchor.png (from label: Agitator, Anchor)
-[2026-01-05 23:46:34]   Saved: Agitator,_Turbine.png (from label: Agitator, Turbine)
-[2026-01-05 23:46:34]   Saved: Agitator,_Helical.png (from label: Agitator, Helical)
-[2026-01-05 23:46:34]   Saved: Paddle__Agitator,_Gat.png (from label: Paddle: Agitator, Gat)
-[2026-01-05 23:46:35]   Saved: Agitator,_Disc.png (from label: Agitator, Disc)
-[2026-01-05 23:46:35]   Saved: Agitator,.png (from label: Agitator,)
-[2026-01-05 23:46:35]   Saved: Cross-beam.png (from label: Cross-beam)
-[2026-01-05 23:46:35]   Saved: Crusher.png (from label: Crusher)
-[2026-01-05 23:46:35]   Saved: Medium_Crushers.png (from label: Medium Crushers)
-[2026-01-05 23:46:35]   Saved: Fine_Crushers.png (from label: Fine Crushers)
-[2026-01-05 23:46:35]   Saved: Crusher_Impact.png (from label: Crusher Impact)
-[2026-01-05 23:46:35]   Saved: Jaw_Crusher.png (from label: Jaw Crusher)
-[2026-01-05 23:46:35]   Saved: VY.png (from label: VY)
-[2026-01-05 23:46:35]   Saved: Vibration_Crusher.png (from label: Vibration Crusher)
-[2026-01-05 23:46:35]   Saved: Crusher_Hammer.png (from label: Crusher Hammer)
-[2026-01-05 23:46:35]   Saved: Centrifugal_Pump.png (from label: Centrifugal Pump)
-[2026-01-05 23:46:35]   Saved: Centrifugal_13.png (from label: Centrifugal)
-[2026-01-05 23:46:35]   Saved: Compressor_20.png (from label: Compressor)
-[2026-01-05 23:46:35]   Saved: Centrifugal_14.png (from label: Centrifugal)
-[2026-01-05 23:46:35]   Saved: Compressor_21.png (from label: Compressor)
-[2026-01-05 23:46:35]   Saved: Compressor_22.png (from label: Compressor)
-[2026-01-05 23:46:35]   Saved: Centrifuge,.png (from label: Centrifuge,)
-[2026-01-05 23:46:35]   Saved: Solid_Shell.png (from label: Solid Shell)
-[2026-01-05 23:46:35]   Saved: Centrifuge,_High.png (from label: Centrifuge, High)
-[2026-01-05 23:46:35]   Saved: Speed.png (from label: Speed)
-[2026-01-05 23:46:35]   Saved: Centrifuge,_1.png (from label: Centrifuge,)
-[2026-01-05 23:46:35]   Saved: Perforated_Shell.png (from label: Perforated Shell)
-[2026-01-05 23:46:35]   Saved: Centrifuge,_Pusher.png (from label: Centrifuge, Pusher)
-[2026-01-05 23:46:35]   Saved: Centrifuge_Screw,.png (from label: Centrifuge Screw,)
-[2026-01-05 23:46:35]   Saved: Perforated_Shell_1.png (from label: Perforated Shell)
-[2026-01-05 23:46:35]   Saved: Centrifuge,_2.png (from label: Centrifuge,)
-[2026-01-05 23:46:35]   Saved: Separator_disc.png (from label: Separator disc)
-[2026-01-05 23:46:35]   Saved: Centrifuge,_3.png (from label: Centrifuge,)
-[2026-01-05 23:46:35]   Saved: Skimmer.png (from label: Skimmer)
-[2026-01-05 23:46:35]   Saved: Centrifugal_Blower.png (from label: Centrifugal Blower)
-[2026-01-05 23:46:35]   Saved: Centrifugal_Pump_1.png (from label: Centrifugal Pump)
-[2026-01-05 23:46:35]   Saved: Centrifugal_Pump_2.png (from label: Centrifugal Pump)
-[2026-01-05 23:46:35]   Saved: Centrifuge.png (from label: Centrifuge)
-[2026-01-05 23:46:35]   Saved: Centrifugal_Pump_3.png (from label: Centrifugal Pump)
-[2026-01-05 23:46:35]   Saved: Motor_1.png (from label: Motor)
-[2026-01-05 23:46:35]   Saved: AC_Motor.png (from label: AC Motor)
-[2026-01-05 23:46:35]   Saved: Motor_Generator.png (from label: Motor Generator)
-[2026-01-05 23:46:35]   Saved: Gear.png (from label: Gear)
-[2026-01-05 23:46:35]   Saved: Motor-operated.png (from label: Motor-operated)
-[2026-01-05 23:46:35]   Saved: Motor-driven.png (from label: Motor-driven)
-[2026-01-05 23:46:35]   Saved: Turbine.png (from label: Turbine)
-[2026-01-05 23:46:35]   Saved: Motor_2.png (from label: Motor)
-[2026-01-05 23:46:35]   Saved: ll_Diesel_Motor.png (from label: ll Diesel Motor)
-[2026-01-05 23:46:35]   Saved: Electric_Motor.png (from label: Electric Motor)
-[2026-01-05 23:46:35]   Saved: Turbine_1.png (from label: Turbine)
-[2026-01-05 23:46:35]   Saved: Separator_Impact.png (from label: Separator Impact)
-[2026-01-05 23:46:35]   Saved: Gravity_Separator.png (from label: Gravity Separator)
-[2026-01-05 23:46:35]   Saved: Cyclone_Separator.png (from label: Cyclone Separator)
-[2026-01-05 23:46:35]   Saved: Electromagnetic.png (from label: Electromagnetic)
-[2026-01-05 23:46:35]   Saved: Separator.png (from label: Separator)
-[2026-01-05 23:46:35]   Saved: Electrostatic.png (from label: Electrostatic)
-[2026-01-05 23:46:35]   Saved: Precipitator_Separator.png (from label: Precipitator Separator)
-[2026-01-05 23:46:35]   Saved: Solidifier.png (from label: Solidifier)
-[2026-01-05 23:46:35]   Saved: Permanent.png (from label: Permanent)
-[2026-01-05 23:46:35]   Saved: Magnet.png (from label: Magnet)
-[2026-01-05 23:46:35]   Saved: Rotary_Table.png (from label: Rotary Table)
-[2026-01-05 23:46:35]   Saved: Feeder.png (from label: Feeder)
-[2026-01-05 23:46:35]   Saved: Proportional.png (from label: Proportional)
-[2026-01-05 23:46:35]   Saved: Feeder_1.png (from label: Feeder)
-[2026-01-05 23:46:35]   Saved: Rotary_Valve_1.png (from label: Rotary Valve)
-[2026-01-05 23:46:35]   Saved: Feeder_2.png (from label: Feeder)
-[2026-01-05 23:46:35]   Saved: Metering.png (from label: Metering)
-[2026-01-05 23:46:35]   Saved: Reducer.png (from label: Reducer)
-[2026-01-05 23:46:35]   Saved: Rupture_Disc.png (from label: Rupture Disc)
-[2026-01-05 23:46:35]   Saved: Glass_Viewing.png (from label: Glass Viewing)
-[2026-01-05 23:46:35]   Saved: Glass_Viewing_1.png (from label: Glass Viewing)
-[2026-01-05 23:46:35]   Saved: with_Lighting.png (from label: with Lighting)
-[2026-01-05 23:46:35]   Saved: Draft_Back.png (from label: Draft Back)
-[2026-01-05 23:46:35]   Saved: Damper.png (from label: Damper)
-[2026-01-05 23:46:35]   Saved: Manual_Forklift.png (from label: Manual Forklift)
-[2026-01-05 23:46:35]   Saved: Forklift_Truck.png (from label: Forklift Truck)
-[2026-01-05 23:46:35]   Saved: Truck.png (from label: Truck)
-[2026-01-05 23:46:35]   Saved: Rolling_Bin_Truck.png (from label: Rolling Bin Truck)
-[2026-01-05 23:46:35]   Saved: Ship.png (from label: Ship)
-[2026-01-05 23:46:35]   Saved: Elevator.png (from label: Elevator)
-[2026-01-05 23:46:35]   Saved: Z-form_Elevator.png (from label: Z-form Elevator)
-[2026-01-05 23:46:35]   Saved: Hoists.png (from label: Hoists)
-[2026-01-05 23:46:35]   Saved: Aerator_with.png (from label: Aerator with)
-[2026-01-05 23:46:35]   Saved: Sparger.png (from label: Sparger)
-[2026-01-05 23:46:35]   Saved: ‘a.png (from label: ‘a)
-[2026-01-05 23:46:35]   Saved: Bag_Filling.png (from label: Bag Filling)
-[2026-01-05 23:46:35]   Saved: Machine_1.png (from label: Machine)
-[2026-01-05 23:46:35]   Saved: Skimmer_Belt.png (from label: Skimmer Belt)
-[2026-01-05 23:46:35]   Saved: Screening.png (from label: Screening)
-[2026-01-05 23:46:35]   Saved: Gas_Flare.png (from label: Gas Flare)
-[2026-01-05 23:46:35]   Saved: Elevator_1.png (from label: Elevator)
-[2026-01-05 23:46:35]   Saved: Skip_Hoist.png (from label: Skip Hoist)
-[2026-01-05 23:46:35]   Saved: Conveyor,.png (from label: Conveyor,)
-[2026-01-05 23:46:35]   Saved: Conveyor,_1.png (from label: Conveyor,)
-[2026-01-05 23:46:35]   Saved: Roller_Conveyor_1.png (from label: Roller Conveyor)
-[2026-01-05 23:46:35]   Saved: Conveyor.png (from label: Conveyor)
-[2026-01-05 23:46:35]   Saved: Conveyor_1.png (from label: Conveyor)
-[2026-01-05 23:46:35]   Saved: Scraper.png (from label: Scraper)
-[2026-01-05 23:46:35]   Saved: Piston_Extruder.png (from label: Piston Extruder)
-[2026-01-05 23:46:35]   Saved: Shaping_Machines.png (from label: Shaping Machines)
-[2026-01-05 23:46:35]   Saved: Shaping_Machines_1.png (from label: Shaping Machines)
-[2026-01-05 23:46:35]   Saved: Horizontal_Shaping.png (from label: Horizontal Shaping)
-[2026-01-05 23:46:35]   Saved: Shaping_Vertical.png (from label: Shaping Vertical)
-[2026-01-05 23:46:35]   Saved: Machines.png (from label: Machines)
-[2026-01-05 23:46:35]   Saved: Pelletizing_Disc.png (from label: Pelletizing Disc)
-[2026-01-05 23:46:35]   Saved: Piston_Press.png (from label: Piston Press)
-[2026-01-05 23:46:35]   Saved: Roller_Press.png (from label: Roller Press)
-[2026-01-05 23:46:35]   Saved: Crane.png (from label: Crane)
-[2026-01-05 23:46:35]   Saved: Cyclone.png (from label: Cyclone)
-[2026-01-05 23:46:35]   Saved: Curved_Gas_Vent.png (from label: Curved Gas Vent)
-[2026-01-05 23:46:35]   Saved: paltetizer.png (from label: paltetizer)
-[2026-01-05 23:46:35]   Saved: Conveyor,_2.png (from label: Conveyor,)
-[2026-01-05 23:46:35]   Saved: Major_Straight.png (from label: Major Straight)
-[2026-01-05 23:46:35]   Saved: Electronic_Serial.png (from label: Electronic Serial)
-[2026-01-05 23:46:35]   Saved: Heat_Trace.png (from label: Heat Trace)
-[2026-01-05 23:46:35]   Saved: Side_by_Side.png (from label: Side by Side)
-[2026-01-05 23:46:35]   Saved: Top-Bottom.png (from label: Top-Bottom)
-[2026-01-05 23:46:35]   Saved: One-to-Many.png (from label: One-to-Many)
-[2026-01-05 23:46:35]   Saved: Multi-Lines.png (from label: Multi-Lines)
-[2026-01-05 23:46:35]   Saved: Multi-Lines_Elbow.png (from label: Multi-Lines Elbow)
-[2026-01-05 23:46:35]   Saved: Y-type_Strainer.png (from label: Y-type Strainer)
-[2026-01-05 23:46:35]   Saved: Rotary_Valve_2.png (from label: Rotary Valve)
-[2026-01-05 23:46:35]   Saved: Bursting_Disc.png (from label: Bursting Disc)
-[2026-01-05 23:46:35]   Saved: Top.png (from label: Top)
-[2026-01-05 23:46:35]   Saved: Sonic_Signal.png (from label: Sonic Signal)
-[2026-01-05 23:46:35]   Saved: Nuclear.png (from label: Nuclear)
-[2026-01-05 23:46:35]   Saved: Welded.png (from label: Welded)
-[2026-01-05 23:46:35]   Saved: Connection_1.png (from label: Connection)
-[2026-01-05 23:46:35]   Saved: Mechanical_Link.png (from label: Mechanical Link)
-[2026-01-05 23:46:35]   Saved: Blind_Disc.png (from label: Blind Disc)
-[2026-01-05 23:46:35]   Saved: Spectacle_Blind.png (from label: Spectacle Blind)
-[2026-01-05 23:46:35]   Saved: Interchangeable.png (from label: Interchangeable)
-[2026-01-05 23:46:35]   Saved: Blind.png (from label: Blind)
-[2026-01-05 23:46:35]   Saved: Open_Disc.png (from label: Open Disc)
-[2026-01-05 23:46:35]   Saved: Orifice_Plate.png (from label: Orifice Plate)
-[2026-01-05 23:46:35]   Saved: Double_1.png (from label: Double)
-[2026-01-05 23:46:35]   Saved: Breather.png (from label: Breather)
-[2026-01-05 23:46:35]   Saved: Drip_Pan_Elbow.png (from label: Drip Pan Elbow)
-[2026-01-05 23:46:35]   Saved: Union.png (from label: Union)
-[2026-01-05 23:46:35]   Saved: Socket_Weld.png (from label: Socket Weld)
-[2026-01-05 23:46:35]   Saved: Screwed.png (from label: Screwed)
-[2026-01-05 23:46:35]   Saved: Electrical_Bounded.png (from label: Electrical Bounded)
-[2026-01-05 23:46:35]   Saved: Pulsation.png (from label: Pulsation)
-[2026-01-05 23:46:35]   Saved: Dampener.png (from label: Dampener)
-[2026-01-05 23:46:35]   Saved: Duplex_Strainer.png (from label: Duplex Strainer)
-[2026-01-05 23:46:35]   Saved: Silencer_Vent.png (from label: Silencer Vent)
-[2026-01-05 23:46:35]   Saved: Basket_Strainer.png (from label: Basket Strainer)
-[2026-01-05 23:46:35]   Saved: Cone_Strainer.png (from label: Cone Strainer)
-[2026-01-05 23:46:35]   Saved: Pilot_Operated.png (from label: Pilot Operated)
-[2026-01-05 23:46:35]   Saved: Relief_Valve_with.png (from label: Relief Valve with)
-[2026-01-05 23:46:35]   Saved: Sensor_Renote.png (from label: Sensor Renote)
-[2026-01-05 23:46:35]   Saved: In-line_Mixer_1.png (from label: In-line Mixer)
-[2026-01-05 23:46:35]   Saved: Separator_1.png (from label: Separator)
-[2026-01-05 23:46:35]   Saved: Flame_Arrester.png (from label: Flame Arrester)
-[2026-01-05 23:46:35]   Saved: Silencer_Drain.png (from label: Silencer Drain)
-[2026-01-05 23:46:35]   Saved: Exhaust_Head.png (from label: Exhaust Head)
-[2026-01-05 23:46:35]   Saved: Swivel_Joint.png (from label: Swivel Joint)
-[2026-01-05 23:46:35]   Saved: Flame_Arrestor.png (from label: Flame Arrestor)
-[2026-01-05 23:46:35]   Saved: Steam_Trap.png (from label: Steam Trap)
-[2026-01-05 23:46:35]   Saved: Desuperheater.png (from label: Desuperheater)
-[2026-01-05 23:46:35]   Saved: Exhaust_Head_1.png (from label: Exhaust Head)
-[2026-01-05 23:46:35]   Saved: Flow_Indicator_1.png (from label: Flow Indicator)
-[2026-01-05 23:46:35]   Saved: Spool.png (from label: Spool)
-[2026-01-05 23:46:35]   Saved: Strainer_Basket.png (from label: Strainer Basket)
-[2026-01-05 23:46:35]   Saved: Breather_1.png (from label: Breather)
-[2026-01-05 23:46:35]   Saved: Damper_1.png (from label: Damper)
-[2026-01-05 23:46:35]   Saved: Breakthrough.png (from label: Breakthrough)
-[2026-01-05 23:46:35]   Saved: Orifice_1.png (from label: Orifice)
-[2026-01-05 23:46:35]   Saved: Clamped_Flange.png (from label: Clamped Flange)
-[2026-01-05 23:46:35]   Saved: Coupling.png (from label: Coupling)
-[2026-01-05 23:46:35]   Saved: Compensate.png (from label: Compensate)
-[2026-01-05 23:46:35]   Saved: Coupling_1.png (from label: Coupling)
-[2026-01-05 23:46:35]   Saved: Electrically.png (from label: Electrically)
-[2026-01-05 23:46:35]   Saved: Insulated.png (from label: Insulated)
-[2026-01-05 23:46:35]   Saved: Flame_Arrestor_1.png (from label: Flame Arrestor)
-[2026-01-05 23:46:35]   Saved: Explosion-Proof.png (from label: Explosion-Proof)
-[2026-01-05 23:46:35]   Saved: Flame_Arrestor_2.png (from label: Flame Arrestor)
-[2026-01-05 23:46:35]   Saved: Detonation-Proof.png (from label: Detonation-Proof)
-[2026-01-05 23:46:35]   Saved: Flame_Arrestor_3.png (from label: Flame Arrestor)
-[2026-01-05 23:46:35]   Saved: Fire-Resistant.png (from label: Fire-Resistant)
-[2026-01-05 23:46:35]   Saved: Flame_Arrestor_4.png (from label: Flame Arrestor)
-[2026-01-05 23:46:35]   Saved: Fire-Resistant,_Explosion-.png (from label: Fire-Resistant, Explosion-)
-[2026-01-05 23:46:35]   Saved: Proof_Flame_Arrestor.png (from label: Proof Flame Arrestor)
-[2026-01-05 23:46:35]   Saved: Manifold_Valve.png (from label: Manifold Valve)
-[2026-01-05 23:46:35] 
+[2026-01-06 09:09:58]   Saved: section_01_symbols/Pane.png (from label: Pane)
+[2026-01-06 09:09:58]   Saved: section_01_symbols/Local.png (from label: Local)
+[2026-01-06 09:09:58]   Saved: section_01_symbols/Pressure.png (from label: Pressure)
+[2026-01-06 09:09:58]   Saved: section_01_symbols/Thermometer.png (from label: Thermometer)
+[2026-01-06 09:09:58]   Saved: section_01_symbols/Shared_Indicator.png (from label: Shared Indicator)
+[2026-01-06 09:09:58]   Saved: section_01_symbols/Displayed.png (from label: Displayed)
+[2026-01-06 09:09:58]   Saved: section_01_symbols/Shared_Indicator_1.png (from label: Shared Indicator)
+[2026-01-06 09:09:59]   Saved: section_01_symbols/Programmable.png (from label: Programmable)
+[2026-01-06 09:09:59]   Saved: section_01_symbols/Indicator.png (from label: Indicator)
+[2026-01-06 09:09:59]   Saved: section_01_symbols/Displayed_1.png (from label: Displayed)
+[2026-01-06 09:09:59]   Saved: section_01_symbols/Computer.png (from label: Computer)
+[2026-01-06 09:09:59]   Saved: section_01_symbols/Control_Unit.png (from label: Control Unit)
+[2026-01-06 09:09:59]   Saved: section_01_symbols/Panel.png (from label: Panel)
+[2026-01-06 09:09:59]   Saved: section_01_symbols/Temp.png (from label: Temp)
+[2026-01-06 09:09:59]   Saved: section_01_symbols/Temp_Recorder.png (from label: Temp Recorder)
+[2026-01-06 09:09:59]   Saved: section_01_symbols/Temp_1.png (from label: Temp)
+[2026-01-06 09:09:59]   Saved: section_01_symbols/Flow_Indicator.png (from label: Flow Indicator)
+[2026-01-06 09:09:59]   Saved: section_01_symbols/Flow_Recorder.png (from label: Flow Recorder)
+[2026-01-06 09:09:59]   Saved: section_01_symbols/Controller.png (from label: Controller)
+[2026-01-06 09:09:59]   Saved: section_01_symbols/Pressure_1.png (from label: Pressure)
+[2026-01-06 09:09:59]   Saved: section_01_symbols/Level_Recorder.png (from label: Level Recorder)
+[2026-01-06 09:09:59]   Saved: section_01_symbols/Level.png (from label: Level)
+[2026-01-06 09:09:59]   Saved: section_01_symbols/Pressure_2.png (from label: Pressure)
+[2026-01-06 09:09:59]   Saved: section_01_symbols/Pressure_3.png (from label: Pressure)
+[2026-01-06 09:09:59]   Saved: section_01_symbols/Pressure_4.png (from label: Pressure)
+[2026-01-06 09:09:59]   Saved: section_01_symbols/Pressure_5.png (from label: Pressure)
+[2026-01-06 09:09:59]   Saved: section_01_symbols/Pressure_6.png (from label: Pressure)
+[2026-01-06 09:09:59]   Saved: section_01_symbols/Recording.png (from label: Recording)
+[2026-01-06 09:09:59]   Saved: section_01_symbols/Level_Alarm.png (from label: Level Alarm)
+[2026-01-06 09:09:59]   Saved: section_01_symbols/Element.png (from label: Element)
+[2026-01-06 09:09:59]   Saved: section_01_symbols/Level_Gauge.png (from label: Level Gauge)
+[2026-01-06 09:09:59]   Saved: section_01_symbols/Specialty_Item.png (from label: Specialty Item)
+[2026-01-06 09:09:59]   Saved: section_01_symbols/Straightening.png (from label: Straightening)
+[2026-01-06 09:09:59]   Saved: section_01_symbols/Meter.png (from label: Meter)
+[2026-01-06 09:09:59]   Saved: section_01_symbols/Flow.png (from label: Flow)
+[2026-01-06 09:09:59]   Saved: section_01_symbols/Pitot_Tube.png (from label: Pitot Tube)
+[2026-01-06 09:09:59]   Saved: section_01_symbols/Target_Meter.png (from label: Target Meter)
+[2026-01-06 09:09:59]   Saved: section_01_symbols/Ultrasonic_Meter.png (from label: Ultrasonic Meter)
+[2026-01-06 09:09:59]   Saved: section_01_symbols/Quick_Change.png (from label: Quick Change)
+[2026-01-06 09:09:59]   Saved: section_01_symbols/Turbine_Meter.png (from label: Turbine Meter)
+[2026-01-06 09:09:59]   Saved: section_01_symbols/Rotometer.png (from label: Rotometer)
+[2026-01-06 09:09:59]   Saved: section_01_symbols/Venturi.png (from label: Venturi)
+[2026-01-06 09:09:59]   Saved: section_01_symbols/Flowmeter.png (from label: Flowmeter)
+[2026-01-06 09:09:59]   Saved: section_01_symbols/And_Gate.png (from label: And Gate)
+[2026-01-06 09:09:59]   Saved: section_01_symbols/Gate_Not.png (from label: Gate Not)
+[2026-01-06 09:09:59]   Saved: section_01_symbols/Correcting.png (from label: Correcting)
+[2026-01-06 09:09:59]   Saved: section_01_symbols/Element_1.png (from label: Element)
+[2026-01-06 09:09:59]   Saved: section_01_symbols/Diamond.png (from label: Diamond)
+[2026-01-06 09:09:59]   Saved: section_01_symbols/Pressure_7.png (from label: Pressure)
+[2026-01-06 09:09:59]   Saved: section_01_symbols/Gauges.png (from label: Gauges)
+[2026-01-06 09:09:59]   Saved: section_01_symbols/Thermometers.png (from label: Thermometers)
+[2026-01-06 09:09:59]   Saved: section_01_symbols/Averaging_Pitot.png (from label: Averaging Pitot)
+[2026-01-06 09:09:59]   Saved: section_01_symbols/Tube.png (from label: Tube)
+[2026-01-06 09:09:59]   Saved: section_01_symbols/Coriolis_Flow.png (from label: Coriolis Flow)
+[2026-01-06 09:09:59]   Saved: section_01_symbols/Sensor.png (from label: Sensor)
+[2026-01-06 09:09:59]   Saved: section_01_symbols/Flow_Nozzle.png (from label: Flow Nozzle)
+[2026-01-06 09:09:59]   Saved: section_01_symbols/Flume_Meter.png (from label: Flume Meter)
+[2026-01-06 09:09:59]   Saved: section_01_symbols/Manhole.png (from label: Manhole)
+[2026-01-06 09:09:59]   Saved: section_01_symbols/Socket.png (from label: Socket)
+[2026-01-06 09:09:59]   Saved: section_01_symbols/Connection.png (from label: Connection)
+[2026-01-06 09:09:59]   Saved: section_01_symbols/Support_Bracket.png (from label: Support Bracket)
+[2026-01-06 09:09:59]   Saved: section_01_symbols/Support_Leg.png (from label: Support Leg)
+[2026-01-06 09:09:59]   Section 1: Saved 62 symbols to section_01_symbols/
+[2026-01-06 09:09:59]   Saved: section_02_symbols/Valve.png (from label: Valve)
+[2026-01-06 09:09:59]   Saved: section_02_symbols/Hand-Operated.png (from label: Hand-Operated)
+[2026-01-06 09:09:59]   Saved: section_02_symbols/Rotary_Valve.png (from label: Rotary Valve)
+[2026-01-06 09:09:59]   Saved: section_02_symbols/Piston-Operated.png (from label: Piston-Operated)
+[2026-01-06 09:09:59]   Saved: section_02_symbols/Valve_1.png (from label: Valve)
+[2026-01-06 09:09:59]   Saved: section_02_symbols/Back_Pressure.png (from label: Back Pressure)
+[2026-01-06 09:09:59]   Saved: section_02_symbols/Cock_or.png (from label: Cock or)
+[2026-01-06 09:09:59]   Saved: section_02_symbols/Angle_Valve.png (from label: Angle Valve)
+[2026-01-06 09:09:59]   Saved: section_02_symbols/Globe_Angle.png (from label: Globe Angle)
+[2026-01-06 09:09:59]   Saved: section_02_symbols/Valve_2.png (from label: Valve)
+[2026-01-06 09:09:59]   Saved: section_02_symbols/Relief_Valve.png (from label: Relief Valve)
+[2026-01-06 09:09:59]   Saved: section_02_symbols/Valve_3.png (from label: Valve)
+[2026-01-06 09:09:59]   Saved: section_02_symbols/Normally_Closed.png (from label: Normally Closed)
+[2026-01-06 09:09:59]   Saved: section_02_symbols/Plug_Valve.png (from label: Plug Valve)
+[2026-01-06 09:09:59]   Saved: section_02_symbols/Solenoid_Valve.png (from label: Solenoid Valve)
+[2026-01-06 09:09:59]   Saved: section_02_symbols/ydraulic_Valve.png (from label: ydraulic Valve)
+[2026-01-06 09:09:59]   Saved: section_02_symbols/Motor-Operated.png (from label: Motor-Operated)
+[2026-01-06 09:09:59]   Saved: section_02_symbols/Gate_Weight.png (from label: Gate Weight)
+[2026-01-06 09:09:59]   Saved: section_02_symbols/Float-Operated.png (from label: Float-Operated)
+[2026-01-06 09:09:59]   Saved: section_02_symbols/4-way_Valve.png (from label: 4-way Valve)
+[2026-01-06 09:09:59]   Saved: section_02_symbols/Electro-Hydraulic.png (from label: Electro-Hydraulic)
+[2026-01-06 09:09:59]   Saved: section_02_symbols/Valve_4.png (from label: Valve)
+[2026-01-06 09:09:59]   Saved: section_02_symbols/Gate_Valve.png (from label: Gate Valve)
+[2026-01-06 09:09:59]   Saved: section_02_symbols/Spring_Gate_Valve.png (from label: Spring Gate Valve)
+[2026-01-06 09:09:59]   Saved: section_02_symbols/Slide_Valve.png (from label: Slide Valve)
+[2026-01-06 09:09:59]   Saved: section_02_symbols/Knife_Valve.png (from label: Knife Valve)
+[2026-01-06 09:09:59]   Saved: section_02_symbols/——_Excess_Flow.png (from label: —— Excess Flow)
+[2026-01-06 09:09:59]   Saved: section_02_symbols/Post_Indicator.png (from label: Post Indicator)
+[2026-01-06 09:09:59]   Saved: section_02_symbols/Self_Draining_Valve.png (from label: Self Draining Valve)
+[2026-01-06 09:09:59]   Saved: section_02_symbols/Diaphragm_Valve.png (from label: Diaphragm Valve)
+[2026-01-06 09:09:59]   Saved: section_02_symbols/Pinch_Valve.png (from label: Pinch Valve)
+[2026-01-06 09:09:59]   Saved: section_02_symbols/Valve_5.png (from label: Valve)
+[2026-01-06 09:09:59]   Saved: section_02_symbols/Bleeder_Valve.png (from label: Bleeder Valve)
+[2026-01-06 09:09:59]   Saved: section_02_symbols/Integrated_Block.png (from label: Integrated Block)
+[2026-01-06 09:09:59]   Saved: section_02_symbols/Valve_6.png (from label: Valve)
+[2026-01-06 09:09:59]   Saved: section_02_symbols/Maual_Integrated.png (from label: Maual Integrated)
+[2026-01-06 09:09:59]   Saved: section_02_symbols/Valve_7.png (from label: Valve)
+[2026-01-06 09:09:59]   Saved: section_02_symbols/Orifice.png (from label: Orifice)
+[2026-01-06 09:09:59]   Saved: section_02_symbols/Rotameter.png (from label: Rotameter)
+[2026-01-06 09:09:59]   Saved: section_02_symbols/Quarter_Turn_Valve.png (from label: Quarter Turn Valve)
+[2026-01-06 09:09:59]   Saved: section_02_symbols/Double_Acting.png (from label: Double Acting)
+[2026-01-06 09:09:59]   Saved: section_02_symbols/Quarter_Turn_Valve_1.png (from label: Quarter Turn Valve)
+[2026-01-06 09:09:59]   Saved: section_02_symbols/Spring_Acting.png (from label: Spring Acting)
+[2026-01-06 09:09:59]   Saved: section_02_symbols/Water_Flow_Meter.png (from label: Water Flow Meter)
+[2026-01-06 09:09:59]   Saved: section_02_symbols/Self-Operating.png (from label: Self-Operating)
+[2026-01-06 09:09:59]   Section 2: Saved 45 symbols to section_02_symbols/
+[2026-01-06 09:09:59]   Saved: section_03_symbols/Reciprocating.png (from label: Reciprocating)
+[2026-01-06 09:09:59]   Saved: section_03_symbols/ompressor.png (from label: ompressor)
+[2026-01-06 09:09:59]   Saved: section_03_symbols/Compressor.png (from label: Compressor)
+[2026-01-06 09:09:59]   Saved: section_03_symbols/Compressor_1.png (from label: Compressor)
+[2026-01-06 09:09:59]   Saved: section_03_symbols/silencers.png (from label: silencers)
+[2026-01-06 09:09:59]   Saved: section_03_symbols/Centrifugal.png (from label: Centrifugal)
+[2026-01-06 09:09:59]   Saved: section_03_symbols/Rotary.png (from label: Rotary)
+[2026-01-06 09:09:59]   Saved: section_03_symbols/Compressor_2.png (from label: Compressor)
+[2026-01-06 09:09:59]   Saved: section_03_symbols/Rotary_1.png (from label: Rotary)
+[2026-01-06 09:09:59]   Saved: section_03_symbols/Compressor_3.png (from label: Compressor)
+[2026-01-06 09:09:59]   Saved: section_03_symbols/Rotory_Compressor.png (from label: Rotory Compressor)
+[2026-01-06 09:09:59]   Saved: section_03_symbols/and_silencers.png (from label: and silencers)
+[2026-01-06 09:09:59]   Saved: section_03_symbols/Liquid_ring.png (from label: Liquid ring)
+[2026-01-06 09:09:59]   Saved: section_03_symbols/Compressor_4.png (from label: Compressor)
+[2026-01-06 09:09:59]   Saved: section_03_symbols/Centrifugal_1.png (from label: Centrifugal)
+[2026-01-06 09:09:59]   Saved: section_03_symbols/Compressor_5.png (from label: Compressor)
+[2026-01-06 09:09:59]   Saved: section_03_symbols/Centrifugal_2.png (from label: Centrifugal)
+[2026-01-06 09:09:59]   Saved: section_03_symbols/Compressor_6.png (from label: Compressor)
+[2026-01-06 09:09:59]   Saved: section_03_symbols/Centrifugal_3.png (from label: Centrifugal)
+[2026-01-06 09:09:59]   Saved: section_03_symbols/Compressor_7.png (from label: Compressor)
+[2026-01-06 09:09:59]   Saved: section_03_symbols/Centrifugal_4.png (from label: Centrifugal)
+[2026-01-06 09:09:59]   Saved: section_03_symbols/blower.png (from label: blower)
+[2026-01-06 09:09:59]   Saved: section_03_symbols/Axial.png (from label: Axial)
+[2026-01-06 09:09:59]   Saved: section_03_symbols/Compressor_8.png (from label: Compressor)
+[2026-01-06 09:09:59]   Saved: section_03_symbols/Centrifugal_5.png (from label: Centrifugal)
+[2026-01-06 09:09:59]   Saved: section_03_symbols/pump.png (from label: pump)
+[2026-01-06 09:09:59]   Saved: section_03_symbols/Centrifugal_6.png (from label: Centrifugal)
+[2026-01-06 09:09:59]   Saved: section_03_symbols/pump_1.png (from label: pump)
+[2026-01-06 09:09:59]   Saved: section_03_symbols/Centrifugal_7.png (from label: Centrifugal)
+[2026-01-06 09:09:59]   Saved: section_03_symbols/pump_2.png (from label: pump)
+[2026-01-06 09:09:59]   Saved: section_03_symbols/Centrifugal_8.png (from label: Centrifugal)
+[2026-01-06 09:09:59]   Saved: section_03_symbols/pump_3.png (from label: pump)
+[2026-01-06 09:09:59]   Saved: section_03_symbols/Vertical_pump.png (from label: Vertical pump)
+[2026-01-06 09:09:59]   Saved: section_03_symbols/Liquid_ring_1.png (from label: Liquid ring)
+[2026-01-06 09:09:59]   Saved: section_03_symbols/vacuum_pump.png (from label: vacuum pump)
+[2026-01-06 09:09:59]   Saved: section_03_symbols/Positive_displacement.png (from label: Positive displacement)
+[2026-01-06 09:09:59]   Saved: section_03_symbols/pump_4.png (from label: pump)
+[2026-01-06 09:09:59]   Saved: section_03_symbols/Vertical_pump_1.png (from label: Vertical pump)
+[2026-01-06 09:09:59]   Saved: section_03_symbols/Positive_displacement_1.png (from label: Positive displacement)
+[2026-01-06 09:09:59]   Saved: section_03_symbols/pump_5.png (from label: pump)
+[2026-01-06 09:09:59]   Saved: section_03_symbols/Rotary_pump.png (from label: Rotary pump)
+[2026-01-06 09:09:59]   Saved: section_03_symbols/Rotary_gear.png (from label: Rotary gear)
+[2026-01-06 09:09:59]   Saved: section_03_symbols/pump_6.png (from label: pump)
+[2026-01-06 09:09:59]   Saved: section_03_symbols/Gear_pump.png (from label: Gear pump)
+[2026-01-06 09:09:59]   Saved: section_03_symbols/Proportioning_pump.png (from label: Proportioning pump)
+[2026-01-06 09:09:59]   Saved: section_03_symbols/Screw_pump.png (from label: Screw pump)
+[2026-01-06 09:09:59]   Saved: section_03_symbols/pump_7.png (from label: pump)
+[2026-01-06 09:09:59]   Saved: section_03_symbols/Reciprocating_1.png (from label: Reciprocating)
+[2026-01-06 09:09:59]   Saved: section_03_symbols/pump_8.png (from label: pump)
+[2026-01-06 09:09:59]   Saved: section_03_symbols/pump_9.png (from label: pump)
+[2026-01-06 09:09:59]   Saved: section_03_symbols/Turbine_pump.png (from label: Turbine pump)
+[2026-01-06 09:09:59]   Saved: section_03_symbols/Fan.png (from label: Fan)
+[2026-01-06 09:09:59]   Saved: section_03_symbols/Selectable_fan.png (from label: Selectable fan)
+[2026-01-06 09:09:59]   Saved: section_03_symbols/blades.png (from label: blades)
+[2026-01-06 09:09:59]   Saved: section_03_symbols/blades_1.png (from label: blades)
+[2026-01-06 09:09:59]   Saved: section_03_symbols/Axial_flow_fan.png (from label: Axial flow fan)
+[2026-01-06 09:09:59]   Saved: section_03_symbols/Ejector.png (from label: Ejector)
+[2026-01-06 09:09:59]   Saved: section_03_symbols/Spray.png (from label: Spray)
+[2026-01-06 09:09:59]   Saved: section_03_symbols/fl_Diesel_motor.png (from label: fl Diesel motor)
+[2026-01-06 09:09:59]   Saved: section_03_symbols/ISO_diaphragm.png (from label: ISO diaphragm)
+[2026-01-06 09:09:59]   Saved: section_03_symbols/pump_10.png (from label: pump)
+[2026-01-06 09:09:59]   Saved: section_03_symbols/ISO_gear_pump.png (from label: ISO gear pump)
+[2026-01-06 09:09:59]   Saved: section_03_symbols/ISO_Progressive.png (from label: ISO Progressive)
+[2026-01-06 09:09:59]   Saved: section_03_symbols/pump_11.png (from label: pump)
+[2026-01-06 09:09:59]   Saved: section_03_symbols/ISO_positive.png (from label: ISO positive)
+[2026-01-06 09:09:59]   Saved: section_03_symbols/displacement_pump.png (from label: displacement pump)
+[2026-01-06 09:09:59]   Saved: section_03_symbols/ISO_reciprocating.png (from label: ISO reciprocating)
+[2026-01-06 09:09:59]   Saved: section_03_symbols/piston_pump.png (from label: piston pump)
+[2026-01-06 09:09:59]   Saved: section_03_symbols/ISO_screw_pump.png (from label: ISO screw pump)
+[2026-01-06 09:09:59]   Saved: section_03_symbols/Selectable.png (from label: Selectable)
+[2026-01-06 09:09:59]   Saved: section_03_symbols/Compressor_9.png (from label: Compressor)
+[2026-01-06 09:09:59]   Saved: section_03_symbols/Positive_displacement_2.png (from label: Positive displacement)
+[2026-01-06 09:09:59]   Saved: section_03_symbols/Motor.png (from label: Motor)
+[2026-01-06 09:09:59]   Section 3: Saved 73 symbols to section_03_symbols/
+[2026-01-06 09:09:59]   Saved: section_04_symbols/Mixing_Vessel.png (from label: Mixing Vessel)
+[2026-01-06 09:09:59]   Saved: section_04_symbols/Column.png (from label: Column)
+[2026-01-06 09:09:59]   Saved: section_04_symbols/Tray_Column.png (from label: Tray Column)
+[2026-01-06 09:09:59]   Saved: section_04_symbols/Staggered_Baffle.png (from label: Staggered Baffle)
+[2026-01-06 09:09:59]   Saved: section_04_symbols/Column_Trays.png (from label: Column Trays)
+[2026-01-06 09:09:59]   Saved: section_04_symbols/Packing_Column.png (from label: Packing Column)
+[2026-01-06 09:09:59]   Saved: section_04_symbols/Knock-out_drum.png (from label: Knock-out drum)
+[2026-01-06 09:09:59]   Saved: section_04_symbols/Bag.png (from label: Bag)
+[2026-01-06 09:09:59]   Saved: section_04_symbols/Bag_(ISO).png (from label: Bag (ISO))
+[2026-01-06 09:09:59]   Saved: section_04_symbols/Barrel.png (from label: Barrel)
+[2026-01-06 09:09:59]   Saved: section_04_symbols/(ISO)_Barrel.png (from label: (ISO) Barrel)
+[2026-01-06 09:09:59]   Saved: section_04_symbols/Gas_bottle.png (from label: Gas bottle)
+[2026-01-06 09:09:59]   Saved: section_04_symbols/Dome_Boiler.png (from label: Dome Boiler)
+[2026-01-06 09:09:59]   Saved: section_04_symbols/Hot_Liquid_Boiler.png (from label: Hot Liquid Boiler)
+[2026-01-06 09:09:59]   Saved: section_04_symbols/Tank.png (from label: Tank)
+[2026-01-06 09:09:59]   Saved: section_04_symbols/Tank_1.png (from label: Tank)
+[2026-01-06 09:09:59]   Saved: section_04_symbols/Tank_2.png (from label: Tank)
+[2026-01-06 09:09:59]   Saved: section_04_symbols/Covered_Tank.png (from label: Covered Tank)
+[2026-01-06 09:09:59]   Saved: section_04_symbols/Floating_Roof_Tank.png (from label: Floating Roof Tank)
+[2026-01-06 09:09:59]   Saved: section_04_symbols/Open.png (from label: Open)
+[2026-01-06 09:09:59]   Saved: section_04_symbols/Storage_Bulk.png (from label: Storage Bulk)
+[2026-01-06 09:09:59]   Saved: section_04_symbols/Dome_Roof_Tank.png (from label: Dome Roof Tank)
+[2026-01-06 09:09:59]   Saved: section_04_symbols/Cone_Roof_Tank.png (from label: Cone Roof Tank)
+[2026-01-06 09:09:59]   Saved: section_04_symbols/Floating_Internal.png (from label: Floating Internal)
+[2026-01-06 09:09:59]   Saved: section_04_symbols/Roof_Tank.png (from label: Roof Tank)
+[2026-01-06 09:09:59]   Saved: section_04_symbols/Double.png (from label: Double)
+[2026-01-06 09:09:59]   Saved: section_04_symbols/Thermal_Insulation.png (from label: Thermal Insulation)
+[2026-01-06 09:09:59]   Saved: section_04_symbols/Vessel.png (from label: Vessel)
+[2026-01-06 09:09:59]   Saved: section_04_symbols/Jacket_Vessel.png (from label: Jacket Vessel)
+[2026-01-06 09:09:59]   Saved: section_04_symbols/Brackets_Vessel.png (from label: Brackets Vessel)
+[2026-01-06 09:09:59]   Saved: section_04_symbols/Dished_Ends_Vessel.png (from label: Dished Ends Vessel)
+[2026-01-06 09:09:59]   Saved: section_04_symbols/Pit_Vessel.png (from label: Pit Vessel)
+[2026-01-06 09:09:59]   Saved: section_04_symbols/Electrical_Heating.png (from label: Electrical Heating)
+[2026-01-06 09:09:59]   Saved: section_04_symbols/Vessel_1.png (from label: Vessel)
+[2026-01-06 09:09:59]   Saved: section_04_symbols/Wastewater_Treatment.png (from label: Wastewater Treatment)
+[2026-01-06 09:09:59]   Section 4: Saved 35 symbols to section_04_symbols/
+[2026-01-06 09:09:59]   Saved: section_05_symbols/Mode_Filter_indication.png (from label: Mode Filter indication)
+[2026-01-06 09:09:59]   Saved: section_05_symbols/Filter.png (from label: Filter)
+[2026-01-06 09:09:59]   Saved: section_05_symbols/Highpass_Filter.png (from label: Highpass Filter)
+[2026-01-06 09:09:59]   Saved: section_05_symbols/Filter_Lowpass.png (from label: Filter Lowpass)
+[2026-01-06 09:09:59]   Saved: section_05_symbols/Bandpass_Filter.png (from label: Bandpass Filter)
+[2026-01-06 09:09:59]   Saved: section_05_symbols/Filter_1.png (from label: Filter)
+[2026-01-06 09:09:59]   Saved: section_05_symbols/Filter_2.png (from label: Filter)
+[2026-01-06 09:09:59]   Saved: section_05_symbols/Gas_Filter.png (from label: Gas Filter)
+[2026-01-06 09:09:59]   Saved: section_05_symbols/Cartridge.png (from label: Cartridge)
+[2026-01-06 09:09:59]   Saved: section_05_symbols/Roll_air_Filter.png (from label: Roll air Filter)
+[2026-01-06 09:09:59]   Saved: section_05_symbols/Fixed_bed_air_Filter.png (from label: Fixed bed air Filter)
+[2026-01-06 09:09:59]   Saved: section_05_symbols/HEPA.png (from label: HEPA)
+[2026-01-06 09:09:59]   Saved: section_05_symbols/Fitter_gas.png (from label: Fitter gas)
+[2026-01-06 09:09:59]   Saved: section_05_symbols/Liquid_Filter.png (from label: Liquid Filter)
+[2026-01-06 09:09:59]   Saved: section_05_symbols/Fixed_bed_liquid.png (from label: Fixed bed liquid)
+[2026-01-06 09:09:59]   Saved: section_05_symbols/Filter_3.png (from label: Filter)
+[2026-01-06 09:09:59]   Saved: section_05_symbols/Rotary_liquid.png (from label: Rotary liquid)
+[2026-01-06 09:09:59]   Saved: section_05_symbols/Filter_4.png (from label: Filter)
+[2026-01-06 09:09:59]   Saved: section_05_symbols/lonexchanger_Filter.png (from label: lonexchanger Filter)
+[2026-01-06 09:09:59]   Saved: section_05_symbols/Press_Filter.png (from label: Press Filter)
+[2026-01-06 09:09:59]   Saved: section_05_symbols/Air_Filter.png (from label: Air Filter)
+[2026-01-06 09:09:59]   Saved: section_05_symbols/The_Filter.png (from label: The Filter)
+[2026-01-06 09:09:59]   Saved: section_05_symbols/efficiency_High.png (from label: efficiency High)
+[2026-01-06 09:09:59]   Saved: section_05_symbols/Primary_Filter.png (from label: Primary Filter)
+[2026-01-06 09:09:59]   Saved: section_05_symbols/Mid-effect_Filter.png (from label: Mid-effect Filter)
+[2026-01-06 09:09:59]   Saved: section_05_symbols/Filter_5.png (from label: Filter)
+[2026-01-06 09:09:59]   Saved: section_05_symbols/Suction_Filter.png (from label: Suction Filter)
+[2026-01-06 09:09:59]   Section 5: Saved 27 symbols to section_05_symbols/
+[2026-01-06 09:09:59]   Saved: section_06_symbols/Compressor,.png (from label: Compressor,)
+[2026-01-06 09:09:59]   Saved: section_06_symbols/Vacuum_pump.png (from label: Vacuum pump)
+[2026-01-06 09:09:59]   Saved: section_06_symbols/Centrifugal.png (from label: Centrifugal)
+[2026-01-06 09:09:59]   Saved: section_06_symbols/Compressor.png (from label: Compressor)
+[2026-01-06 09:09:59]   Saved: section_06_symbols/Diaphragm.png (from label: Diaphragm)
+[2026-01-06 09:09:59]   Saved: section_06_symbols/Compressor_1.png (from label: Compressor)
+[2026-01-06 09:09:59]   Saved: section_06_symbols/Compressor_Ejector.png (from label: Compressor Ejector)
+[2026-01-06 09:09:59]   Saved: section_06_symbols/Compressor_Piston.png (from label: Compressor Piston)
+[2026-01-06 09:09:59]   Saved: section_06_symbols/Roller_vane.png (from label: Roller vane)
+[2026-01-06 09:09:59]   Saved: section_06_symbols/Compressor_2.png (from label: Compressor)
+[2026-01-06 09:09:59]   Saved: section_06_symbols/Reciprocating.png (from label: Reciprocating)
+[2026-01-06 09:09:59]   Saved: section_06_symbols/Compressor_3.png (from label: Compressor)
+[2026-01-06 09:09:59]   Saved: section_06_symbols/Rotary_Compressor.png (from label: Rotary Compressor)
+[2026-01-06 09:09:59]   Saved: section_06_symbols/Rotary_Compressor_1.png (from label: Rotary Compressor)
+[2026-01-06 09:09:59]   Saved: section_06_symbols/Rotory.png (from label: Rotory)
+[2026-01-06 09:09:59]   Saved: section_06_symbols/Compressor_4.png (from label: Compressor)
+[2026-01-06 09:09:59]   Saved: section_06_symbols/Rotory_Compressor.png (from label: Rotory Compressor)
+[2026-01-06 09:09:59]   Saved: section_06_symbols/and_silencers.png (from label: and silencers)
+[2026-01-06 09:09:59]   Saved: section_06_symbols/Liquid_ring.png (from label: Liquid ring)
+[2026-01-06 09:09:59]   Saved: section_06_symbols/Compressor_5.png (from label: Compressor)
+[2026-01-06 09:09:59]   Saved: section_06_symbols/Centrifugal_1.png (from label: Centrifugal)
+[2026-01-06 09:09:59]   Saved: section_06_symbols/Compressor_6.png (from label: Compressor)
+[2026-01-06 09:09:59]   Saved: section_06_symbols/Centrifugal_2.png (from label: Centrifugal)
+[2026-01-06 09:09:59]   Saved: section_06_symbols/Compressor_7.png (from label: Compressor)
+[2026-01-06 09:09:59]   Saved: section_06_symbols/Centrifugal_3.png (from label: Centrifugal)
+[2026-01-06 09:09:59]   Saved: section_06_symbols/Compressor_8.png (from label: Compressor)
+[2026-01-06 09:09:59]   Saved: section_06_symbols/Selectable.png (from label: Selectable)
+[2026-01-06 09:09:59]   Saved: section_06_symbols/Compressor_9.png (from label: Compressor)
+[2026-01-06 09:09:59]   Saved: section_06_symbols/Air_Compressor.png (from label: Air Compressor)
+[2026-01-06 09:09:59]   Saved: section_06_symbols/Turbo_Compressor.png (from label: Turbo Compressor)
+[2026-01-06 09:09:59]   Section 6: Saved 30 symbols to section_06_symbols/
+[2026-01-06 09:09:59]   Saved: section_07_symbols/Tema_TyPe_BEM.png (from label: Tema TyPe BEM)
+[2026-01-06 09:09:59]   Saved: section_07_symbols/tema_tyre_Beu.png (from label: tema tyre Beu)
+[2026-01-06 09:09:59]   Saved: section_07_symbols/tema_tyre_AEM.png (from label: tema tyre AEM)
+[2026-01-06 09:09:59]   Saved: section_07_symbols/Tema.png (from label: Tema)
+[2026-01-06 09:09:59]   Saved: section_07_symbols/AEL.png (from label: AEL)
+[2026-01-06 09:09:59]   Saved: section_07_symbols/NEN.png (from label: NEN)
+[2026-01-06 09:09:59]   Saved: section_07_symbols/TEMA_TYPE_BkU.png (from label: TEMA TYPE BkU)
+[2026-01-06 09:09:59]   Saved: section_07_symbols/Plate_Exchanger.png (from label: Plate Exchanger)
+[2026-01-06 09:09:59]   Saved: section_07_symbols/Plate_and_Frame.png (from label: Plate and Frame)
+[2026-01-06 09:09:59]   Saved: section_07_symbols/Heat_Exchanger.png (from label: Heat Exchanger)
+[2026-01-06 09:09:59]   Saved: section_07_symbols/over.png (from label: over)
+[2026-01-06 09:09:59]   Saved: section_07_symbols/Spray_Cooler.png (from label: Spray Cooler)
+[2026-01-06 09:09:59]   Saved: section_07_symbols/Forced-draft.png (from label: Forced-draft)
+[2026-01-06 09:09:59]   Saved: section_07_symbols/Cooling_Tower.png (from label: Cooling Tower)
+[2026-01-06 09:09:59]   Saved: section_07_symbols/Cooling_Tower_1.png (from label: Cooling Tower)
+[2026-01-06 09:09:59]   Saved: section_07_symbols/Heater.png (from label: Heater)
+[2026-01-06 09:09:59]   Saved: section_07_symbols/Condenser.png (from label: Condenser)
+[2026-01-06 09:09:59]   Saved: section_07_symbols/Shell_and_Tube.png (from label: Shell and Tube)
+[2026-01-06 09:09:59]   Saved: section_07_symbols/Heat.png (from label: Heat)
+[2026-01-06 09:09:59]   Saved: section_07_symbols/Shell_and_Tube_1.png (from label: Shell and Tube)
+[2026-01-06 09:10:00]   Saved: section_07_symbols/Heat_1.png (from label: Heat)
+[2026-01-06 09:10:00]   Saved: section_07_symbols/Shell_and_Tube_2.png (from label: Shell and Tube)
+[2026-01-06 09:10:00]   Saved: section_07_symbols/Heat_2.png (from label: Heat)
+[2026-01-06 09:10:00]   Saved: section_07_symbols/Cooler.png (from label: Cooler)
+[2026-01-06 09:10:00]   Saved: section_07_symbols/Induced_Flow_Air.png (from label: Induced Flow Air)
+[2026-01-06 09:10:00]   Saved: section_07_symbols/Fin-fan_Cooler.png (from label: Fin-fan Cooler)
+[2026-01-06 09:10:00]   Saved: section_07_symbols/Electric_Heater.png (from label: Electric Heater)
+[2026-01-06 09:10:00]   Saved: section_07_symbols/Heat_Exchanger_1.png (from label: Heat Exchanger)
+[2026-01-06 09:10:00]   Saved: section_07_symbols/Exchanger.png (from label: Exchanger)
+[2026-01-06 09:10:00]   Saved: section_07_symbols/Finned_Tubes.png (from label: Finned Tubes)
+[2026-01-06 09:10:00]   Saved: section_07_symbols/Floating_Head.png (from label: Floating Head)
+[2026-01-06 09:10:00]   Saved: section_07_symbols/Plate_Heat.png (from label: Plate Heat)
+[2026-01-06 09:10:00]   Saved: section_07_symbols/Kettle_Heat.png (from label: Kettle Heat)
+[2026-01-06 09:10:00]   Saved: section_07_symbols/Reboiler_Heat.png (from label: Reboiler Heat)
+[2026-01-06 09:10:00]   Saved: section_07_symbols/Single_Pass_Heat.png (from label: Single Pass Heat)
+[2026-01-06 09:10:00]   Saved: section_07_symbols/Exchanger_1.png (from label: Exchanger)
+[2026-01-06 09:10:00]   Saved: section_07_symbols/Single_Pass_Heat_1.png (from label: Single Pass Heat)
+[2026-01-06 09:10:00]   Saved: section_07_symbols/Exchanger_2.png (from label: Exchanger)
+[2026-01-06 09:10:00]   Saved: section_07_symbols/Exchanger_3.png (from label: Exchanger)
+[2026-01-06 09:10:00]   Saved: section_07_symbols/Exchanger_4.png (from label: Exchanger)
+[2026-01-06 09:10:00]   Saved: section_07_symbols/Cooled_Air.png (from label: Cooled Air)
+[2026-01-06 09:10:00]   Saved: section_07_symbols/Exchanger_5.png (from label: Exchanger)
+[2026-01-06 09:10:00]   Saved: section_07_symbols/Briquetting.png (from label: Briquetting)
+[2026-01-06 09:10:00]   Saved: section_07_symbols/Machine.png (from label: Machine)
+[2026-01-06 09:10:00]   Saved: section_07_symbols/U-Tube_Heat.png (from label: U-Tube Heat)
+[2026-01-06 09:10:00]   Saved: section_07_symbols/Exchanger_6.png (from label: Exchanger)
+[2026-01-06 09:10:00]   Saved: section_07_symbols/Boiler.png (from label: Boiler)
+[2026-01-06 09:10:00]   Saved: section_07_symbols/Vertical_Turbine.png (from label: Vertical Turbine)
+[2026-01-06 09:10:00]   Saved: section_07_symbols/Extractor_Hood.png (from label: Extractor Hood)
+[2026-01-06 09:10:00]   Saved: section_07_symbols/Hose_reel.png (from label: Hose reel)
+[2026-01-06 09:10:00]   Saved: section_07_symbols/Station_Light_Water.png (from label: Station Light Water)
+[2026-01-06 09:10:00]   Saved: section_07_symbols/Combustion.png (from label: Combustion)
+[2026-01-06 09:10:00]   Saved: section_07_symbols/Chamber.png (from label: Chamber)
+[2026-01-06 09:10:00]   Saved: section_07_symbols/Thin-Film.png (from label: Thin-Film)
+[2026-01-06 09:10:00]   Saved: section_07_symbols/Evaporator.png (from label: Evaporator)
+[2026-01-06 09:10:00]   Saved: section_07_symbols/Vent.png (from label: Vent)
+[2026-01-06 09:10:00]   Section 7: Saved 56 symbols to section_07_symbols/
+[2026-01-06 09:10:00]   Saved: section_08_symbols/mer.png (from label: mer)
+[2026-01-06 09:10:00]   Saved: section_08_symbols/Fluidized_Bed.png (from label: Fluidized Bed)
+[2026-01-06 09:10:00]   Saved: section_08_symbols/Roller_Conveyor.png (from label: Roller Conveyor)
+[2026-01-06 09:10:00]   Saved: section_08_symbols/Belt_Dryer.png (from label: Belt Dryer)
+[2026-01-06 09:10:00]   Saved: section_08_symbols/Generator.png (from label: Generator)
+[2026-01-06 09:10:00]   Saved: section_08_symbols/Drying_Oven.png (from label: Drying Oven)
+[2026-01-06 09:10:00]   Saved: section_08_symbols/Shelf_Moving.png (from label: Shelf Moving)
+[2026-01-06 09:10:00]   Section 8: Saved 7 symbols to section_08_symbols/
+[2026-01-06 09:10:00]   Saved: section_09_symbols/Crossflow.png (from label: Crossflow)
+[2026-01-06 09:10:00]   Saved: section_09_symbols/Draft_Inducted.png (from label: Draft Inducted)
+[2026-01-06 09:10:00]   Saved: section_09_symbols/Counterflow.png (from label: Counterflow)
+[2026-01-06 09:10:00]   Saved: section_09_symbols/Draft_Forced.png (from label: Draft Forced)
+[2026-01-06 09:10:00]   Saved: section_09_symbols/Chimney_Tower.png (from label: Chimney Tower)
+[2026-01-06 09:10:00]   Saved: section_09_symbols/Hyperbolic.png (from label: Hyperbolic)
+[2026-01-06 09:10:00]   Saved: section_09_symbols/Furnace.png (from label: Furnace)
+[2026-01-06 09:10:00]   Saved: section_09_symbols/Plate_Tower.png (from label: Plate Tower)
+[2026-01-06 09:10:00]   Saved: section_09_symbols/Hydrodesulfurization.png (from label: Hydrodesulfurization)
+[2026-01-06 09:10:00]   Saved: section_09_symbols/Cracking.png (from label: Cracking)
+[2026-01-06 09:10:00]   Saved: section_09_symbols/Tubular.png (from label: Tubular)
+[2026-01-06 09:10:00]   Saved: section_09_symbols/Fluidized_Reactor.png (from label: Fluidized Reactor)
+[2026-01-06 09:10:00]   Saved: section_09_symbols/al.png (from label: al)
+[2026-01-06 09:10:00]   Saved: section_09_symbols/Hydrocracking.png (from label: Hydrocracking)
+[2026-01-06 09:10:00]   Saved: section_09_symbols/Screen.png (from label: Screen)
+[2026-01-06 09:10:00]   Saved: section_09_symbols/Boom_Loader.png (from label: Boom Loader)
+[2026-01-06 09:10:00]   Saved: section_09_symbols/Stoker_Automatic.png (from label: Stoker Automatic)
+[2026-01-06 09:10:00]   Saved: section_09_symbols/Transport.png (from label: Transport)
+[2026-01-06 09:10:00]   Section 9: Saved 18 symbols to section_09_symbols/
+[2026-01-06 09:10:00]   Saved: section_10_symbols/In-line_Mixer.png (from label: In-line Mixer)
+[2026-01-06 09:10:00]   Saved: section_10_symbols/Various_Mixers.png (from label: Various Mixers)
+[2026-01-06 09:10:00]   Saved: section_10_symbols/Stirrer_Agitator,.png (from label: Stirrer Agitator,)
+[2026-01-06 09:10:00]   Saved: section_10_symbols/Agitator,_Propeller.png (from label: Agitator, Propeller)
+[2026-01-06 09:10:00]   Saved: section_10_symbols/Agitator,_Anchor.png (from label: Agitator, Anchor)
+[2026-01-06 09:10:00]   Saved: section_10_symbols/Agitator,_Turbine.png (from label: Agitator, Turbine)
+[2026-01-06 09:10:00]   Saved: section_10_symbols/Agitator,_Helical.png (from label: Agitator, Helical)
+[2026-01-06 09:10:00]   Saved: section_10_symbols/Paddle__Agitator,_Gat.png (from label: Paddle: Agitator, Gat)
+[2026-01-06 09:10:00]   Saved: section_10_symbols/Agitator,_Disc.png (from label: Agitator, Disc)
+[2026-01-06 09:10:00]   Saved: section_10_symbols/Agitator,.png (from label: Agitator,)
+[2026-01-06 09:10:00]   Saved: section_10_symbols/Cross-beam.png (from label: Cross-beam)
+[2026-01-06 09:10:00]   Section 10: Saved 11 symbols to section_10_symbols/
+[2026-01-06 09:10:00]   Saved: section_11_symbols/Crusher.png (from label: Crusher)
+[2026-01-06 09:10:00]   Saved: section_11_symbols/Medium_Crushers.png (from label: Medium Crushers)
+[2026-01-06 09:10:00]   Saved: section_11_symbols/Fine_Crushers.png (from label: Fine Crushers)
+[2026-01-06 09:10:00]   Saved: section_11_symbols/Crusher_Impact.png (from label: Crusher Impact)
+[2026-01-06 09:10:00]   Saved: section_11_symbols/Jaw_Crusher.png (from label: Jaw Crusher)
+[2026-01-06 09:10:00]   Saved: section_11_symbols/VY.png (from label: VY)
+[2026-01-06 09:10:00]   Saved: section_11_symbols/Vibration_Crusher.png (from label: Vibration Crusher)
+[2026-01-06 09:10:00]   Saved: section_11_symbols/Crusher_Hammer.png (from label: Crusher Hammer)
+[2026-01-06 09:10:00]   Section 11: Saved 8 symbols to section_11_symbols/
+[2026-01-06 09:10:00]   Saved: section_12_symbols/Centrifugal_Pump.png (from label: Centrifugal Pump)
+[2026-01-06 09:10:00]   Saved: section_12_symbols/Centrifugal.png (from label: Centrifugal)
+[2026-01-06 09:10:00]   Saved: section_12_symbols/Compressor.png (from label: Compressor)
+[2026-01-06 09:10:00]   Saved: section_12_symbols/Centrifugal_1.png (from label: Centrifugal)
+[2026-01-06 09:10:00]   Saved: section_12_symbols/Compressor_1.png (from label: Compressor)
+[2026-01-06 09:10:00]   Saved: section_12_symbols/Compressor_2.png (from label: Compressor)
+[2026-01-06 09:10:00]   Saved: section_12_symbols/Centrifuge,.png (from label: Centrifuge,)
+[2026-01-06 09:10:00]   Saved: section_12_symbols/Solid_Shell.png (from label: Solid Shell)
+[2026-01-06 09:10:00]   Saved: section_12_symbols/Centrifuge,_High.png (from label: Centrifuge, High)
+[2026-01-06 09:10:00]   Saved: section_12_symbols/Speed.png (from label: Speed)
+[2026-01-06 09:10:00]   Saved: section_12_symbols/Centrifuge,_1.png (from label: Centrifuge,)
+[2026-01-06 09:10:00]   Saved: section_12_symbols/Perforated_Shell.png (from label: Perforated Shell)
+[2026-01-06 09:10:00]   Saved: section_12_symbols/Centrifuge,_Pusher.png (from label: Centrifuge, Pusher)
+[2026-01-06 09:10:00]   Saved: section_12_symbols/Centrifuge_Screw,.png (from label: Centrifuge Screw,)
+[2026-01-06 09:10:00]   Saved: section_12_symbols/Perforated_Shell_1.png (from label: Perforated Shell)
+[2026-01-06 09:10:00]   Saved: section_12_symbols/Centrifuge,_2.png (from label: Centrifuge,)
+[2026-01-06 09:10:00]   Saved: section_12_symbols/Separator_disc.png (from label: Separator disc)
+[2026-01-06 09:10:00]   Saved: section_12_symbols/Centrifuge,_3.png (from label: Centrifuge,)
+[2026-01-06 09:10:00]   Saved: section_12_symbols/Skimmer.png (from label: Skimmer)
+[2026-01-06 09:10:00]   Saved: section_12_symbols/Centrifugal_Blower.png (from label: Centrifugal Blower)
+[2026-01-06 09:10:00]   Saved: section_12_symbols/Centrifugal_Pump_1.png (from label: Centrifugal Pump)
+[2026-01-06 09:10:00]   Saved: section_12_symbols/Centrifugal_Pump_2.png (from label: Centrifugal Pump)
+[2026-01-06 09:10:00]   Saved: section_12_symbols/Centrifuge.png (from label: Centrifuge)
+[2026-01-06 09:10:00]   Saved: section_12_symbols/Centrifugal_Pump_3.png (from label: Centrifugal Pump)
+[2026-01-06 09:10:00]   Section 12: Saved 24 symbols to section_12_symbols/
+[2026-01-06 09:10:00]   Saved: section_13_symbols/Motor.png (from label: Motor)
+[2026-01-06 09:10:00]   Saved: section_13_symbols/AC_Motor.png (from label: AC Motor)
+[2026-01-06 09:10:00]   Saved: section_13_symbols/Motor_Generator.png (from label: Motor Generator)
+[2026-01-06 09:10:00]   Saved: section_13_symbols/Gear.png (from label: Gear)
+[2026-01-06 09:10:00]   Saved: section_13_symbols/Motor-operated.png (from label: Motor-operated)
+[2026-01-06 09:10:00]   Saved: section_13_symbols/Motor-driven.png (from label: Motor-driven)
+[2026-01-06 09:10:00]   Saved: section_13_symbols/Turbine.png (from label: Turbine)
+[2026-01-06 09:10:00]   Saved: section_13_symbols/Motor_1.png (from label: Motor)
+[2026-01-06 09:10:00]   Saved: section_13_symbols/ll_Diesel_Motor.png (from label: ll Diesel Motor)
+[2026-01-06 09:10:00]   Saved: section_13_symbols/Electric_Motor.png (from label: Electric Motor)
+[2026-01-06 09:10:00]   Saved: section_13_symbols/Turbine_1.png (from label: Turbine)
+[2026-01-06 09:10:00]   Section 13: Saved 11 symbols to section_13_symbols/
+[2026-01-06 09:10:00]   Saved: section_14_symbols/Separator_Impact.png (from label: Separator Impact)
+[2026-01-06 09:10:00]   Saved: section_14_symbols/Gravity_Separator.png (from label: Gravity Separator)
+[2026-01-06 09:10:00]   Saved: section_14_symbols/Cyclone_Separator.png (from label: Cyclone Separator)
+[2026-01-06 09:10:00]   Saved: section_14_symbols/Electromagnetic.png (from label: Electromagnetic)
+[2026-01-06 09:10:00]   Saved: section_14_symbols/Separator.png (from label: Separator)
+[2026-01-06 09:10:00]   Saved: section_14_symbols/Electrostatic.png (from label: Electrostatic)
+[2026-01-06 09:10:00]   Saved: section_14_symbols/Precipitator_Separator.png (from label: Precipitator Separator)
+[2026-01-06 09:10:00]   Saved: section_14_symbols/Solidifier.png (from label: Solidifier)
+[2026-01-06 09:10:00]   Saved: section_14_symbols/Permanent.png (from label: Permanent)
+[2026-01-06 09:10:00]   Saved: section_14_symbols/Magnet.png (from label: Magnet)
+[2026-01-06 09:10:00]   Saved: section_14_symbols/Rotary_Table.png (from label: Rotary Table)
+[2026-01-06 09:10:00]   Saved: section_14_symbols/Feeder.png (from label: Feeder)
+[2026-01-06 09:10:00]   Saved: section_14_symbols/Proportional.png (from label: Proportional)
+[2026-01-06 09:10:00]   Saved: section_14_symbols/Feeder_1.png (from label: Feeder)
+[2026-01-06 09:10:00]   Saved: section_14_symbols/Rotary_Valve.png (from label: Rotary Valve)
+[2026-01-06 09:10:00]   Saved: section_14_symbols/Feeder_2.png (from label: Feeder)
+[2026-01-06 09:10:00]   Saved: section_14_symbols/Metering.png (from label: Metering)
+[2026-01-06 09:10:00]   Saved: section_14_symbols/Reducer.png (from label: Reducer)
+[2026-01-06 09:10:00]   Saved: section_14_symbols/Rupture_Disc.png (from label: Rupture Disc)
+[2026-01-06 09:10:00]   Saved: section_14_symbols/Glass_Viewing.png (from label: Glass Viewing)
+[2026-01-06 09:10:00]   Saved: section_14_symbols/Glass_Viewing_1.png (from label: Glass Viewing)
+[2026-01-06 09:10:00]   Saved: section_14_symbols/with_Lighting.png (from label: with Lighting)
+[2026-01-06 09:10:00]   Saved: section_14_symbols/Draft_Back.png (from label: Draft Back)
+[2026-01-06 09:10:00]   Saved: section_14_symbols/Damper.png (from label: Damper)
+[2026-01-06 09:10:00]   Saved: section_14_symbols/Manual_Forklift.png (from label: Manual Forklift)
+[2026-01-06 09:10:00]   Saved: section_14_symbols/Forklift_Truck.png (from label: Forklift Truck)
+[2026-01-06 09:10:00]   Saved: section_14_symbols/Truck.png (from label: Truck)
+[2026-01-06 09:10:00]   Saved: section_14_symbols/Rolling_Bin_Truck.png (from label: Rolling Bin Truck)
+[2026-01-06 09:10:00]   Saved: section_14_symbols/Ship.png (from label: Ship)
+[2026-01-06 09:10:00]   Saved: section_14_symbols/Elevator.png (from label: Elevator)
+[2026-01-06 09:10:00]   Saved: section_14_symbols/Z-form_Elevator.png (from label: Z-form Elevator)
+[2026-01-06 09:10:00]   Saved: section_14_symbols/Hoists.png (from label: Hoists)
+[2026-01-06 09:10:00]   Saved: section_14_symbols/Aerator_with.png (from label: Aerator with)
+[2026-01-06 09:10:00]   Saved: section_14_symbols/Sparger.png (from label: Sparger)
+[2026-01-06 09:10:00]   Saved: section_14_symbols/‘a.png (from label: ‘a)
+[2026-01-06 09:10:00]   Saved: section_14_symbols/Bag_Filling.png (from label: Bag Filling)
+[2026-01-06 09:10:00]   Saved: section_14_symbols/Machine.png (from label: Machine)
+[2026-01-06 09:10:00]   Saved: section_14_symbols/Skimmer_Belt.png (from label: Skimmer Belt)
+[2026-01-06 09:10:00]   Saved: section_14_symbols/Screening.png (from label: Screening)
+[2026-01-06 09:10:00]   Saved: section_14_symbols/Gas_Flare.png (from label: Gas Flare)
+[2026-01-06 09:10:00]   Saved: section_14_symbols/Elevator_1.png (from label: Elevator)
+[2026-01-06 09:10:00]   Saved: section_14_symbols/Skip_Hoist.png (from label: Skip Hoist)
+[2026-01-06 09:10:00]   Saved: section_14_symbols/Conveyor,.png (from label: Conveyor,)
+[2026-01-06 09:10:00]   Saved: section_14_symbols/Conveyor,_1.png (from label: Conveyor,)
+[2026-01-06 09:10:00]   Saved: section_14_symbols/Roller_Conveyor.png (from label: Roller Conveyor)
+[2026-01-06 09:10:00]   Saved: section_14_symbols/Conveyor.png (from label: Conveyor)
+[2026-01-06 09:10:00]   Saved: section_14_symbols/Conveyor_1.png (from label: Conveyor)
+[2026-01-06 09:10:00]   Saved: section_14_symbols/Scraper.png (from label: Scraper)
+[2026-01-06 09:10:00]   Saved: section_14_symbols/Piston_Extruder.png (from label: Piston Extruder)
+[2026-01-06 09:10:00]   Saved: section_14_symbols/Shaping_Machines.png (from label: Shaping Machines)
+[2026-01-06 09:10:00]   Saved: section_14_symbols/Shaping_Machines_1.png (from label: Shaping Machines)
+[2026-01-06 09:10:00]   Saved: section_14_symbols/Horizontal_Shaping.png (from label: Horizontal Shaping)
+[2026-01-06 09:10:00]   Saved: section_14_symbols/Shaping_Vertical.png (from label: Shaping Vertical)
+[2026-01-06 09:10:00]   Saved: section_14_symbols/Machines.png (from label: Machines)
+[2026-01-06 09:10:00]   Saved: section_14_symbols/Pelletizing_Disc.png (from label: Pelletizing Disc)
+[2026-01-06 09:10:00]   Saved: section_14_symbols/Piston_Press.png (from label: Piston Press)
+[2026-01-06 09:10:00]   Saved: section_14_symbols/Roller_Press.png (from label: Roller Press)
+[2026-01-06 09:10:00]   Saved: section_14_symbols/Crane.png (from label: Crane)
+[2026-01-06 09:10:00]   Saved: section_14_symbols/Cyclone.png (from label: Cyclone)
+[2026-01-06 09:10:00]   Saved: section_14_symbols/Curved_Gas_Vent.png (from label: Curved Gas Vent)
+[2026-01-06 09:10:00]   Saved: section_14_symbols/paltetizer.png (from label: paltetizer)
+[2026-01-06 09:10:00]   Saved: section_14_symbols/Conveyor,_2.png (from label: Conveyor,)
+[2026-01-06 09:10:00]   Section 14: Saved 62 symbols to section_14_symbols/
+[2026-01-06 09:10:00]   Saved: section_15_symbols/Major_Straight.png (from label: Major Straight)
+[2026-01-06 09:10:00]   Saved: section_15_symbols/Electronic_Serial.png (from label: Electronic Serial)
+[2026-01-06 09:10:00]   Saved: section_15_symbols/Heat_Trace.png (from label: Heat Trace)
+[2026-01-06 09:10:00]   Saved: section_15_symbols/Side_by_Side.png (from label: Side by Side)
+[2026-01-06 09:10:00]   Saved: section_15_symbols/Top-Bottom.png (from label: Top-Bottom)
+[2026-01-06 09:10:00]   Saved: section_15_symbols/One-to-Many.png (from label: One-to-Many)
+[2026-01-06 09:10:00]   Saved: section_15_symbols/Multi-Lines.png (from label: Multi-Lines)
+[2026-01-06 09:10:00]   Saved: section_15_symbols/Multi-Lines_Elbow.png (from label: Multi-Lines Elbow)
+[2026-01-06 09:10:00]   Saved: section_15_symbols/Y-type_Strainer.png (from label: Y-type Strainer)
+[2026-01-06 09:10:00]   Saved: section_15_symbols/Rotary_Valve.png (from label: Rotary Valve)
+[2026-01-06 09:10:00]   Saved: section_15_symbols/Bursting_Disc.png (from label: Bursting Disc)
+[2026-01-06 09:10:00]   Saved: section_15_symbols/Top.png (from label: Top)
+[2026-01-06 09:10:00]   Saved: section_15_symbols/Sonic_Signal.png (from label: Sonic Signal)
+[2026-01-06 09:10:00]   Saved: section_15_symbols/Nuclear.png (from label: Nuclear)
+[2026-01-06 09:10:00]   Saved: section_15_symbols/Welded.png (from label: Welded)
+[2026-01-06 09:10:00]   Saved: section_15_symbols/Connection.png (from label: Connection)
+[2026-01-06 09:10:00]   Saved: section_15_symbols/Mechanical_Link.png (from label: Mechanical Link)
+[2026-01-06 09:10:00]   Saved: section_15_symbols/Blind_Disc.png (from label: Blind Disc)
+[2026-01-06 09:10:00]   Saved: section_15_symbols/Spectacle_Blind.png (from label: Spectacle Blind)
+[2026-01-06 09:10:00]   Saved: section_15_symbols/Interchangeable.png (from label: Interchangeable)
+[2026-01-06 09:10:00]   Saved: section_15_symbols/Blind.png (from label: Blind)
+[2026-01-06 09:10:00]   Saved: section_15_symbols/Open_Disc.png (from label: Open Disc)
+[2026-01-06 09:10:00]   Saved: section_15_symbols/Orifice_Plate.png (from label: Orifice Plate)
+[2026-01-06 09:10:00]   Saved: section_15_symbols/Double.png (from label: Double)
+[2026-01-06 09:10:01]   Saved: section_15_symbols/Breather.png (from label: Breather)
+[2026-01-06 09:10:01]   Saved: section_15_symbols/Drip_Pan_Elbow.png (from label: Drip Pan Elbow)
+[2026-01-06 09:10:01]   Saved: section_15_symbols/Union.png (from label: Union)
+[2026-01-06 09:10:01]   Saved: section_15_symbols/Socket_Weld.png (from label: Socket Weld)
+[2026-01-06 09:10:01]   Saved: section_15_symbols/Screwed.png (from label: Screwed)
+[2026-01-06 09:10:01]   Saved: section_15_symbols/Electrical_Bounded.png (from label: Electrical Bounded)
+[2026-01-06 09:10:01]   Saved: section_15_symbols/Pulsation.png (from label: Pulsation)
+[2026-01-06 09:10:01]   Saved: section_15_symbols/Dampener.png (from label: Dampener)
+[2026-01-06 09:10:01]   Saved: section_15_symbols/Duplex_Strainer.png (from label: Duplex Strainer)
+[2026-01-06 09:10:01]   Saved: section_15_symbols/Silencer_Vent.png (from label: Silencer Vent)
+[2026-01-06 09:10:01]   Saved: section_15_symbols/Basket_Strainer.png (from label: Basket Strainer)
+[2026-01-06 09:10:01]   Saved: section_15_symbols/Cone_Strainer.png (from label: Cone Strainer)
+[2026-01-06 09:10:01]   Saved: section_15_symbols/Pilot_Operated.png (from label: Pilot Operated)
+[2026-01-06 09:10:01]   Saved: section_15_symbols/Relief_Valve_with.png (from label: Relief Valve with)
+[2026-01-06 09:10:01]   Saved: section_15_symbols/Sensor_Renote.png (from label: Sensor Renote)
+[2026-01-06 09:10:01]   Saved: section_15_symbols/In-line_Mixer.png (from label: In-line Mixer)
+[2026-01-06 09:10:01]   Saved: section_15_symbols/Separator.png (from label: Separator)
+[2026-01-06 09:10:01]   Saved: section_15_symbols/Flame_Arrester.png (from label: Flame Arrester)
+[2026-01-06 09:10:01]   Saved: section_15_symbols/Silencer_Drain.png (from label: Silencer Drain)
+[2026-01-06 09:10:01]   Saved: section_15_symbols/Exhaust_Head.png (from label: Exhaust Head)
+[2026-01-06 09:10:01]   Saved: section_15_symbols/Swivel_Joint.png (from label: Swivel Joint)
+[2026-01-06 09:10:01]   Saved: section_15_symbols/Flame_Arrestor.png (from label: Flame Arrestor)
+[2026-01-06 09:10:01]   Saved: section_15_symbols/Steam_Trap.png (from label: Steam Trap)
+[2026-01-06 09:10:01]   Saved: section_15_symbols/Desuperheater.png (from label: Desuperheater)
+[2026-01-06 09:10:01]   Saved: section_15_symbols/Exhaust_Head_1.png (from label: Exhaust Head)
+[2026-01-06 09:10:01]   Saved: section_15_symbols/Flow_Indicator.png (from label: Flow Indicator)
+[2026-01-06 09:10:01]   Saved: section_15_symbols/Spool.png (from label: Spool)
+[2026-01-06 09:10:01]   Saved: section_15_symbols/Strainer_Basket.png (from label: Strainer Basket)
+[2026-01-06 09:10:01]   Saved: section_15_symbols/Breather_1.png (from label: Breather)
+[2026-01-06 09:10:01]   Saved: section_15_symbols/Damper.png (from label: Damper)
+[2026-01-06 09:10:01]   Saved: section_15_symbols/Breakthrough.png (from label: Breakthrough)
+[2026-01-06 09:10:01]   Saved: section_15_symbols/Orifice.png (from label: Orifice)
+[2026-01-06 09:10:01]   Saved: section_15_symbols/Clamped_Flange.png (from label: Clamped Flange)
+[2026-01-06 09:10:01]   Saved: section_15_symbols/Coupling.png (from label: Coupling)
+[2026-01-06 09:10:01]   Saved: section_15_symbols/Compensate.png (from label: Compensate)
+[2026-01-06 09:10:01]   Saved: section_15_symbols/Coupling_1.png (from label: Coupling)
+[2026-01-06 09:10:01]   Saved: section_15_symbols/Electrically.png (from label: Electrically)
+[2026-01-06 09:10:01]   Saved: section_15_symbols/Insulated.png (from label: Insulated)
+[2026-01-06 09:10:01]   Saved: section_15_symbols/Flame_Arrestor_1.png (from label: Flame Arrestor)
+[2026-01-06 09:10:01]   Saved: section_15_symbols/Explosion-Proof.png (from label: Explosion-Proof)
+[2026-01-06 09:10:01]   Saved: section_15_symbols/Flame_Arrestor_2.png (from label: Flame Arrestor)
+[2026-01-06 09:10:01]   Saved: section_15_symbols/Detonation-Proof.png (from label: Detonation-Proof)
+[2026-01-06 09:10:01]   Saved: section_15_symbols/Flame_Arrestor_3.png (from label: Flame Arrestor)
+[2026-01-06 09:10:01]   Saved: section_15_symbols/Fire-Resistant.png (from label: Fire-Resistant)
+[2026-01-06 09:10:01]   Saved: section_15_symbols/Flame_Arrestor_4.png (from label: Flame Arrestor)
+[2026-01-06 09:10:01]   Saved: section_15_symbols/Fire-Resistant,_Explosion-.png (from label: Fire-Resistant, Explosion-)
+[2026-01-06 09:10:01]   Saved: section_15_symbols/Proof_Flame_Arrestor.png (from label: Proof Flame Arrestor)
+[2026-01-06 09:10:01]   Saved: section_15_symbols/Manifold_Valve.png (from label: Manifold Valve)
+[2026-01-06 09:10:01]   Section 15: Saved 72 symbols to section_15_symbols/
+[2026-01-06 09:10:01] 
 Metadata saved to: output\metadata.json

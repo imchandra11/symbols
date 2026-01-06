@@ -1,6 +1,8 @@
 [
   {
     "filename": "Pane.png",
+    "section_folder": "section_01_symbols",
+    "relative_path": "section_01_symbols/Pane.png",
     "original_label": "Pane",
     "section_idx": 0,
     "column_idx": 0,
@@ -8,6 +10,8 @@
   },
   {
     "filename": "Local.png",
+    "section_folder": "section_01_symbols",
+    "relative_path": "section_01_symbols/Local.png",
     "original_label": "Local",
     "section_idx": 0,
     "column_idx": 0,
@@ -15,6 +19,8 @@
   },
   {
     "filename": "Pressure.png",
+    "section_folder": "section_01_symbols",
+    "relative_path": "section_01_symbols/Pressure.png",
     "original_label": "Pressure",
     "section_idx": 0,
     "column_idx": 0,
@@ -22,6 +28,8 @@
   },
   {
     "filename": "Thermometer.png",
+    "section_folder": "section_01_symbols",
+    "relative_path": "section_01_symbols/Thermometer.png",
     "original_label": "Thermometer",
     "section_idx": 0,
     "column_idx": 0,
@@ -29,6 +37,8 @@
   },
   {
     "filename": "Shared_Indicator.png",
+    "section_folder": "section_01_symbols",
+    "relative_path": "section_01_symbols/Shared_Indicator.png",
     "original_label": "Shared Indicator",
     "section_idx": 0,
     "column_idx": 0,
@@ -36,6 +46,8 @@
   },
   {
     "filename": "Displayed.png",
+    "section_folder": "section_01_symbols",
+    "relative_path": "section_01_symbols/Displayed.png",
     "original_label": "Displayed",
     "section_idx": 0,
     "column_idx": 0,
@@ -43,6 +55,8 @@
   },
   {
     "filename": "Shared_Indicator_1.png",
+    "section_folder": "section_01_symbols",
+    "relative_path": "section_01_symbols/Shared_Indicator_1.png",
     "original_label": "Shared Indicator",
     "section_idx": 0,
     "column_idx": 0,
@@ -50,6 +64,8 @@
   },
   {
     "filename": "Programmable.png",
+    "section_folder": "section_01_symbols",
+    "relative_path": "section_01_symbols/Programmable.png",
     "original_label": "Programmable",
     "section_idx": 0,
     "column_idx": 1,
@@ -57,6 +73,8 @@
   },
   {
     "filename": "Indicator.png",
+    "section_folder": "section_01_symbols",
+    "relative_path": "section_01_symbols/Indicator.png",
     "original_label": "Indicator",
     "section_idx": 0,
     "column_idx": 1,
@@ -64,6 +82,8 @@
   },
   {
     "filename": "Displayed_1.png",
+    "section_folder": "section_01_symbols",
+    "relative_path": "section_01_symbols/Displayed_1.png",
     "original_label": "Displayed",
     "section_idx": 0,
     "column_idx": 1,
@@ -71,6 +91,8 @@
   },
   {
     "filename": "Computer.png",
+    "section_folder": "section_01_symbols",
+    "relative_path": "section_01_symbols/Computer.png",
     "original_label": "Computer",
     "section_idx": 0,
     "column_idx": 1,
@@ -78,6 +100,8 @@
   },
   {
     "filename": "Control_Unit.png",
+    "section_folder": "section_01_symbols",
+    "relative_path": "section_01_symbols/Control_Unit.png",
     "original_label": "Control Unit",
     "section_idx": 0,
     "column_idx": 1,
@@ -85,6 +109,8 @@
   },
   {
     "filename": "Panel.png",
+    "section_folder": "section_01_symbols",
+    "relative_path": "section_01_symbols/Panel.png",
     "original_label": "Panel",
     "section_idx": 0,
     "column_idx": 1,
@@ -92,6 +118,8 @@
   },
   {
     "filename": "Temp.png",
+    "section_folder": "section_01_symbols",
+    "relative_path": "section_01_symbols/Temp.png",
     "original_label": "Temp",
     "section_idx": 0,
     "column_idx": 1,
@@ -99,6 +127,8 @@
   },
   {
     "filename": "Temp_Recorder.png",
+    "section_folder": "section_01_symbols",
+    "relative_path": "section_01_symbols/Temp_Recorder.png",
     "original_label": "Temp Recorder",
     "section_idx": 0,
     "column_idx": 1,
@@ -106,6 +136,8 @@
   },
   {
     "filename": "Temp_1.png",
+    "section_folder": "section_01_symbols",
+    "relative_path": "section_01_symbols/Temp_1.png",
     "original_label": "Temp",
     "section_idx": 0,
     "column_idx": 1,
@@ -113,6 +145,8 @@
   },
   {
     "filename": "Flow_Indicator.png",
+    "section_folder": "section_01_symbols",
+    "relative_path": "section_01_symbols/Flow_Indicator.png",
     "original_label": "Flow Indicator",
     "section_idx": 0,
     "column_idx": 1,
@@ -120,6 +154,8 @@
   },
   {
     "filename": "Flow_Recorder.png",
+    "section_folder": "section_01_symbols",
+    "relative_path": "section_01_symbols/Flow_Recorder.png",
     "original_label": "Flow Recorder",
     "section_idx": 0,
     "column_idx": 1,
@@ -127,6 +163,8 @@
   },
   {
     "filename": "Controller.png",
+    "section_folder": "section_01_symbols",
+    "relative_path": "section_01_symbols/Controller.png",
     "original_label": "Controller",
     "section_idx": 0,
     "column_idx": 1,
@@ -134,6 +172,8 @@
   },
   {
     "filename": "Pressure_1.png",
+    "section_folder": "section_01_symbols",
+    "relative_path": "section_01_symbols/Pressure_1.png",
     "original_label": "Pressure",
     "section_idx": 0,
     "column_idx": 1,
@@ -141,6 +181,8 @@
   },
   {
     "filename": "Level_Recorder.png",
+    "section_folder": "section_01_symbols",
+    "relative_path": "section_01_symbols/Level_Recorder.png",
     "original_label": "Level Recorder",
     "section_idx": 0,
     "column_idx": 1,
@@ -148,6 +190,8 @@
   },
   {
     "filename": "Level.png",
+    "section_folder": "section_01_symbols",
+    "relative_path": "section_01_symbols/Level.png",
     "original_label": "Level",
     "section_idx": 0,
     "column_idx": 2,
@@ -155,6 +199,8 @@
   },
   {
     "filename": "Pressure_2.png",
+    "section_folder": "section_01_symbols",
+    "relative_path": "section_01_symbols/Pressure_2.png",
     "original_label": "Pressure",
     "section_idx": 0,
     "column_idx": 2,
@@ -162,6 +208,8 @@
   },
   {
     "filename": "Pressure_3.png",
+    "section_folder": "section_01_symbols",
+    "relative_path": "section_01_symbols/Pressure_3.png",
     "original_label": "Pressure",
     "section_idx": 0,
     "column_idx": 2,
@@ -169,6 +217,8 @@
   },
   {
     "filename": "Pressure_4.png",
+    "section_folder": "section_01_symbols",
+    "relative_path": "section_01_symbols/Pressure_4.png",
     "original_label": "Pressure",
     "section_idx": 0,
     "column_idx": 2,
@@ -176,6 +226,8 @@
   },
   {
     "filename": "Pressure_5.png",
+    "section_folder": "section_01_symbols",
+    "relative_path": "section_01_symbols/Pressure_5.png",
     "original_label": "Pressure",
     "section_idx": 0,
     "column_idx": 2,
@@ -183,6 +235,8 @@
   },
   {
     "filename": "Pressure_6.png",
+    "section_folder": "section_01_symbols",
+    "relative_path": "section_01_symbols/Pressure_6.png",
     "original_label": "Pressure",
     "section_idx": 0,
     "column_idx": 2,
@@ -190,6 +244,8 @@
   },
   {
     "filename": "Recording.png",
+    "section_folder": "section_01_symbols",
+    "relative_path": "section_01_symbols/Recording.png",
     "original_label": "Recording",
     "section_idx": 0,
     "column_idx": 2,
@@ -197,6 +253,8 @@
   },
   {
     "filename": "Level_Alarm.png",
+    "section_folder": "section_01_symbols",
+    "relative_path": "section_01_symbols/Level_Alarm.png",
     "original_label": "Level Alarm",
     "section_idx": 0,
     "column_idx": 2,
@@ -204,6 +262,8 @@
   },
   {
     "filename": "Element.png",
+    "section_folder": "section_01_symbols",
+    "relative_path": "section_01_symbols/Element.png",
     "original_label": "Element",
     "section_idx": 0,
     "column_idx": 2,
@@ -211,6 +271,8 @@
   },
   {
     "filename": "Level_Gauge.png",
+    "section_folder": "section_01_symbols",
+    "relative_path": "section_01_symbols/Level_Gauge.png",
     "original_label": "Level Gauge",
     "section_idx": 0,
     "column_idx": 2,
@@ -218,6 +280,8 @@
   },
   {
     "filename": "Specialty_Item.png",
+    "section_folder": "section_01_symbols",
+    "relative_path": "section_01_symbols/Specialty_Item.png",
     "original_label": "Specialty Item",
     "section_idx": 0,
     "column_idx": 2,
@@ -225,6 +289,8 @@
   },
   {
     "filename": "Straightening.png",
+    "section_folder": "section_01_symbols",
+    "relative_path": "section_01_symbols/Straightening.png",
     "original_label": "Straightening",
     "section_idx": 0,
     "column_idx": 2,
@@ -232,6 +298,8 @@
   },
   {
     "filename": "Meter.png",
+    "section_folder": "section_01_symbols",
+    "relative_path": "section_01_symbols/Meter.png",
     "original_label": "Meter",
     "section_idx": 0,
     "column_idx": 2,
@@ -239,6 +307,8 @@
   },
   {
     "filename": "Flow.png",
+    "section_folder": "section_01_symbols",
+    "relative_path": "section_01_symbols/Flow.png",
     "original_label": "Flow",
     "section_idx": 0,
     "column_idx": 3,
@@ -246,6 +316,8 @@
   },
   {
     "filename": "Pitot_Tube.png",
+    "section_folder": "section_01_symbols",
+    "relative_path": "section_01_symbols/Pitot_Tube.png",
     "original_label": "Pitot Tube",
     "section_idx": 0,
     "column_idx": 3,
@@ -253,6 +325,8 @@
   },
   {
     "filename": "Target_Meter.png",
+    "section_folder": "section_01_symbols",
+    "relative_path": "section_01_symbols/Target_Meter.png",
     "original_label": "Target Meter",
     "section_idx": 0,
     "column_idx": 3,
@@ -260,6 +334,8 @@
   },
   {
     "filename": "Ultrasonic_Meter.png",
+    "section_folder": "section_01_symbols",
+    "relative_path": "section_01_symbols/Ultrasonic_Meter.png",
     "original_label": "Ultrasonic Meter",
     "section_idx": 0,
     "column_idx": 3,
@@ -267,6 +343,8 @@
   },
   {
     "filename": "Quick_Change.png",
+    "section_folder": "section_01_symbols",
+    "relative_path": "section_01_symbols/Quick_Change.png",
     "original_label": "Quick Change",
     "section_idx": 0,
     "column_idx": 3,
@@ -274,6 +352,8 @@
   },
   {
     "filename": "Turbine_Meter.png",
+    "section_folder": "section_01_symbols",
+    "relative_path": "section_01_symbols/Turbine_Meter.png",
     "original_label": "Turbine Meter",
     "section_idx": 0,
     "column_idx": 3,
@@ -281,6 +361,8 @@
   },
   {
     "filename": "Rotometer.png",
+    "section_folder": "section_01_symbols",
+    "relative_path": "section_01_symbols/Rotometer.png",
     "original_label": "Rotometer",
     "section_idx": 0,
     "column_idx": 3,
@@ -288,6 +370,8 @@
   },
   {
     "filename": "Venturi.png",
+    "section_folder": "section_01_symbols",
+    "relative_path": "section_01_symbols/Venturi.png",
     "original_label": "Venturi",
     "section_idx": 0,
     "column_idx": 3,
@@ -295,6 +379,8 @@
   },
   {
     "filename": "Flowmeter.png",
+    "section_folder": "section_01_symbols",
+    "relative_path": "section_01_symbols/Flowmeter.png",
     "original_label": "Flowmeter",
     "section_idx": 0,
     "column_idx": 3,
@@ -302,6 +388,8 @@
   },
   {
     "filename": "And_Gate.png",
+    "section_folder": "section_01_symbols",
+    "relative_path": "section_01_symbols/And_Gate.png",
     "original_label": "And Gate",
     "section_idx": 0,
     "column_idx": 3,
@@ -309,6 +397,8 @@
   },
   {
     "filename": "Gate_Not.png",
+    "section_folder": "section_01_symbols",
+    "relative_path": "section_01_symbols/Gate_Not.png",
     "original_label": "Gate Not",
     "section_idx": 0,
     "column_idx": 4,
@@ -316,6 +406,8 @@
   },
   {
     "filename": "Correcting.png",
+    "section_folder": "section_01_symbols",
+    "relative_path": "section_01_symbols/Correcting.png",
     "original_label": "Correcting",
     "section_idx": 0,
     "column_idx": 4,
@@ -323,6 +415,8 @@
   },
   {
     "filename": "Element_1.png",
+    "section_folder": "section_01_symbols",
+    "relative_path": "section_01_symbols/Element_1.png",
     "original_label": "Element",
     "section_idx": 0,
     "column_idx": 4,
@@ -330,6 +424,8 @@
   },
   {
     "filename": "Diamond.png",
+    "section_folder": "section_01_symbols",
+    "relative_path": "section_01_symbols/Diamond.png",
     "original_label": "Diamond",
     "section_idx": 0,
     "column_idx": 4,
@@ -337,6 +433,8 @@
   },
   {
     "filename": "Pressure_7.png",
+    "section_folder": "section_01_symbols",
+    "relative_path": "section_01_symbols/Pressure_7.png",
     "original_label": "Pressure",
     "section_idx": 0,
     "column_idx": 4,
@@ -344,6 +442,8 @@
   },
   {
     "filename": "Gauges.png",
+    "section_folder": "section_01_symbols",
+    "relative_path": "section_01_symbols/Gauges.png",
     "original_label": "Gauges",
     "section_idx": 0,
     "column_idx": 4,
@@ -351,6 +451,8 @@
   },
   {
     "filename": "Thermometers.png",
+    "section_folder": "section_01_symbols",
+    "relative_path": "section_01_symbols/Thermometers.png",
     "original_label": "Thermometers",
     "section_idx": 0,
     "column_idx": 4,
@@ -358,6 +460,8 @@
   },
   {
     "filename": "Averaging_Pitot.png",
+    "section_folder": "section_01_symbols",
+    "relative_path": "section_01_symbols/Averaging_Pitot.png",
     "original_label": "Averaging Pitot",
     "section_idx": 0,
     "column_idx": 4,
@@ -365,6 +469,8 @@
   },
   {
     "filename": "Tube.png",
+    "section_folder": "section_01_symbols",
+    "relative_path": "section_01_symbols/Tube.png",
     "original_label": "Tube",
     "section_idx": 0,
     "column_idx": 4,
@@ -372,6 +478,8 @@
   },
   {
     "filename": "Coriolis_Flow.png",
+    "section_folder": "section_01_symbols",
+    "relative_path": "section_01_symbols/Coriolis_Flow.png",
     "original_label": "Coriolis Flow",
     "section_idx": 0,
     "column_idx": 4,
@@ -379,6 +487,8 @@
   },
   {
     "filename": "Sensor.png",
+    "section_folder": "section_01_symbols",
+    "relative_path": "section_01_symbols/Sensor.png",
     "original_label": "Sensor",
     "section_idx": 0,
     "column_idx": 4,
@@ -386,6 +496,8 @@
   },
   {
     "filename": "Flow_Nozzle.png",
+    "section_folder": "section_01_symbols",
+    "relative_path": "section_01_symbols/Flow_Nozzle.png",
     "original_label": "Flow Nozzle",
     "section_idx": 0,
     "column_idx": 4,
@@ -393,6 +505,8 @@
   },
   {
     "filename": "Flume_Meter.png",
+    "section_folder": "section_01_symbols",
+    "relative_path": "section_01_symbols/Flume_Meter.png",
     "original_label": "Flume Meter",
     "section_idx": 0,
     "column_idx": 4,
@@ -400,6 +514,8 @@
   },
   {
     "filename": "Manhole.png",
+    "section_folder": "section_01_symbols",
+    "relative_path": "section_01_symbols/Manhole.png",
     "original_label": "Manhole",
     "section_idx": 0,
     "column_idx": 4,
@@ -407,6 +523,8 @@
   },
   {
     "filename": "Socket.png",
+    "section_folder": "section_01_symbols",
+    "relative_path": "section_01_symbols/Socket.png",
     "original_label": "Socket",
     "section_idx": 0,
     "column_idx": 4,
@@ -414,6 +532,8 @@
   },
   {
     "filename": "Connection.png",
+    "section_folder": "section_01_symbols",
+    "relative_path": "section_01_symbols/Connection.png",
     "original_label": "Connection",
     "section_idx": 0,
     "column_idx": 4,
@@ -421,6 +541,8 @@
   },
   {
     "filename": "Support_Bracket.png",
+    "section_folder": "section_01_symbols",
+    "relative_path": "section_01_symbols/Support_Bracket.png",
     "original_label": "Support Bracket",
     "section_idx": 0,
     "column_idx": 4,
@@ -428,6 +550,8 @@
   },
   {
     "filename": "Support_Leg.png",
+    "section_folder": "section_01_symbols",
+    "relative_path": "section_01_symbols/Support_Leg.png",
     "original_label": "Support Leg",
     "section_idx": 0,
     "column_idx": 4,
@@ -435,6 +559,8 @@
   },
   {
     "filename": "Valve.png",
+    "section_folder": "section_02_symbols",
+    "relative_path": "section_02_symbols/Valve.png",
     "original_label": "Valve",
     "section_idx": 1,
     "column_idx": 0,
@@ -442,6 +568,8 @@
   },
   {
     "filename": "Hand-Operated.png",
+    "section_folder": "section_02_symbols",
+    "relative_path": "section_02_symbols/Hand-Operated.png",
     "original_label": "Hand-Operated",
     "section_idx": 1,
     "column_idx": 0,
@@ -449,6 +577,8 @@
   },
   {
     "filename": "Rotary_Valve.png",
+    "section_folder": "section_02_symbols",
+    "relative_path": "section_02_symbols/Rotary_Valve.png",
     "original_label": "Rotary Valve",
     "section_idx": 1,
     "column_idx": 0,
@@ -456,6 +586,8 @@
   },
   {
     "filename": "Piston-Operated.png",
+    "section_folder": "section_02_symbols",
+    "relative_path": "section_02_symbols/Piston-Operated.png",
     "original_label": "Piston-Operated",
     "section_idx": 1,
     "column_idx": 0,
@@ -463,6 +595,8 @@
   },
   {
     "filename": "Valve_1.png",
+    "section_folder": "section_02_symbols",
+    "relative_path": "section_02_symbols/Valve_1.png",
     "original_label": "Valve",
     "section_idx": 1,
     "column_idx": 0,
@@ -470,6 +604,8 @@
   },
   {
     "filename": "Back_Pressure.png",
+    "section_folder": "section_02_symbols",
+    "relative_path": "section_02_symbols/Back_Pressure.png",
     "original_label": "Back Pressure",
     "section_idx": 1,
     "column_idx": 0,
@@ -477,6 +613,8 @@
   },
   {
     "filename": "Cock_or.png",
+    "section_folder": "section_02_symbols",
+    "relative_path": "section_02_symbols/Cock_or.png",
     "original_label": "Cock or",
     "section_idx": 1,
     "column_idx": 0,
@@ -484,6 +622,8 @@
   },
   {
     "filename": "Angle_Valve.png",
+    "section_folder": "section_02_symbols",
+    "relative_path": "section_02_symbols/Angle_Valve.png",
     "original_label": "Angle Valve",
     "section_idx": 1,
     "column_idx": 1,
@@ -491,6 +631,8 @@
   },
   {
     "filename": "Globe_Angle.png",
+    "section_folder": "section_02_symbols",
+    "relative_path": "section_02_symbols/Globe_Angle.png",
     "original_label": "Globe Angle",
     "section_idx": 1,
     "column_idx": 1,
@@ -498,6 +640,8 @@
   },
   {
     "filename": "Valve_2.png",
+    "section_folder": "section_02_symbols",
+    "relative_path": "section_02_symbols/Valve_2.png",
     "original_label": "Valve",
     "section_idx": 1,
     "column_idx": 1,
@@ -505,6 +649,8 @@
   },
   {
     "filename": "Relief_Valve.png",
+    "section_folder": "section_02_symbols",
+    "relative_path": "section_02_symbols/Relief_Valve.png",
     "original_label": "Relief Valve",
     "section_idx": 1,
     "column_idx": 1,
@@ -512,6 +658,8 @@
   },
   {
     "filename": "Valve_3.png",
+    "section_folder": "section_02_symbols",
+    "relative_path": "section_02_symbols/Valve_3.png",
     "original_label": "Valve",
     "section_idx": 1,
     "column_idx": 1,
@@ -519,6 +667,8 @@
   },
   {
     "filename": "Normally_Closed.png",
+    "section_folder": "section_02_symbols",
+    "relative_path": "section_02_symbols/Normally_Closed.png",
     "original_label": "Normally Closed",
     "section_idx": 1,
     "column_idx": 1,
@@ -526,6 +676,8 @@
   },
   {
     "filename": "Plug_Valve.png",
+    "section_folder": "section_02_symbols",
+    "relative_path": "section_02_symbols/Plug_Valve.png",
     "original_label": "Plug Valve",
     "section_idx": 1,
     "column_idx": 1,
@@ -533,6 +685,8 @@
   },
   {
     "filename": "Solenoid_Valve.png",
+    "section_folder": "section_02_symbols",
+    "relative_path": "section_02_symbols/Solenoid_Valve.png",
     "original_label": "Solenoid Valve",
     "section_idx": 1,
     "column_idx": 2,
@@ -540,6 +694,8 @@
   },
   {
     "filename": "ydraulic_Valve.png",
+    "section_folder": "section_02_symbols",
+    "relative_path": "section_02_symbols/ydraulic_Valve.png",
     "original_label": "ydraulic Valve",
     "section_idx": 1,
     "column_idx": 2,
@@ -547,6 +703,8 @@
   },
   {
     "filename": "Motor-Operated.png",
+    "section_folder": "section_02_symbols",
+    "relative_path": "section_02_symbols/Motor-Operated.png",
     "original_label": "Motor-Operated",
     "section_idx": 1,
     "column_idx": 2,
@@ -554,6 +712,8 @@
   },
   {
     "filename": "Gate_Weight.png",
+    "section_folder": "section_02_symbols",
+    "relative_path": "section_02_symbols/Gate_Weight.png",
     "original_label": "Gate Weight",
     "section_idx": 1,
     "column_idx": 2,
@@ -561,6 +721,8 @@
   },
   {
     "filename": "Float-Operated.png",
+    "section_folder": "section_02_symbols",
+    "relative_path": "section_02_symbols/Float-Operated.png",
     "original_label": "Float-Operated",
     "section_idx": 1,
     "column_idx": 2,
@@ -568,6 +730,8 @@
   },
   {
     "filename": "4-way_Valve.png",
+    "section_folder": "section_02_symbols",
+    "relative_path": "section_02_symbols/4-way_Valve.png",
     "original_label": "4-way Valve",
     "section_idx": 1,
     "column_idx": 3,
@@ -575,6 +739,8 @@
   },
   {
     "filename": "Electro-Hydraulic.png",
+    "section_folder": "section_02_symbols",
+    "relative_path": "section_02_symbols/Electro-Hydraulic.png",
     "original_label": "Electro-Hydraulic",
     "section_idx": 1,
     "column_idx": 3,
@@ -582,6 +748,8 @@
   },
   {
     "filename": "Valve_4.png",
+    "section_folder": "section_02_symbols",
+    "relative_path": "section_02_symbols/Valve_4.png",
     "original_label": "Valve",
     "section_idx": 1,
     "column_idx": 3,
@@ -589,6 +757,8 @@
   },
   {
     "filename": "Gate_Valve.png",
+    "section_folder": "section_02_symbols",
+    "relative_path": "section_02_symbols/Gate_Valve.png",
     "original_label": "Gate Valve",
     "section_idx": 1,
     "column_idx": 3,
@@ -596,6 +766,8 @@
   },
   {
     "filename": "Spring_Gate_Valve.png",
+    "section_folder": "section_02_symbols",
+    "relative_path": "section_02_symbols/Spring_Gate_Valve.png",
     "original_label": "Spring Gate Valve",
     "section_idx": 1,
     "column_idx": 3,
@@ -603,6 +775,8 @@
   },
   {
     "filename": "Slide_Valve.png",
+    "section_folder": "section_02_symbols",
+    "relative_path": "section_02_symbols/Slide_Valve.png",
     "original_label": "Slide Valve",
     "section_idx": 1,
     "column_idx": 3,
@@ -610,6 +784,8 @@
   },
   {
     "filename": "Knife_Valve.png",
+    "section_folder": "section_02_symbols",
+    "relative_path": "section_02_symbols/Knife_Valve.png",
     "original_label": "Knife Valve",
     "section_idx": 1,
     "column_idx": 3,
@@ -617,6 +793,8 @@
   },
   {
     "filename": "——_Excess_Flow.png",
+    "section_folder": "section_02_symbols",
+    "relative_path": "section_02_symbols/——_Excess_Flow.png",
     "original_label": "—— Excess Flow",
     "section_idx": 1,
     "column_idx": 3,
@@ -624,6 +802,8 @@
   },
   {
     "filename": "Post_Indicator.png",
+    "section_folder": "section_02_symbols",
+    "relative_path": "section_02_symbols/Post_Indicator.png",
     "original_label": "Post Indicator",
     "section_idx": 1,
     "column_idx": 3,
@@ -631,6 +811,8 @@
   },
   {
     "filename": "Self_Draining_Valve.png",
+    "section_folder": "section_02_symbols",
+    "relative_path": "section_02_symbols/Self_Draining_Valve.png",
     "original_label": "Self Draining Valve",
     "section_idx": 1,
     "column_idx": 3,
@@ -638,6 +820,8 @@
   },
   {
     "filename": "Diaphragm_Valve.png",
+    "section_folder": "section_02_symbols",
+    "relative_path": "section_02_symbols/Diaphragm_Valve.png",
     "original_label": "Diaphragm Valve",
     "section_idx": 1,
     "column_idx": 3,
@@ -645,6 +829,8 @@
   },
   {
     "filename": "Pinch_Valve.png",
+    "section_folder": "section_02_symbols",
+    "relative_path": "section_02_symbols/Pinch_Valve.png",
     "original_label": "Pinch Valve",
     "section_idx": 1,
     "column_idx": 4,
@@ -652,6 +838,8 @@
   },
   {
     "filename": "Valve_5.png",
+    "section_folder": "section_02_symbols",
+    "relative_path": "section_02_symbols/Valve_5.png",
     "original_label": "Valve",
     "section_idx": 1,
     "column_idx": 4,
@@ -659,6 +847,8 @@
   },
   {
     "filename": "Bleeder_Valve.png",
+    "section_folder": "section_02_symbols",
+    "relative_path": "section_02_symbols/Bleeder_Valve.png",
     "original_label": "Bleeder Valve",
     "section_idx": 1,
     "column_idx": 4,
@@ -666,6 +856,8 @@
   },
   {
     "filename": "Integrated_Block.png",
+    "section_folder": "section_02_symbols",
+    "relative_path": "section_02_symbols/Integrated_Block.png",
     "original_label": "Integrated Block",
     "section_idx": 1,
     "column_idx": 4,
@@ -673,6 +865,8 @@
   },
   {
     "filename": "Valve_6.png",
+    "section_folder": "section_02_symbols",
+    "relative_path": "section_02_symbols/Valve_6.png",
     "original_label": "Valve",
     "section_idx": 1,
     "column_idx": 4,
@@ -680,6 +874,8 @@
   },
   {
     "filename": "Maual_Integrated.png",
+    "section_folder": "section_02_symbols",
+    "relative_path": "section_02_symbols/Maual_Integrated.png",
     "original_label": "Maual Integrated",
     "section_idx": 1,
     "column_idx": 4,
@@ -687,6 +883,8 @@
   },
   {
     "filename": "Valve_7.png",
+    "section_folder": "section_02_symbols",
+    "relative_path": "section_02_symbols/Valve_7.png",
     "original_label": "Valve",
     "section_idx": 1,
     "column_idx": 4,
@@ -694,6 +892,8 @@
   },
   {
     "filename": "Orifice.png",
+    "section_folder": "section_02_symbols",
+    "relative_path": "section_02_symbols/Orifice.png",
     "original_label": "Orifice",
     "section_idx": 1,
     "column_idx": 4,
@@ -701,6 +901,8 @@
   },
   {
     "filename": "Rotameter.png",
+    "section_folder": "section_02_symbols",
+    "relative_path": "section_02_symbols/Rotameter.png",
     "original_label": "Rotameter",
     "section_idx": 1,
     "column_idx": 4,
@@ -708,6 +910,8 @@
   },
   {
     "filename": "Quarter_Turn_Valve.png",
+    "section_folder": "section_02_symbols",
+    "relative_path": "section_02_symbols/Quarter_Turn_Valve.png",
     "original_label": "Quarter Turn Valve",
     "section_idx": 1,
     "column_idx": 4,
@@ -715,6 +919,8 @@
   },
   {
     "filename": "Double_Acting.png",
+    "section_folder": "section_02_symbols",
+    "relative_path": "section_02_symbols/Double_Acting.png",
     "original_label": "Double Acting",
     "section_idx": 1,
     "column_idx": 4,
@@ -722,6 +928,8 @@
   },
   {
     "filename": "Quarter_Turn_Valve_1.png",
+    "section_folder": "section_02_symbols",
+    "relative_path": "section_02_symbols/Quarter_Turn_Valve_1.png",
     "original_label": "Quarter Turn Valve",
     "section_idx": 1,
     "column_idx": 4,
@@ -729,6 +937,8 @@
   },
   {
     "filename": "Spring_Acting.png",
+    "section_folder": "section_02_symbols",
+    "relative_path": "section_02_symbols/Spring_Acting.png",
     "original_label": "Spring Acting",
     "section_idx": 1,
     "column_idx": 4,
@@ -736,6 +946,8 @@
   },
   {
     "filename": "Water_Flow_Meter.png",
+    "section_folder": "section_02_symbols",
+    "relative_path": "section_02_symbols/Water_Flow_Meter.png",
     "original_label": "Water Flow Meter",
     "section_idx": 1,
     "column_idx": 4,
@@ -743,6 +955,8 @@
   },
   {
     "filename": "Self-Operating.png",
+    "section_folder": "section_02_symbols",
+    "relative_path": "section_02_symbols/Self-Operating.png",
     "original_label": "Self-Operating",
     "section_idx": 1,
     "column_idx": 4,
@@ -750,6 +964,8 @@
   },
   {
     "filename": "Reciprocating.png",
+    "section_folder": "section_03_symbols",
+    "relative_path": "section_03_symbols/Reciprocating.png",
     "original_label": "Reciprocating",
     "section_idx": 2,
     "column_idx": 0,
@@ -757,6 +973,8 @@
   },
   {
     "filename": "ompressor.png",
+    "section_folder": "section_03_symbols",
+    "relative_path": "section_03_symbols/ompressor.png",
     "original_label": "ompressor",
     "section_idx": 2,
     "column_idx": 0,
@@ -764,6 +982,8 @@
   },
   {
     "filename": "Compressor.png",
+    "section_folder": "section_03_symbols",
+    "relative_path": "section_03_symbols/Compressor.png",
     "original_label": "Compressor",
     "section_idx": 2,
     "column_idx": 0,
@@ -771,6 +991,8 @@
   },
   {
     "filename": "Compressor_1.png",
+    "section_folder": "section_03_symbols",
+    "relative_path": "section_03_symbols/Compressor_1.png",
     "original_label": "Compressor",
     "section_idx": 2,
     "column_idx": 0,
@@ -778,6 +1000,8 @@
   },
   {
     "filename": "silencers.png",
+    "section_folder": "section_03_symbols",
+    "relative_path": "section_03_symbols/silencers.png",
     "original_label": "silencers",
     "section_idx": 2,
     "column_idx": 0,
@@ -785,6 +1009,8 @@
   },
   {
     "filename": "Centrifugal.png",
+    "section_folder": "section_03_symbols",
+    "relative_path": "section_03_symbols/Centrifugal.png",
     "original_label": "Centrifugal",
     "section_idx": 2,
     "column_idx": 0,
@@ -792,6 +1018,8 @@
   },
   {
     "filename": "Rotary.png",
+    "section_folder": "section_03_symbols",
+    "relative_path": "section_03_symbols/Rotary.png",
     "original_label": "Rotary",
     "section_idx": 2,
     "column_idx": 0,
@@ -799,6 +1027,8 @@
   },
   {
     "filename": "Compressor_2.png",
+    "section_folder": "section_03_symbols",
+    "relative_path": "section_03_symbols/Compressor_2.png",
     "original_label": "Compressor",
     "section_idx": 2,
     "column_idx": 0,
@@ -806,6 +1036,8 @@
   },
   {
     "filename": "Rotary_1.png",
+    "section_folder": "section_03_symbols",
+    "relative_path": "section_03_symbols/Rotary_1.png",
     "original_label": "Rotary",
     "section_idx": 2,
     "column_idx": 0,
@@ -813,6 +1045,8 @@
   },
   {
     "filename": "Compressor_3.png",
+    "section_folder": "section_03_symbols",
+    "relative_path": "section_03_symbols/Compressor_3.png",
     "original_label": "Compressor",
     "section_idx": 2,
     "column_idx": 0,
@@ -820,6 +1054,8 @@
   },
   {
     "filename": "Rotory_Compressor.png",
+    "section_folder": "section_03_symbols",
+    "relative_path": "section_03_symbols/Rotory_Compressor.png",
     "original_label": "Rotory Compressor",
     "section_idx": 2,
     "column_idx": 0,
@@ -827,6 +1063,8 @@
   },
   {
     "filename": "and_silencers.png",
+    "section_folder": "section_03_symbols",
+    "relative_path": "section_03_symbols/and_silencers.png",
     "original_label": "and silencers",
     "section_idx": 2,
     "column_idx": 0,
@@ -834,6 +1072,8 @@
   },
   {
     "filename": "Liquid_ring.png",
+    "section_folder": "section_03_symbols",
+    "relative_path": "section_03_symbols/Liquid_ring.png",
     "original_label": "Liquid ring",
     "section_idx": 2,
     "column_idx": 0,
@@ -841,6 +1081,8 @@
   },
   {
     "filename": "Compressor_4.png",
+    "section_folder": "section_03_symbols",
+    "relative_path": "section_03_symbols/Compressor_4.png",
     "original_label": "Compressor",
     "section_idx": 2,
     "column_idx": 0,
@@ -848,6 +1090,8 @@
   },
   {
     "filename": "Centrifugal_1.png",
+    "section_folder": "section_03_symbols",
+    "relative_path": "section_03_symbols/Centrifugal_1.png",
     "original_label": "Centrifugal",
     "section_idx": 2,
     "column_idx": 0,
@@ -855,6 +1099,8 @@
   },
   {
     "filename": "Compressor_5.png",
+    "section_folder": "section_03_symbols",
+    "relative_path": "section_03_symbols/Compressor_5.png",
     "original_label": "Compressor",
     "section_idx": 2,
     "column_idx": 0,
@@ -862,6 +1108,8 @@
   },
   {
     "filename": "Centrifugal_2.png",
+    "section_folder": "section_03_symbols",
+    "relative_path": "section_03_symbols/Centrifugal_2.png",
     "original_label": "Centrifugal",
     "section_idx": 2,
     "column_idx": 0,
@@ -869,6 +1117,8 @@
   },
   {
     "filename": "Compressor_6.png",
+    "section_folder": "section_03_symbols",
+    "relative_path": "section_03_symbols/Compressor_6.png",
     "original_label": "Compressor",
     "section_idx": 2,
     "column_idx": 0,
@@ -876,6 +1126,8 @@
   },
   {
     "filename": "Centrifugal_3.png",
+    "section_folder": "section_03_symbols",
+    "relative_path": "section_03_symbols/Centrifugal_3.png",
     "original_label": "Centrifugal",
     "section_idx": 2,
     "column_idx": 0,
@@ -883,6 +1135,8 @@
   },
   {
     "filename": "Compressor_7.png",
+    "section_folder": "section_03_symbols",
+    "relative_path": "section_03_symbols/Compressor_7.png",
     "original_label": "Compressor",
     "section_idx": 2,
     "column_idx": 0,
@@ -890,6 +1144,8 @@
   },
   {
     "filename": "Centrifugal_4.png",
+    "section_folder": "section_03_symbols",
+    "relative_path": "section_03_symbols/Centrifugal_4.png",
     "original_label": "Centrifugal",
     "section_idx": 2,
     "column_idx": 0,
@@ -897,6 +1153,8 @@
   },
   {
     "filename": "blower.png",
+    "section_folder": "section_03_symbols",
+    "relative_path": "section_03_symbols/blower.png",
     "original_label": "blower",
     "section_idx": 2,
     "column_idx": 0,
@@ -904,6 +1162,8 @@
   },
   {
     "filename": "Axial.png",
+    "section_folder": "section_03_symbols",
+    "relative_path": "section_03_symbols/Axial.png",
     "original_label": "Axial",
     "section_idx": 2,
     "column_idx": 1,
@@ -911,6 +1171,8 @@
   },
   {
     "filename": "Compressor_8.png",
+    "section_folder": "section_03_symbols",
+    "relative_path": "section_03_symbols/Compressor_8.png",
     "original_label": "Compressor",
     "section_idx": 2,
     "column_idx": 1,
@@ -918,6 +1180,8 @@
   },
   {
     "filename": "Centrifugal_5.png",
+    "section_folder": "section_03_symbols",
+    "relative_path": "section_03_symbols/Centrifugal_5.png",
     "original_label": "Centrifugal",
     "section_idx": 2,
     "column_idx": 1,
@@ -925,6 +1189,8 @@
   },
   {
     "filename": "pump.png",
+    "section_folder": "section_03_symbols",
+    "relative_path": "section_03_symbols/pump.png",
     "original_label": "pump",
     "section_idx": 2,
     "column_idx": 1,
@@ -932,6 +1198,8 @@
   },
   {
     "filename": "Centrifugal_6.png",
+    "section_folder": "section_03_symbols",
+    "relative_path": "section_03_symbols/Centrifugal_6.png",
     "original_label": "Centrifugal",
     "section_idx": 2,
     "column_idx": 1,
@@ -939,6 +1207,8 @@
   },
   {
     "filename": "pump_1.png",
+    "section_folder": "section_03_symbols",
+    "relative_path": "section_03_symbols/pump_1.png",
     "original_label": "pump",
     "section_idx": 2,
     "column_idx": 1,
@@ -946,6 +1216,8 @@
   },
   {
     "filename": "Centrifugal_7.png",
+    "section_folder": "section_03_symbols",
+    "relative_path": "section_03_symbols/Centrifugal_7.png",
     "original_label": "Centrifugal",
     "section_idx": 2,
     "column_idx": 1,
@@ -953,6 +1225,8 @@
   },
   {
     "filename": "pump_2.png",
+    "section_folder": "section_03_symbols",
+    "relative_path": "section_03_symbols/pump_2.png",
     "original_label": "pump",
     "section_idx": 2,
     "column_idx": 1,
@@ -960,6 +1234,8 @@
   },
   {
     "filename": "Centrifugal_8.png",
+    "section_folder": "section_03_symbols",
+    "relative_path": "section_03_symbols/Centrifugal_8.png",
     "original_label": "Centrifugal",
     "section_idx": 2,
     "column_idx": 1,
@@ -967,6 +1243,8 @@
   },
   {
     "filename": "pump_3.png",
+    "section_folder": "section_03_symbols",
+    "relative_path": "section_03_symbols/pump_3.png",
     "original_label": "pump",
     "section_idx": 2,
     "column_idx": 1,
@@ -974,6 +1252,8 @@
   },
   {
     "filename": "Vertical_pump.png",
+    "section_folder": "section_03_symbols",
+    "relative_path": "section_03_symbols/Vertical_pump.png",
     "original_label": "Vertical pump",
     "section_idx": 2,
     "column_idx": 1,
@@ -981,6 +1261,8 @@
   },
   {
     "filename": "Liquid_ring_1.png",
+    "section_folder": "section_03_symbols",
+    "relative_path": "section_03_symbols/Liquid_ring_1.png",
     "original_label": "Liquid ring",
     "section_idx": 2,
     "column_idx": 1,
@@ -988,6 +1270,8 @@
   },
   {
     "filename": "vacuum_pump.png",
+    "section_folder": "section_03_symbols",
+    "relative_path": "section_03_symbols/vacuum_pump.png",
     "original_label": "vacuum pump",
     "section_idx": 2,
     "column_idx": 1,
@@ -995,6 +1279,8 @@
   },
   {
     "filename": "Positive_displacement.png",
+    "section_folder": "section_03_symbols",
+    "relative_path": "section_03_symbols/Positive_displacement.png",
     "original_label": "Positive displacement",
     "section_idx": 2,
     "column_idx": 1,
@@ -1002,6 +1288,8 @@
   },
   {
     "filename": "pump_4.png",
+    "section_folder": "section_03_symbols",
+    "relative_path": "section_03_symbols/pump_4.png",
     "original_label": "pump",
     "section_idx": 2,
     "column_idx": 1,
@@ -1009,6 +1297,8 @@
   },
   {
     "filename": "Vertical_pump_1.png",
+    "section_folder": "section_03_symbols",
+    "relative_path": "section_03_symbols/Vertical_pump_1.png",
     "original_label": "Vertical pump",
     "section_idx": 2,
     "column_idx": 1,
@@ -1016,6 +1306,8 @@
   },
   {
     "filename": "Positive_displacement_1.png",
+    "section_folder": "section_03_symbols",
+    "relative_path": "section_03_symbols/Positive_displacement_1.png",
     "original_label": "Positive displacement",
     "section_idx": 2,
     "column_idx": 2,
@@ -1023,6 +1315,8 @@
   },
   {
     "filename": "pump_5.png",
+    "section_folder": "section_03_symbols",
+    "relative_path": "section_03_symbols/pump_5.png",
     "original_label": "pump",
     "section_idx": 2,
     "column_idx": 2,
@@ -1030,6 +1324,8 @@
   },
   {
     "filename": "Rotary_pump.png",
+    "section_folder": "section_03_symbols",
+    "relative_path": "section_03_symbols/Rotary_pump.png",
     "original_label": "Rotary pump",
     "section_idx": 2,
     "column_idx": 2,
@@ -1037,6 +1333,8 @@
   },
   {
     "filename": "Rotary_gear.png",
+    "section_folder": "section_03_symbols",
+    "relative_path": "section_03_symbols/Rotary_gear.png",
     "original_label": "Rotary gear",
     "section_idx": 2,
     "column_idx": 2,
@@ -1044,6 +1342,8 @@
   },
   {
     "filename": "pump_6.png",
+    "section_folder": "section_03_symbols",
+    "relative_path": "section_03_symbols/pump_6.png",
     "original_label": "pump",
     "section_idx": 2,
     "column_idx": 2,
@@ -1051,6 +1351,8 @@
   },
   {
     "filename": "Gear_pump.png",
+    "section_folder": "section_03_symbols",
+    "relative_path": "section_03_symbols/Gear_pump.png",
     "original_label": "Gear pump",
     "section_idx": 2,
     "column_idx": 2,
@@ -1058,6 +1360,8 @@
   },
   {
     "filename": "Proportioning_pump.png",
+    "section_folder": "section_03_symbols",
+    "relative_path": "section_03_symbols/Proportioning_pump.png",
     "original_label": "Proportioning pump",
     "section_idx": 2,
     "column_idx": 2,
@@ -1065,6 +1369,8 @@
   },
   {
     "filename": "Screw_pump.png",
+    "section_folder": "section_03_symbols",
+    "relative_path": "section_03_symbols/Screw_pump.png",
     "original_label": "Screw pump",
     "section_idx": 2,
     "column_idx": 2,
@@ -1072,6 +1378,8 @@
   },
   {
     "filename": "pump_7.png",
+    "section_folder": "section_03_symbols",
+    "relative_path": "section_03_symbols/pump_7.png",
     "original_label": "pump",
     "section_idx": 2,
     "column_idx": 2,
@@ -1079,6 +1387,8 @@
   },
   {
     "filename": "Reciprocating_1.png",
+    "section_folder": "section_03_symbols",
+    "relative_path": "section_03_symbols/Reciprocating_1.png",
     "original_label": "Reciprocating",
     "section_idx": 2,
     "column_idx": 2,
@@ -1086,6 +1396,8 @@
   },
   {
     "filename": "pump_8.png",
+    "section_folder": "section_03_symbols",
+    "relative_path": "section_03_symbols/pump_8.png",
     "original_label": "pump",
     "section_idx": 2,
     "column_idx": 2,
@@ -1093,6 +1405,8 @@
   },
   {
     "filename": "pump_9.png",
+    "section_folder": "section_03_symbols",
+    "relative_path": "section_03_symbols/pump_9.png",
     "original_label": "pump",
     "section_idx": 2,
     "column_idx": 3,
@@ -1100,6 +1414,8 @@
   },
   {
     "filename": "Turbine_pump.png",
+    "section_folder": "section_03_symbols",
+    "relative_path": "section_03_symbols/Turbine_pump.png",
     "original_label": "Turbine pump",
     "section_idx": 2,
     "column_idx": 3,
@@ -1107,6 +1423,8 @@
   },
   {
     "filename": "Fan.png",
+    "section_folder": "section_03_symbols",
+    "relative_path": "section_03_symbols/Fan.png",
     "original_label": "Fan",
     "section_idx": 2,
     "column_idx": 3,
@@ -1114,6 +1432,8 @@
   },
   {
     "filename": "Selectable_fan.png",
+    "section_folder": "section_03_symbols",
+    "relative_path": "section_03_symbols/Selectable_fan.png",
     "original_label": "Selectable fan",
     "section_idx": 2,
     "column_idx": 3,
@@ -1121,6 +1441,8 @@
   },
   {
     "filename": "blades.png",
+    "section_folder": "section_03_symbols",
+    "relative_path": "section_03_symbols/blades.png",
     "original_label": "blades",
     "section_idx": 2,
     "column_idx": 3,
@@ -1128,6 +1450,8 @@
   },
   {
     "filename": "blades_1.png",
+    "section_folder": "section_03_symbols",
+    "relative_path": "section_03_symbols/blades_1.png",
     "original_label": "blades",
     "section_idx": 2,
     "column_idx": 3,
@@ -1135,6 +1459,8 @@
   },
   {
     "filename": "Axial_flow_fan.png",
+    "section_folder": "section_03_symbols",
+    "relative_path": "section_03_symbols/Axial_flow_fan.png",
     "original_label": "Axial flow fan",
     "section_idx": 2,
     "column_idx": 3,
@@ -1142,6 +1468,8 @@
   },
   {
     "filename": "Ejector.png",
+    "section_folder": "section_03_symbols",
+    "relative_path": "section_03_symbols/Ejector.png",
     "original_label": "Ejector",
     "section_idx": 2,
     "column_idx": 3,
@@ -1149,6 +1477,8 @@
   },
   {
     "filename": "Spray.png",
+    "section_folder": "section_03_symbols",
+    "relative_path": "section_03_symbols/Spray.png",
     "original_label": "Spray",
     "section_idx": 2,
     "column_idx": 3,
@@ -1156,6 +1486,8 @@
   },
   {
     "filename": "fl_Diesel_motor.png",
+    "section_folder": "section_03_symbols",
+    "relative_path": "section_03_symbols/fl_Diesel_motor.png",
     "original_label": "fl Diesel motor",
     "section_idx": 2,
     "column_idx": 4,
@@ -1163,6 +1495,8 @@
   },
   {
     "filename": "ISO_diaphragm.png",
+    "section_folder": "section_03_symbols",
+    "relative_path": "section_03_symbols/ISO_diaphragm.png",
     "original_label": "ISO diaphragm",
     "section_idx": 2,
     "column_idx": 4,
@@ -1170,6 +1504,8 @@
   },
   {
     "filename": "pump_10.png",
+    "section_folder": "section_03_symbols",
+    "relative_path": "section_03_symbols/pump_10.png",
     "original_label": "pump",
     "section_idx": 2,
     "column_idx": 4,
@@ -1177,6 +1513,8 @@
   },
   {
     "filename": "ISO_gear_pump.png",
+    "section_folder": "section_03_symbols",
+    "relative_path": "section_03_symbols/ISO_gear_pump.png",
     "original_label": "ISO gear pump",
     "section_idx": 2,
     "column_idx": 4,
@@ -1184,6 +1522,8 @@
   },
   {
     "filename": "ISO_Progressive.png",
+    "section_folder": "section_03_symbols",
+    "relative_path": "section_03_symbols/ISO_Progressive.png",
     "original_label": "ISO Progressive",
     "section_idx": 2,
     "column_idx": 4,
@@ -1191,6 +1531,8 @@
   },
   {
     "filename": "pump_11.png",
+    "section_folder": "section_03_symbols",
+    "relative_path": "section_03_symbols/pump_11.png",
     "original_label": "pump",
     "section_idx": 2,
     "column_idx": 4,
@@ -1198,6 +1540,8 @@
   },
   {
     "filename": "ISO_positive.png",
+    "section_folder": "section_03_symbols",
+    "relative_path": "section_03_symbols/ISO_positive.png",
     "original_label": "ISO positive",
     "section_idx": 2,
     "column_idx": 4,
@@ -1205,6 +1549,8 @@
   },
   {
     "filename": "displacement_pump.png",
+    "section_folder": "section_03_symbols",
+    "relative_path": "section_03_symbols/displacement_pump.png",
     "original_label": "displacement pump",
     "section_idx": 2,
     "column_idx": 4,
@@ -1212,6 +1558,8 @@
   },
   {
     "filename": "ISO_reciprocating.png",
+    "section_folder": "section_03_symbols",
+    "relative_path": "section_03_symbols/ISO_reciprocating.png",
     "original_label": "ISO reciprocating",
     "section_idx": 2,
     "column_idx": 4,
@@ -1219,6 +1567,8 @@
   },
   {
     "filename": "piston_pump.png",
+    "section_folder": "section_03_symbols",
+    "relative_path": "section_03_symbols/piston_pump.png",
     "original_label": "piston pump",
     "section_idx": 2,
     "column_idx": 4,
@@ -1226,6 +1576,8 @@
   },
   {
     "filename": "ISO_screw_pump.png",
+    "section_folder": "section_03_symbols",
+    "relative_path": "section_03_symbols/ISO_screw_pump.png",
     "original_label": "ISO screw pump",
     "section_idx": 2,
     "column_idx": 4,
@@ -1233,6 +1585,8 @@
   },
   {
     "filename": "Selectable.png",
+    "section_folder": "section_03_symbols",
+    "relative_path": "section_03_symbols/Selectable.png",
     "original_label": "Selectable",
     "section_idx": 2,
     "column_idx": 4,
@@ -1240,6 +1594,8 @@
   },
   {
     "filename": "Compressor_9.png",
+    "section_folder": "section_03_symbols",
+    "relative_path": "section_03_symbols/Compressor_9.png",
     "original_label": "Compressor",
     "section_idx": 2,
     "column_idx": 4,
@@ -1247,6 +1603,8 @@
   },
   {
     "filename": "Positive_displacement_2.png",
+    "section_folder": "section_03_symbols",
+    "relative_path": "section_03_symbols/Positive_displacement_2.png",
     "original_label": "Positive displacement",
     "section_idx": 2,
     "column_idx": 4,
@@ -1254,6 +1612,8 @@
   },
   {
     "filename": "Motor.png",
+    "section_folder": "section_03_symbols",
+    "relative_path": "section_03_symbols/Motor.png",
     "original_label": "Motor",
     "section_idx": 2,
     "column_idx": 4,
@@ -1261,6 +1621,8 @@
   },
   {
     "filename": "Mixing_Vessel.png",
+    "section_folder": "section_04_symbols",
+    "relative_path": "section_04_symbols/Mixing_Vessel.png",
     "original_label": "Mixing Vessel",
     "section_idx": 3,
     "column_idx": 0,
@@ -1268,6 +1630,8 @@
   },
   {
     "filename": "Column.png",
+    "section_folder": "section_04_symbols",
+    "relative_path": "section_04_symbols/Column.png",
     "original_label": "Column",
     "section_idx": 3,
     "column_idx": 0,
@@ -1275,6 +1639,8 @@
   },
   {
     "filename": "Tray_Column.png",
+    "section_folder": "section_04_symbols",
+    "relative_path": "section_04_symbols/Tray_Column.png",
     "original_label": "Tray Column",
     "section_idx": 3,
     "column_idx": 0,
@@ -1282,6 +1648,8 @@
   },
   {
     "filename": "Staggered_Baffle.png",
+    "section_folder": "section_04_symbols",
+    "relative_path": "section_04_symbols/Staggered_Baffle.png",
     "original_label": "Staggered Baffle",
     "section_idx": 3,
     "column_idx": 0,
@@ -1289,6 +1657,8 @@
   },
   {
     "filename": "Column_Trays.png",
+    "section_folder": "section_04_symbols",
+    "relative_path": "section_04_symbols/Column_Trays.png",
     "original_label": "Column Trays",
     "section_idx": 3,
     "column_idx": 0,
@@ -1296,6 +1666,8 @@
   },
   {
     "filename": "Packing_Column.png",
+    "section_folder": "section_04_symbols",
+    "relative_path": "section_04_symbols/Packing_Column.png",
     "original_label": "Packing Column",
     "section_idx": 3,
     "column_idx": 0,
@@ -1303,6 +1675,8 @@
   },
   {
     "filename": "Knock-out_drum.png",
+    "section_folder": "section_04_symbols",
+    "relative_path": "section_04_symbols/Knock-out_drum.png",
     "original_label": "Knock-out drum",
     "section_idx": 3,
     "column_idx": 1,
@@ -1310,6 +1684,8 @@
   },
   {
     "filename": "Bag.png",
+    "section_folder": "section_04_symbols",
+    "relative_path": "section_04_symbols/Bag.png",
     "original_label": "Bag",
     "section_idx": 3,
     "column_idx": 1,
@@ -1317,6 +1693,8 @@
   },
   {
     "filename": "Bag_(ISO).png",
+    "section_folder": "section_04_symbols",
+    "relative_path": "section_04_symbols/Bag_(ISO).png",
     "original_label": "Bag (ISO)",
     "section_idx": 3,
     "column_idx": 1,
@@ -1324,6 +1702,8 @@
   },
   {
     "filename": "Barrel.png",
+    "section_folder": "section_04_symbols",
+    "relative_path": "section_04_symbols/Barrel.png",
     "original_label": "Barrel",
     "section_idx": 3,
     "column_idx": 1,
@@ -1331,6 +1711,8 @@
   },
   {
     "filename": "(ISO)_Barrel.png",
+    "section_folder": "section_04_symbols",
+    "relative_path": "section_04_symbols/(ISO)_Barrel.png",
     "original_label": "(ISO) Barrel",
     "section_idx": 3,
     "column_idx": 1,
@@ -1338,6 +1720,8 @@
   },
   {
     "filename": "Gas_bottle.png",
+    "section_folder": "section_04_symbols",
+    "relative_path": "section_04_symbols/Gas_bottle.png",
     "original_label": "Gas bottle",
     "section_idx": 3,
     "column_idx": 1,
@@ -1345,6 +1729,8 @@
   },
   {
     "filename": "Dome_Boiler.png",
+    "section_folder": "section_04_symbols",
+    "relative_path": "section_04_symbols/Dome_Boiler.png",
     "original_label": "Dome Boiler",
     "section_idx": 3,
     "column_idx": 2,
@@ -1352,6 +1738,8 @@
   },
   {
     "filename": "Hot_Liquid_Boiler.png",
+    "section_folder": "section_04_symbols",
+    "relative_path": "section_04_symbols/Hot_Liquid_Boiler.png",
     "original_label": "Hot Liquid Boiler",
     "section_idx": 3,
     "column_idx": 2,
@@ -1359,6 +1747,8 @@
   },
   {
     "filename": "Tank.png",
+    "section_folder": "section_04_symbols",
+    "relative_path": "section_04_symbols/Tank.png",
     "original_label": "Tank",
     "section_idx": 3,
     "column_idx": 2,
@@ -1366,6 +1756,8 @@
   },
   {
     "filename": "Tank_1.png",
+    "section_folder": "section_04_symbols",
+    "relative_path": "section_04_symbols/Tank_1.png",
     "original_label": "Tank",
     "section_idx": 3,
     "column_idx": 2,
@@ -1373,6 +1765,8 @@
   },
   {
     "filename": "Tank_2.png",
+    "section_folder": "section_04_symbols",
+    "relative_path": "section_04_symbols/Tank_2.png",
     "original_label": "Tank",
     "section_idx": 3,
     "column_idx": 2,
@@ -1380,6 +1774,8 @@
   },
   {
     "filename": "Covered_Tank.png",
+    "section_folder": "section_04_symbols",
+    "relative_path": "section_04_symbols/Covered_Tank.png",
     "original_label": "Covered Tank",
     "section_idx": 3,
     "column_idx": 3,
@@ -1387,6 +1783,8 @@
   },
   {
     "filename": "Floating_Roof_Tank.png",
+    "section_folder": "section_04_symbols",
+    "relative_path": "section_04_symbols/Floating_Roof_Tank.png",
     "original_label": "Floating Roof Tank",
     "section_idx": 3,
     "column_idx": 3,
@@ -1394,6 +1792,8 @@
   },
   {
     "filename": "Open.png",
+    "section_folder": "section_04_symbols",
+    "relative_path": "section_04_symbols/Open.png",
     "original_label": "Open",
     "section_idx": 3,
     "column_idx": 3,
@@ -1401,6 +1801,8 @@
   },
   {
     "filename": "Storage_Bulk.png",
+    "section_folder": "section_04_symbols",
+    "relative_path": "section_04_symbols/Storage_Bulk.png",
     "original_label": "Storage Bulk",
     "section_idx": 3,
     "column_idx": 3,
@@ -1408,6 +1810,8 @@
   },
   {
     "filename": "Dome_Roof_Tank.png",
+    "section_folder": "section_04_symbols",
+    "relative_path": "section_04_symbols/Dome_Roof_Tank.png",
     "original_label": "Dome Roof Tank",
     "section_idx": 3,
     "column_idx": 3,
@@ -1415,6 +1819,8 @@
   },
   {
     "filename": "Cone_Roof_Tank.png",
+    "section_folder": "section_04_symbols",
+    "relative_path": "section_04_symbols/Cone_Roof_Tank.png",
     "original_label": "Cone Roof Tank",
     "section_idx": 3,
     "column_idx": 3,
@@ -1422,6 +1828,8 @@
   },
   {
     "filename": "Floating_Internal.png",
+    "section_folder": "section_04_symbols",
+    "relative_path": "section_04_symbols/Floating_Internal.png",
     "original_label": "Floating Internal",
     "section_idx": 3,
     "column_idx": 3,
@@ -1429,6 +1837,8 @@
   },
   {
     "filename": "Roof_Tank.png",
+    "section_folder": "section_04_symbols",
+    "relative_path": "section_04_symbols/Roof_Tank.png",
     "original_label": "Roof Tank",
     "section_idx": 3,
     "column_idx": 3,
@@ -1436,6 +1846,8 @@
   },
   {
     "filename": "Double.png",
+    "section_folder": "section_04_symbols",
+    "relative_path": "section_04_symbols/Double.png",
     "original_label": "Double",
     "section_idx": 3,
     "column_idx": 3,
@@ -1443,6 +1855,8 @@
   },
   {
     "filename": "Thermal_Insulation.png",
+    "section_folder": "section_04_symbols",
+    "relative_path": "section_04_symbols/Thermal_Insulation.png",
     "original_label": "Thermal Insulation",
     "section_idx": 3,
     "column_idx": 4,
@@ -1450,6 +1864,8 @@
   },
   {
     "filename": "Vessel.png",
+    "section_folder": "section_04_symbols",
+    "relative_path": "section_04_symbols/Vessel.png",
     "original_label": "Vessel",
     "section_idx": 3,
     "column_idx": 4,
@@ -1457,6 +1873,8 @@
   },
   {
     "filename": "Jacket_Vessel.png",
+    "section_folder": "section_04_symbols",
+    "relative_path": "section_04_symbols/Jacket_Vessel.png",
     "original_label": "Jacket Vessel",
     "section_idx": 3,
     "column_idx": 4,
@@ -1464,6 +1882,8 @@
   },
   {
     "filename": "Brackets_Vessel.png",
+    "section_folder": "section_04_symbols",
+    "relative_path": "section_04_symbols/Brackets_Vessel.png",
     "original_label": "Brackets Vessel",
     "section_idx": 3,
     "column_idx": 4,
@@ -1471,6 +1891,8 @@
   },
   {
     "filename": "Dished_Ends_Vessel.png",
+    "section_folder": "section_04_symbols",
+    "relative_path": "section_04_symbols/Dished_Ends_Vessel.png",
     "original_label": "Dished Ends Vessel",
     "section_idx": 3,
     "column_idx": 4,
@@ -1478,6 +1900,8 @@
   },
   {
     "filename": "Pit_Vessel.png",
+    "section_folder": "section_04_symbols",
+    "relative_path": "section_04_symbols/Pit_Vessel.png",
     "original_label": "Pit Vessel",
     "section_idx": 3,
     "column_idx": 4,
@@ -1485,6 +1909,8 @@
   },
   {
     "filename": "Electrical_Heating.png",
+    "section_folder": "section_04_symbols",
+    "relative_path": "section_04_symbols/Electrical_Heating.png",
     "original_label": "Electrical Heating",
     "section_idx": 3,
     "column_idx": 4,
@@ -1492,6 +1918,8 @@
   },
   {
     "filename": "Vessel_1.png",
+    "section_folder": "section_04_symbols",
+    "relative_path": "section_04_symbols/Vessel_1.png",
     "original_label": "Vessel",
     "section_idx": 3,
     "column_idx": 4,
@@ -1499,6 +1927,8 @@
   },
   {
     "filename": "Wastewater_Treatment.png",
+    "section_folder": "section_04_symbols",
+    "relative_path": "section_04_symbols/Wastewater_Treatment.png",
     "original_label": "Wastewater Treatment",
     "section_idx": 3,
     "column_idx": 4,
@@ -1506,6 +1936,8 @@
   },
   {
     "filename": "Mode_Filter_indication.png",
+    "section_folder": "section_05_symbols",
+    "relative_path": "section_05_symbols/Mode_Filter_indication.png",
     "original_label": "Mode Filter indication",
     "section_idx": 4,
     "column_idx": 0,
@@ -1513,6 +1945,8 @@
   },
   {
     "filename": "Filter.png",
+    "section_folder": "section_05_symbols",
+    "relative_path": "section_05_symbols/Filter.png",
     "original_label": "Filter",
     "section_idx": 4,
     "column_idx": 0,
@@ -1520,6 +1954,8 @@
   },
   {
     "filename": "Highpass_Filter.png",
+    "section_folder": "section_05_symbols",
+    "relative_path": "section_05_symbols/Highpass_Filter.png",
     "original_label": "Highpass Filter",
     "section_idx": 4,
     "column_idx": 0,
@@ -1527,6 +1963,8 @@
   },
   {
     "filename": "Filter_Lowpass.png",
+    "section_folder": "section_05_symbols",
+    "relative_path": "section_05_symbols/Filter_Lowpass.png",
     "original_label": "Filter Lowpass",
     "section_idx": 4,
     "column_idx": 0,
@@ -1534,6 +1972,8 @@
   },
   {
     "filename": "Bandpass_Filter.png",
+    "section_folder": "section_05_symbols",
+    "relative_path": "section_05_symbols/Bandpass_Filter.png",
     "original_label": "Bandpass Filter",
     "section_idx": 4,
     "column_idx": 0,
@@ -1541,6 +1981,8 @@
   },
   {
     "filename": "Filter_1.png",
+    "section_folder": "section_05_symbols",
+    "relative_path": "section_05_symbols/Filter_1.png",
     "original_label": "Filter",
     "section_idx": 4,
     "column_idx": 1,
@@ -1548,6 +1990,8 @@
   },
   {
     "filename": "Filter_2.png",
+    "section_folder": "section_05_symbols",
+    "relative_path": "section_05_symbols/Filter_2.png",
     "original_label": "Filter",
     "section_idx": 4,
     "column_idx": 1,
@@ -1555,6 +1999,8 @@
   },
   {
     "filename": "Gas_Filter.png",
+    "section_folder": "section_05_symbols",
+    "relative_path": "section_05_symbols/Gas_Filter.png",
     "original_label": "Gas Filter",
     "section_idx": 4,
     "column_idx": 1,
@@ -1562,6 +2008,8 @@
   },
   {
     "filename": "Cartridge.png",
+    "section_folder": "section_05_symbols",
+    "relative_path": "section_05_symbols/Cartridge.png",
     "original_label": "Cartridge",
     "section_idx": 4,
     "column_idx": 1,
@@ -1569,6 +2017,8 @@
   },
   {
     "filename": "Roll_air_Filter.png",
+    "section_folder": "section_05_symbols",
+    "relative_path": "section_05_symbols/Roll_air_Filter.png",
     "original_label": "Roll air Filter",
     "section_idx": 4,
     "column_idx": 1,
@@ -1576,6 +2026,8 @@
   },
   {
     "filename": "Fixed_bed_air_Filter.png",
+    "section_folder": "section_05_symbols",
+    "relative_path": "section_05_symbols/Fixed_bed_air_Filter.png",
     "original_label": "Fixed bed air Filter",
     "section_idx": 4,
     "column_idx": 2,
@@ -1583,6 +2035,8 @@
   },
   {
     "filename": "HEPA.png",
+    "section_folder": "section_05_symbols",
+    "relative_path": "section_05_symbols/HEPA.png",
     "original_label": "HEPA",
     "section_idx": 4,
     "column_idx": 2,
@@ -1590,6 +2044,8 @@
   },
   {
     "filename": "Fitter_gas.png",
+    "section_folder": "section_05_symbols",
+    "relative_path": "section_05_symbols/Fitter_gas.png",
     "original_label": "Fitter gas",
     "section_idx": 4,
     "column_idx": 2,
@@ -1597,6 +2053,8 @@
   },
   {
     "filename": "Liquid_Filter.png",
+    "section_folder": "section_05_symbols",
+    "relative_path": "section_05_symbols/Liquid_Filter.png",
     "original_label": "Liquid Filter",
     "section_idx": 4,
     "column_idx": 2,
@@ -1604,6 +2062,8 @@
   },
   {
     "filename": "Fixed_bed_liquid.png",
+    "section_folder": "section_05_symbols",
+    "relative_path": "section_05_symbols/Fixed_bed_liquid.png",
     "original_label": "Fixed bed liquid",
     "section_idx": 4,
     "column_idx": 2,
@@ -1611,6 +2071,8 @@
   },
   {
     "filename": "Filter_3.png",
+    "section_folder": "section_05_symbols",
+    "relative_path": "section_05_symbols/Filter_3.png",
     "original_label": "Filter",
     "section_idx": 4,
     "column_idx": 2,
@@ -1618,6 +2080,8 @@
   },
   {
     "filename": "Rotary_liquid.png",
+    "section_folder": "section_05_symbols",
+    "relative_path": "section_05_symbols/Rotary_liquid.png",
     "original_label": "Rotary liquid",
     "section_idx": 4,
     "column_idx": 2,
@@ -1625,6 +2089,8 @@
   },
   {
     "filename": "Filter_4.png",
+    "section_folder": "section_05_symbols",
+    "relative_path": "section_05_symbols/Filter_4.png",
     "original_label": "Filter",
     "section_idx": 4,
     "column_idx": 2,
@@ -1632,6 +2098,8 @@
   },
   {
     "filename": "lonexchanger_Filter.png",
+    "section_folder": "section_05_symbols",
+    "relative_path": "section_05_symbols/lonexchanger_Filter.png",
     "original_label": "lonexchanger Filter",
     "section_idx": 4,
     "column_idx": 3,
@@ -1639,6 +2107,8 @@
   },
   {
     "filename": "Press_Filter.png",
+    "section_folder": "section_05_symbols",
+    "relative_path": "section_05_symbols/Press_Filter.png",
     "original_label": "Press Filter",
     "section_idx": 4,
     "column_idx": 3,
@@ -1646,6 +2116,8 @@
   },
   {
     "filename": "Air_Filter.png",
+    "section_folder": "section_05_symbols",
+    "relative_path": "section_05_symbols/Air_Filter.png",
     "original_label": "Air Filter",
     "section_idx": 4,
     "column_idx": 3,
@@ -1653,6 +2125,8 @@
   },
   {
     "filename": "The_Filter.png",
+    "section_folder": "section_05_symbols",
+    "relative_path": "section_05_symbols/The_Filter.png",
     "original_label": "The Filter",
     "section_idx": 4,
     "column_idx": 3,
@@ -1660,6 +2134,8 @@
   },
   {
     "filename": "efficiency_High.png",
+    "section_folder": "section_05_symbols",
+    "relative_path": "section_05_symbols/efficiency_High.png",
     "original_label": "efficiency High",
     "section_idx": 4,
     "column_idx": 4,
@@ -1667,6 +2143,8 @@
   },
   {
     "filename": "Primary_Filter.png",
+    "section_folder": "section_05_symbols",
+    "relative_path": "section_05_symbols/Primary_Filter.png",
     "original_label": "Primary Filter",
     "section_idx": 4,
     "column_idx": 4,
@@ -1674,6 +2152,8 @@
   },
   {
     "filename": "Mid-effect_Filter.png",
+    "section_folder": "section_05_symbols",
+    "relative_path": "section_05_symbols/Mid-effect_Filter.png",
     "original_label": "Mid-effect Filter",
     "section_idx": 4,
     "column_idx": 4,
@@ -1681,6 +2161,8 @@
   },
   {
     "filename": "Filter_5.png",
+    "section_folder": "section_05_symbols",
+    "relative_path": "section_05_symbols/Filter_5.png",
     "original_label": "Filter",
     "section_idx": 4,
     "column_idx": 4,
@@ -1688,6 +2170,8 @@
   },
   {
     "filename": "Suction_Filter.png",
+    "section_folder": "section_05_symbols",
+    "relative_path": "section_05_symbols/Suction_Filter.png",
     "original_label": "Suction Filter",
     "section_idx": 4,
     "column_idx": 4,
@@ -1695,6 +2179,8 @@
   },
   {
     "filename": "Compressor,.png",
+    "section_folder": "section_06_symbols",
+    "relative_path": "section_06_symbols/Compressor,.png",
     "original_label": "Compressor,",
     "section_idx": 5,
     "column_idx": 0,
@@ -1702,20 +2188,26 @@
   },
   {
     "filename": "Vacuum_pump.png",
+    "section_folder": "section_06_symbols",
+    "relative_path": "section_06_symbols/Vacuum_pump.png",
     "original_label": "Vacuum pump",
     "section_idx": 5,
     "column_idx": 0,
     "column_file": "section_06_01.pdf"
   },
   {
-    "filename": "Centrifugal_9.png",
+    "filename": "Centrifugal.png",
+    "section_folder": "section_06_symbols",
+    "relative_path": "section_06_symbols/Centrifugal.png",
     "original_label": "Centrifugal",
     "section_idx": 5,
     "column_idx": 0,
     "column_file": "section_06_01.pdf"
   },
   {
-    "filename": "Compressor_10.png",
+    "filename": "Compressor.png",
+    "section_folder": "section_06_symbols",
+    "relative_path": "section_06_symbols/Compressor.png",
     "original_label": "Compressor",
     "section_idx": 5,
     "column_idx": 0,
@@ -1723,13 +2215,17 @@
   },
   {
     "filename": "Diaphragm.png",
+    "section_folder": "section_06_symbols",
+    "relative_path": "section_06_symbols/Diaphragm.png",
     "original_label": "Diaphragm",
     "section_idx": 5,
     "column_idx": 0,
     "column_file": "section_06_01.pdf"
   },
   {
-    "filename": "Compressor_11.png",
+    "filename": "Compressor_1.png",
+    "section_folder": "section_06_symbols",
+    "relative_path": "section_06_symbols/Compressor_1.png",
     "original_label": "Compressor",
     "section_idx": 5,
     "column_idx": 0,
@@ -1737,6 +2233,8 @@
   },
   {
     "filename": "Compressor_Ejector.png",
+    "section_folder": "section_06_symbols",
+    "relative_path": "section_06_symbols/Compressor_Ejector.png",
     "original_label": "Compressor Ejector",
     "section_idx": 5,
     "column_idx": 1,
@@ -1744,6 +2242,8 @@
   },
   {
     "filename": "Compressor_Piston.png",
+    "section_folder": "section_06_symbols",
+    "relative_path": "section_06_symbols/Compressor_Piston.png",
     "original_label": "Compressor Piston",
     "section_idx": 5,
     "column_idx": 1,
@@ -1751,27 +2251,35 @@
   },
   {
     "filename": "Roller_vane.png",
+    "section_folder": "section_06_symbols",
+    "relative_path": "section_06_symbols/Roller_vane.png",
     "original_label": "Roller vane",
     "section_idx": 5,
     "column_idx": 1,
     "column_file": "section_06_02.pdf"
   },
   {
-    "filename": "Compressor_12.png",
+    "filename": "Compressor_2.png",
+    "section_folder": "section_06_symbols",
+    "relative_path": "section_06_symbols/Compressor_2.png",
     "original_label": "Compressor",
     "section_idx": 5,
     "column_idx": 1,
     "column_file": "section_06_02.pdf"
   },
   {
-    "filename": "Reciprocating_2.png",
+    "filename": "Reciprocating.png",
+    "section_folder": "section_06_symbols",
+    "relative_path": "section_06_symbols/Reciprocating.png",
     "original_label": "Reciprocating",
     "section_idx": 5,
     "column_idx": 1,
     "column_file": "section_06_02.pdf"
   },
   {
-    "filename": "Compressor_13.png",
+    "filename": "Compressor_3.png",
+    "section_folder": "section_06_symbols",
+    "relative_path": "section_06_symbols/Compressor_3.png",
     "original_label": "Compressor",
     "section_idx": 5,
     "column_idx": 1,
@@ -1779,6 +2287,8 @@
   },
   {
     "filename": "Rotary_Compressor.png",
+    "section_folder": "section_06_symbols",
+    "relative_path": "section_06_symbols/Rotary_Compressor.png",
     "original_label": "Rotary Compressor",
     "section_idx": 5,
     "column_idx": 2,
@@ -1786,6 +2296,8 @@
   },
   {
     "filename": "Rotary_Compressor_1.png",
+    "section_folder": "section_06_symbols",
+    "relative_path": "section_06_symbols/Rotary_Compressor_1.png",
     "original_label": "Rotary Compressor",
     "section_idx": 5,
     "column_idx": 2,
@@ -1793,97 +2305,125 @@
   },
   {
     "filename": "Rotory.png",
+    "section_folder": "section_06_symbols",
+    "relative_path": "section_06_symbols/Rotory.png",
     "original_label": "Rotory",
     "section_idx": 5,
     "column_idx": 2,
     "column_file": "section_06_03.pdf"
   },
   {
-    "filename": "Compressor_14.png",
+    "filename": "Compressor_4.png",
+    "section_folder": "section_06_symbols",
+    "relative_path": "section_06_symbols/Compressor_4.png",
     "original_label": "Compressor",
     "section_idx": 5,
     "column_idx": 2,
     "column_file": "section_06_03.pdf"
   },
   {
-    "filename": "Rotory_Compressor_1.png",
+    "filename": "Rotory_Compressor.png",
+    "section_folder": "section_06_symbols",
+    "relative_path": "section_06_symbols/Rotory_Compressor.png",
     "original_label": "Rotory Compressor",
     "section_idx": 5,
     "column_idx": 2,
     "column_file": "section_06_03.pdf"
   },
   {
-    "filename": "and_silencers_1.png",
+    "filename": "and_silencers.png",
+    "section_folder": "section_06_symbols",
+    "relative_path": "section_06_symbols/and_silencers.png",
     "original_label": "and silencers",
     "section_idx": 5,
     "column_idx": 2,
     "column_file": "section_06_03.pdf"
   },
   {
-    "filename": "Liquid_ring_2.png",
+    "filename": "Liquid_ring.png",
+    "section_folder": "section_06_symbols",
+    "relative_path": "section_06_symbols/Liquid_ring.png",
     "original_label": "Liquid ring",
     "section_idx": 5,
     "column_idx": 3,
     "column_file": "section_06_04.pdf"
   },
   {
-    "filename": "Compressor_15.png",
+    "filename": "Compressor_5.png",
+    "section_folder": "section_06_symbols",
+    "relative_path": "section_06_symbols/Compressor_5.png",
     "original_label": "Compressor",
     "section_idx": 5,
     "column_idx": 3,
     "column_file": "section_06_04.pdf"
   },
   {
-    "filename": "Centrifugal_10.png",
+    "filename": "Centrifugal_1.png",
+    "section_folder": "section_06_symbols",
+    "relative_path": "section_06_symbols/Centrifugal_1.png",
     "original_label": "Centrifugal",
     "section_idx": 5,
     "column_idx": 3,
     "column_file": "section_06_04.pdf"
   },
   {
-    "filename": "Compressor_16.png",
+    "filename": "Compressor_6.png",
+    "section_folder": "section_06_symbols",
+    "relative_path": "section_06_symbols/Compressor_6.png",
     "original_label": "Compressor",
     "section_idx": 5,
     "column_idx": 3,
     "column_file": "section_06_04.pdf"
   },
   {
-    "filename": "Centrifugal_11.png",
+    "filename": "Centrifugal_2.png",
+    "section_folder": "section_06_symbols",
+    "relative_path": "section_06_symbols/Centrifugal_2.png",
     "original_label": "Centrifugal",
     "section_idx": 5,
     "column_idx": 3,
     "column_file": "section_06_04.pdf"
   },
   {
-    "filename": "Compressor_17.png",
+    "filename": "Compressor_7.png",
+    "section_folder": "section_06_symbols",
+    "relative_path": "section_06_symbols/Compressor_7.png",
     "original_label": "Compressor",
     "section_idx": 5,
     "column_idx": 3,
     "column_file": "section_06_04.pdf"
   },
   {
-    "filename": "Centrifugal_12.png",
+    "filename": "Centrifugal_3.png",
+    "section_folder": "section_06_symbols",
+    "relative_path": "section_06_symbols/Centrifugal_3.png",
     "original_label": "Centrifugal",
     "section_idx": 5,
     "column_idx": 3,
     "column_file": "section_06_04.pdf"
   },
   {
-    "filename": "Compressor_18.png",
+    "filename": "Compressor_8.png",
+    "section_folder": "section_06_symbols",
+    "relative_path": "section_06_symbols/Compressor_8.png",
     "original_label": "Compressor",
     "section_idx": 5,
     "column_idx": 3,
     "column_file": "section_06_04.pdf"
   },
   {
-    "filename": "Selectable_1.png",
+    "filename": "Selectable.png",
+    "section_folder": "section_06_symbols",
+    "relative_path": "section_06_symbols/Selectable.png",
     "original_label": "Selectable",
     "section_idx": 5,
     "column_idx": 3,
     "column_file": "section_06_04.pdf"
   },
   {
-    "filename": "Compressor_19.png",
+    "filename": "Compressor_9.png",
+    "section_folder": "section_06_symbols",
+    "relative_path": "section_06_symbols/Compressor_9.png",
     "original_label": "Compressor",
     "section_idx": 5,
     "column_idx": 3,
@@ -1891,6 +2431,8 @@
   },
   {
     "filename": "Air_Compressor.png",
+    "section_folder": "section_06_symbols",
+    "relative_path": "section_06_symbols/Air_Compressor.png",
     "original_label": "Air Compressor",
     "section_idx": 5,
     "column_idx": 4,
@@ -1898,6 +2440,8 @@
   },
   {
     "filename": "Turbo_Compressor.png",
+    "section_folder": "section_06_symbols",
+    "relative_path": "section_06_symbols/Turbo_Compressor.png",
     "original_label": "Turbo Compressor",
     "section_idx": 5,
     "column_idx": 4,
@@ -1905,6 +2449,8 @@
   },
   {
     "filename": "Tema_TyPe_BEM.png",
+    "section_folder": "section_07_symbols",
+    "relative_path": "section_07_symbols/Tema_TyPe_BEM.png",
     "original_label": "Tema TyPe BEM",
     "section_idx": 6,
     "column_idx": 0,
@@ -1912,6 +2458,8 @@
   },
   {
     "filename": "tema_tyre_Beu.png",
+    "section_folder": "section_07_symbols",
+    "relative_path": "section_07_symbols/tema_tyre_Beu.png",
     "original_label": "tema tyre Beu",
     "section_idx": 6,
     "column_idx": 0,
@@ -1919,6 +2467,8 @@
   },
   {
     "filename": "tema_tyre_AEM.png",
+    "section_folder": "section_07_symbols",
+    "relative_path": "section_07_symbols/tema_tyre_AEM.png",
     "original_label": "tema tyre AEM",
     "section_idx": 6,
     "column_idx": 0,
@@ -1926,6 +2476,8 @@
   },
   {
     "filename": "Tema.png",
+    "section_folder": "section_07_symbols",
+    "relative_path": "section_07_symbols/Tema.png",
     "original_label": "Tema",
     "section_idx": 6,
     "column_idx": 0,
@@ -1933,6 +2485,8 @@
   },
   {
     "filename": "AEL.png",
+    "section_folder": "section_07_symbols",
+    "relative_path": "section_07_symbols/AEL.png",
     "original_label": "AEL",
     "section_idx": 6,
     "column_idx": 0,
@@ -1940,6 +2494,8 @@
   },
   {
     "filename": "NEN.png",
+    "section_folder": "section_07_symbols",
+    "relative_path": "section_07_symbols/NEN.png",
     "original_label": "NEN",
     "section_idx": 6,
     "column_idx": 0,
@@ -1947,6 +2503,8 @@
   },
   {
     "filename": "TEMA_TYPE_BkU.png",
+    "section_folder": "section_07_symbols",
+    "relative_path": "section_07_symbols/TEMA_TYPE_BkU.png",
     "original_label": "TEMA TYPE BkU",
     "section_idx": 6,
     "column_idx": 0,
@@ -1954,6 +2512,8 @@
   },
   {
     "filename": "Plate_Exchanger.png",
+    "section_folder": "section_07_symbols",
+    "relative_path": "section_07_symbols/Plate_Exchanger.png",
     "original_label": "Plate Exchanger",
     "section_idx": 6,
     "column_idx": 0,
@@ -1961,6 +2521,8 @@
   },
   {
     "filename": "Plate_and_Frame.png",
+    "section_folder": "section_07_symbols",
+    "relative_path": "section_07_symbols/Plate_and_Frame.png",
     "original_label": "Plate and Frame",
     "section_idx": 6,
     "column_idx": 0,
@@ -1968,6 +2530,8 @@
   },
   {
     "filename": "Heat_Exchanger.png",
+    "section_folder": "section_07_symbols",
+    "relative_path": "section_07_symbols/Heat_Exchanger.png",
     "original_label": "Heat Exchanger",
     "section_idx": 6,
     "column_idx": 0,
@@ -1975,6 +2539,8 @@
   },
   {
     "filename": "over.png",
+    "section_folder": "section_07_symbols",
+    "relative_path": "section_07_symbols/over.png",
     "original_label": "over",
     "section_idx": 6,
     "column_idx": 0,
@@ -1982,6 +2548,8 @@
   },
   {
     "filename": "Spray_Cooler.png",
+    "section_folder": "section_07_symbols",
+    "relative_path": "section_07_symbols/Spray_Cooler.png",
     "original_label": "Spray Cooler",
     "section_idx": 6,
     "column_idx": 1,
@@ -1989,6 +2557,8 @@
   },
   {
     "filename": "Forced-draft.png",
+    "section_folder": "section_07_symbols",
+    "relative_path": "section_07_symbols/Forced-draft.png",
     "original_label": "Forced-draft",
     "section_idx": 6,
     "column_idx": 1,
@@ -1996,6 +2566,8 @@
   },
   {
     "filename": "Cooling_Tower.png",
+    "section_folder": "section_07_symbols",
+    "relative_path": "section_07_symbols/Cooling_Tower.png",
     "original_label": "Cooling Tower",
     "section_idx": 6,
     "column_idx": 1,
@@ -2003,6 +2575,8 @@
   },
   {
     "filename": "Cooling_Tower_1.png",
+    "section_folder": "section_07_symbols",
+    "relative_path": "section_07_symbols/Cooling_Tower_1.png",
     "original_label": "Cooling Tower",
     "section_idx": 6,
     "column_idx": 1,
@@ -2010,6 +2584,8 @@
   },
   {
     "filename": "Heater.png",
+    "section_folder": "section_07_symbols",
+    "relative_path": "section_07_symbols/Heater.png",
     "original_label": "Heater",
     "section_idx": 6,
     "column_idx": 1,
@@ -2017,6 +2593,8 @@
   },
   {
     "filename": "Condenser.png",
+    "section_folder": "section_07_symbols",
+    "relative_path": "section_07_symbols/Condenser.png",
     "original_label": "Condenser",
     "section_idx": 6,
     "column_idx": 1,
@@ -2024,6 +2602,8 @@
   },
   {
     "filename": "Shell_and_Tube.png",
+    "section_folder": "section_07_symbols",
+    "relative_path": "section_07_symbols/Shell_and_Tube.png",
     "original_label": "Shell and Tube",
     "section_idx": 6,
     "column_idx": 1,
@@ -2031,6 +2611,8 @@
   },
   {
     "filename": "Heat.png",
+    "section_folder": "section_07_symbols",
+    "relative_path": "section_07_symbols/Heat.png",
     "original_label": "Heat",
     "section_idx": 6,
     "column_idx": 1,
@@ -2038,6 +2620,8 @@
   },
   {
     "filename": "Shell_and_Tube_1.png",
+    "section_folder": "section_07_symbols",
+    "relative_path": "section_07_symbols/Shell_and_Tube_1.png",
     "original_label": "Shell and Tube",
     "section_idx": 6,
     "column_idx": 1,
@@ -2045,6 +2629,8 @@
   },
   {
     "filename": "Heat_1.png",
+    "section_folder": "section_07_symbols",
+    "relative_path": "section_07_symbols/Heat_1.png",
     "original_label": "Heat",
     "section_idx": 6,
     "column_idx": 1,
@@ -2052,6 +2638,8 @@
   },
   {
     "filename": "Shell_and_Tube_2.png",
+    "section_folder": "section_07_symbols",
+    "relative_path": "section_07_symbols/Shell_and_Tube_2.png",
     "original_label": "Shell and Tube",
     "section_idx": 6,
     "column_idx": 2,
@@ -2059,6 +2647,8 @@
   },
   {
     "filename": "Heat_2.png",
+    "section_folder": "section_07_symbols",
+    "relative_path": "section_07_symbols/Heat_2.png",
     "original_label": "Heat",
     "section_idx": 6,
     "column_idx": 2,
@@ -2066,6 +2656,8 @@
   },
   {
     "filename": "Cooler.png",
+    "section_folder": "section_07_symbols",
+    "relative_path": "section_07_symbols/Cooler.png",
     "original_label": "Cooler",
     "section_idx": 6,
     "column_idx": 2,
@@ -2073,6 +2665,8 @@
   },
   {
     "filename": "Induced_Flow_Air.png",
+    "section_folder": "section_07_symbols",
+    "relative_path": "section_07_symbols/Induced_Flow_Air.png",
     "original_label": "Induced Flow Air",
     "section_idx": 6,
     "column_idx": 2,
@@ -2080,6 +2674,8 @@
   },
   {
     "filename": "Fin-fan_Cooler.png",
+    "section_folder": "section_07_symbols",
+    "relative_path": "section_07_symbols/Fin-fan_Cooler.png",
     "original_label": "Fin-fan Cooler",
     "section_idx": 6,
     "column_idx": 2,
@@ -2087,6 +2683,8 @@
   },
   {
     "filename": "Electric_Heater.png",
+    "section_folder": "section_07_symbols",
+    "relative_path": "section_07_symbols/Electric_Heater.png",
     "original_label": "Electric Heater",
     "section_idx": 6,
     "column_idx": 2,
@@ -2094,6 +2692,8 @@
   },
   {
     "filename": "Heat_Exchanger_1.png",
+    "section_folder": "section_07_symbols",
+    "relative_path": "section_07_symbols/Heat_Exchanger_1.png",
     "original_label": "Heat Exchanger",
     "section_idx": 6,
     "column_idx": 2,
@@ -2101,6 +2701,8 @@
   },
   {
     "filename": "Exchanger.png",
+    "section_folder": "section_07_symbols",
+    "relative_path": "section_07_symbols/Exchanger.png",
     "original_label": "Exchanger",
     "section_idx": 6,
     "column_idx": 2,
@@ -2108,6 +2710,8 @@
   },
   {
     "filename": "Finned_Tubes.png",
+    "section_folder": "section_07_symbols",
+    "relative_path": "section_07_symbols/Finned_Tubes.png",
     "original_label": "Finned Tubes",
     "section_idx": 6,
     "column_idx": 2,
@@ -2115,6 +2719,8 @@
   },
   {
     "filename": "Floating_Head.png",
+    "section_folder": "section_07_symbols",
+    "relative_path": "section_07_symbols/Floating_Head.png",
     "original_label": "Floating Head",
     "section_idx": 6,
     "column_idx": 2,
@@ -2122,6 +2728,8 @@
   },
   {
     "filename": "Plate_Heat.png",
+    "section_folder": "section_07_symbols",
+    "relative_path": "section_07_symbols/Plate_Heat.png",
     "original_label": "Plate Heat",
     "section_idx": 6,
     "column_idx": 2,
@@ -2129,6 +2737,8 @@
   },
   {
     "filename": "Kettle_Heat.png",
+    "section_folder": "section_07_symbols",
+    "relative_path": "section_07_symbols/Kettle_Heat.png",
     "original_label": "Kettle Heat",
     "section_idx": 6,
     "column_idx": 2,
@@ -2136,6 +2746,8 @@
   },
   {
     "filename": "Reboiler_Heat.png",
+    "section_folder": "section_07_symbols",
+    "relative_path": "section_07_symbols/Reboiler_Heat.png",
     "original_label": "Reboiler Heat",
     "section_idx": 6,
     "column_idx": 2,
@@ -2143,6 +2755,8 @@
   },
   {
     "filename": "Single_Pass_Heat.png",
+    "section_folder": "section_07_symbols",
+    "relative_path": "section_07_symbols/Single_Pass_Heat.png",
     "original_label": "Single Pass Heat",
     "section_idx": 6,
     "column_idx": 3,
@@ -2150,6 +2764,8 @@
   },
   {
     "filename": "Exchanger_1.png",
+    "section_folder": "section_07_symbols",
+    "relative_path": "section_07_symbols/Exchanger_1.png",
     "original_label": "Exchanger",
     "section_idx": 6,
     "column_idx": 3,
@@ -2157,6 +2773,8 @@
   },
   {
     "filename": "Single_Pass_Heat_1.png",
+    "section_folder": "section_07_symbols",
+    "relative_path": "section_07_symbols/Single_Pass_Heat_1.png",
     "original_label": "Single Pass Heat",
     "section_idx": 6,
     "column_idx": 3,
@@ -2164,6 +2782,8 @@
   },
   {
     "filename": "Exchanger_2.png",
+    "section_folder": "section_07_symbols",
+    "relative_path": "section_07_symbols/Exchanger_2.png",
     "original_label": "Exchanger",
     "section_idx": 6,
     "column_idx": 3,
@@ -2171,6 +2791,8 @@
   },
   {
     "filename": "Exchanger_3.png",
+    "section_folder": "section_07_symbols",
+    "relative_path": "section_07_symbols/Exchanger_3.png",
     "original_label": "Exchanger",
     "section_idx": 6,
     "column_idx": 3,
@@ -2178,6 +2800,8 @@
   },
   {
     "filename": "Exchanger_4.png",
+    "section_folder": "section_07_symbols",
+    "relative_path": "section_07_symbols/Exchanger_4.png",
     "original_label": "Exchanger",
     "section_idx": 6,
     "column_idx": 3,
@@ -2185,6 +2809,8 @@
   },
   {
     "filename": "Cooled_Air.png",
+    "section_folder": "section_07_symbols",
+    "relative_path": "section_07_symbols/Cooled_Air.png",
     "original_label": "Cooled Air",
     "section_idx": 6,
     "column_idx": 3,
@@ -2192,6 +2818,8 @@
   },
   {
     "filename": "Exchanger_5.png",
+    "section_folder": "section_07_symbols",
+    "relative_path": "section_07_symbols/Exchanger_5.png",
     "original_label": "Exchanger",
     "section_idx": 6,
     "column_idx": 3,
@@ -2199,6 +2827,8 @@
   },
   {
     "filename": "Briquetting.png",
+    "section_folder": "section_07_symbols",
+    "relative_path": "section_07_symbols/Briquetting.png",
     "original_label": "Briquetting",
     "section_idx": 6,
     "column_idx": 3,
@@ -2206,6 +2836,8 @@
   },
   {
     "filename": "Machine.png",
+    "section_folder": "section_07_symbols",
+    "relative_path": "section_07_symbols/Machine.png",
     "original_label": "Machine",
     "section_idx": 6,
     "column_idx": 3,
@@ -2213,6 +2845,8 @@
   },
   {
     "filename": "U-Tube_Heat.png",
+    "section_folder": "section_07_symbols",
+    "relative_path": "section_07_symbols/U-Tube_Heat.png",
     "original_label": "U-Tube Heat",
     "section_idx": 6,
     "column_idx": 3,
@@ -2220,6 +2854,8 @@
   },
   {
     "filename": "Exchanger_6.png",
+    "section_folder": "section_07_symbols",
+    "relative_path": "section_07_symbols/Exchanger_6.png",
     "original_label": "Exchanger",
     "section_idx": 6,
     "column_idx": 3,
@@ -2227,6 +2863,8 @@
   },
   {
     "filename": "Boiler.png",
+    "section_folder": "section_07_symbols",
+    "relative_path": "section_07_symbols/Boiler.png",
     "original_label": "Boiler",
     "section_idx": 6,
     "column_idx": 3,
@@ -2234,6 +2872,8 @@
   },
   {
     "filename": "Vertical_Turbine.png",
+    "section_folder": "section_07_symbols",
+    "relative_path": "section_07_symbols/Vertical_Turbine.png",
     "original_label": "Vertical Turbine",
     "section_idx": 6,
     "column_idx": 4,
@@ -2241,6 +2881,8 @@
   },
   {
     "filename": "Extractor_Hood.png",
+    "section_folder": "section_07_symbols",
+    "relative_path": "section_07_symbols/Extractor_Hood.png",
     "original_label": "Extractor Hood",
     "section_idx": 6,
     "column_idx": 4,
@@ -2248,6 +2890,8 @@
   },
   {
     "filename": "Hose_reel.png",
+    "section_folder": "section_07_symbols",
+    "relative_path": "section_07_symbols/Hose_reel.png",
     "original_label": "Hose reel",
     "section_idx": 6,
     "column_idx": 4,
@@ -2255,6 +2899,8 @@
   },
   {
     "filename": "Station_Light_Water.png",
+    "section_folder": "section_07_symbols",
+    "relative_path": "section_07_symbols/Station_Light_Water.png",
     "original_label": "Station Light Water",
     "section_idx": 6,
     "column_idx": 4,
@@ -2262,6 +2908,8 @@
   },
   {
     "filename": "Combustion.png",
+    "section_folder": "section_07_symbols",
+    "relative_path": "section_07_symbols/Combustion.png",
     "original_label": "Combustion",
     "section_idx": 6,
     "column_idx": 4,
@@ -2269,6 +2917,8 @@
   },
   {
     "filename": "Chamber.png",
+    "section_folder": "section_07_symbols",
+    "relative_path": "section_07_symbols/Chamber.png",
     "original_label": "Chamber",
     "section_idx": 6,
     "column_idx": 4,
@@ -2276,6 +2926,8 @@
   },
   {
     "filename": "Thin-Film.png",
+    "section_folder": "section_07_symbols",
+    "relative_path": "section_07_symbols/Thin-Film.png",
     "original_label": "Thin-Film",
     "section_idx": 6,
     "column_idx": 4,
@@ -2283,6 +2935,8 @@
   },
   {
     "filename": "Evaporator.png",
+    "section_folder": "section_07_symbols",
+    "relative_path": "section_07_symbols/Evaporator.png",
     "original_label": "Evaporator",
     "section_idx": 6,
     "column_idx": 4,
@@ -2290,6 +2944,8 @@
   },
   {
     "filename": "Vent.png",
+    "section_folder": "section_07_symbols",
+    "relative_path": "section_07_symbols/Vent.png",
     "original_label": "Vent",
     "section_idx": 6,
     "column_idx": 4,
@@ -2297,6 +2953,8 @@
   },
   {
     "filename": "mer.png",
+    "section_folder": "section_08_symbols",
+    "relative_path": "section_08_symbols/mer.png",
     "original_label": "mer",
     "section_idx": 7,
     "column_idx": 0,
@@ -2304,6 +2962,8 @@
   },
   {
     "filename": "Fluidized_Bed.png",
+    "section_folder": "section_08_symbols",
+    "relative_path": "section_08_symbols/Fluidized_Bed.png",
     "original_label": "Fluidized Bed",
     "section_idx": 7,
     "column_idx": 0,
@@ -2311,6 +2971,8 @@
   },
   {
     "filename": "Roller_Conveyor.png",
+    "section_folder": "section_08_symbols",
+    "relative_path": "section_08_symbols/Roller_Conveyor.png",
     "original_label": "Roller Conveyor",
     "section_idx": 7,
     "column_idx": 1,
@@ -2318,6 +2980,8 @@
   },
   {
     "filename": "Belt_Dryer.png",
+    "section_folder": "section_08_symbols",
+    "relative_path": "section_08_symbols/Belt_Dryer.png",
     "original_label": "Belt Dryer",
     "section_idx": 7,
     "column_idx": 1,
@@ -2325,6 +2989,8 @@
   },
   {
     "filename": "Generator.png",
+    "section_folder": "section_08_symbols",
+    "relative_path": "section_08_symbols/Generator.png",
     "original_label": "Generator",
     "section_idx": 7,
     "column_idx": 2,
@@ -2332,6 +2998,8 @@
   },
   {
     "filename": "Drying_Oven.png",
+    "section_folder": "section_08_symbols",
+    "relative_path": "section_08_symbols/Drying_Oven.png",
     "original_label": "Drying Oven",
     "section_idx": 7,
     "column_idx": 2,
@@ -2339,6 +3007,8 @@
   },
   {
     "filename": "Shelf_Moving.png",
+    "section_folder": "section_08_symbols",
+    "relative_path": "section_08_symbols/Shelf_Moving.png",
     "original_label": "Shelf Moving",
     "section_idx": 7,
     "column_idx": 4,
@@ -2346,6 +3016,8 @@
   },
   {
     "filename": "Crossflow.png",
+    "section_folder": "section_09_symbols",
+    "relative_path": "section_09_symbols/Crossflow.png",
     "original_label": "Crossflow",
     "section_idx": 8,
     "column_idx": 0,
@@ -2353,6 +3025,8 @@
   },
   {
     "filename": "Draft_Inducted.png",
+    "section_folder": "section_09_symbols",
+    "relative_path": "section_09_symbols/Draft_Inducted.png",
     "original_label": "Draft Inducted",
     "section_idx": 8,
     "column_idx": 0,
@@ -2360,6 +3034,8 @@
   },
   {
     "filename": "Counterflow.png",
+    "section_folder": "section_09_symbols",
+    "relative_path": "section_09_symbols/Counterflow.png",
     "original_label": "Counterflow",
     "section_idx": 8,
     "column_idx": 0,
@@ -2367,6 +3043,8 @@
   },
   {
     "filename": "Draft_Forced.png",
+    "section_folder": "section_09_symbols",
+    "relative_path": "section_09_symbols/Draft_Forced.png",
     "original_label": "Draft Forced",
     "section_idx": 8,
     "column_idx": 0,
@@ -2374,6 +3052,8 @@
   },
   {
     "filename": "Chimney_Tower.png",
+    "section_folder": "section_09_symbols",
+    "relative_path": "section_09_symbols/Chimney_Tower.png",
     "original_label": "Chimney Tower",
     "section_idx": 8,
     "column_idx": 0,
@@ -2381,6 +3061,8 @@
   },
   {
     "filename": "Hyperbolic.png",
+    "section_folder": "section_09_symbols",
+    "relative_path": "section_09_symbols/Hyperbolic.png",
     "original_label": "Hyperbolic",
     "section_idx": 8,
     "column_idx": 0,
@@ -2388,6 +3070,8 @@
   },
   {
     "filename": "Furnace.png",
+    "section_folder": "section_09_symbols",
+    "relative_path": "section_09_symbols/Furnace.png",
     "original_label": "Furnace",
     "section_idx": 8,
     "column_idx": 0,
@@ -2395,6 +3079,8 @@
   },
   {
     "filename": "Plate_Tower.png",
+    "section_folder": "section_09_symbols",
+    "relative_path": "section_09_symbols/Plate_Tower.png",
     "original_label": "Plate Tower",
     "section_idx": 8,
     "column_idx": 1,
@@ -2402,6 +3088,8 @@
   },
   {
     "filename": "Hydrodesulfurization.png",
+    "section_folder": "section_09_symbols",
+    "relative_path": "section_09_symbols/Hydrodesulfurization.png",
     "original_label": "Hydrodesulfurization",
     "section_idx": 8,
     "column_idx": 1,
@@ -2409,6 +3097,8 @@
   },
   {
     "filename": "Cracking.png",
+    "section_folder": "section_09_symbols",
+    "relative_path": "section_09_symbols/Cracking.png",
     "original_label": "Cracking",
     "section_idx": 8,
     "column_idx": 2,
@@ -2416,6 +3106,8 @@
   },
   {
     "filename": "Tubular.png",
+    "section_folder": "section_09_symbols",
+    "relative_path": "section_09_symbols/Tubular.png",
     "original_label": "Tubular",
     "section_idx": 8,
     "column_idx": 2,
@@ -2423,6 +3115,8 @@
   },
   {
     "filename": "Fluidized_Reactor.png",
+    "section_folder": "section_09_symbols",
+    "relative_path": "section_09_symbols/Fluidized_Reactor.png",
     "original_label": "Fluidized Reactor",
     "section_idx": 8,
     "column_idx": 3,
@@ -2430,6 +3124,8 @@
   },
   {
     "filename": "al.png",
+    "section_folder": "section_09_symbols",
+    "relative_path": "section_09_symbols/al.png",
     "original_label": "al",
     "section_idx": 8,
     "column_idx": 3,
@@ -2437,6 +3133,8 @@
   },
   {
     "filename": "Hydrocracking.png",
+    "section_folder": "section_09_symbols",
+    "relative_path": "section_09_symbols/Hydrocracking.png",
     "original_label": "Hydrocracking",
     "section_idx": 8,
     "column_idx": 3,
@@ -2444,6 +3142,8 @@
   },
   {
     "filename": "Screen.png",
+    "section_folder": "section_09_symbols",
+    "relative_path": "section_09_symbols/Screen.png",
     "original_label": "Screen",
     "section_idx": 8,
     "column_idx": 4,
@@ -2451,6 +3151,8 @@
   },
   {
     "filename": "Boom_Loader.png",
+    "section_folder": "section_09_symbols",
+    "relative_path": "section_09_symbols/Boom_Loader.png",
     "original_label": "Boom Loader",
     "section_idx": 8,
     "column_idx": 4,
@@ -2458,6 +3160,8 @@
   },
   {
     "filename": "Stoker_Automatic.png",
+    "section_folder": "section_09_symbols",
+    "relative_path": "section_09_symbols/Stoker_Automatic.png",
     "original_label": "Stoker Automatic",
     "section_idx": 8,
     "column_idx": 4,
@@ -2465,6 +3169,8 @@
   },
   {
     "filename": "Transport.png",
+    "section_folder": "section_09_symbols",
+    "relative_path": "section_09_symbols/Transport.png",
     "original_label": "Transport",
     "section_idx": 8,
     "column_idx": 4,
@@ -2472,6 +3178,8 @@
   },
   {
     "filename": "In-line_Mixer.png",
+    "section_folder": "section_10_symbols",
+    "relative_path": "section_10_symbols/In-line_Mixer.png",
     "original_label": "In-line Mixer",
     "section_idx": 9,
     "column_idx": 0,
@@ -2479,6 +3187,8 @@
   },
   {
     "filename": "Various_Mixers.png",
+    "section_folder": "section_10_symbols",
+    "relative_path": "section_10_symbols/Various_Mixers.png",
     "original_label": "Various Mixers",
     "section_idx": 9,
     "column_idx": 1,
@@ -2486,6 +3196,8 @@
   },
   {
     "filename": "Stirrer_Agitator,.png",
+    "section_folder": "section_10_symbols",
+    "relative_path": "section_10_symbols/Stirrer_Agitator,.png",
     "original_label": "Stirrer Agitator,",
     "section_idx": 9,
     "column_idx": 1,
@@ -2493,6 +3205,8 @@
   },
   {
     "filename": "Agitator,_Propeller.png",
+    "section_folder": "section_10_symbols",
+    "relative_path": "section_10_symbols/Agitator,_Propeller.png",
     "original_label": "Agitator, Propeller",
     "section_idx": 9,
     "column_idx": 2,
@@ -2500,6 +3214,8 @@
   },
   {
     "filename": "Agitator,_Anchor.png",
+    "section_folder": "section_10_symbols",
+    "relative_path": "section_10_symbols/Agitator,_Anchor.png",
     "original_label": "Agitator, Anchor",
     "section_idx": 9,
     "column_idx": 2,
@@ -2507,6 +3223,8 @@
   },
   {
     "filename": "Agitator,_Turbine.png",
+    "section_folder": "section_10_symbols",
+    "relative_path": "section_10_symbols/Agitator,_Turbine.png",
     "original_label": "Agitator, Turbine",
     "section_idx": 9,
     "column_idx": 3,
@@ -2514,6 +3232,8 @@
   },
   {
     "filename": "Agitator,_Helical.png",
+    "section_folder": "section_10_symbols",
+    "relative_path": "section_10_symbols/Agitator,_Helical.png",
     "original_label": "Agitator, Helical",
     "section_idx": 9,
     "column_idx": 3,
@@ -2521,6 +3241,8 @@
   },
   {
     "filename": "Paddle__Agitator,_Gat.png",
+    "section_folder": "section_10_symbols",
+    "relative_path": "section_10_symbols/Paddle__Agitator,_Gat.png",
     "original_label": "Paddle: Agitator, Gat",
     "section_idx": 9,
     "column_idx": 3,
@@ -2528,6 +3250,8 @@
   },
   {
     "filename": "Agitator,_Disc.png",
+    "section_folder": "section_10_symbols",
+    "relative_path": "section_10_symbols/Agitator,_Disc.png",
     "original_label": "Agitator, Disc",
     "section_idx": 9,
     "column_idx": 4,
@@ -2535,6 +3259,8 @@
   },
   {
     "filename": "Agitator,.png",
+    "section_folder": "section_10_symbols",
+    "relative_path": "section_10_symbols/Agitator,.png",
     "original_label": "Agitator,",
     "section_idx": 9,
     "column_idx": 4,
@@ -2542,6 +3268,8 @@
   },
   {
     "filename": "Cross-beam.png",
+    "section_folder": "section_10_symbols",
+    "relative_path": "section_10_symbols/Cross-beam.png",
     "original_label": "Cross-beam",
     "section_idx": 9,
     "column_idx": 4,
@@ -2549,6 +3277,8 @@
   },
   {
     "filename": "Crusher.png",
+    "section_folder": "section_11_symbols",
+    "relative_path": "section_11_symbols/Crusher.png",
     "original_label": "Crusher",
     "section_idx": 10,
     "column_idx": 0,
@@ -2556,6 +3286,8 @@
   },
   {
     "filename": "Medium_Crushers.png",
+    "section_folder": "section_11_symbols",
+    "relative_path": "section_11_symbols/Medium_Crushers.png",
     "original_label": "Medium Crushers",
     "section_idx": 10,
     "column_idx": 1,
@@ -2563,6 +3295,8 @@
   },
   {
     "filename": "Fine_Crushers.png",
+    "section_folder": "section_11_symbols",
+    "relative_path": "section_11_symbols/Fine_Crushers.png",
     "original_label": "Fine Crushers",
     "section_idx": 10,
     "column_idx": 1,
@@ -2570,6 +3304,8 @@
   },
   {
     "filename": "Crusher_Impact.png",
+    "section_folder": "section_11_symbols",
+    "relative_path": "section_11_symbols/Crusher_Impact.png",
     "original_label": "Crusher Impact",
     "section_idx": 10,
     "column_idx": 2,
@@ -2577,6 +3313,8 @@
   },
   {
     "filename": "Jaw_Crusher.png",
+    "section_folder": "section_11_symbols",
+    "relative_path": "section_11_symbols/Jaw_Crusher.png",
     "original_label": "Jaw Crusher",
     "section_idx": 10,
     "column_idx": 3,
@@ -2584,6 +3322,8 @@
   },
   {
     "filename": "VY.png",
+    "section_folder": "section_11_symbols",
+    "relative_path": "section_11_symbols/VY.png",
     "original_label": "VY",
     "section_idx": 10,
     "column_idx": 4,
@@ -2591,6 +3331,8 @@
   },
   {
     "filename": "Vibration_Crusher.png",
+    "section_folder": "section_11_symbols",
+    "relative_path": "section_11_symbols/Vibration_Crusher.png",
     "original_label": "Vibration Crusher",
     "section_idx": 10,
     "column_idx": 4,
@@ -2598,6 +3340,8 @@
   },
   {
     "filename": "Crusher_Hammer.png",
+    "section_folder": "section_11_symbols",
+    "relative_path": "section_11_symbols/Crusher_Hammer.png",
     "original_label": "Crusher Hammer",
     "section_idx": 10,
     "column_idx": 4,
@@ -2605,41 +3349,53 @@
   },
   {
     "filename": "Centrifugal_Pump.png",
+    "section_folder": "section_12_symbols",
+    "relative_path": "section_12_symbols/Centrifugal_Pump.png",
     "original_label": "Centrifugal Pump",
     "section_idx": 11,
     "column_idx": 0,
     "column_file": "section_12_01.pdf"
   },
   {
-    "filename": "Centrifugal_13.png",
+    "filename": "Centrifugal.png",
+    "section_folder": "section_12_symbols",
+    "relative_path": "section_12_symbols/Centrifugal.png",
     "original_label": "Centrifugal",
     "section_idx": 11,
     "column_idx": 0,
     "column_file": "section_12_01.pdf"
   },
   {
-    "filename": "Compressor_20.png",
+    "filename": "Compressor.png",
+    "section_folder": "section_12_symbols",
+    "relative_path": "section_12_symbols/Compressor.png",
     "original_label": "Compressor",
     "section_idx": 11,
     "column_idx": 0,
     "column_file": "section_12_01.pdf"
   },
   {
-    "filename": "Centrifugal_14.png",
+    "filename": "Centrifugal_1.png",
+    "section_folder": "section_12_symbols",
+    "relative_path": "section_12_symbols/Centrifugal_1.png",
     "original_label": "Centrifugal",
     "section_idx": 11,
     "column_idx": 0,
     "column_file": "section_12_01.pdf"
   },
   {
-    "filename": "Compressor_21.png",
+    "filename": "Compressor_1.png",
+    "section_folder": "section_12_symbols",
+    "relative_path": "section_12_symbols/Compressor_1.png",
     "original_label": "Compressor",
     "section_idx": 11,
     "column_idx": 0,
     "column_file": "section_12_01.pdf"
   },
   {
-    "filename": "Compressor_22.png",
+    "filename": "Compressor_2.png",
+    "section_folder": "section_12_symbols",
+    "relative_path": "section_12_symbols/Compressor_2.png",
     "original_label": "Compressor",
     "section_idx": 11,
     "column_idx": 0,
@@ -2647,6 +3403,8 @@
   },
   {
     "filename": "Centrifuge,.png",
+    "section_folder": "section_12_symbols",
+    "relative_path": "section_12_symbols/Centrifuge,.png",
     "original_label": "Centrifuge,",
     "section_idx": 11,
     "column_idx": 1,
@@ -2654,6 +3412,8 @@
   },
   {
     "filename": "Solid_Shell.png",
+    "section_folder": "section_12_symbols",
+    "relative_path": "section_12_symbols/Solid_Shell.png",
     "original_label": "Solid Shell",
     "section_idx": 11,
     "column_idx": 1,
@@ -2661,6 +3421,8 @@
   },
   {
     "filename": "Centrifuge,_High.png",
+    "section_folder": "section_12_symbols",
+    "relative_path": "section_12_symbols/Centrifuge,_High.png",
     "original_label": "Centrifuge, High",
     "section_idx": 11,
     "column_idx": 1,
@@ -2668,6 +3430,8 @@
   },
   {
     "filename": "Speed.png",
+    "section_folder": "section_12_symbols",
+    "relative_path": "section_12_symbols/Speed.png",
     "original_label": "Speed",
     "section_idx": 11,
     "column_idx": 1,
@@ -2675,6 +3439,8 @@
   },
   {
     "filename": "Centrifuge,_1.png",
+    "section_folder": "section_12_symbols",
+    "relative_path": "section_12_symbols/Centrifuge,_1.png",
     "original_label": "Centrifuge,",
     "section_idx": 11,
     "column_idx": 1,
@@ -2682,6 +3448,8 @@
   },
   {
     "filename": "Perforated_Shell.png",
+    "section_folder": "section_12_symbols",
+    "relative_path": "section_12_symbols/Perforated_Shell.png",
     "original_label": "Perforated Shell",
     "section_idx": 11,
     "column_idx": 1,
@@ -2689,6 +3457,8 @@
   },
   {
     "filename": "Centrifuge,_Pusher.png",
+    "section_folder": "section_12_symbols",
+    "relative_path": "section_12_symbols/Centrifuge,_Pusher.png",
     "original_label": "Centrifuge, Pusher",
     "section_idx": 11,
     "column_idx": 2,
@@ -2696,6 +3466,8 @@
   },
   {
     "filename": "Centrifuge_Screw,.png",
+    "section_folder": "section_12_symbols",
+    "relative_path": "section_12_symbols/Centrifuge_Screw,.png",
     "original_label": "Centrifuge Screw,",
     "section_idx": 11,
     "column_idx": 2,
@@ -2703,6 +3475,8 @@
   },
   {
     "filename": "Perforated_Shell_1.png",
+    "section_folder": "section_12_symbols",
+    "relative_path": "section_12_symbols/Perforated_Shell_1.png",
     "original_label": "Perforated Shell",
     "section_idx": 11,
     "column_idx": 2,
@@ -2710,6 +3484,8 @@
   },
   {
     "filename": "Centrifuge,_2.png",
+    "section_folder": "section_12_symbols",
+    "relative_path": "section_12_symbols/Centrifuge,_2.png",
     "original_label": "Centrifuge,",
     "section_idx": 11,
     "column_idx": 2,
@@ -2717,6 +3493,8 @@
   },
   {
     "filename": "Separator_disc.png",
+    "section_folder": "section_12_symbols",
+    "relative_path": "section_12_symbols/Separator_disc.png",
     "original_label": "Separator disc",
     "section_idx": 11,
     "column_idx": 2,
@@ -2724,6 +3502,8 @@
   },
   {
     "filename": "Centrifuge,_3.png",
+    "section_folder": "section_12_symbols",
+    "relative_path": "section_12_symbols/Centrifuge,_3.png",
     "original_label": "Centrifuge,",
     "section_idx": 11,
     "column_idx": 2,
@@ -2731,6 +3511,8 @@
   },
   {
     "filename": "Skimmer.png",
+    "section_folder": "section_12_symbols",
+    "relative_path": "section_12_symbols/Skimmer.png",
     "original_label": "Skimmer",
     "section_idx": 11,
     "column_idx": 2,
@@ -2738,6 +3520,8 @@
   },
   {
     "filename": "Centrifugal_Blower.png",
+    "section_folder": "section_12_symbols",
+    "relative_path": "section_12_symbols/Centrifugal_Blower.png",
     "original_label": "Centrifugal Blower",
     "section_idx": 11,
     "column_idx": 3,
@@ -2745,6 +3529,8 @@
   },
   {
     "filename": "Centrifugal_Pump_1.png",
+    "section_folder": "section_12_symbols",
+    "relative_path": "section_12_symbols/Centrifugal_Pump_1.png",
     "original_label": "Centrifugal Pump",
     "section_idx": 11,
     "column_idx": 3,
@@ -2752,6 +3538,8 @@
   },
   {
     "filename": "Centrifugal_Pump_2.png",
+    "section_folder": "section_12_symbols",
+    "relative_path": "section_12_symbols/Centrifugal_Pump_2.png",
     "original_label": "Centrifugal Pump",
     "section_idx": 11,
     "column_idx": 3,
@@ -2759,6 +3547,8 @@
   },
   {
     "filename": "Centrifuge.png",
+    "section_folder": "section_12_symbols",
+    "relative_path": "section_12_symbols/Centrifuge.png",
     "original_label": "Centrifuge",
     "section_idx": 11,
     "column_idx": 3,
@@ -2766,13 +3556,17 @@
   },
   {
     "filename": "Centrifugal_Pump_3.png",
+    "section_folder": "section_12_symbols",
+    "relative_path": "section_12_symbols/Centrifugal_Pump_3.png",
     "original_label": "Centrifugal Pump",
     "section_idx": 11,
     "column_idx": 4,
     "column_file": "section_12_05.pdf"
   },
   {
-    "filename": "Motor_1.png",
+    "filename": "Motor.png",
+    "section_folder": "section_13_symbols",
+    "relative_path": "section_13_symbols/Motor.png",
     "original_label": "Motor",
     "section_idx": 12,
     "column_idx": 0,
@@ -2780,6 +3574,8 @@
   },
   {
     "filename": "AC_Motor.png",
+    "section_folder": "section_13_symbols",
+    "relative_path": "section_13_symbols/AC_Motor.png",
     "original_label": "AC Motor",
     "section_idx": 12,
     "column_idx": 1,
@@ -2787,6 +3583,8 @@
   },
   {
     "filename": "Motor_Generator.png",
+    "section_folder": "section_13_symbols",
+    "relative_path": "section_13_symbols/Motor_Generator.png",
     "original_label": "Motor Generator",
     "section_idx": 12,
     "column_idx": 1,
@@ -2794,6 +3592,8 @@
   },
   {
     "filename": "Gear.png",
+    "section_folder": "section_13_symbols",
+    "relative_path": "section_13_symbols/Gear.png",
     "original_label": "Gear",
     "section_idx": 12,
     "column_idx": 1,
@@ -2801,6 +3601,8 @@
   },
   {
     "filename": "Motor-operated.png",
+    "section_folder": "section_13_symbols",
+    "relative_path": "section_13_symbols/Motor-operated.png",
     "original_label": "Motor-operated",
     "section_idx": 12,
     "column_idx": 3,
@@ -2808,6 +3610,8 @@
   },
   {
     "filename": "Motor-driven.png",
+    "section_folder": "section_13_symbols",
+    "relative_path": "section_13_symbols/Motor-driven.png",
     "original_label": "Motor-driven",
     "section_idx": 12,
     "column_idx": 3,
@@ -2815,13 +3619,17 @@
   },
   {
     "filename": "Turbine.png",
+    "section_folder": "section_13_symbols",
+    "relative_path": "section_13_symbols/Turbine.png",
     "original_label": "Turbine",
     "section_idx": 12,
     "column_idx": 3,
     "column_file": "section_13_04.pdf"
   },
   {
-    "filename": "Motor_2.png",
+    "filename": "Motor_1.png",
+    "section_folder": "section_13_symbols",
+    "relative_path": "section_13_symbols/Motor_1.png",
     "original_label": "Motor",
     "section_idx": 12,
     "column_idx": 3,
@@ -2829,6 +3637,8 @@
   },
   {
     "filename": "ll_Diesel_Motor.png",
+    "section_folder": "section_13_symbols",
+    "relative_path": "section_13_symbols/ll_Diesel_Motor.png",
     "original_label": "ll Diesel Motor",
     "section_idx": 12,
     "column_idx": 4,
@@ -2836,6 +3646,8 @@
   },
   {
     "filename": "Electric_Motor.png",
+    "section_folder": "section_13_symbols",
+    "relative_path": "section_13_symbols/Electric_Motor.png",
     "original_label": "Electric Motor",
     "section_idx": 12,
     "column_idx": 4,
@@ -2843,6 +3655,8 @@
   },
   {
     "filename": "Turbine_1.png",
+    "section_folder": "section_13_symbols",
+    "relative_path": "section_13_symbols/Turbine_1.png",
     "original_label": "Turbine",
     "section_idx": 12,
     "column_idx": 4,
@@ -2850,6 +3664,8 @@
   },
   {
     "filename": "Separator_Impact.png",
+    "section_folder": "section_14_symbols",
+    "relative_path": "section_14_symbols/Separator_Impact.png",
     "original_label": "Separator Impact",
     "section_idx": 13,
     "column_idx": 0,
@@ -2857,6 +3673,8 @@
   },
   {
     "filename": "Gravity_Separator.png",
+    "section_folder": "section_14_symbols",
+    "relative_path": "section_14_symbols/Gravity_Separator.png",
     "original_label": "Gravity Separator",
     "section_idx": 13,
     "column_idx": 0,
@@ -2864,6 +3682,8 @@
   },
   {
     "filename": "Cyclone_Separator.png",
+    "section_folder": "section_14_symbols",
+    "relative_path": "section_14_symbols/Cyclone_Separator.png",
     "original_label": "Cyclone Separator",
     "section_idx": 13,
     "column_idx": 0,
@@ -2871,6 +3691,8 @@
   },
   {
     "filename": "Electromagnetic.png",
+    "section_folder": "section_14_symbols",
+    "relative_path": "section_14_symbols/Electromagnetic.png",
     "original_label": "Electromagnetic",
     "section_idx": 13,
     "column_idx": 0,
@@ -2878,6 +3700,8 @@
   },
   {
     "filename": "Separator.png",
+    "section_folder": "section_14_symbols",
+    "relative_path": "section_14_symbols/Separator.png",
     "original_label": "Separator",
     "section_idx": 13,
     "column_idx": 0,
@@ -2885,6 +3709,8 @@
   },
   {
     "filename": "Electrostatic.png",
+    "section_folder": "section_14_symbols",
+    "relative_path": "section_14_symbols/Electrostatic.png",
     "original_label": "Electrostatic",
     "section_idx": 13,
     "column_idx": 0,
@@ -2892,6 +3718,8 @@
   },
   {
     "filename": "Precipitator_Separator.png",
+    "section_folder": "section_14_symbols",
+    "relative_path": "section_14_symbols/Precipitator_Separator.png",
     "original_label": "Precipitator Separator",
     "section_idx": 13,
     "column_idx": 0,
@@ -2899,6 +3727,8 @@
   },
   {
     "filename": "Solidifier.png",
+    "section_folder": "section_14_symbols",
+    "relative_path": "section_14_symbols/Solidifier.png",
     "original_label": "Solidifier",
     "section_idx": 13,
     "column_idx": 0,
@@ -2906,6 +3736,8 @@
   },
   {
     "filename": "Permanent.png",
+    "section_folder": "section_14_symbols",
+    "relative_path": "section_14_symbols/Permanent.png",
     "original_label": "Permanent",
     "section_idx": 13,
     "column_idx": 0,
@@ -2913,6 +3745,8 @@
   },
   {
     "filename": "Magnet.png",
+    "section_folder": "section_14_symbols",
+    "relative_path": "section_14_symbols/Magnet.png",
     "original_label": "Magnet",
     "section_idx": 13,
     "column_idx": 0,
@@ -2920,6 +3754,8 @@
   },
   {
     "filename": "Rotary_Table.png",
+    "section_folder": "section_14_symbols",
+    "relative_path": "section_14_symbols/Rotary_Table.png",
     "original_label": "Rotary Table",
     "section_idx": 13,
     "column_idx": 0,
@@ -2927,6 +3763,8 @@
   },
   {
     "filename": "Feeder.png",
+    "section_folder": "section_14_symbols",
+    "relative_path": "section_14_symbols/Feeder.png",
     "original_label": "Feeder",
     "section_idx": 13,
     "column_idx": 0,
@@ -2934,6 +3772,8 @@
   },
   {
     "filename": "Proportional.png",
+    "section_folder": "section_14_symbols",
+    "relative_path": "section_14_symbols/Proportional.png",
     "original_label": "Proportional",
     "section_idx": 13,
     "column_idx": 0,
@@ -2941,13 +3781,17 @@
   },
   {
     "filename": "Feeder_1.png",
+    "section_folder": "section_14_symbols",
+    "relative_path": "section_14_symbols/Feeder_1.png",
     "original_label": "Feeder",
     "section_idx": 13,
     "column_idx": 0,
     "column_file": "section_14_01.pdf"
   },
   {
-    "filename": "Rotary_Valve_1.png",
+    "filename": "Rotary_Valve.png",
+    "section_folder": "section_14_symbols",
+    "relative_path": "section_14_symbols/Rotary_Valve.png",
     "original_label": "Rotary Valve",
     "section_idx": 13,
     "column_idx": 0,
@@ -2955,6 +3799,8 @@
   },
   {
     "filename": "Feeder_2.png",
+    "section_folder": "section_14_symbols",
+    "relative_path": "section_14_symbols/Feeder_2.png",
     "original_label": "Feeder",
     "section_idx": 13,
     "column_idx": 0,
@@ -2962,6 +3808,8 @@
   },
   {
     "filename": "Metering.png",
+    "section_folder": "section_14_symbols",
+    "relative_path": "section_14_symbols/Metering.png",
     "original_label": "Metering",
     "section_idx": 13,
     "column_idx": 0,
@@ -2969,6 +3817,8 @@
   },
   {
     "filename": "Reducer.png",
+    "section_folder": "section_14_symbols",
+    "relative_path": "section_14_symbols/Reducer.png",
     "original_label": "Reducer",
     "section_idx": 13,
     "column_idx": 1,
@@ -2976,6 +3826,8 @@
   },
   {
     "filename": "Rupture_Disc.png",
+    "section_folder": "section_14_symbols",
+    "relative_path": "section_14_symbols/Rupture_Disc.png",
     "original_label": "Rupture Disc",
     "section_idx": 13,
     "column_idx": 1,
@@ -2983,6 +3835,8 @@
   },
   {
     "filename": "Glass_Viewing.png",
+    "section_folder": "section_14_symbols",
+    "relative_path": "section_14_symbols/Glass_Viewing.png",
     "original_label": "Glass Viewing",
     "section_idx": 13,
     "column_idx": 1,
@@ -2990,6 +3844,8 @@
   },
   {
     "filename": "Glass_Viewing_1.png",
+    "section_folder": "section_14_symbols",
+    "relative_path": "section_14_symbols/Glass_Viewing_1.png",
     "original_label": "Glass Viewing",
     "section_idx": 13,
     "column_idx": 1,
@@ -2997,6 +3853,8 @@
   },
   {
     "filename": "with_Lighting.png",
+    "section_folder": "section_14_symbols",
+    "relative_path": "section_14_symbols/with_Lighting.png",
     "original_label": "with Lighting",
     "section_idx": 13,
     "column_idx": 1,
@@ -3004,6 +3862,8 @@
   },
   {
     "filename": "Draft_Back.png",
+    "section_folder": "section_14_symbols",
+    "relative_path": "section_14_symbols/Draft_Back.png",
     "original_label": "Draft Back",
     "section_idx": 13,
     "column_idx": 1,
@@ -3011,6 +3871,8 @@
   },
   {
     "filename": "Damper.png",
+    "section_folder": "section_14_symbols",
+    "relative_path": "section_14_symbols/Damper.png",
     "original_label": "Damper",
     "section_idx": 13,
     "column_idx": 1,
@@ -3018,6 +3880,8 @@
   },
   {
     "filename": "Manual_Forklift.png",
+    "section_folder": "section_14_symbols",
+    "relative_path": "section_14_symbols/Manual_Forklift.png",
     "original_label": "Manual Forklift",
     "section_idx": 13,
     "column_idx": 1,
@@ -3025,6 +3889,8 @@
   },
   {
     "filename": "Forklift_Truck.png",
+    "section_folder": "section_14_symbols",
+    "relative_path": "section_14_symbols/Forklift_Truck.png",
     "original_label": "Forklift Truck",
     "section_idx": 13,
     "column_idx": 1,
@@ -3032,6 +3898,8 @@
   },
   {
     "filename": "Truck.png",
+    "section_folder": "section_14_symbols",
+    "relative_path": "section_14_symbols/Truck.png",
     "original_label": "Truck",
     "section_idx": 13,
     "column_idx": 1,
@@ -3039,6 +3907,8 @@
   },
   {
     "filename": "Rolling_Bin_Truck.png",
+    "section_folder": "section_14_symbols",
+    "relative_path": "section_14_symbols/Rolling_Bin_Truck.png",
     "original_label": "Rolling Bin Truck",
     "section_idx": 13,
     "column_idx": 1,
@@ -3046,6 +3916,8 @@
   },
   {
     "filename": "Ship.png",
+    "section_folder": "section_14_symbols",
+    "relative_path": "section_14_symbols/Ship.png",
     "original_label": "Ship",
     "section_idx": 13,
     "column_idx": 1,
@@ -3053,6 +3925,8 @@
   },
   {
     "filename": "Elevator.png",
+    "section_folder": "section_14_symbols",
+    "relative_path": "section_14_symbols/Elevator.png",
     "original_label": "Elevator",
     "section_idx": 13,
     "column_idx": 2,
@@ -3060,6 +3934,8 @@
   },
   {
     "filename": "Z-form_Elevator.png",
+    "section_folder": "section_14_symbols",
+    "relative_path": "section_14_symbols/Z-form_Elevator.png",
     "original_label": "Z-form Elevator",
     "section_idx": 13,
     "column_idx": 2,
@@ -3067,6 +3943,8 @@
   },
   {
     "filename": "Hoists.png",
+    "section_folder": "section_14_symbols",
+    "relative_path": "section_14_symbols/Hoists.png",
     "original_label": "Hoists",
     "section_idx": 13,
     "column_idx": 2,
@@ -3074,6 +3952,8 @@
   },
   {
     "filename": "Aerator_with.png",
+    "section_folder": "section_14_symbols",
+    "relative_path": "section_14_symbols/Aerator_with.png",
     "original_label": "Aerator with",
     "section_idx": 13,
     "column_idx": 2,
@@ -3081,6 +3961,8 @@
   },
   {
     "filename": "Sparger.png",
+    "section_folder": "section_14_symbols",
+    "relative_path": "section_14_symbols/Sparger.png",
     "original_label": "Sparger",
     "section_idx": 13,
     "column_idx": 2,
@@ -3088,6 +3970,8 @@
   },
   {
     "filename": "‘a.png",
+    "section_folder": "section_14_symbols",
+    "relative_path": "section_14_symbols/‘a.png",
     "original_label": "‘a",
     "section_idx": 13,
     "column_idx": 2,
@@ -3095,13 +3979,17 @@
   },
   {
     "filename": "Bag_Filling.png",
+    "section_folder": "section_14_symbols",
+    "relative_path": "section_14_symbols/Bag_Filling.png",
     "original_label": "Bag Filling",
     "section_idx": 13,
     "column_idx": 2,
     "column_file": "section_14_03.pdf"
   },
   {
-    "filename": "Machine_1.png",
+    "filename": "Machine.png",
+    "section_folder": "section_14_symbols",
+    "relative_path": "section_14_symbols/Machine.png",
     "original_label": "Machine",
     "section_idx": 13,
     "column_idx": 2,
@@ -3109,6 +3997,8 @@
   },
   {
     "filename": "Skimmer_Belt.png",
+    "section_folder": "section_14_symbols",
+    "relative_path": "section_14_symbols/Skimmer_Belt.png",
     "original_label": "Skimmer Belt",
     "section_idx": 13,
     "column_idx": 2,
@@ -3116,6 +4006,8 @@
   },
   {
     "filename": "Screening.png",
+    "section_folder": "section_14_symbols",
+    "relative_path": "section_14_symbols/Screening.png",
     "original_label": "Screening",
     "section_idx": 13,
     "column_idx": 2,
@@ -3123,6 +4015,8 @@
   },
   {
     "filename": "Gas_Flare.png",
+    "section_folder": "section_14_symbols",
+    "relative_path": "section_14_symbols/Gas_Flare.png",
     "original_label": "Gas Flare",
     "section_idx": 13,
     "column_idx": 2,
@@ -3130,6 +4024,8 @@
   },
   {
     "filename": "Elevator_1.png",
+    "section_folder": "section_14_symbols",
+    "relative_path": "section_14_symbols/Elevator_1.png",
     "original_label": "Elevator",
     "section_idx": 13,
     "column_idx": 3,
@@ -3137,6 +4033,8 @@
   },
   {
     "filename": "Skip_Hoist.png",
+    "section_folder": "section_14_symbols",
+    "relative_path": "section_14_symbols/Skip_Hoist.png",
     "original_label": "Skip Hoist",
     "section_idx": 13,
     "column_idx": 3,
@@ -3144,6 +4042,8 @@
   },
   {
     "filename": "Conveyor,.png",
+    "section_folder": "section_14_symbols",
+    "relative_path": "section_14_symbols/Conveyor,.png",
     "original_label": "Conveyor,",
     "section_idx": 13,
     "column_idx": 3,
@@ -3151,13 +4051,17 @@
   },
   {
     "filename": "Conveyor,_1.png",
+    "section_folder": "section_14_symbols",
+    "relative_path": "section_14_symbols/Conveyor,_1.png",
     "original_label": "Conveyor,",
     "section_idx": 13,
     "column_idx": 3,
     "column_file": "section_14_04.pdf"
   },
   {
-    "filename": "Roller_Conveyor_1.png",
+    "filename": "Roller_Conveyor.png",
+    "section_folder": "section_14_symbols",
+    "relative_path": "section_14_symbols/Roller_Conveyor.png",
     "original_label": "Roller Conveyor",
     "section_idx": 13,
     "column_idx": 3,
@@ -3165,6 +4069,8 @@
   },
   {
     "filename": "Conveyor.png",
+    "section_folder": "section_14_symbols",
+    "relative_path": "section_14_symbols/Conveyor.png",
     "original_label": "Conveyor",
     "section_idx": 13,
     "column_idx": 3,
@@ -3172,6 +4078,8 @@
   },
   {
     "filename": "Conveyor_1.png",
+    "section_folder": "section_14_symbols",
+    "relative_path": "section_14_symbols/Conveyor_1.png",
     "original_label": "Conveyor",
     "section_idx": 13,
     "column_idx": 3,
@@ -3179,6 +4087,8 @@
   },
   {
     "filename": "Scraper.png",
+    "section_folder": "section_14_symbols",
+    "relative_path": "section_14_symbols/Scraper.png",
     "original_label": "Scraper",
     "section_idx": 13,
     "column_idx": 3,
@@ -3186,6 +4096,8 @@
   },
   {
     "filename": "Piston_Extruder.png",
+    "section_folder": "section_14_symbols",
+    "relative_path": "section_14_symbols/Piston_Extruder.png",
     "original_label": "Piston Extruder",
     "section_idx": 13,
     "column_idx": 3,
@@ -3193,6 +4105,8 @@
   },
   {
     "filename": "Shaping_Machines.png",
+    "section_folder": "section_14_symbols",
+    "relative_path": "section_14_symbols/Shaping_Machines.png",
     "original_label": "Shaping Machines",
     "section_idx": 13,
     "column_idx": 3,
@@ -3200,6 +4114,8 @@
   },
   {
     "filename": "Shaping_Machines_1.png",
+    "section_folder": "section_14_symbols",
+    "relative_path": "section_14_symbols/Shaping_Machines_1.png",
     "original_label": "Shaping Machines",
     "section_idx": 13,
     "column_idx": 3,
@@ -3207,6 +4123,8 @@
   },
   {
     "filename": "Horizontal_Shaping.png",
+    "section_folder": "section_14_symbols",
+    "relative_path": "section_14_symbols/Horizontal_Shaping.png",
     "original_label": "Horizontal Shaping",
     "section_idx": 13,
     "column_idx": 3,
@@ -3214,6 +4132,8 @@
   },
   {
     "filename": "Shaping_Vertical.png",
+    "section_folder": "section_14_symbols",
+    "relative_path": "section_14_symbols/Shaping_Vertical.png",
     "original_label": "Shaping Vertical",
     "section_idx": 13,
     "column_idx": 4,
@@ -3221,6 +4141,8 @@
   },
   {
     "filename": "Machines.png",
+    "section_folder": "section_14_symbols",
+    "relative_path": "section_14_symbols/Machines.png",
     "original_label": "Machines",
     "section_idx": 13,
     "column_idx": 4,
@@ -3228,6 +4150,8 @@
   },
   {
     "filename": "Pelletizing_Disc.png",
+    "section_folder": "section_14_symbols",
+    "relative_path": "section_14_symbols/Pelletizing_Disc.png",
     "original_label": "Pelletizing Disc",
     "section_idx": 13,
     "column_idx": 4,
@@ -3235,6 +4159,8 @@
   },
   {
     "filename": "Piston_Press.png",
+    "section_folder": "section_14_symbols",
+    "relative_path": "section_14_symbols/Piston_Press.png",
     "original_label": "Piston Press",
     "section_idx": 13,
     "column_idx": 4,
@@ -3242,6 +4168,8 @@
   },
   {
     "filename": "Roller_Press.png",
+    "section_folder": "section_14_symbols",
+    "relative_path": "section_14_symbols/Roller_Press.png",
     "original_label": "Roller Press",
     "section_idx": 13,
     "column_idx": 4,
@@ -3249,6 +4177,8 @@
   },
   {
     "filename": "Crane.png",
+    "section_folder": "section_14_symbols",
+    "relative_path": "section_14_symbols/Crane.png",
     "original_label": "Crane",
     "section_idx": 13,
     "column_idx": 4,
@@ -3256,6 +4186,8 @@
   },
   {
     "filename": "Cyclone.png",
+    "section_folder": "section_14_symbols",
+    "relative_path": "section_14_symbols/Cyclone.png",
     "original_label": "Cyclone",
     "section_idx": 13,
     "column_idx": 4,
@@ -3263,6 +4195,8 @@
   },
   {
     "filename": "Curved_Gas_Vent.png",
+    "section_folder": "section_14_symbols",
+    "relative_path": "section_14_symbols/Curved_Gas_Vent.png",
     "original_label": "Curved Gas Vent",
     "section_idx": 13,
     "column_idx": 4,
@@ -3270,6 +4204,8 @@
   },
   {
     "filename": "paltetizer.png",
+    "section_folder": "section_14_symbols",
+    "relative_path": "section_14_symbols/paltetizer.png",
     "original_label": "paltetizer",
     "section_idx": 13,
     "column_idx": 4,
@@ -3277,6 +4213,8 @@
   },
   {
     "filename": "Conveyor,_2.png",
+    "section_folder": "section_14_symbols",
+    "relative_path": "section_14_symbols/Conveyor,_2.png",
     "original_label": "Conveyor,",
     "section_idx": 13,
     "column_idx": 4,
@@ -3284,6 +4222,8 @@
   },
   {
     "filename": "Major_Straight.png",
+    "section_folder": "section_15_symbols",
+    "relative_path": "section_15_symbols/Major_Straight.png",
     "original_label": "Major Straight",
     "section_idx": 14,
     "column_idx": 0,
@@ -3291,6 +4231,8 @@
   },
   {
     "filename": "Electronic_Serial.png",
+    "section_folder": "section_15_symbols",
+    "relative_path": "section_15_symbols/Electronic_Serial.png",
     "original_label": "Electronic Serial",
     "section_idx": 14,
     "column_idx": 0,
@@ -3298,6 +4240,8 @@
   },
   {
     "filename": "Heat_Trace.png",
+    "section_folder": "section_15_symbols",
+    "relative_path": "section_15_symbols/Heat_Trace.png",
     "original_label": "Heat Trace",
     "section_idx": 14,
     "column_idx": 0,
@@ -3305,6 +4249,8 @@
   },
   {
     "filename": "Side_by_Side.png",
+    "section_folder": "section_15_symbols",
+    "relative_path": "section_15_symbols/Side_by_Side.png",
     "original_label": "Side by Side",
     "section_idx": 14,
     "column_idx": 0,
@@ -3312,6 +4258,8 @@
   },
   {
     "filename": "Top-Bottom.png",
+    "section_folder": "section_15_symbols",
+    "relative_path": "section_15_symbols/Top-Bottom.png",
     "original_label": "Top-Bottom",
     "section_idx": 14,
     "column_idx": 0,
@@ -3319,6 +4267,8 @@
   },
   {
     "filename": "One-to-Many.png",
+    "section_folder": "section_15_symbols",
+    "relative_path": "section_15_symbols/One-to-Many.png",
     "original_label": "One-to-Many",
     "section_idx": 14,
     "column_idx": 0,
@@ -3326,6 +4276,8 @@
   },
   {
     "filename": "Multi-Lines.png",
+    "section_folder": "section_15_symbols",
+    "relative_path": "section_15_symbols/Multi-Lines.png",
     "original_label": "Multi-Lines",
     "section_idx": 14,
     "column_idx": 0,
@@ -3333,6 +4285,8 @@
   },
   {
     "filename": "Multi-Lines_Elbow.png",
+    "section_folder": "section_15_symbols",
+    "relative_path": "section_15_symbols/Multi-Lines_Elbow.png",
     "original_label": "Multi-Lines Elbow",
     "section_idx": 14,
     "column_idx": 0,
@@ -3340,13 +4294,17 @@
   },
   {
     "filename": "Y-type_Strainer.png",
+    "section_folder": "section_15_symbols",
+    "relative_path": "section_15_symbols/Y-type_Strainer.png",
     "original_label": "Y-type Strainer",
     "section_idx": 14,
     "column_idx": 0,
     "column_file": "section_15_01.pdf"
   },
   {
-    "filename": "Rotary_Valve_2.png",
+    "filename": "Rotary_Valve.png",
+    "section_folder": "section_15_symbols",
+    "relative_path": "section_15_symbols/Rotary_Valve.png",
     "original_label": "Rotary Valve",
     "section_idx": 14,
     "column_idx": 0,
@@ -3354,6 +4312,8 @@
   },
   {
     "filename": "Bursting_Disc.png",
+    "section_folder": "section_15_symbols",
+    "relative_path": "section_15_symbols/Bursting_Disc.png",
     "original_label": "Bursting Disc",
     "section_idx": 14,
     "column_idx": 0,
@@ -3361,6 +4321,8 @@
   },
   {
     "filename": "Top.png",
+    "section_folder": "section_15_symbols",
+    "relative_path": "section_15_symbols/Top.png",
     "original_label": "Top",
     "section_idx": 14,
     "column_idx": 1,
@@ -3368,6 +4330,8 @@
   },
   {
     "filename": "Sonic_Signal.png",
+    "section_folder": "section_15_symbols",
+    "relative_path": "section_15_symbols/Sonic_Signal.png",
     "original_label": "Sonic Signal",
     "section_idx": 14,
     "column_idx": 1,
@@ -3375,6 +4339,8 @@
   },
   {
     "filename": "Nuclear.png",
+    "section_folder": "section_15_symbols",
+    "relative_path": "section_15_symbols/Nuclear.png",
     "original_label": "Nuclear",
     "section_idx": 14,
     "column_idx": 1,
@@ -3382,13 +4348,17 @@
   },
   {
     "filename": "Welded.png",
+    "section_folder": "section_15_symbols",
+    "relative_path": "section_15_symbols/Welded.png",
     "original_label": "Welded",
     "section_idx": 14,
     "column_idx": 1,
     "column_file": "section_15_02.pdf"
   },
   {
-    "filename": "Connection_1.png",
+    "filename": "Connection.png",
+    "section_folder": "section_15_symbols",
+    "relative_path": "section_15_symbols/Connection.png",
     "original_label": "Connection",
     "section_idx": 14,
     "column_idx": 1,
@@ -3396,6 +4366,8 @@
   },
   {
     "filename": "Mechanical_Link.png",
+    "section_folder": "section_15_symbols",
+    "relative_path": "section_15_symbols/Mechanical_Link.png",
     "original_label": "Mechanical Link",
     "section_idx": 14,
     "column_idx": 1,
@@ -3403,6 +4375,8 @@
   },
   {
     "filename": "Blind_Disc.png",
+    "section_folder": "section_15_symbols",
+    "relative_path": "section_15_symbols/Blind_Disc.png",
     "original_label": "Blind Disc",
     "section_idx": 14,
     "column_idx": 1,
@@ -3410,6 +4384,8 @@
   },
   {
     "filename": "Spectacle_Blind.png",
+    "section_folder": "section_15_symbols",
+    "relative_path": "section_15_symbols/Spectacle_Blind.png",
     "original_label": "Spectacle Blind",
     "section_idx": 14,
     "column_idx": 1,
@@ -3417,6 +4393,8 @@
   },
   {
     "filename": "Interchangeable.png",
+    "section_folder": "section_15_symbols",
+    "relative_path": "section_15_symbols/Interchangeable.png",
     "original_label": "Interchangeable",
     "section_idx": 14,
     "column_idx": 1,
@@ -3424,6 +4402,8 @@
   },
   {
     "filename": "Blind.png",
+    "section_folder": "section_15_symbols",
+    "relative_path": "section_15_symbols/Blind.png",
     "original_label": "Blind",
     "section_idx": 14,
     "column_idx": 1,
@@ -3431,6 +4411,8 @@
   },
   {
     "filename": "Open_Disc.png",
+    "section_folder": "section_15_symbols",
+    "relative_path": "section_15_symbols/Open_Disc.png",
     "original_label": "Open Disc",
     "section_idx": 14,
     "column_idx": 1,
@@ -3438,13 +4420,17 @@
   },
   {
     "filename": "Orifice_Plate.png",
+    "section_folder": "section_15_symbols",
+    "relative_path": "section_15_symbols/Orifice_Plate.png",
     "original_label": "Orifice Plate",
     "section_idx": 14,
     "column_idx": 1,
     "column_file": "section_15_02.pdf"
   },
   {
-    "filename": "Double_1.png",
+    "filename": "Double.png",
+    "section_folder": "section_15_symbols",
+    "relative_path": "section_15_symbols/Double.png",
     "original_label": "Double",
     "section_idx": 14,
     "column_idx": 2,
@@ -3452,6 +4438,8 @@
   },
   {
     "filename": "Breather.png",
+    "section_folder": "section_15_symbols",
+    "relative_path": "section_15_symbols/Breather.png",
     "original_label": "Breather",
     "section_idx": 14,
     "column_idx": 2,
@@ -3459,6 +4447,8 @@
   },
   {
     "filename": "Drip_Pan_Elbow.png",
+    "section_folder": "section_15_symbols",
+    "relative_path": "section_15_symbols/Drip_Pan_Elbow.png",
     "original_label": "Drip Pan Elbow",
     "section_idx": 14,
     "column_idx": 2,
@@ -3466,6 +4456,8 @@
   },
   {
     "filename": "Union.png",
+    "section_folder": "section_15_symbols",
+    "relative_path": "section_15_symbols/Union.png",
     "original_label": "Union",
     "section_idx": 14,
     "column_idx": 2,
@@ -3473,6 +4465,8 @@
   },
   {
     "filename": "Socket_Weld.png",
+    "section_folder": "section_15_symbols",
+    "relative_path": "section_15_symbols/Socket_Weld.png",
     "original_label": "Socket Weld",
     "section_idx": 14,
     "column_idx": 2,
@@ -3480,6 +4474,8 @@
   },
   {
     "filename": "Screwed.png",
+    "section_folder": "section_15_symbols",
+    "relative_path": "section_15_symbols/Screwed.png",
     "original_label": "Screwed",
     "section_idx": 14,
     "column_idx": 2,
@@ -3487,6 +4483,8 @@
   },
   {
     "filename": "Electrical_Bounded.png",
+    "section_folder": "section_15_symbols",
+    "relative_path": "section_15_symbols/Electrical_Bounded.png",
     "original_label": "Electrical Bounded",
     "section_idx": 14,
     "column_idx": 2,
@@ -3494,6 +4492,8 @@
   },
   {
     "filename": "Pulsation.png",
+    "section_folder": "section_15_symbols",
+    "relative_path": "section_15_symbols/Pulsation.png",
     "original_label": "Pulsation",
     "section_idx": 14,
     "column_idx": 2,
@@ -3501,6 +4501,8 @@
   },
   {
     "filename": "Dampener.png",
+    "section_folder": "section_15_symbols",
+    "relative_path": "section_15_symbols/Dampener.png",
     "original_label": "Dampener",
     "section_idx": 14,
     "column_idx": 2,
@@ -3508,6 +4510,8 @@
   },
   {
     "filename": "Duplex_Strainer.png",
+    "section_folder": "section_15_symbols",
+    "relative_path": "section_15_symbols/Duplex_Strainer.png",
     "original_label": "Duplex Strainer",
     "section_idx": 14,
     "column_idx": 2,
@@ -3515,6 +4519,8 @@
   },
   {
     "filename": "Silencer_Vent.png",
+    "section_folder": "section_15_symbols",
+    "relative_path": "section_15_symbols/Silencer_Vent.png",
     "original_label": "Silencer Vent",
     "section_idx": 14,
     "column_idx": 2,
@@ -3522,6 +4528,8 @@
   },
   {
     "filename": "Basket_Strainer.png",
+    "section_folder": "section_15_symbols",
+    "relative_path": "section_15_symbols/Basket_Strainer.png",
     "original_label": "Basket Strainer",
     "section_idx": 14,
     "column_idx": 2,
@@ -3529,6 +4537,8 @@
   },
   {
     "filename": "Cone_Strainer.png",
+    "section_folder": "section_15_symbols",
+    "relative_path": "section_15_symbols/Cone_Strainer.png",
     "original_label": "Cone Strainer",
     "section_idx": 14,
     "column_idx": 2,
@@ -3536,6 +4546,8 @@
   },
   {
     "filename": "Pilot_Operated.png",
+    "section_folder": "section_15_symbols",
+    "relative_path": "section_15_symbols/Pilot_Operated.png",
     "original_label": "Pilot Operated",
     "section_idx": 14,
     "column_idx": 2,
@@ -3543,6 +4555,8 @@
   },
   {
     "filename": "Relief_Valve_with.png",
+    "section_folder": "section_15_symbols",
+    "relative_path": "section_15_symbols/Relief_Valve_with.png",
     "original_label": "Relief Valve with",
     "section_idx": 14,
     "column_idx": 2,
@@ -3550,20 +4564,26 @@
   },
   {
     "filename": "Sensor_Renote.png",
+    "section_folder": "section_15_symbols",
+    "relative_path": "section_15_symbols/Sensor_Renote.png",
     "original_label": "Sensor Renote",
     "section_idx": 14,
     "column_idx": 2,
     "column_file": "section_15_03.pdf"
   },
   {
-    "filename": "In-line_Mixer_1.png",
+    "filename": "In-line_Mixer.png",
+    "section_folder": "section_15_symbols",
+    "relative_path": "section_15_symbols/In-line_Mixer.png",
     "original_label": "In-line Mixer",
     "section_idx": 14,
     "column_idx": 3,
     "column_file": "section_15_04.pdf"
   },
   {
-    "filename": "Separator_1.png",
+    "filename": "Separator.png",
+    "section_folder": "section_15_symbols",
+    "relative_path": "section_15_symbols/Separator.png",
     "original_label": "Separator",
     "section_idx": 14,
     "column_idx": 3,
@@ -3571,6 +4591,8 @@
   },
   {
     "filename": "Flame_Arrester.png",
+    "section_folder": "section_15_symbols",
+    "relative_path": "section_15_symbols/Flame_Arrester.png",
     "original_label": "Flame Arrester",
     "section_idx": 14,
     "column_idx": 3,
@@ -3578,6 +4600,8 @@
   },
   {
     "filename": "Silencer_Drain.png",
+    "section_folder": "section_15_symbols",
+    "relative_path": "section_15_symbols/Silencer_Drain.png",
     "original_label": "Silencer Drain",
     "section_idx": 14,
     "column_idx": 3,
@@ -3585,6 +4609,8 @@
   },
   {
     "filename": "Exhaust_Head.png",
+    "section_folder": "section_15_symbols",
+    "relative_path": "section_15_symbols/Exhaust_Head.png",
     "original_label": "Exhaust Head",
     "section_idx": 14,
     "column_idx": 3,
@@ -3592,6 +4618,8 @@
   },
   {
     "filename": "Swivel_Joint.png",
+    "section_folder": "section_15_symbols",
+    "relative_path": "section_15_symbols/Swivel_Joint.png",
     "original_label": "Swivel Joint",
     "section_idx": 14,
     "column_idx": 3,
@@ -3599,6 +4627,8 @@
   },
   {
     "filename": "Flame_Arrestor.png",
+    "section_folder": "section_15_symbols",
+    "relative_path": "section_15_symbols/Flame_Arrestor.png",
     "original_label": "Flame Arrestor",
     "section_idx": 14,
     "column_idx": 3,
@@ -3606,6 +4636,8 @@
   },
   {
     "filename": "Steam_Trap.png",
+    "section_folder": "section_15_symbols",
+    "relative_path": "section_15_symbols/Steam_Trap.png",
     "original_label": "Steam Trap",
     "section_idx": 14,
     "column_idx": 3,
@@ -3613,6 +4645,8 @@
   },
   {
     "filename": "Desuperheater.png",
+    "section_folder": "section_15_symbols",
+    "relative_path": "section_15_symbols/Desuperheater.png",
     "original_label": "Desuperheater",
     "section_idx": 14,
     "column_idx": 3,
@@ -3620,13 +4654,17 @@
   },
   {
     "filename": "Exhaust_Head_1.png",
+    "section_folder": "section_15_symbols",
+    "relative_path": "section_15_symbols/Exhaust_Head_1.png",
     "original_label": "Exhaust Head",
     "section_idx": 14,
     "column_idx": 3,
     "column_file": "section_15_04.pdf"
   },
   {
-    "filename": "Flow_Indicator_1.png",
+    "filename": "Flow_Indicator.png",
+    "section_folder": "section_15_symbols",
+    "relative_path": "section_15_symbols/Flow_Indicator.png",
     "original_label": "Flow Indicator",
     "section_idx": 14,
     "column_idx": 4,
@@ -3634,6 +4672,8 @@
   },
   {
     "filename": "Spool.png",
+    "section_folder": "section_15_symbols",
+    "relative_path": "section_15_symbols/Spool.png",
     "original_label": "Spool",
     "section_idx": 14,
     "column_idx": 4,
@@ -3641,6 +4681,8 @@
   },
   {
     "filename": "Strainer_Basket.png",
+    "section_folder": "section_15_symbols",
+    "relative_path": "section_15_symbols/Strainer_Basket.png",
     "original_label": "Strainer Basket",
     "section_idx": 14,
     "column_idx": 4,
@@ -3648,13 +4690,17 @@
   },
   {
     "filename": "Breather_1.png",
+    "section_folder": "section_15_symbols",
+    "relative_path": "section_15_symbols/Breather_1.png",
     "original_label": "Breather",
     "section_idx": 14,
     "column_idx": 4,
     "column_file": "section_15_05.pdf"
   },
   {
-    "filename": "Damper_1.png",
+    "filename": "Damper.png",
+    "section_folder": "section_15_symbols",
+    "relative_path": "section_15_symbols/Damper.png",
     "original_label": "Damper",
     "section_idx": 14,
     "column_idx": 4,
@@ -3662,13 +4708,17 @@
   },
   {
     "filename": "Breakthrough.png",
+    "section_folder": "section_15_symbols",
+    "relative_path": "section_15_symbols/Breakthrough.png",
     "original_label": "Breakthrough",
     "section_idx": 14,
     "column_idx": 4,
     "column_file": "section_15_05.pdf"
   },
   {
-    "filename": "Orifice_1.png",
+    "filename": "Orifice.png",
+    "section_folder": "section_15_symbols",
+    "relative_path": "section_15_symbols/Orifice.png",
     "original_label": "Orifice",
     "section_idx": 14,
     "column_idx": 4,
@@ -3676,6 +4726,8 @@
   },
   {
     "filename": "Clamped_Flange.png",
+    "section_folder": "section_15_symbols",
+    "relative_path": "section_15_symbols/Clamped_Flange.png",
     "original_label": "Clamped Flange",
     "section_idx": 14,
     "column_idx": 4,
@@ -3683,6 +4735,8 @@
   },
   {
     "filename": "Coupling.png",
+    "section_folder": "section_15_symbols",
+    "relative_path": "section_15_symbols/Coupling.png",
     "original_label": "Coupling",
     "section_idx": 14,
     "column_idx": 4,
@@ -3690,6 +4744,8 @@
   },
   {
     "filename": "Compensate.png",
+    "section_folder": "section_15_symbols",
+    "relative_path": "section_15_symbols/Compensate.png",
     "original_label": "Compensate",
     "section_idx": 14,
     "column_idx": 4,
@@ -3697,6 +4753,8 @@
   },
   {
     "filename": "Coupling_1.png",
+    "section_folder": "section_15_symbols",
+    "relative_path": "section_15_symbols/Coupling_1.png",
     "original_label": "Coupling",
     "section_idx": 14,
     "column_idx": 4,
@@ -3704,6 +4762,8 @@
   },
   {
     "filename": "Electrically.png",
+    "section_folder": "section_15_symbols",
+    "relative_path": "section_15_symbols/Electrically.png",
     "original_label": "Electrically",
     "section_idx": 14,
     "column_idx": 4,
@@ -3711,6 +4771,8 @@
   },
   {
     "filename": "Insulated.png",
+    "section_folder": "section_15_symbols",
+    "relative_path": "section_15_symbols/Insulated.png",
     "original_label": "Insulated",
     "section_idx": 14,
     "column_idx": 4,
@@ -3718,6 +4780,8 @@
   },
   {
     "filename": "Flame_Arrestor_1.png",
+    "section_folder": "section_15_symbols",
+    "relative_path": "section_15_symbols/Flame_Arrestor_1.png",
     "original_label": "Flame Arrestor",
     "section_idx": 14,
     "column_idx": 4,
@@ -3725,6 +4789,8 @@
   },
   {
     "filename": "Explosion-Proof.png",
+    "section_folder": "section_15_symbols",
+    "relative_path": "section_15_symbols/Explosion-Proof.png",
     "original_label": "Explosion-Proof",
     "section_idx": 14,
     "column_idx": 4,
@@ -3732,6 +4798,8 @@
   },
   {
     "filename": "Flame_Arrestor_2.png",
+    "section_folder": "section_15_symbols",
+    "relative_path": "section_15_symbols/Flame_Arrestor_2.png",
     "original_label": "Flame Arrestor",
     "section_idx": 14,
     "column_idx": 4,
@@ -3739,6 +4807,8 @@
   },
   {
     "filename": "Detonation-Proof.png",
+    "section_folder": "section_15_symbols",
+    "relative_path": "section_15_symbols/Detonation-Proof.png",
     "original_label": "Detonation-Proof",
     "section_idx": 14,
     "column_idx": 4,
@@ -3746,6 +4816,8 @@
   },
   {
     "filename": "Flame_Arrestor_3.png",
+    "section_folder": "section_15_symbols",
+    "relative_path": "section_15_symbols/Flame_Arrestor_3.png",
     "original_label": "Flame Arrestor",
     "section_idx": 14,
     "column_idx": 4,
@@ -3753,6 +4825,8 @@
   },
   {
     "filename": "Fire-Resistant.png",
+    "section_folder": "section_15_symbols",
+    "relative_path": "section_15_symbols/Fire-Resistant.png",
     "original_label": "Fire-Resistant",
     "section_idx": 14,
     "column_idx": 4,
@@ -3760,6 +4834,8 @@
   },
   {
     "filename": "Flame_Arrestor_4.png",
+    "section_folder": "section_15_symbols",
+    "relative_path": "section_15_symbols/Flame_Arrestor_4.png",
     "original_label": "Flame Arrestor",
     "section_idx": 14,
     "column_idx": 4,
@@ -3767,6 +4843,8 @@
   },
   {
     "filename": "Fire-Resistant,_Explosion-.png",
+    "section_folder": "section_15_symbols",
+    "relative_path": "section_15_symbols/Fire-Resistant,_Explosion-.png",
     "original_label": "Fire-Resistant, Explosion-",
     "section_idx": 14,
     "column_idx": 4,
@@ -3774,6 +4852,8 @@
   },
   {
     "filename": "Proof_Flame_Arrestor.png",
+    "section_folder": "section_15_symbols",
+    "relative_path": "section_15_symbols/Proof_Flame_Arrestor.png",
     "original_label": "Proof Flame Arrestor",
     "section_idx": 14,
     "column_idx": 4,
@@ -3781,6 +4861,8 @@
   },
   {
     "filename": "Manifold_Valve.png",
+    "section_folder": "section_15_symbols",
+    "relative_path": "section_15_symbols/Manifold_Valve.png",
     "original_label": "Manifold Valve",
     "section_idx": 14,
     "column_idx": 4,
